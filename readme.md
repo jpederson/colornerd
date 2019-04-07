@@ -1,4 +1,4 @@
-# ColorNerd
+# colornerd
 
 A comprehensive library of color books implemented in Sass, LESS, Stylus, JSON, and CSV. 
 
