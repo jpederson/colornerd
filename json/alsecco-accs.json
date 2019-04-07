@@ -1,0 +1,1782 @@
+[
+    {
+        "name": "ACCS 1001",
+        "label": "1001",
+        "hex": "#bda475"
+    },
+    {
+        "name": "ACCS 1002",
+        "label": "1002",
+        "hex": "#cdb588"
+    },
+    {
+        "name": "ACCS 1003",
+        "label": "1003",
+        "hex": "#d9c39b"
+    },
+    {
+        "name": "ACCS 1004",
+        "label": "1004",
+        "hex": "#e3d0ac"
+    },
+    {
+        "name": "ACCS 1011",
+        "label": "1011",
+        "hex": "#ddaa56"
+    },
+    {
+        "name": "ACCS 1012",
+        "label": "1012",
+        "hex": "#ebbe78"
+    },
+    {
+        "name": "ACCS 1013",
+        "label": "1013",
+        "hex": "#eed19d"
+    },
+    {
+        "name": "ACCS 1014",
+        "label": "1014",
+        "hex": "#f1dbb5"
+    },
+    {
+        "name": "ACCS 1021",
+        "label": "1021",
+        "hex": "#c5b696"
+    },
+    {
+        "name": "ACCS 1022",
+        "label": "1022",
+        "hex": "#d3c6aa"
+    },
+    {
+        "name": "ACCS 1023",
+        "label": "1023",
+        "hex": "#ded4ba"
+    },
+    {
+        "name": "ACCS 1024",
+        "label": "1024",
+        "hex": "#e6e0ce"
+    },
+    {
+        "name": "ACCS 1101",
+        "label": "1101",
+        "hex": "#b6956b"
+    },
+    {
+        "name": "ACCS 1102",
+        "label": "1102",
+        "hex": "#c2a279"
+    },
+    {
+        "name": "ACCS 1103",
+        "label": "1103",
+        "hex": "#d2b48f"
+    },
+    {
+        "name": "ACCS 1104",
+        "label": "1104",
+        "hex": "#dec6a6"
+    },
+    {
+        "name": "ACCS 1111",
+        "label": "1111",
+        "hex": "#d29f5b"
+    },
+    {
+        "name": "ACCS 1112",
+        "label": "1112",
+        "hex": "#dfb171"
+    },
+    {
+        "name": "ACCS 1113",
+        "label": "1113",
+        "hex": "#e9bf86"
+    },
+    {
+        "name": "ACCS 1114",
+        "label": "1114",
+        "hex": "#eecc9c"
+    },
+    {
+        "name": "ACCS 1121",
+        "label": "1121",
+        "hex": "#c4b090"
+    },
+    {
+        "name": "ACCS 1122",
+        "label": "1122",
+        "hex": "#d4c09f"
+    },
+    {
+        "name": "ACCS 1123",
+        "label": "1123",
+        "hex": "#e0ceb2"
+    },
+    {
+        "name": "ACCS 1124",
+        "label": "1124",
+        "hex": "#eadcc5"
+    },
+    {
+        "name": "ACCS 1201",
+        "label": "1201",
+        "hex": "#a98a64"
+    },
+    {
+        "name": "ACCS 1202",
+        "label": "1202",
+        "hex": "#bea27d"
+    },
+    {
+        "name": "ACCS 1203",
+        "label": "1203",
+        "hex": "#ceb697"
+    },
+    {
+        "name": "ACCS 1204",
+        "label": "1204",
+        "hex": "#d7c3a8"
+    },
+    {
+        "name": "ACCS 1211",
+        "label": "1211",
+        "hex": "#c19760"
+    },
+    {
+        "name": "ACCS 1212",
+        "label": "1212",
+        "hex": "#cfab7b"
+    },
+    {
+        "name": "ACCS 1213",
+        "label": "1213",
+        "hex": "#d9b98f"
+    },
+    {
+        "name": "ACCS 1214",
+        "label": "1214",
+        "hex": "#e5cdab"
+    },
+    {
+        "name": "ACCS 1221",
+        "label": "1221",
+        "hex": "#bdad93"
+    },
+    {
+        "name": "ACCS 1222",
+        "label": "1222",
+        "hex": "#cdbfa9"
+    },
+    {
+        "name": "ACCS 1223",
+        "label": "1223",
+        "hex": "#ddd2bf"
+    },
+    {
+        "name": "ACCS 1224",
+        "label": "1224",
+        "hex": "#e8e0d1"
+    },
+    {
+        "name": "ACCS 1301",
+        "label": "1301",
+        "hex": "#a98d6f"
+    },
+    {
+        "name": "ACCS 1302",
+        "label": "1302",
+        "hex": "#b99e81"
+    },
+    {
+        "name": "ACCS 1303",
+        "label": "1303",
+        "hex": "#cfb296"
+    },
+    {
+        "name": "ACCS 1304",
+        "label": "1304",
+        "hex": "#dac2a9"
+    },
+    {
+        "name": "ACCS 1311",
+        "label": "1311",
+        "hex": "#c29364"
+    },
+    {
+        "name": "ACCS 1312",
+        "label": "1312",
+        "hex": "#d2a67c"
+    },
+    {
+        "name": "ACCS 1313",
+        "label": "1313",
+        "hex": "#deb891"
+    },
+    {
+        "name": "ACCS 1314",
+        "label": "1314",
+        "hex": "#eacaa9"
+    },
+    {
+        "name": "ACCS 1321",
+        "label": "1321",
+        "hex": "#baa994"
+    },
+    {
+        "name": "ACCS 1322",
+        "label": "1322",
+        "hex": "#cabcaa"
+    },
+    {
+        "name": "ACCS 1323",
+        "label": "1323",
+        "hex": "#d8ccbd"
+    },
+    {
+        "name": "ACCS 1324",
+        "label": "1324",
+        "hex": "#e3d9cd"
+    },
+    {
+        "name": "ACCS 1401",
+        "label": "1401",
+        "hex": "#a28368"
+    },
+    {
+        "name": "ACCS 1402",
+        "label": "1402",
+        "hex": "#b6957a"
+    },
+    {
+        "name": "ACCS 1403",
+        "label": "1403",
+        "hex": "#c0a48d"
+    },
+    {
+        "name": "ACCS 1404",
+        "label": "1404",
+        "hex": "#d2bca8"
+    },
+    {
+        "name": "ACCS 1411",
+        "label": "1411",
+        "hex": "#bf845c"
+    },
+    {
+        "name": "ACCS 1412",
+        "label": "1412",
+        "hex": "#cc9770"
+    },
+    {
+        "name": "ACCS 1413",
+        "label": "1413",
+        "hex": "#dcae8a"
+    },
+    {
+        "name": "ACCS 1414",
+        "label": "1414",
+        "hex": "#ebc7ab"
+    },
+    {
+        "name": "ACCS 1421",
+        "label": "1421",
+        "hex": "#bba490"
+    },
+    {
+        "name": "ACCS 1422",
+        "label": "1422",
+        "hex": "#c6b29f"
+    },
+    {
+        "name": "ACCS 1423",
+        "label": "1423",
+        "hex": "#d3c3b2"
+    },
+    {
+        "name": "ACCS 1424",
+        "label": "1424",
+        "hex": "#dfd2c3"
+    },
+    {
+        "name": "ACCS 1501",
+        "label": "1501",
+        "hex": "#937464"
+    },
+    {
+        "name": "ACCS 1502",
+        "label": "1502",
+        "hex": "#ab8b7a"
+    },
+    {
+        "name": "ACCS 1503",
+        "label": "1503",
+        "hex": "#bc9e8f"
+    },
+    {
+        "name": "ACCS 1504",
+        "label": "1504",
+        "hex": "#cdb3a6"
+    },
+    {
+        "name": "ACCS 1511",
+        "label": "1511",
+        "hex": "#a87b65"
+    },
+    {
+        "name": "ACCS 1512",
+        "label": "1512",
+        "hex": "#bd9480"
+    },
+    {
+        "name": "ACCS 1513",
+        "label": "1513",
+        "hex": "#cca795"
+    },
+    {
+        "name": "ACCS 1514",
+        "label": "1514",
+        "hex": "#dbbeb0"
+    },
+    {
+        "name": "ACCS 1521",
+        "label": "1521",
+        "hex": "#ab9b92"
+    },
+    {
+        "name": "ACCS 1522",
+        "label": "1522",
+        "hex": "#b8a9a0"
+    },
+    {
+        "name": "ACCS 1523",
+        "label": "1523",
+        "hex": "#c6b7ae"
+    },
+    {
+        "name": "ACCS 1524",
+        "label": "1524",
+        "hex": "#d9ccc3"
+    },
+    {
+        "name": "ACCS 1601",
+        "label": "1601",
+        "hex": "#9b6f5c"
+    },
+    {
+        "name": "ACCS 1602",
+        "label": "1602",
+        "hex": "#af8370"
+    },
+    {
+        "name": "ACCS 1603",
+        "label": "1603",
+        "hex": "#be9483"
+    },
+    {
+        "name": "ACCS 1604",
+        "label": "1604",
+        "hex": "#ceac9e"
+    },
+    {
+        "name": "ACCS 1611",
+        "label": "1611",
+        "hex": "#b4775c"
+    },
+    {
+        "name": "ACCS 1612",
+        "label": "1612",
+        "hex": "#c78e74"
+    },
+    {
+        "name": "ACCS 1613",
+        "label": "1613",
+        "hex": "#d7a78f"
+    },
+    {
+        "name": "ACCS 1614",
+        "label": "1614",
+        "hex": "#e5bfab"
+    },
+    {
+        "name": "ACCS 1621",
+        "label": "1621",
+        "hex": "#aa9385"
+    },
+    {
+        "name": "ACCS 1622",
+        "label": "1622",
+        "hex": "#baa598"
+    },
+    {
+        "name": "ACCS 1623",
+        "label": "1623",
+        "hex": "#ccb9ad"
+    },
+    {
+        "name": "ACCS 1624",
+        "label": "1624",
+        "hex": "#d9cabf"
+    },
+    {
+        "name": "ACCS 1701",
+        "label": "1701",
+        "hex": "#916e64"
+    },
+    {
+        "name": "ACCS 1702",
+        "label": "1702",
+        "hex": "#a48075"
+    },
+    {
+        "name": "ACCS 1703",
+        "label": "1703",
+        "hex": "#b79186"
+    },
+    {
+        "name": "ACCS 1704",
+        "label": "1704",
+        "hex": "#c8a59a"
+    },
+    {
+        "name": "ACCS 1711",
+        "label": "1711",
+        "hex": "#ad6b5b"
+    },
+    {
+        "name": "ACCS 1712",
+        "label": "1712",
+        "hex": "#ba8071"
+    },
+    {
+        "name": "ACCS 1713",
+        "label": "1713",
+        "hex": "#ce9889"
+    },
+    {
+        "name": "ACCS 1714",
+        "label": "1714",
+        "hex": "#dbafa3"
+    },
+    {
+        "name": "ACCS 1721",
+        "label": "1721",
+        "hex": "#a98e87"
+    },
+    {
+        "name": "ACCS 1722",
+        "label": "1722",
+        "hex": "#b59e98"
+    },
+    {
+        "name": "ACCS 1723",
+        "label": "1723",
+        "hex": "#c6b2ac"
+    },
+    {
+        "name": "ACCS 1724",
+        "label": "1724",
+        "hex": "#d8c5bf"
+    },
+    {
+        "name": "ACCS 1801",
+        "label": "1801",
+        "hex": "#946c6b"
+    },
+    {
+        "name": "ACCS 1802",
+        "label": "1802",
+        "hex": "#a6807f"
+    },
+    {
+        "name": "ACCS 1803",
+        "label": "1803",
+        "hex": "#bc9695"
+    },
+    {
+        "name": "ACCS 1804",
+        "label": "1804",
+        "hex": "#cbaaa9"
+    },
+    {
+        "name": "ACCS 1811",
+        "label": "1811",
+        "hex": "#aa6f6d"
+    },
+    {
+        "name": "ACCS 1812",
+        "label": "1812",
+        "hex": "#bd8989"
+    },
+    {
+        "name": "ACCS 1813",
+        "label": "1813",
+        "hex": "#cfa3a3"
+    },
+    {
+        "name": "ACCS 1814",
+        "label": "1814",
+        "hex": "#debbba"
+    },
+    {
+        "name": "ACCS 1821",
+        "label": "1821",
+        "hex": "#ad9293"
+    },
+    {
+        "name": "ACCS 1822",
+        "label": "1822",
+        "hex": "#bba5a5"
+    },
+    {
+        "name": "ACCS 1823",
+        "label": "1823",
+        "hex": "#cab5b3"
+    },
+    {
+        "name": "ACCS 1824",
+        "label": "1824",
+        "hex": "#d9c8c7"
+    },
+    {
+        "name": "ACCS 1901",
+        "label": "1901",
+        "hex": "#846d6f"
+    },
+    {
+        "name": "ACCS 1902",
+        "label": "1902",
+        "hex": "#997f81"
+    },
+    {
+        "name": "ACCS 1903",
+        "label": "1903",
+        "hex": "#ab9598"
+    },
+    {
+        "name": "ACCS 1904",
+        "label": "1904",
+        "hex": "#bca8aa"
+    },
+    {
+        "name": "ACCS 1911",
+        "label": "1911",
+        "hex": "#9b6f6f"
+    },
+    {
+        "name": "ACCS 1912",
+        "label": "1912",
+        "hex": "#ad8284"
+    },
+    {
+        "name": "ACCS 1913",
+        "label": "1913",
+        "hex": "#bd989a"
+    },
+    {
+        "name": "ACCS 1914",
+        "label": "1914",
+        "hex": "#d0b2b3"
+    },
+    {
+        "name": "ACCS 1921",
+        "label": "1921",
+        "hex": "#a49196"
+    },
+    {
+        "name": "ACCS 1922",
+        "label": "1922",
+        "hex": "#b1a0a3"
+    },
+    {
+        "name": "ACCS 1923",
+        "label": "1923",
+        "hex": "#c2b2b3"
+    },
+    {
+        "name": "ACCS 1924",
+        "label": "1924",
+        "hex": "#d0c3c2"
+    },
+    {
+        "name": "ACCS 2001",
+        "label": "2001",
+        "hex": "#887679"
+    },
+    {
+        "name": "ACCS 2002",
+        "label": "2002",
+        "hex": "#998488"
+    },
+    {
+        "name": "ACCS 2003",
+        "label": "2003",
+        "hex": "#a79498"
+    },
+    {
+        "name": "ACCS 2004",
+        "label": "2004",
+        "hex": "#bbaaad"
+    },
+    {
+        "name": "ACCS 2011",
+        "label": "2011",
+        "hex": "#99777a"
+    },
+    {
+        "name": "ACCS 2012",
+        "label": "2012",
+        "hex": "#aa8c91"
+    },
+    {
+        "name": "ACCS 2013",
+        "label": "2013",
+        "hex": "#ba9da1"
+    },
+    {
+        "name": "ACCS 2014",
+        "label": "2014",
+        "hex": "#cdb4b7"
+    },
+    {
+        "name": "ACCS 2021",
+        "label": "2021",
+        "hex": "#a09599"
+    },
+    {
+        "name": "ACCS 2022",
+        "label": "2022",
+        "hex": "#b0a5a9"
+    },
+    {
+        "name": "ACCS 2023",
+        "label": "2023",
+        "hex": "#bdb2b5"
+    },
+    {
+        "name": "ACCS 2024",
+        "label": "2024",
+        "hex": "#d3caca"
+    },
+    {
+        "name": "ACCS 2101",
+        "label": "2101",
+        "hex": "#746970"
+    },
+    {
+        "name": "ACCS 2102",
+        "label": "2102",
+        "hex": "#8b8189"
+    },
+    {
+        "name": "ACCS 2103",
+        "label": "2103",
+        "hex": "#a1969d"
+    },
+    {
+        "name": "ACCS 2104",
+        "label": "2104",
+        "hex": "#b3a9b0"
+    },
+    {
+        "name": "ACCS 2111",
+        "label": "2111",
+        "hex": "#867781"
+    },
+    {
+        "name": "ACCS 2112",
+        "label": "2112",
+        "hex": "#9b8f9a"
+    },
+    {
+        "name": "ACCS 2113",
+        "label": "2113",
+        "hex": "#b0a6af"
+    },
+    {
+        "name": "ACCS 2114",
+        "label": "2114",
+        "hex": "#c1b9c1"
+    },
+    {
+        "name": "ACCS 2121",
+        "label": "2121",
+        "hex": "#999399"
+    },
+    {
+        "name": "ACCS 2122",
+        "label": "2122",
+        "hex": "#a49fa2"
+    },
+    {
+        "name": "ACCS 2123",
+        "label": "2123",
+        "hex": "#b5aeb2"
+    },
+    {
+        "name": "ACCS 2124",
+        "label": "2124",
+        "hex": "#c9c4c6"
+    },
+    {
+        "name": "ACCS 2201",
+        "label": "2201",
+        "hex": "#7a7e89"
+    },
+    {
+        "name": "ACCS 2202",
+        "label": "2202",
+        "hex": "#8e929c"
+    },
+    {
+        "name": "ACCS 2203",
+        "label": "2203",
+        "hex": "#a0a5ae"
+    },
+    {
+        "name": "ACCS 2204",
+        "label": "2204",
+        "hex": "#b4b9c1"
+    },
+    {
+        "name": "ACCS 2211",
+        "label": "2211",
+        "hex": "#8f91a1"
+    },
+    {
+        "name": "ACCS 2212",
+        "label": "2212",
+        "hex": "#9fa2b1"
+    },
+    {
+        "name": "ACCS 2213",
+        "label": "2213",
+        "hex": "#aeb3c1"
+    },
+    {
+        "name": "ACCS 2214",
+        "label": "2214",
+        "hex": "#c2c6d0"
+    },
+    {
+        "name": "ACCS 2221",
+        "label": "2221",
+        "hex": "#a2a7ac"
+    },
+    {
+        "name": "ACCS 2222",
+        "label": "2222",
+        "hex": "#b2b5bb"
+    },
+    {
+        "name": "ACCS 2223",
+        "label": "2223",
+        "hex": "#c2c4c8"
+    },
+    {
+        "name": "ACCS 2224",
+        "label": "2224",
+        "hex": "#d4d6d7"
+    },
+    {
+        "name": "ACCS 2301",
+        "label": "2301",
+        "hex": "#919aa8"
+    },
+    {
+        "name": "ACCS 2302",
+        "label": "2302",
+        "hex": "#a3acb8"
+    },
+    {
+        "name": "ACCS 2303",
+        "label": "2303",
+        "hex": "#b8bfc7"
+    },
+    {
+        "name": "ACCS 2304",
+        "label": "2304",
+        "hex": "#c9ced3"
+    },
+    {
+        "name": "ACCS 2311",
+        "label": "2311",
+        "hex": "#99abc1"
+    },
+    {
+        "name": "ACCS 2312",
+        "label": "2312",
+        "hex": "#aebdcf"
+    },
+    {
+        "name": "ACCS 2313",
+        "label": "2313",
+        "hex": "#c3cfdb"
+    },
+    {
+        "name": "ACCS 2314",
+        "label": "2314",
+        "hex": "#d3dce2"
+    },
+    {
+        "name": "ACCS 2321",
+        "label": "2321",
+        "hex": "#b3bac0"
+    },
+    {
+        "name": "ACCS 2322",
+        "label": "2322",
+        "hex": "#c3c7cb"
+    },
+    {
+        "name": "ACCS 2323",
+        "label": "2323",
+        "hex": "#d3d6d6"
+    },
+    {
+        "name": "ACCS 2324",
+        "label": "2324",
+        "hex": "#e2e2df"
+    },
+    {
+        "name": "ACCS 2401",
+        "label": "2401",
+        "hex": "#849ba0"
+    },
+    {
+        "name": "ACCS 2402",
+        "label": "2402",
+        "hex": "#99aeb3"
+    },
+    {
+        "name": "ACCS 2403",
+        "label": "2403",
+        "hex": "#b0c1c5"
+    },
+    {
+        "name": "ACCS 2404",
+        "label": "2404",
+        "hex": "#c0cdcf"
+    },
+    {
+        "name": "ACCS 2411",
+        "label": "2411",
+        "hex": "#87aeb5"
+    },
+    {
+        "name": "ACCS 2412",
+        "label": "2412",
+        "hex": "#a2c1c6"
+    },
+    {
+        "name": "ACCS 2413",
+        "label": "2413",
+        "hex": "#bed4d7"
+    },
+    {
+        "name": "ACCS 2414",
+        "label": "2414",
+        "hex": "#d2e1e1"
+    },
+    {
+        "name": "ACCS 2421",
+        "label": "2421",
+        "hex": "#aebbbd"
+    },
+    {
+        "name": "ACCS 2422",
+        "label": "2422",
+        "hex": "#bcc6c7"
+    },
+    {
+        "name": "ACCS 2423",
+        "label": "2423",
+        "hex": "#cbd2d1"
+    },
+    {
+        "name": "ACCS 2424",
+        "label": "2424",
+        "hex": "#dde1de"
+    },
+    {
+        "name": "ACCS 2501",
+        "label": "2501",
+        "hex": "#7a9491"
+    },
+    {
+        "name": "ACCS 2502",
+        "label": "2502",
+        "hex": "#91a7a5"
+    },
+    {
+        "name": "ACCS 2503",
+        "label": "2503",
+        "hex": "#a2b8b5"
+    },
+    {
+        "name": "ACCS 2504",
+        "label": "2504",
+        "hex": "#b8cbca"
+    },
+    {
+        "name": "ACCS 2511",
+        "label": "2511",
+        "hex": "#83a59f"
+    },
+    {
+        "name": "ACCS 2512",
+        "label": "2512",
+        "hex": "#9bbbb5"
+    },
+    {
+        "name": "ACCS 2513",
+        "label": "2513",
+        "hex": "#aec7c3"
+    },
+    {
+        "name": "ACCS 2514",
+        "label": "2514",
+        "hex": "#c6d9d5"
+    },
+    {
+        "name": "ACCS 2521",
+        "label": "2521",
+        "hex": "#a4b1af"
+    },
+    {
+        "name": "ACCS 2522",
+        "label": "2522",
+        "hex": "#b7c0be"
+    },
+    {
+        "name": "ACCS 2523",
+        "label": "2523",
+        "hex": "#c7cfcc"
+    },
+    {
+        "name": "ACCS 2524",
+        "label": "2524",
+        "hex": "#d8ddda"
+    },
+    {
+        "name": "ACCS 2601",
+        "label": "2601",
+        "hex": "#838c86"
+    },
+    {
+        "name": "ACCS 2602",
+        "label": "2602",
+        "hex": "#97a19a"
+    },
+    {
+        "name": "ACCS 2603",
+        "label": "2603",
+        "hex": "#adb7af"
+    },
+    {
+        "name": "ACCS 2604",
+        "label": "2604",
+        "hex": "#c1c9c3"
+    },
+    {
+        "name": "ACCS 2611",
+        "label": "2611",
+        "hex": "#8c9d94"
+    },
+    {
+        "name": "ACCS 2612",
+        "label": "2612",
+        "hex": "#a2b3ac"
+    },
+    {
+        "name": "ACCS 2613",
+        "label": "2613",
+        "hex": "#b6c6be"
+    },
+    {
+        "name": "ACCS 2614",
+        "label": "2614",
+        "hex": "#c7d4cd"
+    },
+    {
+        "name": "ACCS 2621",
+        "label": "2621",
+        "hex": "#a1aaa5"
+    },
+    {
+        "name": "ACCS 2622",
+        "label": "2622",
+        "hex": "#b3bcb7"
+    },
+    {
+        "name": "ACCS 2623",
+        "label": "2623",
+        "hex": "#cbd0cb"
+    },
+    {
+        "name": "ACCS 2624",
+        "label": "2624",
+        "hex": "#dee0da"
+    },
+    {
+        "name": "ACCS 2701",
+        "label": "2701",
+        "hex": "#7b8976"
+    },
+    {
+        "name": "ACCS 2702",
+        "label": "2702",
+        "hex": "#8c998a"
+    },
+    {
+        "name": "ACCS 2703",
+        "label": "2703",
+        "hex": "#9fac9e"
+    },
+    {
+        "name": "ACCS 2704",
+        "label": "2704",
+        "hex": "#b6c0b5"
+    },
+    {
+        "name": "ACCS 2711",
+        "label": "2711",
+        "hex": "#80967d"
+    },
+    {
+        "name": "ACCS 2712",
+        "label": "2712",
+        "hex": "#96ab93"
+    },
+    {
+        "name": "ACCS 2713",
+        "label": "2713",
+        "hex": "#aebfab"
+    },
+    {
+        "name": "ACCS 2714",
+        "label": "2714",
+        "hex": "#bccbb9"
+    },
+    {
+        "name": "ACCS 2721",
+        "label": "2721",
+        "hex": "#9da497"
+    },
+    {
+        "name": "ACCS 2722",
+        "label": "2722",
+        "hex": "#b5bbae"
+    },
+    {
+        "name": "ACCS 2723",
+        "label": "2723",
+        "hex": "#c8ccc2"
+    },
+    {
+        "name": "ACCS 2724",
+        "label": "2724",
+        "hex": "#d5d8ce"
+    },
+    {
+        "name": "ACCS 2801",
+        "label": "2801",
+        "hex": "#8a9574"
+    },
+    {
+        "name": "ACCS 2802",
+        "label": "2802",
+        "hex": "#a4b093"
+    },
+    {
+        "name": "ACCS 2803",
+        "label": "2803",
+        "hex": "#b5c1a8"
+    },
+    {
+        "name": "ACCS 2804",
+        "label": "2804",
+        "hex": "#c2cbb4"
+    },
+    {
+        "name": "ACCS 2811",
+        "label": "2811",
+        "hex": "#8aa172"
+    },
+    {
+        "name": "ACCS 2812",
+        "label": "2812",
+        "hex": "#a6ba91"
+    },
+    {
+        "name": "ACCS 2813",
+        "label": "2813",
+        "hex": "#beceac"
+    },
+    {
+        "name": "ACCS 2814",
+        "label": "2814",
+        "hex": "#cedabb"
+    },
+    {
+        "name": "ACCS 2821",
+        "label": "2821",
+        "hex": "#a7af9d"
+    },
+    {
+        "name": "ACCS 2822",
+        "label": "2822",
+        "hex": "#b7bfae"
+    },
+    {
+        "name": "ACCS 2823",
+        "label": "2823",
+        "hex": "#c9d0c0"
+    },
+    {
+        "name": "ACCS 2824",
+        "label": "2824",
+        "hex": "#daddd1"
+    },
+    {
+        "name": "ACCS 2901",
+        "label": "2901",
+        "hex": "#7d7e65"
+    },
+    {
+        "name": "ACCS 2902",
+        "label": "2902",
+        "hex": "#94967a"
+    },
+    {
+        "name": "ACCS 2903",
+        "label": "2903",
+        "hex": "#aaac92"
+    },
+    {
+        "name": "ACCS 2904",
+        "label": "2904",
+        "hex": "#b9bba4"
+    },
+    {
+        "name": "ACCS 2911",
+        "label": "2911",
+        "hex": "#888c5f"
+    },
+    {
+        "name": "ACCS 2912",
+        "label": "2912",
+        "hex": "#9ea375"
+    },
+    {
+        "name": "ACCS 2913",
+        "label": "2913",
+        "hex": "#b6b890"
+    },
+    {
+        "name": "ACCS 2914",
+        "label": "2914",
+        "hex": "#c9ccab"
+    },
+    {
+        "name": "ACCS 2921",
+        "label": "2921",
+        "hex": "#a6aa91"
+    },
+    {
+        "name": "ACCS 2922",
+        "label": "2922",
+        "hex": "#b5b9a3"
+    },
+    {
+        "name": "ACCS 2923",
+        "label": "2923",
+        "hex": "#c0c4b1"
+    },
+    {
+        "name": "ACCS 2924",
+        "label": "2924",
+        "hex": "#d0d3c3"
+    },
+    {
+        "name": "ACCS 3001",
+        "label": "3001",
+        "hex": "#9a956c"
+    },
+    {
+        "name": "ACCS 3002",
+        "label": "3002",
+        "hex": "#a7a580"
+    },
+    {
+        "name": "ACCS 3003",
+        "label": "3003",
+        "hex": "#b9b594"
+    },
+    {
+        "name": "ACCS 3004",
+        "label": "3004",
+        "hex": "#c9c7ad"
+    },
+    {
+        "name": "ACCS 3011",
+        "label": "3011",
+        "hex": "#aaa167"
+    },
+    {
+        "name": "ACCS 3012",
+        "label": "3012",
+        "hex": "#beb378"
+    },
+    {
+        "name": "ACCS 3013",
+        "label": "3013",
+        "hex": "#ccc38e"
+    },
+    {
+        "name": "ACCS 3014",
+        "label": "3014",
+        "hex": "#d9d1a3"
+    },
+    {
+        "name": "ACCS 3021",
+        "label": "3021",
+        "hex": "#adae9c"
+    },
+    {
+        "name": "ACCS 3022",
+        "label": "3022",
+        "hex": "#c1c2b0"
+    },
+    {
+        "name": "ACCS 3023",
+        "label": "3023",
+        "hex": "#cecec2"
+    },
+    {
+        "name": "ACCS 3024",
+        "label": "3024",
+        "hex": "#dadacd"
+    },
+    {
+        "name": "ACCS 3101",
+        "label": "3101",
+        "hex": "#9f957c"
+    },
+    {
+        "name": "ACCS 3102",
+        "label": "3102",
+        "hex": "#aea48b"
+    },
+    {
+        "name": "ACCS 3103",
+        "label": "3103",
+        "hex": "#beb49a"
+    },
+    {
+        "name": "ACCS 3104",
+        "label": "3104",
+        "hex": "#cfc8b4"
+    },
+    {
+        "name": "ACCS 3111",
+        "label": "3111",
+        "hex": "#b5a369"
+    },
+    {
+        "name": "ACCS 3112",
+        "label": "3112",
+        "hex": "#c3b681"
+    },
+    {
+        "name": "ACCS 3113",
+        "label": "3113",
+        "hex": "#d7c998"
+    },
+    {
+        "name": "ACCS 3114",
+        "label": "3114",
+        "hex": "#e0d5ae"
+    },
+    {
+        "name": "ACCS 3121",
+        "label": "3121",
+        "hex": "#b8b49e"
+    },
+    {
+        "name": "ACCS 3122",
+        "label": "3122",
+        "hex": "#c4c1ae"
+    },
+    {
+        "name": "ACCS 3123",
+        "label": "3123",
+        "hex": "#d2cfbf"
+    },
+    {
+        "name": "ACCS 3124",
+        "label": "3124",
+        "hex": "#dfdccf"
+    },
+    {
+        "name": "ACCS 3201",
+        "label": "3201",
+        "hex": "#b1a77b"
+    },
+    {
+        "name": "ACCS 3202",
+        "label": "3202",
+        "hex": "#c7be91"
+    },
+    {
+        "name": "ACCS 3203",
+        "label": "3203",
+        "hex": "#d3ccad"
+    },
+    {
+        "name": "ACCS 3204",
+        "label": "3204",
+        "hex": "#ddd9bf"
+    },
+    {
+        "name": "ACCS 3211",
+        "label": "3211",
+        "hex": "#cab76c"
+    },
+    {
+        "name": "ACCS 3212",
+        "label": "3212",
+        "hex": "#dfcc78"
+    },
+    {
+        "name": "ACCS 3213",
+        "label": "3213",
+        "hex": "#ede1a3"
+    },
+    {
+        "name": "ACCS 3214",
+        "label": "3214",
+        "hex": "#f0ebc6"
+    },
+    {
+        "name": "ACCS 3221",
+        "label": "3221",
+        "hex": "#c2c2af"
+    },
+    {
+        "name": "ACCS 3222",
+        "label": "3222",
+        "hex": "#d0cdb9"
+    },
+    {
+        "name": "ACCS 3223",
+        "label": "3223",
+        "hex": "#dedccc"
+    },
+    {
+        "name": "ACCS 3224",
+        "label": "3224",
+        "hex": "#edebe0"
+    },
+    {
+        "name": "ACCS 3301",
+        "label": "3301",
+        "hex": "#ab9b71"
+    },
+    {
+        "name": "ACCS 3302",
+        "label": "3302",
+        "hex": "#beae88"
+    },
+    {
+        "name": "ACCS 3303",
+        "label": "3303",
+        "hex": "#ccbf9b"
+    },
+    {
+        "name": "ACCS 3304",
+        "label": "3304",
+        "hex": "#d8d0b7"
+    },
+    {
+        "name": "ACCS 3311",
+        "label": "3311",
+        "hex": "#cbb168"
+    },
+    {
+        "name": "ACCS 3312",
+        "label": "3312",
+        "hex": "#dac888"
+    },
+    {
+        "name": "ACCS 3313",
+        "label": "3313",
+        "hex": "#e2d59a"
+    },
+    {
+        "name": "ACCS 3314",
+        "label": "3314",
+        "hex": "#e9e1b4"
+    },
+    {
+        "name": "ACCS 3321",
+        "label": "3321",
+        "hex": "#c2bca0"
+    },
+    {
+        "name": "ACCS 3322",
+        "label": "3322",
+        "hex": "#d1ccb5"
+    },
+    {
+        "name": "ACCS 3323",
+        "label": "3323",
+        "hex": "#dedac9"
+    },
+    {
+        "name": "ACCS 3324",
+        "label": "3324",
+        "hex": "#eae6dc"
+    },
+    {
+        "name": "ACCS 3401",
+        "label": "3401",
+        "hex": "#c8b580"
+    },
+    {
+        "name": "ACCS 3402",
+        "label": "3402",
+        "hex": "#d6c499"
+    },
+    {
+        "name": "ACCS 3403",
+        "label": "3403",
+        "hex": "#e0d1a8"
+    },
+    {
+        "name": "ACCS 3404",
+        "label": "3404",
+        "hex": "#e5dab9"
+    },
+    {
+        "name": "ACCS 3411",
+        "label": "3411",
+        "hex": "#e7bf67"
+    },
+    {
+        "name": "ACCS 3412",
+        "label": "3412",
+        "hex": "#f0d18b"
+    },
+    {
+        "name": "ACCS 3413",
+        "label": "3413",
+        "hex": "#f0deac"
+    },
+    {
+        "name": "ACCS 3414",
+        "label": "3414",
+        "hex": "#f2e7c5"
+    },
+    {
+        "name": "ACCS 3421",
+        "label": "3421",
+        "hex": "#cdc3a4"
+    },
+    {
+        "name": "ACCS 3422",
+        "label": "3422",
+        "hex": "#ded3b8"
+    },
+    {
+        "name": "ACCS 3423",
+        "label": "3423",
+        "hex": "#e7dec7"
+    },
+    {
+        "name": "ACCS 3424",
+        "label": "3424",
+        "hex": "#efead8"
+    },
+    {
+        "name": "ACCS 3531",
+        "label": "3531",
+        "hex": "#828785"
+    },
+    {
+        "name": "ACCS 3532",
+        "label": "3532",
+        "hex": "#8e938e"
+    },
+    {
+        "name": "ACCS 3533",
+        "label": "3533",
+        "hex": "#9ea39f"
+    },
+    {
+        "name": "ACCS 3534",
+        "label": "3534",
+        "hex": "#aeb2af"
+    },
+    {
+        "name": "ACCS 3541",
+        "label": "3541",
+        "hex": "#bcc1be"
+    },
+    {
+        "name": "ACCS 3542",
+        "label": "3542",
+        "hex": "#c8cbc7"
+    },
+    {
+        "name": "ACCS 3543",
+        "label": "3543",
+        "hex": "#d5d8d4"
+    },
+    {
+        "name": "ACCS 3544",
+        "label": "3544",
+        "hex": "#e3e4df"
+    },
+    {
+        "name": "ACCS 3631",
+        "label": "3631",
+        "hex": "#84847f"
+    },
+    {
+        "name": "ACCS 3632",
+        "label": "3632",
+        "hex": "#908f86"
+    },
+    {
+        "name": "ACCS 3633",
+        "label": "3633",
+        "hex": "#a09f96"
+    },
+    {
+        "name": "ACCS 3634",
+        "label": "3634",
+        "hex": "#abaaa1"
+    },
+    {
+        "name": "ACCS 3641",
+        "label": "3641",
+        "hex": "#b8b7af"
+    },
+    {
+        "name": "ACCS 3642",
+        "label": "3642",
+        "hex": "#c8c6be"
+    },
+    {
+        "name": "ACCS 3643",
+        "label": "3643",
+        "hex": "#d7d6cf"
+    },
+    {
+        "name": "ACCS 3644",
+        "label": "3644",
+        "hex": "#e3e1da"
+    },
+    {
+        "name": "ACCS 3731",
+        "label": "3731",
+        "hex": "#7d7f7f"
+    },
+    {
+        "name": "ACCS 3732",
+        "label": "3732",
+        "hex": "#8f9190"
+    },
+    {
+        "name": "ACCS 3733",
+        "label": "3733",
+        "hex": "#a4a5a1"
+    },
+    {
+        "name": "ACCS 3734",
+        "label": "3734",
+        "hex": "#b1b2af"
+    },
+    {
+        "name": "ACCS 3741",
+        "label": "3741",
+        "hex": "#bcbdb9"
+    },
+    {
+        "name": "ACCS 3742",
+        "label": "3742",
+        "hex": "#c7c9c7"
+    },
+    {
+        "name": "ACCS 3743",
+        "label": "3743",
+        "hex": "#d3d4d1"
+    },
+    {
+        "name": "ACCS 3744",
+        "label": "3744",
+        "hex": "#dededb"
+    },
+    {
+        "name": "ACCS 3831",
+        "label": "3831",
+        "hex": "#8b8885"
+    },
+    {
+        "name": "ACCS 3832",
+        "label": "3832",
+        "hex": "#95908f"
+    },
+    {
+        "name": "ACCS 3833",
+        "label": "3833",
+        "hex": "#a49f9e"
+    },
+    {
+        "name": "ACCS 3834",
+        "label": "3834",
+        "hex": "#b1acaa"
+    },
+    {
+        "name": "ACCS 3841",
+        "label": "3841",
+        "hex": "#bab7b6"
+    },
+    {
+        "name": "ACCS 3842",
+        "label": "3842",
+        "hex": "#c8c5c2"
+    },
+    {
+        "name": "ACCS 3843",
+        "label": "3843",
+        "hex": "#d3cfcc"
+    },
+    {
+        "name": "ACCS 3844",
+        "label": "3844",
+        "hex": "#e0dcd8"
+    },
+    {
+        "name": "ACCS 3931",
+        "label": "3931",
+        "hex": "#818084"
+    },
+    {
+        "name": "ACCS 3932",
+        "label": "3932",
+        "hex": "#918f93"
+    },
+    {
+        "name": "ACCS 3933",
+        "label": "3933",
+        "hex": "#a4a2a5"
+    },
+    {
+        "name": "ACCS 3934",
+        "label": "3934",
+        "hex": "#b0aeb2"
+    },
+    {
+        "name": "ACCS 3941",
+        "label": "3941",
+        "hex": "#bab8ba"
+    },
+    {
+        "name": "ACCS 3942",
+        "label": "3942",
+        "hex": "#c7c7c9"
+    },
+    {
+        "name": "ACCS 3943",
+        "label": "3943",
+        "hex": "#d2d1d2"
+    },
+    {
+        "name": "ACCS 3944",
+        "label": "3944",
+        "hex": "#dedddb"
+    },
+    {
+        "name": "ACCS 4031",
+        "label": "4031",
+        "hex": "#7a7d81"
+    },
+    {
+        "name": "ACCS 4032",
+        "label": "4032",
+        "hex": "#8d9195"
+    },
+    {
+        "name": "ACCS 4033",
+        "label": "4033",
+        "hex": "#a0a3a7"
+    },
+    {
+        "name": "ACCS 4034",
+        "label": "4034",
+        "hex": "#afb2b6"
+    },
+    {
+        "name": "ACCS 4041",
+        "label": "4041",
+        "hex": "#bec1c3"
+    },
+    {
+        "name": "ACCS 4042",
+        "label": "4042",
+        "hex": "#cccecf"
+    },
+    {
+        "name": "ACCS 4043",
+        "label": "4043",
+        "hex": "#d7d7d6"
+    },
+    {
+        "name": "ACCS 4044",
+        "label": "4044",
+        "hex": "#e9e8e4"
+    },
+    {
+        "name": "ACCS 4131",
+        "label": "4131",
+        "hex": "#756b5d"
+    },
+    {
+        "name": "ACCS 4132",
+        "label": "4132",
+        "hex": "#8a8073"
+    },
+    {
+        "name": "ACCS 4133",
+        "label": "4133",
+        "hex": "#a0978b"
+    },
+    {
+        "name": "ACCS 4134",
+        "label": "4134",
+        "hex": "#aea599"
+    },
+    {
+        "name": "ACCS 4141",
+        "label": "4141",
+        "hex": "#bbb4a9"
+    },
+    {
+        "name": "ACCS 4142",
+        "label": "4142",
+        "hex": "#cac4bb"
+    },
+    {
+        "name": "ACCS 4143",
+        "label": "4143",
+        "hex": "#dad5cc"
+    },
+    {
+        "name": "ACCS 4144",
+        "label": "4144",
+        "hex": "#e8e4dd"
+    }
+]

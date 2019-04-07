@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Silber ca- RAL 9006 - glanzend",
+        "label": "silber-ca-ral-9006-glanzend",
+        "hex": "#a6a8a7"
+    },
+    {
+        "name": "Silber ca- RAL 9006 - seidenmatt",
+        "label": "silber-ca-ral-9006-seidenmatt",
+        "hex": "#a9aba8"
+    },
+    {
+        "name": "Gold - glanzend",
+        "label": "gold-glanzend",
+        "hex": "#bc9a25"
+    },
+    {
+        "name": "Kupfer - glanzend",
+        "label": "kupfer-glanzend",
+        "hex": "#ac7d58"
+    },
+    {
+        "name": "RAL 1035 Perlbeige",
+        "label": "ral-1035-perlbeige",
+        "hex": "#938772"
+    },
+    {
+        "name": "RAL 1036 Perlgold",
+        "label": "ral-1036-perlgold",
+        "hex": "#8f7651"
+    },
+    {
+        "name": "RAL 2013 Perlorange",
+        "label": "ral-2013-perlorange",
+        "hex": "#823b1e"
+    },
+    {
+        "name": "RAL 3032 Perlrubinrot",
+        "label": "ral-3032-perlrubinrot",
+        "hex": "#762f33"
+    },
+    {
+        "name": "RAL 3033 Perlrosa",
+        "label": "ral-3033-perlrosa",
+        "hex": "#a0312b"
+    },
+    {
+        "name": "RAL 4011 Perlviolett",
+        "label": "ral-4011-perlviolett",
+        "hex": "#766684"
+    },
+    {
+        "name": "RAL 4012 Perlbrombeer",
+        "label": "ral-4012-perlbrombeer",
+        "hex": "#626174"
+    },
+    {
+        "name": "RAL 5025 Perlenzian",
+        "label": "ral-5025-perlenzian",
+        "hex": "#305e70"
+    },
+    {
+        "name": "RAL 5026 Perlnachtblau",
+        "label": "ral-5026-perlnachtblau",
+        "hex": "#1e2d50"
+    },
+    {
+        "name": "RAL 6035 Perlgrun",
+        "label": "ral-6035-perlgrun",
+        "hex": "#26572f"
+    },
+    {
+        "name": "RAL 6036 Perlopalgrun",
+        "label": "ral-6036-perlopalgrun",
+        "hex": "#0b594b"
+    },
+    {
+        "name": "RAL 7048 Perlmausgrau",
+        "label": "ral-7048-perlmausgrau",
+        "hex": "#787061"
+    },
+    {
+        "name": "RAL 8029 Perlkupfer",
+        "label": "ral-8029-perlkupfer",
+        "hex": "#7d3d28"
+    },
+    {
+        "name": "RAL 9022 Perlhellgrau",
+        "label": "ral-9022-perlhellgrau",
+        "hex": "#9c9b93"
+    },
+    {
+        "name": "RAL 9023 Perldunkelgrau",
+        "label": "ral-9023-perldunkelgrau",
+        "hex": "#7a7b78"
+    }
+]

@@ -1,0 +1,10 @@
+
+
+// set our color array
+oracal-970-premium-wrapping-cast-colors = ("010-wei" #f0f3f0) ("022-shellgelb" #f9c800) ("020-goldgelb" #fba300) ("351-kommunalorange" #f16900) ("032-hellrot" #bf1f09) ("031-rot" #a32018) ("028-kardinalrot" #b50e1e) ("056-lichtblau" #52aed6) ("555-gletscherblau" #4e82be) ("057-verkehrsblau" #005191) ("572-polizeiblau" #00568a) ("049-konigsblau" #1e387d) ("612-polizeigrun" #007038) ("622-tannengrun" #19402a) ("070-schwarz" #101112) ("076-telegrau" #85898c) ("809-taxibeige" #e6d9b6) ("090-silbergrau" #adb0b1) ("932-graphitmetallic" #636566) ("093-anthrazit" #3e4041) ("091-gold" #ac955b) ("177-jachtblau" #111a36) ("026-purpurrot" #4f1320) ("711-steingrau" #c4c5c4) ("070-schwarz-matt" #202121) ("363-daggi-orange" #cf4a00)
+
+
+// grab a specific color based on key
+oracal-970-premium-wrapping-cast( color )
+  return item[1] if item[0] == color for item in oracal-970-premium-wrapping-cast-colors
+

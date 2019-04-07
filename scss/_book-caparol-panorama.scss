@@ -1,0 +1,16 @@
+
+
+// array of colors
+$caparol-panorama-colors: ("burgund-01" #a46b5b), ("burgund-02" #a26954), ("burgund-03" #946c5f), ("burgund-04" #a77b65), ("burgund-05" #a28373), ("burgund-06" #ae9080), ("burgund-07" #c8a898), ("burgund-08" #c0a894), ("burgund-09" #b8a491), ("burgund-10" #9e8f7c), ("burgund-11" #b09485), ("burgund-12" #957f6f), ("burgund-13" #a9755c), ("burgund-14" #cb9478), ("flandern-01" #889d9d), ("flandern-02" #687f82), ("flandern-03" #92a09e), ("flandern-04" #afb4ad), ("flandern-05" #b4b6b1), ("flandern-06" #a5a5a3), ("flandern-07" #d0c8c3), ("flandern-08" #cfc9be), ("flandern-09" #ddd5c7), ("flandern-10" #e6d7c7), ("flandern-11" #ddcfbd), ("flandern-12" #c7bdaf), ("flandern-13" #b2aea2), ("flandern-14" #a29d90), ("flandern-15" #aaa396), ("flandern-16" #89877f), ("flandern-17" #918b81), ("flandern-18" #a29b93), ("flandern-19" #a69a8c), ("navarra-01" #e2d0ba), ("navarra-02" #d4c5af), ("navarra-03" #b6a893), ("navarra-04" #c0aa95), ("navarra-05" #ac947f), ("navarra-06" #9c8470), ("navarra-07" #a3816a), ("navarra-08" #ba9a81), ("navarra-09" #cfb291), ("navarra-10" #b29070), ("navarra-11" #b59675), ("navarra-12" #baa387), ("navarra-13" #d4bda2), ("navarra-14" #af9d81), ("navarra-15" #d3c1a3), ("provence-01" #ceab7c), ("provence-02" #bda580), ("provence-03" #d1ad80), ("provence-04" #d09e74), ("provence-05" #e4c098), ("provence-06" #e4b483), ("provence-07" #d4a064), ("provence-08" #d4a568), ("provence-09" #e2b371), ("provence-10" #f0c27f), ("provence-11" #dab679), ("provence-12" #e0c695), ("provence-13" #e9d29a), ("provence-14" #d7bd83), ("rotsandstein" #987263), ("tessin-01" #aa998d), ("tessin-02" #d8cab7), ("tessin-03" #cdbcac), ("tessin-04" #c9b8ab), ("tessin-05" #b0a297), ("tessin-06" #9e8e8b), ("tessin-07" #b7a59d), ("tessin-08" #b7aaa6), ("tessin-09" #d3c5bb), ("tessin-10" #9f8b85), ("tessin-11" #c5aca7), ("tessin-12" #b6a1a2), ("tessin-13" #a3837f), ("tessin-14" #b18f89), ("tessin-15" #b7887a), ("tessin-16" #ab7c6d), ("toscana-01" #c2ae80), ("toscana-02" #a4957a), ("toscana-03" #b4a17e), ("toscana-04" #d1c09f), ("toscana-05" #c5b491), ("toscana-06" #dbd0b9), ("toscana-07" #c2b19a), ("toscana-08" #c1b49d), ("toscana-09" #aca089), ("toscana-10" #8e816f), ("toscana-11" #bfb4a0), ("toscana-12" #bbbaa9), ("toscana-13" #9c9886), ("toscana-14" #8f8e7b), ("toscana-15" #b7b496), ("toscana-16" #bbb28b), ("toscana-17" #83815f), ("toscana-18" #9a9e78), ("toscana-19" #9ea083), ("toscana-20" #a4a48a), ("toscana-21" #96a591), ("toscana-22" #a3ae9f), ("toscana-23" #8c998f);
+
+
+// grab a specific color based on key
+@function caparol-panorama( $color ) {
+    @each $item in $caparol-panorama-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

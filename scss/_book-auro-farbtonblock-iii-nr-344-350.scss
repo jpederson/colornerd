@@ -1,0 +1,16 @@
+
+
+// array of colors
+$auro-farbtonblock-iii-nr-344-350-colors: ("k05-1" #fdf3e1), ("k05-2" #fbecd4), ("k05-3" #fce7c8), ("k05-4" #f9ddb3), ("k05-5" #fadaab), ("k05-6" #f6d099), ("k05-7" #f2c785), ("k05-8" #e4a94f), ("k35-1" #f7e0dd), ("k35-2" #f4d8d4), ("k35-3" #eec9c5), ("k35-4" #e5b7b2), ("k35-5" #dda8a3), ("k35-6" #d6958d), ("k35-7" #cb867e), ("k35-8" #aa5140), ("k45-1" #f1e6e6), ("k45-2" #ebdbdd), ("k45-3" #e3cfd2), ("k45-4" #d7bdc1), ("k45-5" #d0b4b8), ("k45-6" #c4a2a6), ("k45-7" #b79095), ("k45-8" #8f595a), ("k55-1" #f0f5f6), ("k55-2" #e9f1f6), ("k55-3" #e0edf6), ("k55-4" #d3e6f6), ("k55-5" #c8dff3), ("k55-6" #bbd8f3), ("k55-7" #afd2f3), ("k55-8" #70aee8), ("k65-1" #edf0e8), ("k65-2" #e9eee5), ("k65-3" #e0e7db), ("k65-4" #d0dbca), ("k65-5" #c9d5c2), ("k65-6" #bccbb4), ("k65-7" #abbda2), ("k65-8" #809a71), ("k85-1" #eee4e2), ("k85-2" #e5d8d6), ("k85-3" #dacac8), ("k85-4" #ceb9b6), ("k85-5" #c5aca9), ("k85-6" #ba9e9b), ("k85-7" #a58683), ("k85-8" #7d5348), ("k95-1" #e5e6e5), ("k95-2" #dedede), ("k95-3" #d0d0d0), ("k95-4" #c1c1c2), ("k95-5" #b5b5b7), ("k95-6" #a6a6a7), ("k95-7" #939395), ("k95-8" #5b5857), ("k196" #f5e6ca), ("k238" #f4ddb8), ("k244" #f1dcb4), ("k160" #f0e8d1), ("k246" #e6dab7), ("k291" #ded1a7), ("k290" #cac294), ("k836" #c2dbec), ("k834" #b3cfe0), ("k333" #aec4d7), ("k184" #f2ddc8), ("k226" #efd4b3), ("k232" #f3d3b2), ("k234" #ebbfa6), ("k501" #e3ae79), ("k500" #d49352), ("k1013" #d19164), ("k679" #e1b5af), ("k278" #d79b82), ("k504" #ce8b70), ("k707" #c59995), ("k1011" #bc704d), ("k1002" #b27a52), ("k1000" #a0685e);
+
+
+// grab a specific color based on key
+@function auro-farbtonblock-iii-nr-344-350( $color ) {
+    @each $item in $auro-farbtonblock-iii-nr-344-350-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

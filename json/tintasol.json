@@ -1,0 +1,677 @@
+[
+    {
+        "name": "TintaSol LW-71 - 8",
+        "label": "tintasol-lw-71-8",
+        "hex": "#5e5f62"
+    },
+    {
+        "name": "TintaSol LW-71 - 4",
+        "label": "tintasol-lw-71-4",
+        "hex": "#6e7073"
+    },
+    {
+        "name": "TintaSol LW-71 - 2",
+        "label": "tintasol-lw-71-2",
+        "hex": "#848689"
+    },
+    {
+        "name": "TintaSol LW-71 - 1",
+        "label": "tintasol-lw-71-1",
+        "hex": "#9b9c9e"
+    },
+    {
+        "name": "TintaSol LW-71 - 0-2",
+        "label": "tintasol-lw-71-0-2",
+        "hex": "#cac9c9"
+    },
+    {
+        "name": "TintaSol LW-52 - 8",
+        "label": "tintasol-lw-52-8",
+        "hex": "#97886e"
+    },
+    {
+        "name": "TintaSol LW-52 - 4",
+        "label": "tintasol-lw-52-4",
+        "hex": "#a99a81"
+    },
+    {
+        "name": "TintaSol LW-52 - 2",
+        "label": "tintasol-lw-52-2",
+        "hex": "#bbad97"
+    },
+    {
+        "name": "TintaSol LW-52 - 1",
+        "label": "tintasol-lw-52-1",
+        "hex": "#ccc0ad"
+    },
+    {
+        "name": "TintaSol LW-52 - 0-2",
+        "label": "tintasol-lw-52-0-2",
+        "hex": "#e7ded0"
+    },
+    {
+        "name": "TintaSol L-13 - 8",
+        "label": "tintasol-l-13-8",
+        "hex": "#f3d84c"
+    },
+    {
+        "name": "TintaSol L-13 - 4",
+        "label": "tintasol-l-13-4",
+        "hex": "#f7dd66"
+    },
+    {
+        "name": "TintaSol L-13 - 2",
+        "label": "tintasol-l-13-2",
+        "hex": "#fbe380"
+    },
+    {
+        "name": "TintaSol L-13 - 1",
+        "label": "tintasol-l-13-1",
+        "hex": "#fce79a"
+    },
+    {
+        "name": "TintaSol L-13 - 0-2",
+        "label": "tintasol-l-13-0-2",
+        "hex": "#faefc8"
+    },
+    {
+        "name": "TintaSol L-15 - 8",
+        "label": "tintasol-l-15-8",
+        "hex": "#ffbd21"
+    },
+    {
+        "name": "TintaSol L-15 - 4",
+        "label": "tintasol-l-15-4",
+        "hex": "#ffc840"
+    },
+    {
+        "name": "TintaSol L-15 - 2",
+        "label": "tintasol-l-15-2",
+        "hex": "#ffd361"
+    },
+    {
+        "name": "TintaSol L-15 - 1",
+        "label": "tintasol-l-15-1",
+        "hex": "#ffdb7d"
+    },
+    {
+        "name": "TintaSol L-15 - 0-2",
+        "label": "tintasol-l-15-0-2",
+        "hex": "#feebbc"
+    },
+    {
+        "name": "TintaSol L-12 - 8",
+        "label": "tintasol-l-12-8",
+        "hex": "#ffd949"
+    },
+    {
+        "name": "TintaSol L-12 - 4",
+        "label": "tintasol-l-12-4",
+        "hex": "#ffde65"
+    },
+    {
+        "name": "TintaSol L-12 - 2",
+        "label": "tintasol-l-12-2",
+        "hex": "#ffe585"
+    },
+    {
+        "name": "TintaSol L-12 - 1",
+        "label": "tintasol-l-12-1",
+        "hex": "#fee99a"
+    },
+    {
+        "name": "TintaSol L-12 - 0-2",
+        "label": "tintasol-l-12-0-2",
+        "hex": "#fbf0c9"
+    },
+    {
+        "name": "TintaSol L-36 - 8",
+        "label": "tintasol-l-36-8",
+        "hex": "#f17858"
+    },
+    {
+        "name": "TintaSol L-36 - 4",
+        "label": "tintasol-l-36-4",
+        "hex": "#fa8a71"
+    },
+    {
+        "name": "TintaSol L-36 - 2",
+        "label": "tintasol-l-36-2",
+        "hex": "#fe9a83"
+    },
+    {
+        "name": "TintaSol L-36 - 1",
+        "label": "tintasol-l-36-1",
+        "hex": "#ffb09d"
+    },
+    {
+        "name": "TintaSol L-36 - 0-2",
+        "label": "tintasol-l-36-0-2",
+        "hex": "#ffd5c9"
+    },
+    {
+        "name": "TintaSol L-32 - 8",
+        "label": "tintasol-l-32-8",
+        "hex": "#d34d57"
+    },
+    {
+        "name": "TintaSol L-32 - 4",
+        "label": "tintasol-l-32-4",
+        "hex": "#db5e6b"
+    },
+    {
+        "name": "TintaSol L-32 - 2",
+        "label": "tintasol-l-32-2",
+        "hex": "#e47080"
+    },
+    {
+        "name": "TintaSol L-32 - 1",
+        "label": "tintasol-l-32-1",
+        "hex": "#f0889a"
+    },
+    {
+        "name": "TintaSol L-32 - 0-2",
+        "label": "tintasol-l-32-0-2",
+        "hex": "#fabdc8"
+    },
+    {
+        "name": "TintaSol LW-81 - 8",
+        "label": "tintasol-lw-81-8",
+        "hex": "#7864a7"
+    },
+    {
+        "name": "TintaSol LW-81 - 4",
+        "label": "tintasol-lw-81-4",
+        "hex": "#8f7bbd"
+    },
+    {
+        "name": "TintaSol LW-81 - 2",
+        "label": "tintasol-lw-81-2",
+        "hex": "#a390cb"
+    },
+    {
+        "name": "TintaSol LW-81 - 1",
+        "label": "tintasol-lw-81-1",
+        "hex": "#b9a8d9"
+    },
+    {
+        "name": "TintaSol LW-81 - 0-2",
+        "label": "tintasol-lw-81-0-2",
+        "hex": "#ddd3e9"
+    },
+    {
+        "name": "TintaSol LW-21 - 8",
+        "label": "tintasol-lw-21-8",
+        "hex": "#0088bc"
+    },
+    {
+        "name": "TintaSol LW-21 - 4",
+        "label": "tintasol-lw-21-4",
+        "hex": "#059ccd"
+    },
+    {
+        "name": "TintaSol LW-21 - 2",
+        "label": "tintasol-lw-21-2",
+        "hex": "#3cb0da"
+    },
+    {
+        "name": "TintaSol LW-21 - 1",
+        "label": "tintasol-lw-21-1",
+        "hex": "#6ac1e1"
+    },
+    {
+        "name": "TintaSol LW-21 - 0-2",
+        "label": "tintasol-lw-21-0-2",
+        "hex": "#a7dceb"
+    },
+    {
+        "name": "TintaSol LW-62 - 8",
+        "label": "tintasol-lw-62-8",
+        "hex": "#00aa8b"
+    },
+    {
+        "name": "TintaSol LW-62 - 4",
+        "label": "tintasol-lw-62-4",
+        "hex": "#39bb9f"
+    },
+    {
+        "name": "TintaSol LW-62 - 2",
+        "label": "tintasol-lw-62-2",
+        "hex": "#64ccb4"
+    },
+    {
+        "name": "TintaSol LW-62 - 1",
+        "label": "tintasol-lw-62-1",
+        "hex": "#84d8c3"
+    },
+    {
+        "name": "TintaSol LW-62 - 0-2",
+        "label": "tintasol-lw-62-0-2",
+        "hex": "#beeadc"
+    },
+    {
+        "name": "TintaSol LW-61 - 8",
+        "label": "tintasol-lw-61-8",
+        "hex": "#99ac8b"
+    },
+    {
+        "name": "TintaSol LW-61 - 4",
+        "label": "tintasol-lw-61-4",
+        "hex": "#adbea0"
+    },
+    {
+        "name": "TintaSol LW-61 - 2",
+        "label": "tintasol-lw-61-2",
+        "hex": "#bfcbb0"
+    },
+    {
+        "name": "TintaSol LW-61 - 1",
+        "label": "tintasol-lw-61-1",
+        "hex": "#d1d9c4"
+    },
+    {
+        "name": "TintaSol LW-61 - 0-2",
+        "label": "tintasol-lw-61-0-2",
+        "hex": "#e4e7d8"
+    },
+    {
+        "name": "TintaSol LW-11 - 8",
+        "label": "tintasol-lw-11-8",
+        "hex": "#e9b56b"
+    },
+    {
+        "name": "TintaSol LW-11 - 4",
+        "label": "tintasol-lw-11-4",
+        "hex": "#f0c17f"
+    },
+    {
+        "name": "TintaSol LW-11 - 2",
+        "label": "tintasol-lw-11-2",
+        "hex": "#f5cf99"
+    },
+    {
+        "name": "TintaSol LW-11 - 1",
+        "label": "tintasol-lw-11-1",
+        "hex": "#fadbb0"
+    },
+    {
+        "name": "TintaSol LW-11 - 0-2",
+        "label": "tintasol-lw-11-0-2",
+        "hex": "#fbead1"
+    },
+    {
+        "name": "TintaSol LW-14 - 8",
+        "label": "tintasol-lw-14-8",
+        "hex": "#d08965"
+    },
+    {
+        "name": "TintaSol LW-14 - 4",
+        "label": "tintasol-lw-14-4",
+        "hex": "#dc9b7b"
+    },
+    {
+        "name": "TintaSol LW-14 - 2",
+        "label": "tintasol-lw-14-2",
+        "hex": "#e6ac90"
+    },
+    {
+        "name": "TintaSol LW-14 - 1",
+        "label": "tintasol-lw-14-1",
+        "hex": "#eebea5"
+    },
+    {
+        "name": "TintaSol LW-14 - 0-2",
+        "label": "tintasol-lw-14-0-2",
+        "hex": "#f8dbca"
+    },
+    {
+        "name": "TintaSol LW-31 - 8",
+        "label": "tintasol-lw-31-8",
+        "hex": "#ae6a60"
+    },
+    {
+        "name": "TintaSol LW-31 - 4",
+        "label": "tintasol-lw-31-4",
+        "hex": "#be7d73"
+    },
+    {
+        "name": "TintaSol LW-31 - 2",
+        "label": "tintasol-lw-31-2",
+        "hex": "#cd9288"
+    },
+    {
+        "name": "TintaSol LW-31 - 1",
+        "label": "tintasol-lw-31-1",
+        "hex": "#dba89f"
+    },
+    {
+        "name": "TintaSol LW-31 - 0-2",
+        "label": "tintasol-lw-31-0-2",
+        "hex": "#f0d1ca"
+    },
+    {
+        "name": "TintaSol LW-51 - 8",
+        "label": "tintasol-lw-51-8",
+        "hex": "#a37e65"
+    },
+    {
+        "name": "TintaSol LW-51 - 4",
+        "label": "tintasol-lw-51-4",
+        "hex": "#b8927a"
+    },
+    {
+        "name": "TintaSol LW-51 - 2",
+        "label": "tintasol-lw-51-2",
+        "hex": "#c6a48e"
+    },
+    {
+        "name": "TintaSol LW-51 - 1",
+        "label": "tintasol-lw-51-1",
+        "hex": "#d4b6a3"
+    },
+    {
+        "name": "TintaSol LW-51 - 0-2",
+        "label": "tintasol-lw-51-0-2",
+        "hex": "#eddbce"
+    },
+    {
+        "name": "TintaSol LW-35 - 8",
+        "label": "tintasol-lw-35-8",
+        "hex": "#af5f4f"
+    },
+    {
+        "name": "TintaSol LW-35 - 4",
+        "label": "tintasol-lw-35-4",
+        "hex": "#bf705f"
+    },
+    {
+        "name": "TintaSol LW-35 - 2",
+        "label": "tintasol-lw-35-2",
+        "hex": "#d28979"
+    },
+    {
+        "name": "TintaSol LW-35 - 1",
+        "label": "tintasol-lw-35-1",
+        "hex": "#e0a090"
+    },
+    {
+        "name": "TintaSol LW-35 - 0-2",
+        "label": "tintasol-lw-35-0-2",
+        "hex": "#f3cec2"
+    },
+    {
+        "name": "TintaSol LW-53 - 8",
+        "label": "tintasol-lw-53-8",
+        "hex": "#9a7a62"
+    },
+    {
+        "name": "TintaSol LW-53 - 4",
+        "label": "tintasol-lw-53-4",
+        "hex": "#ad8d76"
+    },
+    {
+        "name": "TintaSol LW-53 - 2",
+        "label": "tintasol-lw-53-2",
+        "hex": "#bea089"
+    },
+    {
+        "name": "TintaSol LW-53 - 1",
+        "label": "tintasol-lw-53-1",
+        "hex": "#cdb39e"
+    },
+    {
+        "name": "TintaSol LW-53 - 0-2",
+        "label": "tintasol-lw-53-0-2",
+        "hex": "#e8d9ca"
+    },
+    {
+        "name": "TintaSol LW-64 - 8",
+        "label": "tintasol-lw-64-8",
+        "hex": "#acac7a"
+    },
+    {
+        "name": "TintaSol LW-64 - 4",
+        "label": "tintasol-lw-64-4",
+        "hex": "#bcbb8e"
+    },
+    {
+        "name": "TintaSol LW-64 - 2",
+        "label": "tintasol-lw-64-2",
+        "hex": "#cbcaa4"
+    },
+    {
+        "name": "TintaSol LW-64 - 1",
+        "label": "tintasol-lw-64-1",
+        "hex": "#dad8b9"
+    },
+    {
+        "name": "TintaSol LW-64 - 0-2",
+        "label": "tintasol-lw-64-0-2",
+        "hex": "#ece8d4"
+    },
+    {
+        "name": "TintaSol LW-65 - 8",
+        "label": "tintasol-lw-65-8",
+        "hex": "#799c89"
+    },
+    {
+        "name": "TintaSol LW-65 - 4",
+        "label": "tintasol-lw-65-4",
+        "hex": "#8eaf9d"
+    },
+    {
+        "name": "TintaSol LW-65 - 2",
+        "label": "tintasol-lw-65-2",
+        "hex": "#a4bfb0"
+    },
+    {
+        "name": "TintaSol LW-65 - 1",
+        "label": "tintasol-lw-65-1",
+        "hex": "#bbd0c2"
+    },
+    {
+        "name": "TintaSol LW-65 - 0-2",
+        "label": "tintasol-lw-65-0-2",
+        "hex": "#dde6dc"
+    },
+    {
+        "name": "TintaSol LW-72 - 8",
+        "label": "tintasol-lw-72-8",
+        "hex": "#787368"
+    },
+    {
+        "name": "TintaSol LW-72 - 4",
+        "label": "tintasol-lw-72-4",
+        "hex": "#8a857a"
+    },
+    {
+        "name": "TintaSol LW-72 - 2",
+        "label": "tintasol-lw-72-2",
+        "hex": "#9f9a8f"
+    },
+    {
+        "name": "TintaSol LW-72 - 1",
+        "label": "tintasol-lw-72-1",
+        "hex": "#b4afa5"
+    },
+    {
+        "name": "TintaSol LW-72 - 0-2",
+        "label": "tintasol-lw-72-0-2",
+        "hex": "#dbd7ce"
+    },
+    {
+        "name": "TintaSol LW-34 - 8",
+        "label": "tintasol-lw-34-8",
+        "hex": "#ef7773"
+    },
+    {
+        "name": "TintaSol LW-34 - 4",
+        "label": "tintasol-lw-34-4",
+        "hex": "#f88787"
+    },
+    {
+        "name": "TintaSol LW-34 - 2",
+        "label": "tintasol-lw-34-2",
+        "hex": "#fc9e9d"
+    },
+    {
+        "name": "TintaSol LW-34 - 1",
+        "label": "tintasol-lw-34-1",
+        "hex": "#feb1b1"
+    },
+    {
+        "name": "TintaSol LW-34 - 0-2",
+        "label": "tintasol-lw-34-0-2",
+        "hex": "#ffd5d3"
+    },
+    {
+        "name": "TintaSol LW-33 - 8",
+        "label": "tintasol-lw-33-8",
+        "hex": "#d35f89"
+    },
+    {
+        "name": "TintaSol LW-33 - 4",
+        "label": "tintasol-lw-33-4",
+        "hex": "#e27ba4"
+    },
+    {
+        "name": "TintaSol LW-33 - 2",
+        "label": "tintasol-lw-33-2",
+        "hex": "#ec92b8"
+    },
+    {
+        "name": "TintaSol LW-33 - 1",
+        "label": "tintasol-lw-33-1",
+        "hex": "#f2a9c8"
+    },
+    {
+        "name": "TintaSol LW-33 - 0-2",
+        "label": "tintasol-lw-33-0-2",
+        "hex": "#f8d2e0"
+    },
+    {
+        "name": "TintaSol LW-17 - 8",
+        "label": "tintasol-lw-17-8",
+        "hex": "#ffe46b"
+    },
+    {
+        "name": "TintaSol LW-17 - 4",
+        "label": "tintasol-lw-17-4",
+        "hex": "#fde983"
+    },
+    {
+        "name": "TintaSol LW-17 - 2",
+        "label": "tintasol-lw-17-2",
+        "hex": "#fbed9c"
+    },
+    {
+        "name": "TintaSol LW-17 - 1",
+        "label": "tintasol-lw-17-1",
+        "hex": "#faf0b2"
+    },
+    {
+        "name": "TintaSol LW-17 - 0-2",
+        "label": "tintasol-lw-17-0-2",
+        "hex": "#f9f2d2"
+    },
+    {
+        "name": "TintaSol LW-16 - 8",
+        "label": "tintasol-lw-16-8",
+        "hex": "#f6c99a"
+    },
+    {
+        "name": "TintaSol LW-16 - 4",
+        "label": "tintasol-lw-16-4",
+        "hex": "#f9d5af"
+    },
+    {
+        "name": "TintaSol LW-16 - 2",
+        "label": "tintasol-lw-16-2",
+        "hex": "#fbdebf"
+    },
+    {
+        "name": "TintaSol LW-16 - 1",
+        "label": "tintasol-lw-16-1",
+        "hex": "#fce7d0"
+    },
+    {
+        "name": "TintaSol LW-16 - 0-2",
+        "label": "tintasol-lw-16-0-2",
+        "hex": "#faefe0"
+    },
+    {
+        "name": "TintaSol LW-18 - 8",
+        "label": "tintasol-lw-18-8",
+        "hex": "#f9ec6a"
+    },
+    {
+        "name": "TintaSol LW-18 - 4",
+        "label": "tintasol-lw-18-4",
+        "hex": "#f4ec83"
+    },
+    {
+        "name": "TintaSol LW-18 - 2",
+        "label": "tintasol-lw-18-2",
+        "hex": "#f7f19f"
+    },
+    {
+        "name": "TintaSol LW-18 - 1",
+        "label": "tintasol-lw-18-1",
+        "hex": "#f7f3b7"
+    },
+    {
+        "name": "TintaSol LW-18 - 0-2",
+        "label": "tintasol-lw-18-0-2",
+        "hex": "#f8f4d5"
+    },
+    {
+        "name": "TintaSol LW-63 - 8",
+        "label": "tintasol-lw-63-8",
+        "hex": "#88c09e"
+    },
+    {
+        "name": "TintaSol LW-63 - 4",
+        "label": "tintasol-lw-63-4",
+        "hex": "#a0ceb0"
+    },
+    {
+        "name": "TintaSol LW-63 - 2",
+        "label": "tintasol-lw-63-2",
+        "hex": "#bcddc5"
+    },
+    {
+        "name": "TintaSol LW-63 - 1",
+        "label": "tintasol-lw-63-1",
+        "hex": "#cde5d0"
+    },
+    {
+        "name": "TintaSol LW-63 - 0-2",
+        "label": "tintasol-lw-63-0-2",
+        "hex": "#e7efe2"
+    },
+    {
+        "name": "TintaSol LW-22 - 8",
+        "label": "tintasol-lw-22-8",
+        "hex": "#8ebbe5"
+    },
+    {
+        "name": "TintaSol LW-22 - 4",
+        "label": "tintasol-lw-22-4",
+        "hex": "#a8c9e8"
+    },
+    {
+        "name": "TintaSol LW-22 - 2",
+        "label": "tintasol-lw-22-2",
+        "hex": "#bdd7eb"
+    },
+    {
+        "name": "TintaSol LW-22 - 1",
+        "label": "tintasol-lw-22-1",
+        "hex": "#c9dee9"
+    },
+    {
+        "name": "TintaSol LW-22 - 0-2",
+        "label": "tintasol-lw-22-0-2",
+        "hex": "#e4ebe9"
+    }
+]

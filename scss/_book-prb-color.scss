@@ -1,0 +1,16 @@
+
+
+// array of colors
+$prb-color-colors: ("prb-antheor" #e1b69d), ("prb-aquitaine" #e7dfd0), ("prb-ardeche" #bcb59b), ("prb-auvergne" #9c9791), ("prb-azay-le-rideau" #e9d9c5), ("prb-blanc-noirmoutier" #f2efe6), ("prb-bocage-vendeen" #c9b4a0), ("prb-camargue" #c4ae92), ("prb-cap-corse" #cf966f), ("prb-carnac" #c1c1bf), ("prb-cevennes" #c0b39d), ("prb-chambord" #eadbc3), ("prb-champagne" #dfc9b1), ("prb-cheverny" #e9d3b1), ("prb-collioure" #eed6bd), ("prb-cote-d-azur" #e4c8af), ("prb-cote-d-emeraude" #b6beb8), ("prb-cote-dopale" #cdd1d1), ("prb-cote-dor" #dcae70), ("prb-finistere" #b8b2a7), ("prb-franche-comte" #ab9b80), ("prb-gres-dalsace" #ac786a), ("prb-gris-ouessant" #cfcec9), ("prb-ile-dyeu" #cad7e9), ("prb-ile-de-france" #d9c6ad), ("prb-jaune-touraine" #eadfca), ("prb-jaune-touraine-fonce" #efd7b3), ("prb-lascaux" #bd9e7c), ("prb-medov" #bca8a1), ("prb-midi-pyrenees" #c4a18b), ("prb-perigord" #c18e77), ("prb-picardie" #efdac0), ("prb-plaine-de-lucon" #dacbba), ("prb-rose-anjou" #e1cdc0), ("prb-rose-provence" #d6b7a3), ("prb-rouge-esterel" #dcb4a1), ("prb-rouge-sologne" #dba783), ("prb-saint-tropez" #e1b78f), ("prb-terre-de-languedoc" #d4a56e), ("prb-ton-pierre" #efeade), ("prb-ton-sable" #ccb293), ("prb-val-de-loire" #eacbaa), ("prb-vallee-de-la-sevre" #d5c7b0), ("prb-vert-daubrac" #8aa19c), ("prb-vert-monaco" #dae1cf), ("prb-vieux-pise" #f5d5a2), ("prb-vieux-tuffeau" #e4d5c4), ("prb-yallauris" #dbae8d);
+
+
+// grab a specific color based on key
+@function prb-color( $color ) {
+    @each $item in $prb-color-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

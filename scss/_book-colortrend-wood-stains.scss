@@ -1,0 +1,16 @@
+
+
+// array of colors
+$colortrend-wood-stains-colors: ("1-bk-dwc310" #8a877a), ("1-fr-twc101" #9e6179), ("2-bk-dwc309" #b0aa96), ("2-fr-twc102" #966354), ("3-bk-dwc308" #898681), ("3-fr-twc103" #449679), ("4-bk-dwc307" #bdb49e), ("4-fr-twc104" #94a26f), ("5-bk-dwc306" #acaf89), ("5-fr-twc105" #e6cb50), ("6-bk-dwc305" #c9bf9e), ("6-fr-twc106" #e2ba44), ("7-bk-dwc304" #cdb694), ("7-fr-twc107" #c06e4c), ("8-bk-dwc303" #91865b), ("8-fr-twc108" #a7574c), ("9-bk-dwc302" #a48b6b), ("9-fr-twc109" #a48b6b), ("10-bk-dwc301" #c58650), ("10-fr-twc110" #c47f57), ("11-fr-rwc111" #484541), ("12-bk-nwc212" #91654c), ("12-fr-twc112" #9e8263), ("13-bk-nwc211" #a28367), ("13-fr-twc113" #845a4b), ("14-bk-nwc210" #b6a28e), ("14-fr-twc114" #976b48), ("15-bk-nwc209" #c5ac8b), ("15-fr-twc115" #e0c59a), ("16-bk-nwc208" #89664d), ("16-fr-rwc116" #7a6850), ("17-bk-nwc207" #b1957b), ("17-fr-twc117" #896356), ("18-bk-nwc206" #999475), ("18-fr-twc118" #9a6f57), ("19-bk-nwc205" #a2a08b), ("19-fr-twc119" #84757d), ("20-bk-nwc204" #969c76), ("20-fr-twc120" #8f6051), ("21-bk-nwc203" #b69c7f), ("21-fr-twc121" #c48c52), ("22-bk-nwc202" #846d59), ("22-fr-twc122" #c7a779), ("23-bk-nwc201" #735e4e), ("23-fr-twc123" #655648), ("24-fr-twc124" #61889e);
+
+
+// grab a specific color based on key
+@function colortrend-wood-stains( $color ) {
+    @each $item in $colortrend-wood-stains-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

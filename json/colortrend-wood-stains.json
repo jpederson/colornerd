@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Colortrend 1 bk- DWC310",
+        "label": "1-bk-dwc310",
+        "hex": "#8a877a"
+    },
+    {
+        "name": "Colortrend 1 fr- TWC101",
+        "label": "1-fr-twc101",
+        "hex": "#9e6179"
+    },
+    {
+        "name": "Colortrend 2 bk- DWC309",
+        "label": "2-bk-dwc309",
+        "hex": "#b0aa96"
+    },
+    {
+        "name": "Colortrend 2 fr- TWC102",
+        "label": "2-fr-twc102",
+        "hex": "#966354"
+    },
+    {
+        "name": "Colortrend 3 bk- DWC308",
+        "label": "3-bk-dwc308",
+        "hex": "#898681"
+    },
+    {
+        "name": "Colortrend 3 fr- TWC103",
+        "label": "3-fr-twc103",
+        "hex": "#449679"
+    },
+    {
+        "name": "Colortrend 4 bk- DWC307",
+        "label": "4-bk-dwc307",
+        "hex": "#bdb49e"
+    },
+    {
+        "name": "Colortrend 4 fr- TWC104",
+        "label": "4-fr-twc104",
+        "hex": "#94a26f"
+    },
+    {
+        "name": "Colortrend 5 bk- DWC306",
+        "label": "5-bk-dwc306",
+        "hex": "#acaf89"
+    },
+    {
+        "name": "Colortrend 5 fr- TWC105",
+        "label": "5-fr-twc105",
+        "hex": "#e6cb50"
+    },
+    {
+        "name": "Colortrend 6 bk- DWC305",
+        "label": "6-bk-dwc305",
+        "hex": "#c9bf9e"
+    },
+    {
+        "name": "Colortrend 6 fr- TWC106",
+        "label": "6-fr-twc106",
+        "hex": "#e2ba44"
+    },
+    {
+        "name": "Colortrend 7 bk- DWC304",
+        "label": "7-bk-dwc304",
+        "hex": "#cdb694"
+    },
+    {
+        "name": "Colortrend 7 fr- TWC107",
+        "label": "7-fr-twc107",
+        "hex": "#c06e4c"
+    },
+    {
+        "name": "Colortrend 8 bk- DWC303",
+        "label": "8-bk-dwc303",
+        "hex": "#91865b"
+    },
+    {
+        "name": "Colortrend 8 fr- TWC108",
+        "label": "8-fr-twc108",
+        "hex": "#a7574c"
+    },
+    {
+        "name": "Colortrend 9 bk- DWC302",
+        "label": "9-bk-dwc302",
+        "hex": "#a48b6b"
+    },
+    {
+        "name": "Colortrend 9 fr- TWC109",
+        "label": "9-fr-twc109",
+        "hex": "#a48b6b"
+    },
+    {
+        "name": "Colortrend 10 bk- DWC301",
+        "label": "10-bk-dwc301",
+        "hex": "#c58650"
+    },
+    {
+        "name": "Colortrend 10 fr- TWC110",
+        "label": "10-fr-twc110",
+        "hex": "#c47f57"
+    },
+    {
+        "name": "Colortrend 11 fr- RWC111",
+        "label": "11-fr-rwc111",
+        "hex": "#484541"
+    },
+    {
+        "name": "Colortrend 12 bk- NWC212",
+        "label": "12-bk-nwc212",
+        "hex": "#91654c"
+    },
+    {
+        "name": "Colortrend 12 fr- TWC112",
+        "label": "12-fr-twc112",
+        "hex": "#9e8263"
+    },
+    {
+        "name": "Colortrend 13 bk- NWC211",
+        "label": "13-bk-nwc211",
+        "hex": "#a28367"
+    },
+    {
+        "name": "Colortrend 13 fr- TWC113",
+        "label": "13-fr-twc113",
+        "hex": "#845a4b"
+    },
+    {
+        "name": "Colortrend 14 bk- NWC210",
+        "label": "14-bk-nwc210",
+        "hex": "#b6a28e"
+    },
+    {
+        "name": "Colortrend 14 fr- TWC114",
+        "label": "14-fr-twc114",
+        "hex": "#976b48"
+    },
+    {
+        "name": "Colortrend 15 bk- NWC209",
+        "label": "15-bk-nwc209",
+        "hex": "#c5ac8b"
+    },
+    {
+        "name": "Colortrend 15 fr- TWC115",
+        "label": "15-fr-twc115",
+        "hex": "#e0c59a"
+    },
+    {
+        "name": "Colortrend 16 bk- NWC208",
+        "label": "16-bk-nwc208",
+        "hex": "#89664d"
+    },
+    {
+        "name": "Colortrend 16 fr- RWC116",
+        "label": "16-fr-rwc116",
+        "hex": "#7a6850"
+    },
+    {
+        "name": "Colortrend 17 bk- NWC207",
+        "label": "17-bk-nwc207",
+        "hex": "#b1957b"
+    },
+    {
+        "name": "Colortrend 17 fr- TWC117",
+        "label": "17-fr-twc117",
+        "hex": "#896356"
+    },
+    {
+        "name": "Colortrend 18 bk- NWC206",
+        "label": "18-bk-nwc206",
+        "hex": "#999475"
+    },
+    {
+        "name": "Colortrend 18 fr- TWC118",
+        "label": "18-fr-twc118",
+        "hex": "#9a6f57"
+    },
+    {
+        "name": "Colortrend 19 bk- NWC205",
+        "label": "19-bk-nwc205",
+        "hex": "#a2a08b"
+    },
+    {
+        "name": "Colortrend 19 fr- TWC119",
+        "label": "19-fr-twc119",
+        "hex": "#84757d"
+    },
+    {
+        "name": "Colortrend 20 bk- NWC204",
+        "label": "20-bk-nwc204",
+        "hex": "#969c76"
+    },
+    {
+        "name": "Colortrend 20 fr- TWC120",
+        "label": "20-fr-twc120",
+        "hex": "#8f6051"
+    },
+    {
+        "name": "Colortrend 21 bk- NWC203",
+        "label": "21-bk-nwc203",
+        "hex": "#b69c7f"
+    },
+    {
+        "name": "Colortrend 21 fr- TWC121",
+        "label": "21-fr-twc121",
+        "hex": "#c48c52"
+    },
+    {
+        "name": "Colortrend 22 bk- NWC202",
+        "label": "22-bk-nwc202",
+        "hex": "#846d59"
+    },
+    {
+        "name": "Colortrend 22 fr- TWC122",
+        "label": "22-fr-twc122",
+        "hex": "#c7a779"
+    },
+    {
+        "name": "Colortrend 23 bk- NWC201",
+        "label": "23-bk-nwc201",
+        "hex": "#735e4e"
+    },
+    {
+        "name": "Colortrend 23 fr- TWC123",
+        "label": "23-fr-twc123",
+        "hex": "#655648"
+    },
+    {
+        "name": "Colortrend 24 fr- TWC124",
+        "label": "24-fr-twc124",
+        "hex": "#61889e"
+    }
+]

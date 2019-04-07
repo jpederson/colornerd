@@ -1,0 +1,227 @@
+[
+    {
+        "name": "D-MG 6630",
+        "label": "d-mg-6630",
+        "hex": "#e9de39"
+    },
+    {
+        "name": "D-MG 6631",
+        "label": "d-mg-6631",
+        "hex": "#f0c500"
+    },
+    {
+        "name": "D-MG 6632",
+        "label": "d-mg-6632",
+        "hex": "#f8ae00"
+    },
+    {
+        "name": "D-MG 6633",
+        "label": "d-mg-6633",
+        "hex": "#f4a100"
+    },
+    {
+        "name": "D-MG 6641",
+        "label": "d-mg-6641",
+        "hex": "#ed6311"
+    },
+    {
+        "name": "D-MG 6642",
+        "label": "d-mg-6642",
+        "hex": "#d24817"
+    },
+    {
+        "name": "D-MG 6640",
+        "label": "d-mg-6640",
+        "hex": "#c02602"
+    },
+    {
+        "name": "D-MG 6643",
+        "label": "d-mg-6643",
+        "hex": "#ab121c"
+    },
+    {
+        "name": "D-MG 6644",
+        "label": "d-mg-6644",
+        "hex": "#9d0009"
+    },
+    {
+        "name": "D-MG 6645",
+        "label": "d-mg-6645",
+        "hex": "#881b1a"
+    },
+    {
+        "name": "D-MG 6650",
+        "label": "d-mg-6650",
+        "hex": "#670814"
+    },
+    {
+        "name": "D-MG 6651",
+        "label": "d-mg-6651",
+        "hex": "#5b1118"
+    },
+    {
+        "name": "D-MG 6652",
+        "label": "d-mg-6652",
+        "hex": "#b99bc4"
+    },
+    {
+        "name": "D-MG 6653",
+        "label": "d-mg-6653",
+        "hex": "#e889bb"
+    },
+    {
+        "name": "D-MG 6654",
+        "label": "d-mg-6654",
+        "hex": "#b32b6e"
+    },
+    {
+        "name": "D-MG 6655",
+        "label": "d-mg-6655",
+        "hex": "#7a3271"
+    },
+    {
+        "name": "D-MG 6656",
+        "label": "d-mg-6656",
+        "hex": "#5e336e"
+    },
+    {
+        "name": "D-MG 6657",
+        "label": "d-mg-6657",
+        "hex": "#66d1b9"
+    },
+    {
+        "name": "D-MG 6670",
+        "label": "d-mg-6670",
+        "hex": "#00a195"
+    },
+    {
+        "name": "D-MG 6680",
+        "label": "d-mg-6680",
+        "hex": "#007172"
+    },
+    {
+        "name": "D-MG 6691",
+        "label": "d-mg-6691",
+        "hex": "#52b5e1"
+    },
+    {
+        "name": "D-MG 6692",
+        "label": "d-mg-6692",
+        "hex": "#0099d0"
+    },
+    {
+        "name": "D-MG 6693",
+        "label": "d-mg-6693",
+        "hex": "#0094c4"
+    },
+    {
+        "name": "D-MG 6694",
+        "label": "d-mg-6694",
+        "hex": "#006dad"
+    },
+    {
+        "name": "D-MG 6690",
+        "label": "d-mg-6690",
+        "hex": "#005792"
+    },
+    {
+        "name": "D-MG 6695",
+        "label": "d-mg-6695",
+        "hex": "#005083"
+    },
+    {
+        "name": "D-MG 6686",
+        "label": "d-mg-6686",
+        "hex": "#2f45aa"
+    },
+    {
+        "name": "D-MG 6696",
+        "label": "d-mg-6696",
+        "hex": "#1f377a"
+    },
+    {
+        "name": "D-MG 6697",
+        "label": "d-mg-6697",
+        "hex": "#002c5b"
+    },
+    {
+        "name": "D-MG 6661",
+        "label": "d-mg-6661",
+        "hex": "#6cb352"
+    },
+    {
+        "name": "D-MG 6662",
+        "label": "d-mg-6662",
+        "hex": "#429605"
+    },
+    {
+        "name": "D-MG 6663",
+        "label": "d-mg-6663",
+        "hex": "#008837"
+    },
+    {
+        "name": "D-MG 6660",
+        "label": "d-mg-6660",
+        "hex": "#00804c"
+    },
+    {
+        "name": "D-MG 6664",
+        "label": "d-mg-6664",
+        "hex": "#008555"
+    },
+    {
+        "name": "D-MG 6665",
+        "label": "d-mg-6665",
+        "hex": "#00743b"
+    },
+    {
+        "name": "D-MG 6666",
+        "label": "d-mg-6666",
+        "hex": "#005224"
+    },
+    {
+        "name": "D-MG 6800",
+        "label": "d-mg-6800",
+        "hex": "#e5d6b3"
+    },
+    {
+        "name": "D-MG 6801",
+        "label": "d-mg-6801",
+        "hex": "#d88a32"
+    },
+    {
+        "name": "D-MG 6802",
+        "label": "d-mg-6802",
+        "hex": "#84542a"
+    },
+    {
+        "name": "D-MG 6803",
+        "label": "d-mg-6803",
+        "hex": "#4a2a1d"
+    },
+    {
+        "name": "D-MG 6700",
+        "label": "d-mg-6700",
+        "hex": "#a5a9a0"
+    },
+    {
+        "name": "D-MG 6710",
+        "label": "d-mg-6710",
+        "hex": "#7c7d7c"
+    },
+    {
+        "name": "D-MG 6720",
+        "label": "d-mg-6720",
+        "hex": "#5b5f60"
+    },
+    {
+        "name": "D-MG 6620",
+        "label": "d-mg-6620",
+        "hex": "#e6eaf0"
+    },
+    {
+        "name": "D-MG 6610",
+        "label": "d-mg-6610",
+        "hex": "#0d0e10"
+    }
+]

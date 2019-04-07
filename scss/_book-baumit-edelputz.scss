@@ -1,0 +1,16 @@
+
+
+// array of colors
+$baumit-edelputz-colors: ("a121" #e9e5d5), ("a123" #ecead3), ("a124" #e9e8ce), ("a125" #ecebc3), ("a127" #eae6b2), ("a151" #efe9d2), ("a152" #efdfbd), ("a153" #eedbb3), ("a154" #edd4a5), ("a155" #eac78e), ("a157" #e3bc7a), ("a171" #eee1cf), ("a172" #ede0ce), ("a173" #edd8bc), ("a175" #e6c094), ("a177" #dbb07e), ("a181" #f1e2d1), ("a183" #e9c9b3), ("a185" #d8a383), ("a191" #ebd8d1), ("a192" #efd9da), ("a193" #d7b9b8), ("a195" #b28689), ("a211" #d6cbc4), ("a213" #cbb6b4), ("a215" #a48e8d), ("a251" #e5e9e3), ("a252" #d6e2df), ("a253" #ccdbdf), ("a255" #adcce2), ("a257" #8cb4db), ("a261" #e3e4d6), ("a262" #dee4d4), ("a263" #ced7c6), ("a265" #a7baa6), ("a267" #95ab95), ("a282" #e5d7c6), ("a284" #c6aa91), ("a286" #a98b73), ("b151" #c0bfb4), ("b153" #c6bca0), ("b155" #c4b18a), ("b157" #c9a973), ("b238" #776665), ("b253" #b6b8b4), ("b255" #9cabb1), ("b257" #8ca3b2), ("b270" #d5d3ca), ("b271" #b9b7af), ("b273" #a8a8a4), ("b278" #727376), ("b2910" #876858), ("b292" #c1b4a8), ("b294" #ae9d90), ("b296" #957b6d), ("b298" #886f62), ("b302" #c2b7a7), ("b304" #c3af97), ("b306" #b39375), ("b308" #a78261), ("b312" #b8b5a5), ("b314" #b6b39d), ("b316" #9a9371), ("b318" #9c8b6a), ("b322" #c0b49e), ("b324" #c0a789), ("b326" #bf9368), ("b328" #c29165), ("b3310" #776252), ("b3510" #836050);
+
+
+// grab a specific color based on key
+@function baumit-edelputz( $color ) {
+    @each $item in $baumit-edelputz-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

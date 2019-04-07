@@ -1,0 +1,312 @@
+[
+    {
+        "name": "DEUTSCHEpapier Trendcolor hellgelb",
+        "label": "trendcolor-hellgelb",
+        "hex": "#e6dfa7"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor dunkelgelb",
+        "label": "trendcolor-dunkelgelb",
+        "hex": "#eddf8d"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor kanariengelb",
+        "label": "trendcolor-kanariengelb",
+        "hex": "#f3d841"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor maisgold",
+        "label": "trendcolor-maisgold",
+        "hex": "#ffc469"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor chamois",
+        "label": "trendcolor-chamois",
+        "hex": "#f6d4b8"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor orange",
+        "label": "trendcolor-orange",
+        "hex": "#ffc096"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor mandarin",
+        "label": "trendcolor-mandarin",
+        "hex": "#ff9e62"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor rosa",
+        "label": "trendcolor-rosa",
+        "hex": "#fdc7cd"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor kirsch",
+        "label": "trendcolor-kirsch",
+        "hex": "#fea7bb"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor rot",
+        "label": "trendcolor-rot",
+        "hex": "#f36476"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor eosin",
+        "label": "trendcolor-eosin",
+        "hex": "#fa74ba"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor hellgruen",
+        "label": "trendcolor-hellgruen",
+        "hex": "#cee5b5"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor moosgruen",
+        "label": "trendcolor-moosgruen",
+        "hex": "#a6da74"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor dunkelgruen",
+        "label": "trendcolor-dunkelgruen",
+        "hex": "#67cb9b"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor hellblau",
+        "label": "trendcolor-hellblau",
+        "hex": "#a3d0da"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor arcticblau",
+        "label": "trendcolor-arcticblau",
+        "hex": "#69b5d1"
+    },
+    {
+        "name": "DEUTSCHEpapier Trendcolor grau",
+        "label": "trendcolor-grau",
+        "hex": "#dcdbd3"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline creme",
+        "label": "colorline-creme",
+        "hex": "#fdf3d5"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline chamois",
+        "label": "colorline-chamois",
+        "hex": "#ffe9b3"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline hellgelb",
+        "label": "colorline-hellgelb",
+        "hex": "#faf6b5"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline kanariengelb",
+        "label": "colorline-kanariengelb",
+        "hex": "#f8ec4c"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline schwefelgelb",
+        "label": "colorline-schwefelgelb",
+        "hex": "#ffd725"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline altgold",
+        "label": "colorline-altgold",
+        "hex": "#ffc747"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline goldgelb",
+        "label": "colorline-goldgelb",
+        "hex": "#ffc980"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline mandarinorange",
+        "label": "colorline-mandarinorange",
+        "hex": "#ffa62f"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline aprikotorange",
+        "label": "colorline-aprikotorange",
+        "hex": "#ff7a46"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline korallenrot",
+        "label": "colorline-korallenrot",
+        "hex": "#e24d4b"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline rosa",
+        "label": "colorline-rosa",
+        "hex": "#ffc5cd"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline eosin",
+        "label": "colorline-eosin",
+        "hex": "#f588b3"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline flieder",
+        "label": "colorline-flieder",
+        "hex": "#d1d2e4"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline silbergrau",
+        "label": "colorline-silbergrau",
+        "hex": "#c1c0be"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline gletscherweiss",
+        "label": "colorline-gletscherweiss",
+        "hex": "#f7f8ff"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline hellblau",
+        "label": "colorline-hellblau",
+        "hex": "#c9e5e9"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline himmelblau",
+        "label": "colorline-himmelblau",
+        "hex": "#a2d0de"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline arcticblau",
+        "label": "colorline-arcticblau",
+        "hex": "#4bc3e1"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline hellgruen",
+        "label": "colorline-hellgruen",
+        "hex": "#caecb5"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline moosgruen",
+        "label": "colorline-moosgruen",
+        "hex": "#9bd260"
+    },
+    {
+        "name": "DEUTSCHEpapier Colorline tuerkisgruen",
+        "label": "colorline-tuerkisgruen",
+        "hex": "#6dd3b1"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso weiss",
+        "label": "paradiso-weiss",
+        "hex": "#fdfbff"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso hellgrau",
+        "label": "paradiso-hellgrau",
+        "hex": "#e3e7eb"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso lichtgrau",
+        "label": "paradiso-lichtgrau",
+        "hex": "#c8c4b9"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso steingrau",
+        "label": "paradiso-steingrau",
+        "hex": "#adacaa"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso elfenbein",
+        "label": "paradiso-elfenbein",
+        "hex": "#fbf0db"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso beige",
+        "label": "paradiso-beige",
+        "hex": "#fbe3c6"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso goldgelb",
+        "label": "paradiso-goldgelb",
+        "hex": "#ffce31"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso zartgelb",
+        "label": "paradiso-zartgelb",
+        "hex": "#f7ef8e"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso gelb",
+        "label": "paradiso-gelb",
+        "hex": "#fdea34"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso aprikot",
+        "label": "paradiso-aprikot",
+        "hex": "#ffc08f"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso marakuja",
+        "label": "paradiso-marakuja",
+        "hex": "#ffaf00"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso orange",
+        "label": "paradiso-orange",
+        "hex": "#ff9739"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso orangerot",
+        "label": "paradiso-orangerot",
+        "hex": "#ed6a58"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso rot",
+        "label": "paradiso-rot",
+        "hex": "#c4434c"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso rosa",
+        "label": "paradiso-rosa",
+        "hex": "#fcd0db"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso karminrot",
+        "label": "paradiso-karminrot",
+        "hex": "#d85e8c"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso tuerkisgruen",
+        "label": "paradiso-tuerkisgruen",
+        "hex": "#7bd4b1"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso gruen",
+        "label": "paradiso-gruen",
+        "hex": "#41ae5d"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso fruehlingsgruen",
+        "label": "paradiso-fruehlingsgruen",
+        "hex": "#9ad158"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso grasgruen",
+        "label": "paradiso-grasgruen",
+        "hex": "#6cbe69"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso hellblau",
+        "label": "paradiso-hellblau",
+        "hex": "#bfe3e6"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso flieder",
+        "label": "paradiso-flieder",
+        "hex": "#9eb9d5"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso blau",
+        "label": "paradiso-blau",
+        "hex": "#68bdd5"
+    },
+    {
+        "name": "DEUTSCHEpapier Paradiso royalblau",
+        "label": "paradiso-royalblau",
+        "hex": "#5564a2"
+    }
+]

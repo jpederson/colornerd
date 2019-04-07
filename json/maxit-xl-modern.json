@@ -1,0 +1,477 @@
+[
+    {
+        "name": "Maxit MD101",
+        "label": "maxit-md101",
+        "hex": "#fff2ac"
+    },
+    {
+        "name": "Maxit MD102",
+        "label": "maxit-md102",
+        "hex": "#fffdbb"
+    },
+    {
+        "name": "Maxit MD103",
+        "label": "maxit-md103",
+        "hex": "#fffecb"
+    },
+    {
+        "name": "Maxit MD104",
+        "label": "maxit-md104",
+        "hex": "#ffffd8"
+    },
+    {
+        "name": "Maxit MD105",
+        "label": "maxit-md105",
+        "hex": "#ffffe7"
+    },
+    {
+        "name": "Maxit MD111",
+        "label": "maxit-md111",
+        "hex": "#ffeba5"
+    },
+    {
+        "name": "Maxit MD112",
+        "label": "maxit-md112",
+        "hex": "#ffefae"
+    },
+    {
+        "name": "Maxit MD113",
+        "label": "maxit-md113",
+        "hex": "#fff7c3"
+    },
+    {
+        "name": "Maxit MD114",
+        "label": "maxit-md114",
+        "hex": "#fffdd2"
+    },
+    {
+        "name": "Maxit MD115",
+        "label": "maxit-md115",
+        "hex": "#fffee2"
+    },
+    {
+        "name": "Maxit MD121",
+        "label": "maxit-md121",
+        "hex": "#ffc788"
+    },
+    {
+        "name": "Maxit MD122",
+        "label": "maxit-md122",
+        "hex": "#ffd39b"
+    },
+    {
+        "name": "Maxit MD123",
+        "label": "maxit-md123",
+        "hex": "#ffe0b1"
+    },
+    {
+        "name": "Maxit MD124",
+        "label": "maxit-md124",
+        "hex": "#fff1cb"
+    },
+    {
+        "name": "Maxit MD125",
+        "label": "maxit-md125",
+        "hex": "#fffce2"
+    },
+    {
+        "name": "Maxit MD131",
+        "label": "maxit-md131",
+        "hex": "#ffcc96"
+    },
+    {
+        "name": "Maxit MD132",
+        "label": "maxit-md132",
+        "hex": "#ffd7a6"
+    },
+    {
+        "name": "Maxit MD133",
+        "label": "maxit-md133",
+        "hex": "#ffe8bf"
+    },
+    {
+        "name": "Maxit MD134",
+        "label": "maxit-md134",
+        "hex": "#fff3d1"
+    },
+    {
+        "name": "Maxit MD135",
+        "label": "maxit-md135",
+        "hex": "#fffce6"
+    },
+    {
+        "name": "Maxit MD141",
+        "label": "maxit-md141",
+        "hex": "#efa48a"
+    },
+    {
+        "name": "Maxit MD142",
+        "label": "maxit-md142",
+        "hex": "#fcbaa1"
+    },
+    {
+        "name": "Maxit MD143",
+        "label": "maxit-md143",
+        "hex": "#ffc5b0"
+    },
+    {
+        "name": "Maxit MD144",
+        "label": "maxit-md144",
+        "hex": "#ffdccb"
+    },
+    {
+        "name": "Maxit MD145",
+        "label": "maxit-md145",
+        "hex": "#fff2e5"
+    },
+    {
+        "name": "Maxit MD151",
+        "label": "maxit-md151",
+        "hex": "#d8867a"
+    },
+    {
+        "name": "Maxit MD152",
+        "label": "maxit-md152",
+        "hex": "#e2988c"
+    },
+    {
+        "name": "Maxit MD153",
+        "label": "maxit-md153",
+        "hex": "#ecaaa0"
+    },
+    {
+        "name": "Maxit MD154",
+        "label": "maxit-md154",
+        "hex": "#ffc6bb"
+    },
+    {
+        "name": "Maxit MD155",
+        "label": "maxit-md155",
+        "hex": "#ffe7de"
+    },
+    {
+        "name": "Maxit MD161",
+        "label": "maxit-md161",
+        "hex": "#c58987"
+    },
+    {
+        "name": "Maxit MD162",
+        "label": "maxit-md162",
+        "hex": "#cf9895"
+    },
+    {
+        "name": "Maxit MD163",
+        "label": "maxit-md163",
+        "hex": "#e9b8b6"
+    },
+    {
+        "name": "Maxit MD164",
+        "label": "maxit-md164",
+        "hex": "#f1c7c4"
+    },
+    {
+        "name": "Maxit MD165",
+        "label": "maxit-md165",
+        "hex": "#ffe3e0"
+    },
+    {
+        "name": "Maxit MD171",
+        "label": "maxit-md171",
+        "hex": "#b68e95"
+    },
+    {
+        "name": "Maxit MD172",
+        "label": "maxit-md172",
+        "hex": "#bf9da4"
+    },
+    {
+        "name": "Maxit MD173",
+        "label": "maxit-md173",
+        "hex": "#dac1c9"
+    },
+    {
+        "name": "Maxit MD174",
+        "label": "maxit-md174",
+        "hex": "#ecd7db"
+    },
+    {
+        "name": "Maxit MD175",
+        "label": "maxit-md175",
+        "hex": "#fdedec"
+    },
+    {
+        "name": "Maxit MD181",
+        "label": "maxit-md181",
+        "hex": "#9594b3"
+    },
+    {
+        "name": "Maxit MD182",
+        "label": "maxit-md182",
+        "hex": "#a4a2bf"
+    },
+    {
+        "name": "Maxit MD183",
+        "label": "maxit-md183",
+        "hex": "#bab8d0"
+    },
+    {
+        "name": "Maxit MD184",
+        "label": "maxit-md184",
+        "hex": "#d2d1e5"
+    },
+    {
+        "name": "Maxit MD185",
+        "label": "maxit-md185",
+        "hex": "#f1effa"
+    },
+    {
+        "name": "Maxit MD191",
+        "label": "maxit-md191",
+        "hex": "#8fa1d2"
+    },
+    {
+        "name": "Maxit MD192",
+        "label": "maxit-md192",
+        "hex": "#a5b6e2"
+    },
+    {
+        "name": "Maxit MD193",
+        "label": "maxit-md193",
+        "hex": "#c2cff1"
+    },
+    {
+        "name": "Maxit MD194",
+        "label": "maxit-md194",
+        "hex": "#d7e0f8"
+    },
+    {
+        "name": "Maxit MD195",
+        "label": "maxit-md195",
+        "hex": "#f2f5ff"
+    },
+    {
+        "name": "Maxit MD201",
+        "label": "maxit-md201",
+        "hex": "#a5c6e9"
+    },
+    {
+        "name": "Maxit MD202",
+        "label": "maxit-md202",
+        "hex": "#bbdbf9"
+    },
+    {
+        "name": "Maxit MD203",
+        "label": "maxit-md203",
+        "hex": "#d4eaff"
+    },
+    {
+        "name": "Maxit MD204",
+        "label": "maxit-md204",
+        "hex": "#eaf9ff"
+    },
+    {
+        "name": "Maxit MD205",
+        "label": "maxit-md205",
+        "hex": "#f9ffff"
+    },
+    {
+        "name": "Maxit MD211",
+        "label": "maxit-md211",
+        "hex": "#87cce6"
+    },
+    {
+        "name": "Maxit MD212",
+        "label": "maxit-md212",
+        "hex": "#9ddaf0"
+    },
+    {
+        "name": "Maxit MD213",
+        "label": "maxit-md213",
+        "hex": "#bce6f7"
+    },
+    {
+        "name": "Maxit MD214",
+        "label": "maxit-md214",
+        "hex": "#d5f7ff"
+    },
+    {
+        "name": "Maxit MD215",
+        "label": "maxit-md215",
+        "hex": "#f4ffff"
+    },
+    {
+        "name": "Maxit MD221",
+        "label": "maxit-md221",
+        "hex": "#8dc8c6"
+    },
+    {
+        "name": "Maxit MD222",
+        "label": "maxit-md222",
+        "hex": "#a4dad9"
+    },
+    {
+        "name": "Maxit MD223",
+        "label": "maxit-md223",
+        "hex": "#b9e3e2"
+    },
+    {
+        "name": "Maxit MD224",
+        "label": "maxit-md224",
+        "hex": "#d5f2ef"
+    },
+    {
+        "name": "Maxit MD225",
+        "label": "maxit-md225",
+        "hex": "#f5fffc"
+    },
+    {
+        "name": "Maxit MD231",
+        "label": "maxit-md231",
+        "hex": "#9ac5a6"
+    },
+    {
+        "name": "Maxit MD232",
+        "label": "maxit-md232",
+        "hex": "#aed5ba"
+    },
+    {
+        "name": "Maxit MD233",
+        "label": "maxit-md233",
+        "hex": "#c2e3ce"
+    },
+    {
+        "name": "Maxit MD234",
+        "label": "maxit-md234",
+        "hex": "#d5eddc"
+    },
+    {
+        "name": "Maxit MD235",
+        "label": "maxit-md235",
+        "hex": "#f0fff6"
+    },
+    {
+        "name": "Maxit MD241",
+        "label": "maxit-md241",
+        "hex": "#c7e2b5"
+    },
+    {
+        "name": "Maxit MD242",
+        "label": "maxit-md242",
+        "hex": "#d5ebc6"
+    },
+    {
+        "name": "Maxit MD243",
+        "label": "maxit-md243",
+        "hex": "#e4f6d9"
+    },
+    {
+        "name": "Maxit MD244",
+        "label": "maxit-md244",
+        "hex": "#f5ffeb"
+    },
+    {
+        "name": "Maxit MD245",
+        "label": "maxit-md245",
+        "hex": "#fdfff1"
+    },
+    {
+        "name": "Maxit MD251",
+        "label": "maxit-md251",
+        "hex": "#e6f2b7"
+    },
+    {
+        "name": "Maxit MD252",
+        "label": "maxit-md252",
+        "hex": "#eff8c7"
+    },
+    {
+        "name": "Maxit MD253",
+        "label": "maxit-md253",
+        "hex": "#fbffdb"
+    },
+    {
+        "name": "Maxit MD254",
+        "label": "maxit-md254",
+        "hex": "#fdffe1"
+    },
+    {
+        "name": "Maxit MD255",
+        "label": "maxit-md255",
+        "hex": "#ffffeb"
+    },
+    {
+        "name": "Maxit MD261",
+        "label": "maxit-md261",
+        "hex": "#ffffb4"
+    },
+    {
+        "name": "Maxit MD262",
+        "label": "maxit-md262",
+        "hex": "#ffffc0"
+    },
+    {
+        "name": "Maxit MD263",
+        "label": "maxit-md263",
+        "hex": "#ffffcd"
+    },
+    {
+        "name": "Maxit MD264",
+        "label": "maxit-md264",
+        "hex": "#ffffda"
+    },
+    {
+        "name": "Maxit MD265",
+        "label": "maxit-md265",
+        "hex": "#ffffe7"
+    },
+    {
+        "name": "Maxit MD271",
+        "label": "maxit-md271",
+        "hex": "#9d9b9a"
+    },
+    {
+        "name": "Maxit MD272",
+        "label": "maxit-md272",
+        "hex": "#adaaaa"
+    },
+    {
+        "name": "Maxit MD273",
+        "label": "maxit-md273",
+        "hex": "#cccac9"
+    },
+    {
+        "name": "Maxit MD274",
+        "label": "maxit-md274",
+        "hex": "#dedad8"
+    },
+    {
+        "name": "Maxit MD275",
+        "label": "maxit-md275",
+        "hex": "#f1ede9"
+    },
+    {
+        "name": "Maxit MD281",
+        "label": "maxit-md281",
+        "hex": "#8b8f90"
+    },
+    {
+        "name": "Maxit MD282",
+        "label": "maxit-md282",
+        "hex": "#9da0a1"
+    },
+    {
+        "name": "Maxit MD283",
+        "label": "maxit-md283",
+        "hex": "#b8b9b9"
+    },
+    {
+        "name": "Maxit MD284",
+        "label": "maxit-md284",
+        "hex": "#d0d2d1"
+    },
+    {
+        "name": "Maxit MD285",
+        "label": "maxit-md285",
+        "hex": "#e4e5e4"
+    }
+]

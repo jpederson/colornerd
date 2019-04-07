@@ -1,0 +1,16 @@
+
+
+// array of colors
+$lgchem-ll-5000-series-colors: ("ll-5011" #950c12), ("ll-5021" #adb1af), ("ll-5031" #be8300), ("ll-5041" #00523c), ("ll-5051" #003974), ("ll-5061" #b14600), ("ll-5091" #121316);
+
+
+// grab a specific color based on key
+@function lgchem-ll-5000-series( $color ) {
+    @each $item in $lgchem-ll-5000-series-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

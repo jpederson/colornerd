@@ -1,0 +1,652 @@
+[
+    {
+        "name": "Fasson 930 Weinrot",
+        "label": "fasson-930-weinrot",
+        "hex": "#77121c"
+    },
+    {
+        "name": "Fasson 950 Karminrot",
+        "label": "fasson-950-karminrot",
+        "hex": "#910f0f"
+    },
+    {
+        "name": "Fasson 903 Tomatenrot",
+        "label": "fasson-903-tomatenrot",
+        "hex": "#9f1f1d"
+    },
+    {
+        "name": "Fasson 955 Cardinalrot",
+        "label": "fasson-955-cardinalrot",
+        "hex": "#ac1d1c"
+    },
+    {
+        "name": "Fasson 906 Rot Medium",
+        "label": "fasson-906-rot-medium",
+        "hex": "#c7220e"
+    },
+    {
+        "name": "Fasson 954 Klatschmohn",
+        "label": "fasson-954-klatschmohn",
+        "hex": "#d1410b"
+    },
+    {
+        "name": "Fasson 910 Dunkelorange",
+        "label": "fasson-910-dunkelorange",
+        "hex": "#e45800"
+    },
+    {
+        "name": "Fasson 911 Orange",
+        "label": "fasson-911-orange",
+        "hex": "#e66d00"
+    },
+    {
+        "name": "Fasson 904 Chromgelb",
+        "label": "fasson-904-chromgelb",
+        "hex": "#ed9500"
+    },
+    {
+        "name": "Fasson 953 Melonengelb",
+        "label": "fasson-953-melonengelb",
+        "hex": "#fc9b00"
+    },
+    {
+        "name": "Fasson 958 Gelb Medium",
+        "label": "fasson-958-gelb-medium",
+        "hex": "#ffac00"
+    },
+    {
+        "name": "Fasson 902 Gelb",
+        "label": "fasson-902-gelb",
+        "hex": "#ffb800"
+    },
+    {
+        "name": "Fasson 952 Sonnengelb",
+        "label": "fasson-952-sonnengelb",
+        "hex": "#f6a800"
+    },
+    {
+        "name": "Fasson 951 Primelgelb",
+        "label": "fasson-951-primelgelb",
+        "hex": "#f6c400"
+    },
+    {
+        "name": "Fasson 956 Grasgruen",
+        "label": "fasson-956-grasgruen",
+        "hex": "#72ab2a"
+    },
+    {
+        "name": "Fasson 907 Hellgruen",
+        "label": "fasson-907-hellgruen",
+        "hex": "#5ba039"
+    },
+    {
+        "name": "Fasson 919 Gruen",
+        "label": "fasson-919-gruen",
+        "hex": "#54853b"
+    },
+    {
+        "name": "Fasson 908 Irischgruen",
+        "label": "fasson-908-irischgruen",
+        "hex": "#007d3c"
+    },
+    {
+        "name": "Fasson 916 Dunkelgruen",
+        "label": "fasson-916-dunkelgruen",
+        "hex": "#094121"
+    },
+    {
+        "name": "Fasson 917 Dunkelblau",
+        "label": "fasson-917-dunkelblau",
+        "hex": "#152334"
+    },
+    {
+        "name": "Fasson 957 Kobaltblau",
+        "label": "fasson-957-kobaltblau",
+        "hex": "#181f3e"
+    },
+    {
+        "name": "Fasson 909 Saphirblau",
+        "label": "fasson-909-saphirblau",
+        "hex": "#253d7a"
+    },
+    {
+        "name": "Fasson 939 Koenigsblau",
+        "label": "fasson-939-koenigsblau",
+        "hex": "#003c77"
+    },
+    {
+        "name": "Fasson 941 Kosmosblau",
+        "label": "fasson-941-kosmosblau",
+        "hex": "#005495"
+    },
+    {
+        "name": "Fasson 912 Enzianblau",
+        "label": "fasson-912-enzianblau",
+        "hex": "#005c9a"
+    },
+    {
+        "name": "Fasson 905 Himmelblau",
+        "label": "fasson-905-himmelblau",
+        "hex": "#1f8ec0"
+    },
+    {
+        "name": "Fasson 942 Hellblau",
+        "label": "fasson-942-hellblau",
+        "hex": "#0096cc"
+    },
+    {
+        "name": "Fasson 944 Wasser",
+        "label": "fasson-944-wasser",
+        "hex": "#00a597"
+    },
+    {
+        "name": "Fasson 943 Petrol",
+        "label": "fasson-943-petrol",
+        "hex": "#00646f"
+    },
+    {
+        "name": "Fasson 948 Purpur",
+        "label": "fasson-948-purpur",
+        "hex": "#652a61"
+    },
+    {
+        "name": "Fasson 945 Lavendel",
+        "label": "fasson-945-lavendel",
+        "hex": "#816fb1"
+    },
+    {
+        "name": "Fasson 946 Lila",
+        "label": "fasson-946-lila",
+        "hex": "#c29fc8"
+    },
+    {
+        "name": "Fasson 947 Magenta",
+        "label": "fasson-947-magenta",
+        "hex": "#d16591"
+    },
+    {
+        "name": "Fasson 949 Kastanienbraun",
+        "label": "fasson-949-kastanienbraun",
+        "hex": "#552c1b"
+    },
+    {
+        "name": "Fasson 915 Mahagonibraun",
+        "label": "fasson-915-mahagonibraun",
+        "hex": "#482b20"
+    },
+    {
+        "name": "Fasson 913 Elfenbein",
+        "label": "fasson-913-elfenbein",
+        "hex": "#ebdbc0"
+    },
+    {
+        "name": "Fasson 918 Grau",
+        "label": "fasson-918-grau",
+        "hex": "#7e8585"
+    },
+    {
+        "name": "Fasson 962 Dunkelgrau",
+        "label": "fasson-962-dunkelgrau",
+        "hex": "#474a4a"
+    },
+    {
+        "name": "Fasson 960 Mittelgrau",
+        "label": "fasson-960-mittelgrau",
+        "hex": "#a1a1a0"
+    },
+    {
+        "name": "Fasson 961 Hellgrau",
+        "label": "fasson-961-hellgrau",
+        "hex": "#cbcdce"
+    },
+    {
+        "name": "Fasson 901 Schwarz",
+        "label": "fasson-901-schwarz",
+        "hex": "#161616"
+    },
+    {
+        "name": "Fasson 900 Alaskaweiss",
+        "label": "fasson-900-alaskaweiss",
+        "hex": "#fcfcf5"
+    },
+    {
+        "name": "Fasson 994 Blau-Metallic",
+        "label": "fasson-994-blau-metallic",
+        "hex": "#192c51"
+    },
+    {
+        "name": "Fasson 992 Grau-Metallic",
+        "label": "fasson-992-grau-metallic",
+        "hex": "#595c5b"
+    },
+    {
+        "name": "Fasson 990 Silber",
+        "label": "fasson-990-silber",
+        "hex": "#cfd0d0"
+    },
+    {
+        "name": "Fasson 991 Gold",
+        "label": "fasson-991-gold",
+        "hex": "#b39e61"
+    },
+    {
+        "name": "Fasson 998 Rot-Metallic",
+        "label": "fasson-998-rot-metallic",
+        "hex": "#5a1e28"
+    },
+    {
+        "name": "Fasson 6203 Fluor-Rot",
+        "label": "fasson-6203-fluor-rot",
+        "hex": "#ff0000"
+    },
+    {
+        "name": "Fasson 6202 Fluor-Gelb",
+        "label": "fasson-6202-fluor-gelb",
+        "hex": "#f8ff00"
+    },
+    {
+        "name": "Fasson 4506 Rot",
+        "label": "fasson-4506-rot",
+        "hex": "#b43634"
+    },
+    {
+        "name": "Fasson 4510 Orange",
+        "label": "fasson-4510-orange",
+        "hex": "#dc6135"
+    },
+    {
+        "name": "Fasson 4504 Chromgelb",
+        "label": "fasson-4504-chromgelb",
+        "hex": "#eda815"
+    },
+    {
+        "name": "Fasson 4502 Gelb",
+        "label": "fasson-4502-gelb",
+        "hex": "#ddb811"
+    },
+    {
+        "name": "Fasson 4507 Hellgruen",
+        "label": "fasson-4507-hellgruen",
+        "hex": "#7db218"
+    },
+    {
+        "name": "Fasson 4516 Gruen",
+        "label": "fasson-4516-gruen",
+        "hex": "#006e3f"
+    },
+    {
+        "name": "Fasson 4517 Dunkelblau",
+        "label": "fasson-4517-dunkelblau",
+        "hex": "#3a2d7b"
+    },
+    {
+        "name": "Fasson 4512 Blau",
+        "label": "fasson-4512-blau",
+        "hex": "#006ea8"
+    },
+    {
+        "name": "Fasson 4513 Violett",
+        "label": "fasson-4513-violett",
+        "hex": "#5f3068"
+    },
+    {
+        "name": "Fasson 4511 Pink",
+        "label": "fasson-4511-pink",
+        "hex": "#a32f74"
+    },
+    {
+        "name": "Fasson 4514 Braun",
+        "label": "fasson-4514-braun",
+        "hex": "#6e3d35"
+    },
+    {
+        "name": "Fasson 4515 Dunkelbraun",
+        "label": "fasson-4515-dunkelbraun",
+        "hex": "#533c36"
+    },
+    {
+        "name": "Fasson 4501 Schwarz",
+        "label": "fasson-4501-schwarz",
+        "hex": "#303133"
+    },
+    {
+        "name": "Fasson 4500 Weiss",
+        "label": "fasson-4500-weiss",
+        "hex": "#dfe1d7"
+    },
+    {
+        "name": "Fasson 8802 Weinrot",
+        "label": "fasson-8802-weinrot",
+        "hex": "#65222d"
+    },
+    {
+        "name": "Fasson 8803 Rot",
+        "label": "fasson-8803-rot",
+        "hex": "#aa161d"
+    },
+    {
+        "name": "Fasson 8804 Hellrot",
+        "label": "fasson-8804-hellrot",
+        "hex": "#d63c25"
+    },
+    {
+        "name": "Fasson 8805 Orange",
+        "label": "fasson-8805-orange",
+        "hex": "#ea6200"
+    },
+    {
+        "name": "Fasson 8806 Gelb",
+        "label": "fasson-8806-gelb",
+        "hex": "#ffbb00"
+    },
+    {
+        "name": "Fasson 8807 Zitronengelb",
+        "label": "fasson-8807-zitronengelb",
+        "hex": "#f8e200"
+    },
+    {
+        "name": "Fasson 8814 Lindgruen",
+        "label": "fasson-8814-lindgruen",
+        "hex": "#84cf33"
+    },
+    {
+        "name": "Fasson 8813 Gelbgruen",
+        "label": "fasson-8813-gelbgruen",
+        "hex": "#4d9f11"
+    },
+    {
+        "name": "Fasson 8812 Verkehrsgruen",
+        "label": "fasson-8812-verkehrsgruen",
+        "hex": "#009253"
+    },
+    {
+        "name": "Fasson 8811 Dunkelgruen",
+        "label": "fasson-8811-dunkelgruen",
+        "hex": "#005132"
+    },
+    {
+        "name": "Fasson 8808 Dunkelblau",
+        "label": "fasson-8808-dunkelblau",
+        "hex": "#005291"
+    },
+    {
+        "name": "Fasson 8809 Blau",
+        "label": "fasson-8809-blau",
+        "hex": "#008abf"
+    },
+    {
+        "name": "Fasson 8810 Himmelblau",
+        "label": "fasson-8810-himmelblau",
+        "hex": "#00adc9"
+    },
+    {
+        "name": "Fasson 8817 Violett",
+        "label": "fasson-8817-violett",
+        "hex": "#643e93"
+    },
+    {
+        "name": "Fasson 8815 Zyklame",
+        "label": "fasson-8815-zyklame",
+        "hex": "#ba2e69"
+    },
+    {
+        "name": "Fasson 8816 Pink",
+        "label": "fasson-8816-pink",
+        "hex": "#f391c1"
+    },
+    {
+        "name": "Fasson 8818 Braun",
+        "label": "fasson-8818-braun",
+        "hex": "#53372a"
+    },
+    {
+        "name": "Fasson 8819 Beige",
+        "label": "fasson-8819-beige",
+        "hex": "#e7cc9b"
+    },
+    {
+        "name": "Fasson 8820 Grau",
+        "label": "fasson-8820-grau",
+        "hex": "#626768"
+    },
+    {
+        "name": "Fasson 8801 Schwarz",
+        "label": "fasson-8801-schwarz",
+        "hex": "#1b1d1e"
+    },
+    {
+        "name": "Fasson 8800 Weiss",
+        "label": "fasson-8800-weiss",
+        "hex": "#f5f7f9"
+    },
+    {
+        "name": "Fasson EM 13 Burgunder",
+        "label": "fasson-em-13-burgunder",
+        "hex": "#7c3e48"
+    },
+    {
+        "name": "Fasson EM 03 Geranienrot",
+        "label": "fasson-em-03-geranienrot",
+        "hex": "#a34042"
+    },
+    {
+        "name": "Fasson EM 11 Kirschrot",
+        "label": "fasson-em-11-kirschrot",
+        "hex": "#be4241"
+    },
+    {
+        "name": "Fasson EM 14 Klatschmohn",
+        "label": "fasson-em-14-klatschmohn",
+        "hex": "#cb4d40"
+    },
+    {
+        "name": "Fasson EM 09 Orange",
+        "label": "fasson-em-09-orange",
+        "hex": "#e8663c"
+    },
+    {
+        "name": "Fasson EM 16 Hellorange",
+        "label": "fasson-em-16-hellorange",
+        "hex": "#ffa314"
+    },
+    {
+        "name": "Fasson EM 15 Sonnenblumengelb",
+        "label": "fasson-em-15-sonnenblumengelb",
+        "hex": "#ffbc0e"
+    },
+    {
+        "name": "Fasson EM 04 Primelgelb",
+        "label": "fasson-em-04-primelgelb",
+        "hex": "#ffc516"
+    },
+    {
+        "name": "Fasson EM 17 Hellgruen",
+        "label": "fasson-em-17-hellgruen",
+        "hex": "#7db246"
+    },
+    {
+        "name": "Fasson EM 18 Grasgruen",
+        "label": "fasson-em-18-grasgruen",
+        "hex": "#449052"
+    },
+    {
+        "name": "Fasson EM 06 Kaktusgruen",
+        "label": "fasson-em-06-kaktusgruen",
+        "hex": "#008e5f"
+    },
+    {
+        "name": "Fasson EM 19 Waldgruen",
+        "label": "fasson-em-19-waldgruen",
+        "hex": "#365d4b"
+    },
+    {
+        "name": "Fasson EM 12 Dunkelblau",
+        "label": "fasson-em-12-dunkelblau",
+        "hex": "#435173"
+    },
+    {
+        "name": "Fasson EM 20 Ultramarinblau",
+        "label": "fasson-em-20-ultramarinblau",
+        "hex": "#3f5886"
+    },
+    {
+        "name": "Fasson EM 05 Blau",
+        "label": "fasson-em-05-blau",
+        "hex": "#356791"
+    },
+    {
+        "name": "Fasson EM 21 Intensivblau",
+        "label": "fasson-em-21-intensivblau",
+        "hex": "#007cb2"
+    },
+    {
+        "name": "Fasson EM 10 Hellblau",
+        "label": "fasson-em-10-hellblau",
+        "hex": "#2d8ac1"
+    },
+    {
+        "name": "Fasson EM 22 Violett",
+        "label": "fasson-em-22-violett",
+        "hex": "#785086"
+    },
+    {
+        "name": "Fasson EM 23 Lila",
+        "label": "fasson-em-23-lila",
+        "hex": "#a796c1"
+    },
+    {
+        "name": "Fasson EM 24 Magenta",
+        "label": "fasson-em-24-magenta",
+        "hex": "#c9558b"
+    },
+    {
+        "name": "Fasson EM 25 Lachs",
+        "label": "fasson-em-25-lachs",
+        "hex": "#ea9980"
+    },
+    {
+        "name": "Fasson EM 07 Braun",
+        "label": "fasson-em-07-braun",
+        "hex": "#5b4b46"
+    },
+    {
+        "name": "Fasson EM 26 Hellbraun",
+        "label": "fasson-em-26-hellbraun",
+        "hex": "#8d6f5a"
+    },
+    {
+        "name": "Fasson EM 27 Beige",
+        "label": "fasson-em-27-beige",
+        "hex": "#eed9b7"
+    },
+    {
+        "name": "Fasson EM 08 Grau",
+        "label": "fasson-em-08-grau",
+        "hex": "#8d959b"
+    },
+    {
+        "name": "Fasson EM 02 Schwarz",
+        "label": "fasson-em-02-schwarz",
+        "hex": "#474b4c"
+    },
+    {
+        "name": "Fasson EM 01 Weiss",
+        "label": "fasson-em-01-weiss",
+        "hex": "#f6faf8"
+    },
+    {
+        "name": "Fasson EG 03 Geranienrot",
+        "label": "fasson-eg-03-geranienrot",
+        "hex": "#9d2628"
+    },
+    {
+        "name": "Fasson EG 11 Hellrot",
+        "label": "fasson-eg-11-hellrot",
+        "hex": "#b9201e"
+    },
+    {
+        "name": "Fasson EG 09 Orange",
+        "label": "fasson-eg-09-orange",
+        "hex": "#f66d16"
+    },
+    {
+        "name": "Fasson EG 04 Primelgelb",
+        "label": "fasson-eg-04-primelgelb",
+        "hex": "#ffc000"
+    },
+    {
+        "name": "Fasson EG 06 Kaktusgruen",
+        "label": "fasson-eg-06-kaktusgruen",
+        "hex": "#008451"
+    },
+    {
+        "name": "Fasson EG 12 Dunkelblau",
+        "label": "fasson-eg-12-dunkelblau",
+        "hex": "#263b66"
+    },
+    {
+        "name": "Fasson EG 05 Blau",
+        "label": "fasson-eg-05-blau",
+        "hex": "#005889"
+    },
+    {
+        "name": "Fasson EG 10 Hellblau",
+        "label": "fasson-eg-10-hellblau",
+        "hex": "#007ebd"
+    },
+    {
+        "name": "Fasson EG 07 Braun",
+        "label": "fasson-eg-07-braun",
+        "hex": "#4a322a"
+    },
+    {
+        "name": "Fasson EG 08 Grau",
+        "label": "fasson-eg-08-grau",
+        "hex": "#848c93"
+    },
+    {
+        "name": "Fasson EG 02 Schwarz",
+        "label": "fasson-eg-02-schwarz",
+        "hex": "#161819"
+    },
+    {
+        "name": "Fasson EG 01 Weiss",
+        "label": "fasson-eg-01-weiss",
+        "hex": "#f5f9fd"
+    },
+    {
+        "name": "Fasson Gold glaenzend",
+        "label": "fasson-gold-glaenzend",
+        "hex": "#676451"
+    },
+    {
+        "name": "Fasson Silber glaenzend",
+        "label": "fasson-silber-glaenzend",
+        "hex": "#4c5156"
+    },
+    {
+        "name": "Fasson Signmask Blau",
+        "label": "fasson-signmask-blau",
+        "hex": "#a5d0d3"
+    },
+    {
+        "name": "Fasson Signmask opak",
+        "label": "fasson-signmask-opak",
+        "hex": "#f7f8f3"
+    },
+    {
+        "name": "Fasson Rubyscreen ",
+        "label": "fasson-rubyscreen",
+        "hex": "#87000d"
+    },
+    {
+        "name": "Fasson Amberscreen ",
+        "label": "fasson-amberscreen",
+        "hex": "#9b4524"
+    },
+    {
+        "name": "Fasson FasCal Etched Glass Film",
+        "label": "fasson-fascal-etched-glass-film",
+        "hex": "#acb5b0"
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "name": "Lizard Brown",
+        "label": "lizard-brown",
+        "hex": "#887c63"
+    },
+    {
+        "name": "BS10B25 Turtle",
+        "label": "bs10b25-turtle",
+        "hex": "#6d644d"
+    },
+    {
+        "name": "BS10B27 Brown",
+        "label": "bs10b27-brown",
+        "hex": "#50452d"
+    },
+    {
+        "name": "BS10B29 Ironstone",
+        "label": "bs10b29-ironstone",
+        "hex": "#373326"
+    },
+    {
+        "name": "BS10C31 Champagne",
+        "label": "bs10c31-champagne",
+        "hex": "#f3e2bf"
+    },
+    {
+        "name": "BS10C33 Pollen",
+        "label": "bs10c33-pollen",
+        "hex": "#e6d298"
+    },
+    {
+        "name": "BS10C35 Golden Bronze",
+        "label": "bs10c35-golden-bronze",
+        "hex": "#c1a65e"
+    },
+    {
+        "name": "BS10C37 Yellow Brown",
+        "label": "bs10c37-yellow-brown",
+        "hex": "#937725"
+    },
+    {
+        "name": "BS10C39 Saluki",
+        "label": "bs10c39-saluki",
+        "hex": "#5a4c25"
+    },
+    {
+        "name": "BS10D41 Yellow",
+        "label": "bs10d41-yellow",
+        "hex": "#eed079"
+    },
+    {
+        "name": "BS10D43 Banana",
+        "label": "bs10d43-banana",
+        "hex": "#c89e00"
+    },
+    {
+        "name": "BS10D44 Light Olive",
+        "label": "bs10d44-light-olive",
+        "hex": "#be9129"
+    },
+    {
+        "name": "BS10D45 Florida",
+        "label": "bs10d45-florida",
+        "hex": "#967701"
+    },
+    {
+        "name": "BS10E49 Pale Lemon",
+        "label": "bs10e49-pale-lemon",
+        "hex": "#eae4a2"
+    },
+    {
+        "name": "BS10E50 Forsythia",
+        "label": "bs10e50-forsythia",
+        "hex": "#f0d15d"
+    },
+    {
+        "name": "BS10E51 Yellow",
+        "label": "bs10e51-yellow",
+        "hex": "#eab700"
+    },
+    {
+        "name": "BS10E53 Canary",
+        "label": "bs10e53-canary",
+        "hex": "#edc300"
+    },
+    {
+        "name": "BS10E55 Camery Yellow",
+        "label": "bs10e55-camery-yellow",
+        "hex": "#ffca00"
+    },
+    {
+        "name": "BS10E56 Yellow",
+        "label": "bs10e56-yellow",
+        "hex": "#d8a900"
+    },
+    {
+        "name": "BS12B15 Seafoam",
+        "label": "bs12b15-seafoam",
+        "hex": "#eae9d2"
+    },
+    {
+        "name": "BS12B17 Willow",
+        "label": "bs12b17-willow",
+        "hex": "#cccaa9"
+    },
+    {
+        "name": "BS12B19 Beige",
+        "label": "bs12b19-beige",
+        "hex": "#b0af90"
+    },
+    {
+        "name": "BS12B21 Opaline",
+        "label": "bs12b21-opaline",
+        "hex": "#99997c"
+    },
+    {
+        "name": "BS12B23 Green",
+        "label": "bs12b23-green",
+        "hex": "#7e7f63"
+    },
+    {
+        "name": "BS12B25 Thyme",
+        "label": "bs12b25-thyme",
+        "hex": "#61634e"
+    },
+    {
+        "name": "BS12B27 Green",
+        "label": "bs12b27-green",
+        "hex": "#616151"
+    },
+    {
+        "name": "BS12B29 Juniper",
+        "label": "bs12b29-juniper",
+        "hex": "#343626"
+    },
+    {
+        "name": "BS12B31 Light Yellow",
+        "label": "bs12b31-light-yellow",
+        "hex": "#eae9be"
+    },
+    {
+        "name": "BS12C33 Catkin",
+        "label": "bs12c33-catkin",
+        "hex": "#c9ca90"
+    },
+    {
+        "name": "BS12C35 Green",
+        "label": "bs12c35-green",
+        "hex": "#afb17a"
+    },
+    {
+        "name": "BS12C37 Green",
+        "label": "bs12c37-green",
+        "hex": "#777d2d"
+    },
+    {
+        "name": "BS12C39 Orchard",
+        "label": "bs12c39-orchard",
+        "hex": "#464b24"
+    },
+    {
+        "name": "BS12C40 Green",
+        "label": "bs12c40-green",
+        "hex": "#313724"
+    },
+    {
+        "name": "BS12D41 Green",
+        "label": "bs12d41-green",
+        "hex": "#cac973"
+    },
+    {
+        "name": "BS12D43 Sapling",
+        "label": "bs12d43-sapling",
+        "hex": "#8e8f25"
+    },
+    {
+        "name": "BS12D44 Green",
+        "label": "bs12d44-green",
+        "hex": "#777a07"
+    },
+    {
+        "name": "BS12D45 Tundra",
+        "label": "bs12d45-tundra",
+        "hex": "#63641f"
+    },
+    {
+        "name": "BS12E51 Citrine",
+        "label": "bs12e51-citrine",
+        "hex": "#c8c92a"
+    },
+    {
+        "name": "BS12E53 Linden",
+        "label": "bs12e53-linden",
+        "hex": "#99af2b"
+    },
+    {
+        "name": "BS12E55 Green",
+        "label": "bs12e55-green",
+        "hex": "#739e20"
+    },
+    {
+        "name": "BS14C31 Green - Alpine",
+        "label": "bs14c31-green-alpine",
+        "hex": "#d9e7d6"
+    },
+    {
+        "name": "BS14C33 Green",
+        "label": "bs14c33-green",
+        "hex": "#b9d0be"
+    },
+    {
+        "name": "BS14C35 Braemer",
+        "label": "bs14c35-braemer",
+        "hex": "#9bb19e"
+    },
+    {
+        "name": "BS14C37 Green",
+        "label": "bs14c37-green",
+        "hex": "#5c876d"
+    },
+    {
+        "name": "BS14C39 Hollybush",
+        "label": "bs14c39-hollybush",
+        "hex": "#2f5440"
+    },
+    {
+        "name": "BS14C40 Green",
+        "label": "bs14c40-green",
+        "hex": "#2c3a31"
+    },
+    {
+        "name": "BS14C41 Green",
+        "label": "bs14c41-green",
+        "hex": "#8dba9b"
+    },
+    {
+        "name": "BS14D43 Green",
+        "label": "bs14d43-green",
+        "hex": "#478966"
+    },
+    {
+        "name": "BS14D44 Green",
+        "label": "bs14d44-green",
+        "hex": "#29704e"
+    },
+    {
+        "name": "BS14D45 Green",
+        "label": "bs14d45-green",
+        "hex": "#005333"
+    },
+    {
+        "name": "BS14E49 Light Green",
+        "label": "bs14e49-light-green",
+        "hex": "#d3ebd5"
+    },
+    {
+        "name": "BS14E50 Green",
+        "label": "bs14e50-green",
+        "hex": "#aad8b3"
+    },
+    {
+        "name": "BS14E51 Goblin",
+        "label": "bs14e51-goblin",
+        "hex": "#56ad6d"
+    },
+    {
+        "name": "BS14E53 Avarice",
+        "label": "bs14e53-avarice",
+        "hex": "#01905e"
+    },
+    {
+        "name": "BS14E56 Green",
+        "label": "bs14e56-green",
+        "hex": "#00703e"
+    },
+    {
+        "name": "BS14E58 Green",
+        "label": "bs14e58-green",
+        "hex": "#1f4231"
+    },
+    {
+        "name": "BS16A03 Grey",
+        "label": "bs16a03-grey",
+        "hex": "#c6cac1"
+    },
+    {
+        "name": "BS16A07 Mid Grey",
+        "label": "bs16a07-mid-grey",
+        "hex": "#8d918d"
+    },
+    {
+        "name": "BS16A11 Grey",
+        "label": "bs16a11-grey",
+        "hex": "#5e6664"
+    },
+    {
+        "name": "BS16C33 Duckegg",
+        "label": "bs16c33-duckegg",
+        "hex": "#b3cec7"
+    },
+    {
+        "name": "BS16C35 Green",
+        "label": "bs16c35-green",
+        "hex": "#9bb6af"
+    },
+    {
+        "name": "BS16C37 Green",
+        "label": "bs16c37-green",
+        "hex": "#548481"
+    },
+    {
+        "name": "BS16C39 Green",
+        "label": "bs16c39-green",
+        "hex": "#1d5452"
+    },
+    {
+        "name": "BS16C40 Deep Green",
+        "label": "bs16c40-deep-green",
+        "hex": "#2a3838"
+    },
+    {
+        "name": "BS16D41 Green",
+        "label": "bs16d41-green",
+        "hex": "#83bdb6"
+    },
+    {
+        "name": "BS16D43 Green",
+        "label": "bs16d43-green",
+        "hex": "#298c86"
+    },
+    {
+        "name": "BS16D44 Green",
+        "label": "bs16d44-green",
+        "hex": "#00716c"
+    },
+    {
+        "name": "BS16D45 Green - Blue",
+        "label": "bs16d45-green-blue",
+        "hex": "#005550"
+    },
+    {
+        "name": "BS16E50 Turquoise",
+        "label": "bs16e50-turquoise",
+        "hex": "#a2dbd3"
+    },
+    {
+        "name": "BS16E53 Seafarer",
+        "label": "bs16e53-seafarer",
+        "hex": "#008e8a"
+    },
+    {
+        "name": "BS16E56 Green",
+        "label": "bs16e56-green",
+        "hex": "#007772"
+    },
+    {
+        "name": "BS18A14 Black",
+        "label": "bs18a14-black",
+        "hex": "#333639"
+    },
+    {
+        "name": "BS18B15 White",
+        "label": "bs18b15-white",
+        "hex": "#e5e9e2"
+    },
+    {
+        "name": "BS18B17 Silver Haze",
+        "label": "bs18b17-silver-haze",
+        "hex": "#c2ccca"
+    },
+    {
+        "name": "BS18B19 Grey",
+        "label": "bs18b19-grey",
+        "hex": "#b1b8b7"
+    },
+    {
+        "name": "BS18B21 Blue",
+        "label": "bs18b21-blue",
+        "hex": "#8e9897"
+    },
+    {
+        "name": "BS18B23 Grey",
+        "label": "bs18b23-grey",
+        "hex": "#767e7d"
+    },
+    {
+        "name": "BS18B25 Dk Admir- Grey",
+        "label": "bs18b25-dk-admir-grey",
+        "hex": "#5f6a6c"
+    },
+    {
+        "name": "BS18B27 Grey",
+        "label": "bs18b27-grey",
+        "hex": "#444e51"
+    },
+    {
+        "name": "BS18B29 Blue",
+        "label": "bs18b29-blue",
+        "hex": "#262d32"
+    },
+    {
+        "name": "BS18C31 Blue",
+        "label": "bs18c31-blue",
+        "hex": "#e6ece5"
+    },
+    {
+        "name": "BS18C33 Blue",
+        "label": "bs18c33-blue",
+        "hex": "#bbcccc"
+    },
+    {
+        "name": "BS18C35 Blue",
+        "label": "bs18c35-blue",
+        "hex": "#96adb6"
+    },
+    {
+        "name": "BS18C37 Blue",
+        "label": "bs18c37-blue",
+        "hex": "#587f8b"
+    },
+    {
+        "name": "BS18C39 Deep River",
+        "label": "bs18c39-deep-river",
+        "hex": "#225160"
+    },
+    {
+        "name": "BS18C40 Black",
+        "label": "bs18c40-black",
+        "hex": "#223238"
+    },
+    {
+        "name": "BS18D41 Blue",
+        "label": "bs18d41-blue",
+        "hex": "#87bbc5"
+    },
+    {
+        "name": "BS18D43 Dresden Blue",
+        "label": "bs18d43-dresden-blue",
+        "hex": "#418297"
+    },
+    {
+        "name": "BS18D44 Blue",
+        "label": "bs18d44-blue",
+        "hex": "#2a7088"
+    },
+    {
+        "name": "BS18D45 Blue",
+        "label": "bs18d45-blue",
+        "hex": "#00566c"
+    },
+    {
+        "name": "BS18E49 Astral Blue",
+        "label": "bs18e49-astral-blue",
+        "hex": "#d2e7e2"
+    },
+    {
+        "name": "BS18E50 Blue",
+        "label": "bs18e50-blue",
+        "hex": "#a8d3dc"
+    },
+    {
+        "name": "BS18E51 Mermaid",
+        "label": "bs18e51-mermaid",
+        "hex": "#42a5c1"
+    },
+    {
+        "name": "BS18E53 Cobalt Blue",
+        "label": "bs18e53-cobalt-blue",
+        "hex": "#00739d"
+    },
+    {
+        "name": "BS18E58 Blue",
+        "label": "bs18e58-blue",
+        "hex": "#003e52"
+    },
+    {
+        "name": "BS20C33 Pompadour",
+        "label": "bs20c33-pompadour",
+        "hex": "#bccedd"
+    },
+    {
+        "name": "BS20C35 Blue",
+        "label": "bs20c35-blue",
+        "hex": "#a2b2c4"
+    },
+    {
+        "name": "BS20C37 Viking",
+        "label": "bs20c37-viking",
+        "hex": "#67839f"
+    },
+    {
+        "name": "BS20C39 Blue",
+        "label": "bs20c39-blue",
+        "hex": "#374963"
+    },
+    {
+        "name": "BS20C40 Midnight",
+        "label": "bs20c40-midnight",
+        "hex": "#202d44"
+    },
+    {
+        "name": "BS20D41 Powder Blue",
+        "label": "bs20d41-powder-blue",
+        "hex": "#9ebbd6"
+    },
+    {
+        "name": "BS20D43 Blue",
+        "label": "bs20d43-blue",
+        "hex": "#5a84b1"
+    },
+    {
+        "name": "BS20D44 Blue",
+        "label": "bs20d44-blue",
+        "hex": "#416a9d"
+    },
+    {
+        "name": "BS20D45 Maritime",
+        "label": "bs20d45-maritime",
+        "hex": "#26557f"
+    },
+    {
+        "name": "BS20E50 Blue",
+        "label": "bs20e50-blue",
+        "hex": "#bad5ea"
+    },
+    {
+        "name": "BS20E51 Corfu - Purple",
+        "label": "bs20e51-corfu-purple",
+        "hex": "#66a2d2"
+    },
+    {
+        "name": "BS20E53 Blue",
+        "label": "bs20e53-blue",
+        "hex": "#096da9"
+    },
+    {
+        "name": "BS20E56 Blue",
+        "label": "bs20e56-blue",
+        "hex": "#005b8d"
+    },
+    {
+        "name": "BS22B15 Swansdown",
+        "label": "bs22b15-swansdown",
+        "hex": "#e6e6e1"
+    },
+    {
+        "name": "BS22B17 Lavender Haze",
+        "label": "bs22b17-lavender-haze",
+        "hex": "#c6c4c9"
+    },
+    {
+        "name": "BS22B19 Soft Blue",
+        "label": "bs22b19-soft-blue",
+        "hex": "#afb1b9"
+    },
+    {
+        "name": "BS22B21 Kashmir",
+        "label": "bs22b21-kashmir",
+        "hex": "#96949e"
+    },
+    {
+        "name": "BS22B23 Purple",
+        "label": "bs22b23-purple",
+        "hex": "#7b7a84"
+    },
+    {
+        "name": "BS22B25 Nightshade",
+        "label": "bs22b25-nightshade",
+        "hex": "#63626f"
+    },
+    {
+        "name": "BS22B27 Violet",
+        "label": "bs22b27-violet",
+        "hex": "#4d4959"
+    },
+    {
+        "name": "BS22B29 Deep Purple",
+        "label": "bs22b29-deep-purple",
+        "hex": "#2f2d3b"
+    },
+    {
+        "name": "BS22C31 White",
+        "label": "bs22c31-white",
+        "hex": "#e4e4e3"
+    },
+    {
+        "name": "BS22C33 Soft Purple",
+        "label": "bs22c33-soft-purple",
+        "hex": "#c6c6d5"
+    },
+    {
+        "name": "BS22C35 Purple",
+        "label": "bs22c35-purple",
+        "hex": "#afafc2"
+    },
+    {
+        "name": "BS22C37 Violet",
+        "label": "bs22c37-violet",
+        "hex": "#7a759b"
+    },
+    {
+        "name": "BS22C39 Purple",
+        "label": "bs22c39-purple",
+        "hex": "#4c456f"
+    },
+    {
+        "name": "BS22C40 Purple",
+        "label": "bs22c40-purple",
+        "hex": "#3a314a"
+    },
+    {
+        "name": "BS22D41 Violet",
+        "label": "bs22d41-violet",
+        "hex": "#adafd2"
+    },
+    {
+        "name": "BS22D43 Violet",
+        "label": "bs22d43-violet",
+        "hex": "#837eb2"
+    },
+    {
+        "name": "BS22D44 Purple",
+        "label": "bs22d44-purple",
+        "hex": "#6a6494"
+    },
+    {
+        "name": "BS22D45 Purple",
+        "label": "bs22d45-purple",
+        "hex": "#4e477b"
+    },
+    {
+        "name": "BS22E53 Purple",
+        "label": "bs22e53-purple",
+        "hex": "#635b91"
+    },
+    {
+        "name": "BS22E58 Purple",
+        "label": "bs22e58-purple",
+        "hex": "#392c59"
+    },
+    {
+        "name": "BS24C33 Lilac",
+        "label": "bs24c33-lilac",
+        "hex": "#d2c2ce"
+    },
+    {
+        "name": "BS24C35 Pink",
+        "label": "bs24c35-pink",
+        "hex": "#b7a5b5"
+    },
+    {
+        "name": "BS24C37 Purple",
+        "label": "bs24c37-purple",
+        "hex": "#8e708d"
+    },
+    {
+        "name": "BS24C38 Amethyst",
+        "label": "bs24c38-amethyst",
+        "hex": "#5d3e65"
+    },
+    {
+        "name": "BS24C39 Regalia",
+        "label": "bs24c39-regalia",
+        "hex": "#5c3b62"
+    },
+    {
+        "name": "BS24C40 Purple",
+        "label": "bs24c40-purple",
+        "hex": "#3d293e"
+    },
+    {
+        "name": "BS24E50 Pink",
+        "label": "bs24e50-pink",
+        "hex": "#e1c6db"
+    },
+    {
+        "name": "BS24E53 Purple",
+        "label": "bs24e53-purple",
+        "hex": "#7e5086"
+    },
+    {
+        "name": "BS24E56 Violet",
+        "label": "bs24e56-violet",
+        "hex": "#7c4a82"
+    },
+    {
+        "name": "BS24E58 Purple",
+        "label": "bs24e58-purple",
+        "hex": "#49244a"
+    }
+]

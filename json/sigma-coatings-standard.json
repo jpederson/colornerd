@@ -1,0 +1,1122 @@
+[
+    {
+        "name": "SIGMA 0001-06",
+        "label": "sigma-0001-06",
+        "hex": "#e5d8b8"
+    },
+    {
+        "name": "SIGMA 0002-06",
+        "label": "sigma-0002-06",
+        "hex": "#f9dcaa"
+    },
+    {
+        "name": "SIGMA 0003-06",
+        "label": "sigma-0003-06",
+        "hex": "#e6cc9c"
+    },
+    {
+        "name": "SIGMA 0004-06",
+        "label": "sigma-0004-06",
+        "hex": "#f3e8d2"
+    },
+    {
+        "name": "SIGMA 0005-06",
+        "label": "sigma-0005-06",
+        "hex": "#e3d1b0"
+    },
+    {
+        "name": "SIGMA 0006-06",
+        "label": "sigma-0006-06",
+        "hex": "#e6d3b7"
+    },
+    {
+        "name": "SIGMA 0007-06",
+        "label": "sigma-0007-06",
+        "hex": "#e2d9c4"
+    },
+    {
+        "name": "SIGMA 0008-06",
+        "label": "sigma-0008-06",
+        "hex": "#d1bea3"
+    },
+    {
+        "name": "SIGMA 0009-06",
+        "label": "sigma-0009-06",
+        "hex": "#e7d1b8"
+    },
+    {
+        "name": "SIGMA 0010-06",
+        "label": "sigma-0010-06",
+        "hex": "#cfb7a1"
+    },
+    {
+        "name": "SIGMA 0011-06",
+        "label": "sigma-0011-06",
+        "hex": "#f4e7d8"
+    },
+    {
+        "name": "SIGMA 0012-06",
+        "label": "sigma-0012-06",
+        "hex": "#dbd0c3"
+    },
+    {
+        "name": "SIGMA 0013-06",
+        "label": "sigma-0013-06",
+        "hex": "#c8bcaf"
+    },
+    {
+        "name": "SIGMA 0014-06",
+        "label": "sigma-0014-06",
+        "hex": "#ded9d3"
+    },
+    {
+        "name": "SIGMA 0015-06",
+        "label": "sigma-0015-06",
+        "hex": "#ddd3cc"
+    },
+    {
+        "name": "SIGMA 0016-06",
+        "label": "sigma-0016-06",
+        "hex": "#c7beb8"
+    },
+    {
+        "name": "SIGMA 0017-06",
+        "label": "sigma-0017-06",
+        "hex": "#f3e8df"
+    },
+    {
+        "name": "SIGMA 0018-06",
+        "label": "sigma-0018-06",
+        "hex": "#dcccca"
+    },
+    {
+        "name": "SIGMA 0019-06",
+        "label": "sigma-0019-06",
+        "hex": "#cbb8b6"
+    },
+    {
+        "name": "SIGMA 0020-06",
+        "label": "sigma-0020-06",
+        "hex": "#cab4a9"
+    },
+    {
+        "name": "SIGMA 0021-06",
+        "label": "sigma-0021-06",
+        "hex": "#dededa"
+    },
+    {
+        "name": "SIGMA 0022-06",
+        "label": "sigma-0022-06",
+        "hex": "#dbdee5"
+    },
+    {
+        "name": "SIGMA 0023-06",
+        "label": "sigma-0023-06",
+        "hex": "#d5d2d9"
+    },
+    {
+        "name": "SIGMA 0024-06",
+        "label": "sigma-0024-06",
+        "hex": "#efede4"
+    },
+    {
+        "name": "SIGMA 0025-06",
+        "label": "sigma-0025-06",
+        "hex": "#ecebe0"
+    },
+    {
+        "name": "SIGMA 0026-06",
+        "label": "sigma-0026-06",
+        "hex": "#dcdad0"
+    },
+    {
+        "name": "SIGMA 0027-06",
+        "label": "sigma-0027-06",
+        "hex": "#cdc4b2"
+    },
+    {
+        "name": "SIGMA 0028-06",
+        "label": "sigma-0028-06",
+        "hex": "#d8dbda"
+    },
+    {
+        "name": "SIGMA 0029-06",
+        "label": "sigma-0029-06",
+        "hex": "#d6dbd5"
+    },
+    {
+        "name": "SIGMA 0030-06",
+        "label": "sigma-0030-06",
+        "hex": "#ccd0cb"
+    },
+    {
+        "name": "SIGMA 0031-06",
+        "label": "sigma-0031-06",
+        "hex": "#c4c4c1"
+    },
+    {
+        "name": "SIGMA 0032-06",
+        "label": "sigma-0032-06",
+        "hex": "#c3d6d3"
+    },
+    {
+        "name": "SIGMA 0033-06",
+        "label": "sigma-0033-06",
+        "hex": "#b7c1bd"
+    },
+    {
+        "name": "SIGMA 0034-06",
+        "label": "sigma-0034-06",
+        "hex": "#afbec0"
+    },
+    {
+        "name": "SIGMA 0035-06",
+        "label": "sigma-0035-06",
+        "hex": "#ddeee2"
+    },
+    {
+        "name": "SIGMA 0036-06",
+        "label": "sigma-0036-06",
+        "hex": "#cddfd3"
+    },
+    {
+        "name": "SIGMA 0037-06",
+        "label": "sigma-0037-06",
+        "hex": "#adc2b7"
+    },
+    {
+        "name": "SIGMA 0038-06",
+        "label": "sigma-0038-06",
+        "hex": "#d9dfc7"
+    },
+    {
+        "name": "SIGMA 0039-06",
+        "label": "sigma-0039-06",
+        "hex": "#c8d5c6"
+    },
+    {
+        "name": "SIGMA 0040-06",
+        "label": "sigma-0040-06",
+        "hex": "#b6bfac"
+    },
+    {
+        "name": "SIGMA 0041-06",
+        "label": "sigma-0041-06",
+        "hex": "#eaeccb"
+    },
+    {
+        "name": "SIGMA 0042-06",
+        "label": "sigma-0042-06",
+        "hex": "#ddddbe"
+    },
+    {
+        "name": "SIGMA 0043-06",
+        "label": "sigma-0043-06",
+        "hex": "#c1c1a5"
+    },
+    {
+        "name": "SIGMA 0044-06",
+        "label": "sigma-0044-06",
+        "hex": "#aaab91"
+    },
+    {
+        "name": "SIGMA 0045-06",
+        "label": "sigma-0045-06",
+        "hex": "#efe392"
+    },
+    {
+        "name": "SIGMA 0046-06",
+        "label": "sigma-0046-06",
+        "hex": "#e0d6b4"
+    },
+    {
+        "name": "SIGMA 0047-06",
+        "label": "sigma-0047-06",
+        "hex": "#c9bea4"
+    },
+    {
+        "name": "SIGMA 0048-06",
+        "label": "sigma-0048-06",
+        "hex": "#e0dabc"
+    },
+    {
+        "name": "SIGMA 0049-06",
+        "label": "sigma-0049-06",
+        "hex": "#c6bb8c"
+    },
+    {
+        "name": "SIGMA 0050-06",
+        "label": "sigma-0050-06",
+        "hex": "#f1e1ab"
+    },
+    {
+        "name": "SIGMA 0051-06",
+        "label": "sigma-0051-06",
+        "hex": "#ded288"
+    },
+    {
+        "name": "SIGMA 0052-06",
+        "label": "sigma-0052-06",
+        "hex": "#c5b173"
+    },
+    {
+        "name": "SIGMA 0053-06",
+        "label": "sigma-0053-06",
+        "hex": "#e8cb73"
+    },
+    {
+        "name": "SIGMA 0054-06",
+        "label": "sigma-0054-06",
+        "hex": "#d7c657"
+    },
+    {
+        "name": "SIGMA 0055-06",
+        "label": "sigma-0055-06",
+        "hex": "#c4b65f"
+    },
+    {
+        "name": "SIGMA 0056-06",
+        "label": "sigma-0056-06",
+        "hex": "#efc485"
+    },
+    {
+        "name": "SIGMA 0057-06",
+        "label": "sigma-0057-06",
+        "hex": "#d1aa72"
+    },
+    {
+        "name": "SIGMA 0058-06",
+        "label": "sigma-0058-06",
+        "hex": "#cea371"
+    },
+    {
+        "name": "SIGMA 0059-06",
+        "label": "sigma-0059-06",
+        "hex": "#eaac94"
+    },
+    {
+        "name": "SIGMA 0060-06",
+        "label": "sigma-0060-06",
+        "hex": "#e79269"
+    },
+    {
+        "name": "SIGMA 0061-06",
+        "label": "sigma-0061-06",
+        "hex": "#f5dfdb"
+    },
+    {
+        "name": "SIGMA 0062-06",
+        "label": "sigma-0062-06",
+        "hex": "#efced0"
+    },
+    {
+        "name": "SIGMA 0063-06",
+        "label": "sigma-0063-06",
+        "hex": "#e4adc6"
+    },
+    {
+        "name": "SIGMA 0064-06",
+        "label": "sigma-0064-06",
+        "hex": "#b8e0df"
+    },
+    {
+        "name": "SIGMA 0065-06",
+        "label": "sigma-0065-06",
+        "hex": "#87c7de"
+    },
+    {
+        "name": "SIGMA 0066-06",
+        "label": "sigma-0066-06",
+        "hex": "#b1d4c2"
+    },
+    {
+        "name": "SIGMA 0067-06",
+        "label": "sigma-0067-06",
+        "hex": "#91bbb2"
+    },
+    {
+        "name": "SIGMA 0068-06",
+        "label": "sigma-0068-06",
+        "hex": "#7dbaaf"
+    },
+    {
+        "name": "SIGMA 0069-06",
+        "label": "sigma-0069-06",
+        "hex": "#deeda5"
+    },
+    {
+        "name": "SIGMA 0070-06",
+        "label": "sigma-0070-06",
+        "hex": "#d5d989"
+    },
+    {
+        "name": "SIGMA 0071-06",
+        "label": "sigma-0071-06",
+        "hex": "#bcba75"
+    },
+    {
+        "name": "SIGMA 0072-06",
+        "label": "sigma-0072-06",
+        "hex": "#a4b368"
+    },
+    {
+        "name": "SIGMA 0073-06",
+        "label": "sigma-0073-06",
+        "hex": "#ecc542"
+    },
+    {
+        "name": "SIGMA 0074-06",
+        "label": "sigma-0074-06",
+        "hex": "#f0aa42"
+    },
+    {
+        "name": "SIGMA 0075-06",
+        "label": "sigma-0075-06",
+        "hex": "#e99d18"
+    },
+    {
+        "name": "SIGMA 0076-06",
+        "label": "sigma-0076-06",
+        "hex": "#d19c71"
+    },
+    {
+        "name": "SIGMA 0077-06",
+        "label": "sigma-0077-06",
+        "hex": "#d3874b"
+    },
+    {
+        "name": "SIGMA 0078-06",
+        "label": "sigma-0078-06",
+        "hex": "#d07f4e"
+    },
+    {
+        "name": "SIGMA 0079-06",
+        "label": "sigma-0079-06",
+        "hex": "#be8664"
+    },
+    {
+        "name": "SIGMA 0080-06",
+        "label": "sigma-0080-06",
+        "hex": "#b9794f"
+    },
+    {
+        "name": "SIGMA 0081-06",
+        "label": "sigma-0081-06",
+        "hex": "#b7773a"
+    },
+    {
+        "name": "SIGMA 0082-06",
+        "label": "sigma-0082-06",
+        "hex": "#bd4f23"
+    },
+    {
+        "name": "SIGMA 0083-06",
+        "label": "sigma-0083-06",
+        "hex": "#b34432"
+    },
+    {
+        "name": "SIGMA 0084-06",
+        "label": "sigma-0084-06",
+        "hex": "#ac3b33"
+    },
+    {
+        "name": "SIGMA 0085-06",
+        "label": "sigma-0085-06",
+        "hex": "#dc6f5a"
+    },
+    {
+        "name": "SIGMA 0086-06",
+        "label": "sigma-0086-06",
+        "hex": "#ad2c15"
+    },
+    {
+        "name": "SIGMA 0087-06",
+        "label": "sigma-0087-06",
+        "hex": "#9a061f"
+    },
+    {
+        "name": "SIGMA 0088-06",
+        "label": "sigma-0088-06",
+        "hex": "#b96473"
+    },
+    {
+        "name": "SIGMA 0089-06",
+        "label": "sigma-0089-06",
+        "hex": "#8c3243"
+    },
+    {
+        "name": "SIGMA 0090-06",
+        "label": "sigma-0090-06",
+        "hex": "#784b61"
+    },
+    {
+        "name": "SIGMA 0091-06",
+        "label": "sigma-0091-06",
+        "hex": "#60336a"
+    },
+    {
+        "name": "SIGMA 0092-06",
+        "label": "sigma-0092-06",
+        "hex": "#515980"
+    },
+    {
+        "name": "SIGMA 0093-06",
+        "label": "sigma-0093-06",
+        "hex": "#212556"
+    },
+    {
+        "name": "SIGMA 0094-06",
+        "label": "sigma-0094-06",
+        "hex": "#4197ba"
+    },
+    {
+        "name": "SIGMA 0095-06",
+        "label": "sigma-0095-06",
+        "hex": "#00639a"
+    },
+    {
+        "name": "SIGMA 0096-06",
+        "label": "sigma-0096-06",
+        "hex": "#005684"
+    },
+    {
+        "name": "SIGMA 0097-06",
+        "label": "sigma-0097-06",
+        "hex": "#13335d"
+    },
+    {
+        "name": "SIGMA 0098-06",
+        "label": "sigma-0098-06",
+        "hex": "#7fa49d"
+    },
+    {
+        "name": "SIGMA 0099-06",
+        "label": "sigma-0099-06",
+        "hex": "#4c8583"
+    },
+    {
+        "name": "SIGMA 0100-06",
+        "label": "sigma-0100-06",
+        "hex": "#00515b"
+    },
+    {
+        "name": "SIGMA 0101-06",
+        "label": "sigma-0101-06",
+        "hex": "#80a798"
+    },
+    {
+        "name": "SIGMA 0102-06",
+        "label": "sigma-0102-06",
+        "hex": "#34706e"
+    },
+    {
+        "name": "SIGMA 0103-06",
+        "label": "sigma-0103-06",
+        "hex": "#004d50"
+    },
+    {
+        "name": "SIGMA 0104-06",
+        "label": "sigma-0104-06",
+        "hex": "#7cad75"
+    },
+    {
+        "name": "SIGMA 0105-06",
+        "label": "sigma-0105-06",
+        "hex": "#3b7d5e"
+    },
+    {
+        "name": "SIGMA 0106-06",
+        "label": "sigma-0106-06",
+        "hex": "#2f6a58"
+    },
+    {
+        "name": "SIGMA 0107-06",
+        "label": "sigma-0107-06",
+        "hex": "#004c3b"
+    },
+    {
+        "name": "SIGMA 0108-06",
+        "label": "sigma-0108-06",
+        "hex": "#79ad3d"
+    },
+    {
+        "name": "SIGMA 0109-06",
+        "label": "sigma-0109-06",
+        "hex": "#398036"
+    },
+    {
+        "name": "SIGMA 0110-06",
+        "label": "sigma-0110-06",
+        "hex": "#00412e"
+    },
+    {
+        "name": "SIGMA 0111-06",
+        "label": "sigma-0111-06",
+        "hex": "#aeb980"
+    },
+    {
+        "name": "SIGMA 0112-06",
+        "label": "sigma-0112-06",
+        "hex": "#839e6f"
+    },
+    {
+        "name": "SIGMA 0113-06",
+        "label": "sigma-0113-06",
+        "hex": "#446e4d"
+    },
+    {
+        "name": "SIGMA 0114-06",
+        "label": "sigma-0114-06",
+        "hex": "#004e2e"
+    },
+    {
+        "name": "SIGMA 0115-06",
+        "label": "sigma-0115-06",
+        "hex": "#b36d56"
+    },
+    {
+        "name": "SIGMA 0116-06",
+        "label": "sigma-0116-06",
+        "hex": "#a16855"
+    },
+    {
+        "name": "SIGMA 0117-06",
+        "label": "sigma-0117-06",
+        "hex": "#9a5741"
+    },
+    {
+        "name": "SIGMA 0118-06",
+        "label": "sigma-0118-06",
+        "hex": "#ab5b43"
+    },
+    {
+        "name": "SIGMA 0119-06",
+        "label": "sigma-0119-06",
+        "hex": "#9c412f"
+    },
+    {
+        "name": "SIGMA 0120-06",
+        "label": "sigma-0120-06",
+        "hex": "#962e19"
+    },
+    {
+        "name": "SIGMA 0121-06",
+        "label": "sigma-0121-06",
+        "hex": "#a55148"
+    },
+    {
+        "name": "SIGMA 0122-06",
+        "label": "sigma-0122-06",
+        "hex": "#973a33"
+    },
+    {
+        "name": "SIGMA 0123-06",
+        "label": "sigma-0123-06",
+        "hex": "#ab6667"
+    },
+    {
+        "name": "SIGMA 0124-06",
+        "label": "sigma-0124-06",
+        "hex": "#7c2a2d"
+    },
+    {
+        "name": "SIGMA 0125-06",
+        "label": "sigma-0125-06",
+        "hex": "#63111a"
+    },
+    {
+        "name": "SIGMA 0126-06",
+        "label": "sigma-0126-06",
+        "hex": "#ac675f"
+    },
+    {
+        "name": "SIGMA 0127-06",
+        "label": "sigma-0127-06",
+        "hex": "#924e47"
+    },
+    {
+        "name": "SIGMA 0128-06",
+        "label": "sigma-0128-06",
+        "hex": "#7d4942"
+    },
+    {
+        "name": "SIGMA 0129-06",
+        "label": "sigma-0129-06",
+        "hex": "#ad777e"
+    },
+    {
+        "name": "SIGMA 0130-06",
+        "label": "sigma-0130-06",
+        "hex": "#9a6560"
+    },
+    {
+        "name": "SIGMA 0131-06",
+        "label": "sigma-0131-06",
+        "hex": "#7b4a51"
+    },
+    {
+        "name": "SIGMA 0132-06",
+        "label": "sigma-0132-06",
+        "hex": "#78809a"
+    },
+    {
+        "name": "SIGMA 0133-06",
+        "label": "sigma-0133-06",
+        "hex": "#656c84"
+    },
+    {
+        "name": "SIGMA 0134-06",
+        "label": "sigma-0134-06",
+        "hex": "#494f6c"
+    },
+    {
+        "name": "SIGMA 0135-06",
+        "label": "sigma-0135-06",
+        "hex": "#9bb2c5"
+    },
+    {
+        "name": "SIGMA 0136-06",
+        "label": "sigma-0136-06",
+        "hex": "#6e8498"
+    },
+    {
+        "name": "SIGMA 0137-06",
+        "label": "sigma-0137-06",
+        "hex": "#436180"
+    },
+    {
+        "name": "SIGMA 0138-06",
+        "label": "sigma-0138-06",
+        "hex": "#95bdc0"
+    },
+    {
+        "name": "SIGMA 0139-06",
+        "label": "sigma-0139-06",
+        "hex": "#6d9291"
+    },
+    {
+        "name": "SIGMA 0140-06",
+        "label": "sigma-0140-06",
+        "hex": "#376878"
+    },
+    {
+        "name": "SIGMA 0141-06",
+        "label": "sigma-0141-06",
+        "hex": "#9daea5"
+    },
+    {
+        "name": "SIGMA 0142-06",
+        "label": "sigma-0142-06",
+        "hex": "#6b8077"
+    },
+    {
+        "name": "SIGMA 0143-06",
+        "label": "sigma-0143-06",
+        "hex": "#525b52"
+    },
+    {
+        "name": "SIGMA 0144-06",
+        "label": "sigma-0144-06",
+        "hex": "#cfa85e"
+    },
+    {
+        "name": "SIGMA 0145-06",
+        "label": "sigma-0145-06",
+        "hex": "#a9892f"
+    },
+    {
+        "name": "SIGMA 0146-06",
+        "label": "sigma-0146-06",
+        "hex": "#927528"
+    },
+    {
+        "name": "SIGMA 0147-06",
+        "label": "sigma-0147-06",
+        "hex": "#6f511d"
+    },
+    {
+        "name": "SIGMA 0148-06",
+        "label": "sigma-0148-06",
+        "hex": "#756c5f"
+    },
+    {
+        "name": "SIGMA 0149-06",
+        "label": "sigma-0149-06",
+        "hex": "#5e4e3d"
+    },
+    {
+        "name": "SIGMA 0150-06",
+        "label": "sigma-0150-06",
+        "hex": "#452f1e"
+    },
+    {
+        "name": "SIGMA 0151-06",
+        "label": "sigma-0151-06",
+        "hex": "#885341"
+    },
+    {
+        "name": "SIGMA 0152-06",
+        "label": "sigma-0152-06",
+        "hex": "#71352e"
+    },
+    {
+        "name": "SIGMA 0153-06",
+        "label": "sigma-0153-06",
+        "hex": "#571618"
+    },
+    {
+        "name": "SIGMA 0154-06",
+        "label": "sigma-0154-06",
+        "hex": "#705c5e"
+    },
+    {
+        "name": "SIGMA 0155-06",
+        "label": "sigma-0155-06",
+        "hex": "#573f41"
+    },
+    {
+        "name": "SIGMA 0156-06",
+        "label": "sigma-0156-06",
+        "hex": "#2f2029"
+    },
+    {
+        "name": "SIGMA 0157-06",
+        "label": "sigma-0157-06",
+        "hex": "#6d6769"
+    },
+    {
+        "name": "SIGMA 0158-06",
+        "label": "sigma-0158-06",
+        "hex": "#544c55"
+    },
+    {
+        "name": "SIGMA 0159-06",
+        "label": "sigma-0159-06",
+        "hex": "#9a9193"
+    },
+    {
+        "name": "SIGMA 0160-06",
+        "label": "sigma-0160-06",
+        "hex": "#5e5457"
+    },
+    {
+        "name": "SIGMA 0161-06",
+        "label": "sigma-0161-06",
+        "hex": "#40383b"
+    },
+    {
+        "name": "SIGMA 0162-06",
+        "label": "sigma-0162-06",
+        "hex": "#5e6a6f"
+    },
+    {
+        "name": "SIGMA 0163-06",
+        "label": "sigma-0163-06",
+        "hex": "#46515a"
+    },
+    {
+        "name": "SIGMA 0164-06",
+        "label": "sigma-0164-06",
+        "hex": "#84909a"
+    },
+    {
+        "name": "SIGMA 0165-06",
+        "label": "sigma-0165-06",
+        "hex": "#41546a"
+    },
+    {
+        "name": "SIGMA 0166-06",
+        "label": "sigma-0166-06",
+        "hex": "#1d2a37"
+    },
+    {
+        "name": "SIGMA 0167-06",
+        "label": "sigma-0167-06",
+        "hex": "#6a7e7b"
+    },
+    {
+        "name": "SIGMA 0168-06",
+        "label": "sigma-0168-06",
+        "hex": "#596b6b"
+    },
+    {
+        "name": "SIGMA 0169-06",
+        "label": "sigma-0169-06",
+        "hex": "#455457"
+    },
+    {
+        "name": "SIGMA 0170-06",
+        "label": "sigma-0170-06",
+        "hex": "#184245"
+    },
+    {
+        "name": "SIGMA 0171-06",
+        "label": "sigma-0171-06",
+        "hex": "#5d6d61"
+    },
+    {
+        "name": "SIGMA 0172-06",
+        "label": "sigma-0172-06",
+        "hex": "#47574a"
+    },
+    {
+        "name": "SIGMA 0173-06",
+        "label": "sigma-0173-06",
+        "hex": "#223634"
+    },
+    {
+        "name": "SIGMA 0174-06",
+        "label": "sigma-0174-06",
+        "hex": "#222625"
+    },
+    {
+        "name": "SIGMA 0175-06",
+        "label": "sigma-0175-06",
+        "hex": "#8c8c8a"
+    },
+    {
+        "name": "SIGMA 0176-06",
+        "label": "sigma-0176-06",
+        "hex": "#717070"
+    },
+    {
+        "name": "SIGMA 0177-06",
+        "label": "sigma-0177-06",
+        "hex": "#524d4e"
+    },
+    {
+        "name": "SIGMA 0178-06",
+        "label": "sigma-0178-06",
+        "hex": "#121314"
+    },
+    {
+        "name": "SIGMA 0179-06",
+        "label": "sigma-0179-06",
+        "hex": "#b3b2af"
+    },
+    {
+        "name": "SIGMA 0180-06",
+        "label": "sigma-0180-06",
+        "hex": "#a39f9e"
+    },
+    {
+        "name": "SIGMA 0181-06",
+        "label": "sigma-0181-06",
+        "hex": "#8f8b8b"
+    },
+    {
+        "name": "SIGMA 0182-06",
+        "label": "sigma-0182-06",
+        "hex": "#a8b9bf"
+    },
+    {
+        "name": "SIGMA 0183-06",
+        "label": "sigma-0183-06",
+        "hex": "#9ca7b0"
+    },
+    {
+        "name": "SIGMA 0184-06",
+        "label": "sigma-0184-06",
+        "hex": "#a9ada1"
+    },
+    {
+        "name": "SIGMA 0185-06",
+        "label": "sigma-0185-06",
+        "hex": "#92988f"
+    },
+    {
+        "name": "SIGMA 0186-06",
+        "label": "sigma-0186-06",
+        "hex": "#b0ae9e"
+    },
+    {
+        "name": "SIGMA 0187-06",
+        "label": "sigma-0187-06",
+        "hex": "#969586"
+    },
+    {
+        "name": "SIGMA 0188-06",
+        "label": "sigma-0188-06",
+        "hex": "#b4a98b"
+    },
+    {
+        "name": "SIGMA 0189-06",
+        "label": "sigma-0189-06",
+        "hex": "#929068"
+    },
+    {
+        "name": "SIGMA 0190-06",
+        "label": "sigma-0190-06",
+        "hex": "#b2a276"
+    },
+    {
+        "name": "SIGMA 0191-06",
+        "label": "sigma-0191-06",
+        "hex": "#998e66"
+    },
+    {
+        "name": "SIGMA 0192-06",
+        "label": "sigma-0192-06",
+        "hex": "#99884f"
+    },
+    {
+        "name": "SIGMA 0193-06",
+        "label": "sigma-0193-06",
+        "hex": "#b3a995"
+    },
+    {
+        "name": "SIGMA 0194-06",
+        "label": "sigma-0194-06",
+        "hex": "#9b9284"
+    },
+    {
+        "name": "SIGMA 0195-06",
+        "label": "sigma-0195-06",
+        "hex": "#897d73"
+    },
+    {
+        "name": "SIGMA 0196-06",
+        "label": "sigma-0196-06",
+        "hex": "#b69f89"
+    },
+    {
+        "name": "SIGMA 0197-06",
+        "label": "sigma-0197-06",
+        "hex": "#a69080"
+    },
+    {
+        "name": "SIGMA 0198-06",
+        "label": "sigma-0198-06",
+        "hex": "#b19d97"
+    },
+    {
+        "name": "SIGMA 0199-06",
+        "label": "sigma-0199-06",
+        "hex": "#998788"
+    },
+    {
+        "name": "SIGMA 0200-06",
+        "label": "sigma-0200-06",
+        "hex": "#b0a8a9"
+    },
+    {
+        "name": "SIGMA 0201-06",
+        "label": "sigma-0201-06",
+        "hex": "#918b96"
+    },
+    {
+        "name": "SIGMA 0202-06",
+        "label": "sigma-0202-06",
+        "hex": "#887d80"
+    },
+    {
+        "name": "SIGMA 0203-06",
+        "label": "sigma-0203-06",
+        "hex": "#b7aaa4"
+    },
+    {
+        "name": "SIGMA 0204-06",
+        "label": "sigma-0204-06",
+        "hex": "#9e938e"
+    },
+    {
+        "name": "SIGMA 0205-06",
+        "label": "sigma-0205-06",
+        "hex": "#8a7f78"
+    },
+    {
+        "name": "SIGMA 0206-06",
+        "label": "sigma-0206-06",
+        "hex": "#726863"
+    },
+    {
+        "name": "SIGMA 0207-06",
+        "label": "sigma-0207-06",
+        "hex": "#b2a69a"
+    },
+    {
+        "name": "SIGMA 0208-06",
+        "label": "sigma-0208-06",
+        "hex": "#86706c"
+    },
+    {
+        "name": "SIGMA 0209-06",
+        "label": "sigma-0209-06",
+        "hex": "#745e5a"
+    },
+    {
+        "name": "SIGMA 0210-06",
+        "label": "sigma-0210-06",
+        "hex": "#5e4944"
+    },
+    {
+        "name": "SIGMA 0211-06",
+        "label": "sigma-0211-06",
+        "hex": "#a1947b"
+    },
+    {
+        "name": "SIGMA 0212-06",
+        "label": "sigma-0212-06",
+        "hex": "#8e7f68"
+    },
+    {
+        "name": "SIGMA 0213-06",
+        "label": "sigma-0213-06",
+        "hex": "#766856"
+    },
+    {
+        "name": "SIGMA 0214-06",
+        "label": "sigma-0214-06",
+        "hex": "#5d554b"
+    },
+    {
+        "name": "SIGMA 0215-06",
+        "label": "sigma-0215-06",
+        "hex": "#aea88d"
+    },
+    {
+        "name": "SIGMA 0216-06",
+        "label": "sigma-0216-06",
+        "hex": "#95957e"
+    },
+    {
+        "name": "SIGMA 0217-06",
+        "label": "sigma-0217-06",
+        "hex": "#87806a"
+    },
+    {
+        "name": "SIGMA 0218-06",
+        "label": "sigma-0218-06",
+        "hex": "#717064"
+    },
+    {
+        "name": "SIGMA 0219-06",
+        "label": "sigma-0219-06",
+        "hex": "#a1aca8"
+    },
+    {
+        "name": "SIGMA 0220-06",
+        "label": "sigma-0220-06",
+        "hex": "#8d9994"
+    },
+    {
+        "name": "SIGMA 0221-06",
+        "label": "sigma-0221-06",
+        "hex": "#636c69"
+    },
+    {
+        "name": "SIGMA 0222-06",
+        "label": "sigma-0222-06",
+        "hex": "#8a908d"
+    },
+    {
+        "name": "SIGMA 0223-06",
+        "label": "sigma-0223-06",
+        "hex": "#757975"
+    },
+    {
+        "name": "SIGMA 0224-06",
+        "label": "sigma-0224-06",
+        "hex": "#606463"
+    }
+]

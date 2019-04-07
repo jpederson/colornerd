@@ -1,0 +1,1397 @@
+[
+    {
+        "name": "C 100 Brilliantwei",
+        "label": "c-100-brilliantwei",
+        "hex": "#f2f1e9"
+    },
+    {
+        "name": "C 101 Carracar-Wei",
+        "label": "c-101-carracar-wei",
+        "hex": "#ede9df"
+    },
+    {
+        "name": "C 102 Wei",
+        "label": "c-102-wei",
+        "hex": "#f2f0e6"
+    },
+    {
+        "name": "C104 Naturwei",
+        "label": "c104-naturwei",
+        "hex": "#e9e1d4"
+    },
+    {
+        "name": "C 3004",
+        "label": "c-3004",
+        "hex": "#e9e2cd"
+    },
+    {
+        "name": "C 3003",
+        "label": "c-3003",
+        "hex": "#e8e1c3"
+    },
+    {
+        "name": "C 3002",
+        "label": "c-3002",
+        "hex": "#e2dbb9"
+    },
+    {
+        "name": "C 3001",
+        "label": "c-3001",
+        "hex": "#ded5ad"
+    },
+    {
+        "name": "C 3000",
+        "label": "c-3000",
+        "hex": "#d6cc9f"
+    },
+    {
+        "name": "C 3014",
+        "label": "c-3014",
+        "hex": "#f3f0da"
+    },
+    {
+        "name": "C 3013",
+        "label": "c-3013",
+        "hex": "#f3f0cb"
+    },
+    {
+        "name": "C 3012",
+        "label": "c-3012",
+        "hex": "#f4f0c1"
+    },
+    {
+        "name": "C 3011",
+        "label": "c-3011",
+        "hex": "#f1ecb6"
+    },
+    {
+        "name": "C 3010",
+        "label": "c-3010",
+        "hex": "#f3eaac"
+    },
+    {
+        "name": "C 3024",
+        "label": "c-3024",
+        "hex": "#f3f1dc"
+    },
+    {
+        "name": "C 3023",
+        "label": "c-3023",
+        "hex": "#f3edca"
+    },
+    {
+        "name": "C 3022",
+        "label": "c-3022",
+        "hex": "#efe4b4"
+    },
+    {
+        "name": "C 3021",
+        "label": "c-3021",
+        "hex": "#eddba2"
+    },
+    {
+        "name": "C 3020",
+        "label": "c-3020",
+        "hex": "#e9d694"
+    },
+    {
+        "name": "C 3034",
+        "label": "c-3034",
+        "hex": "#f3efda"
+    },
+    {
+        "name": "C 3033",
+        "label": "c-3033",
+        "hex": "#f6eac5"
+    },
+    {
+        "name": "C 3032",
+        "label": "c-3032",
+        "hex": "#f4e3b0"
+    },
+    {
+        "name": "C 3031",
+        "label": "c-3031",
+        "hex": "#f2d68e"
+    },
+    {
+        "name": "C 3030",
+        "label": "c-3030",
+        "hex": "#ebcc7f"
+    },
+    {
+        "name": "C 3044",
+        "label": "c-3044",
+        "hex": "#f2e5c7"
+    },
+    {
+        "name": "C 3043",
+        "label": "c-3043",
+        "hex": "#f6e4bc"
+    },
+    {
+        "name": "C 3042",
+        "label": "c-3042",
+        "hex": "#f3deb2"
+    },
+    {
+        "name": "C 3041",
+        "label": "c-3041",
+        "hex": "#f2dba7"
+    },
+    {
+        "name": "C 3040",
+        "label": "c-3040",
+        "hex": "#eed7a4"
+    },
+    {
+        "name": "C 3054",
+        "label": "c-3054",
+        "hex": "#ede4d1"
+    },
+    {
+        "name": "C 3053",
+        "label": "c-3053",
+        "hex": "#eee0c2"
+    },
+    {
+        "name": "C 3052",
+        "label": "c-3052",
+        "hex": "#e7cfa1"
+    },
+    {
+        "name": "C 3051",
+        "label": "c-3051",
+        "hex": "#e3c48b"
+    },
+    {
+        "name": "C 3050",
+        "label": "c-3050",
+        "hex": "#d9b370"
+    },
+    {
+        "name": "C 3064",
+        "label": "c-3064",
+        "hex": "#f7e4c2"
+    },
+    {
+        "name": "C 3063",
+        "label": "c-3063",
+        "hex": "#f4ddb6"
+    },
+    {
+        "name": "C 3062",
+        "label": "c-3062",
+        "hex": "#f4d8a2"
+    },
+    {
+        "name": "C 3061",
+        "label": "c-3061",
+        "hex": "#efcd90"
+    },
+    {
+        "name": "C 3060",
+        "label": "c-3060",
+        "hex": "#e8c37d"
+    },
+    {
+        "name": "C 3074",
+        "label": "c-3074",
+        "hex": "#f6e6ca"
+    },
+    {
+        "name": "C 3073",
+        "label": "c-3073",
+        "hex": "#f4d9ac"
+    },
+    {
+        "name": "C 3072",
+        "label": "c-3072",
+        "hex": "#edc88d"
+    },
+    {
+        "name": "C 3071",
+        "label": "c-3071",
+        "hex": "#e4b673"
+    },
+    {
+        "name": "C 3070",
+        "label": "c-3070",
+        "hex": "#d6a764"
+    },
+    {
+        "name": "C 3084",
+        "label": "c-3084",
+        "hex": "#f4ebda"
+    },
+    {
+        "name": "C 3083",
+        "label": "c-3083",
+        "hex": "#f4e2c9"
+    },
+    {
+        "name": "C 3082",
+        "label": "c-3082",
+        "hex": "#f3cfa8"
+    },
+    {
+        "name": "C 3081",
+        "label": "c-3081",
+        "hex": "#ebbc89"
+    },
+    {
+        "name": "C 3080",
+        "label": "c-3080",
+        "hex": "#e6ab70"
+    },
+    {
+        "name": "C 3094",
+        "label": "c-3094",
+        "hex": "#f4e3c8"
+    },
+    {
+        "name": "C 3093",
+        "label": "c-3093",
+        "hex": "#f0cfa7"
+    },
+    {
+        "name": "C 3092",
+        "label": "c-3092",
+        "hex": "#e8b986"
+    },
+    {
+        "name": "C 3091",
+        "label": "c-3091",
+        "hex": "#dca46b"
+    },
+    {
+        "name": "C 3090",
+        "label": "c-3090",
+        "hex": "#c78d59"
+    },
+    {
+        "name": "C 3104",
+        "label": "c-3104",
+        "hex": "#f6e4d1"
+    },
+    {
+        "name": "C 3103",
+        "label": "c-3103",
+        "hex": "#eaccae"
+    },
+    {
+        "name": "C 3102",
+        "label": "c-3102",
+        "hex": "#dfb893"
+    },
+    {
+        "name": "C 3101",
+        "label": "c-3101",
+        "hex": "#cfa07a"
+    },
+    {
+        "name": "C 3100",
+        "label": "c-3100",
+        "hex": "#b07c55"
+    },
+    {
+        "name": "C 3114",
+        "label": "c-3114",
+        "hex": "#f4ddc7"
+    },
+    {
+        "name": "C 3113",
+        "label": "c-3113",
+        "hex": "#ebc3a2"
+    },
+    {
+        "name": "C 3112",
+        "label": "c-3112",
+        "hex": "#e2ae85"
+    },
+    {
+        "name": "C 3111",
+        "label": "c-3111",
+        "hex": "#d4986d"
+    },
+    {
+        "name": "C 3110",
+        "label": "c-3110",
+        "hex": "#b67752"
+    },
+    {
+        "name": "C 3124",
+        "label": "c-3124",
+        "hex": "#f0dccd"
+    },
+    {
+        "name": "C 3123",
+        "label": "c-3123",
+        "hex": "#e1c3b0"
+    },
+    {
+        "name": "C 3122",
+        "label": "c-3122",
+        "hex": "#d5ac95"
+    },
+    {
+        "name": "C 3121",
+        "label": "c-3121",
+        "hex": "#c4957d"
+    },
+    {
+        "name": "C 3120",
+        "label": "c-3120",
+        "hex": "#a67761"
+    },
+    {
+        "name": "C 3134",
+        "label": "c-3134",
+        "hex": "#eed5c6"
+    },
+    {
+        "name": "C 3133",
+        "label": "c-3133",
+        "hex": "#dabdab"
+    },
+    {
+        "name": "C 3132",
+        "label": "c-3132",
+        "hex": "#ccaa99"
+    },
+    {
+        "name": "C 3131",
+        "label": "c-3131",
+        "hex": "#be937f"
+    },
+    {
+        "name": "C 3130",
+        "label": "c-3130",
+        "hex": "#b38877"
+    },
+    {
+        "name": "C 3144",
+        "label": "c-3144",
+        "hex": "#e6c0ae"
+    },
+    {
+        "name": "C 3143",
+        "label": "c-3143",
+        "hex": "#d5a28f"
+    },
+    {
+        "name": "C 3142",
+        "label": "c-3142",
+        "hex": "#c48975"
+    },
+    {
+        "name": "C 3141",
+        "label": "c-3141",
+        "hex": "#b17560"
+    },
+    {
+        "name": "C 3140",
+        "label": "c-3140",
+        "hex": "#a7715f"
+    },
+    {
+        "name": "C 3154",
+        "label": "c-3154",
+        "hex": "#e7cac2"
+    },
+    {
+        "name": "C 3153",
+        "label": "c-3153",
+        "hex": "#d7aaa3"
+    },
+    {
+        "name": "C 3152",
+        "label": "c-3152",
+        "hex": "#c38c85"
+    },
+    {
+        "name": "C 3151",
+        "label": "c-3151",
+        "hex": "#b4776f"
+    },
+    {
+        "name": "C 3150",
+        "label": "c-3150",
+        "hex": "#a16962"
+    },
+    {
+        "name": "C 3164",
+        "label": "c-3164",
+        "hex": "#e8ccbd"
+    },
+    {
+        "name": "C 3163",
+        "label": "c-3163",
+        "hex": "#e5c3b7"
+    },
+    {
+        "name": "C 3162",
+        "label": "c-3162",
+        "hex": "#d0a79b"
+    },
+    {
+        "name": "C 3161",
+        "label": "c-3161",
+        "hex": "#cfa194"
+    },
+    {
+        "name": "C 3160",
+        "label": "c-3160",
+        "hex": "#be867b"
+    },
+    {
+        "name": "C 3174",
+        "label": "c-3174",
+        "hex": "#e5d3cb"
+    },
+    {
+        "name": "C 3173",
+        "label": "c-3173",
+        "hex": "#e0ccc5"
+    },
+    {
+        "name": "C 3172",
+        "label": "c-3172",
+        "hex": "#d7bcb3"
+    },
+    {
+        "name": "C 3171",
+        "label": "c-3171",
+        "hex": "#c49f95"
+    },
+    {
+        "name": "C 3170",
+        "label": "c-3170",
+        "hex": "#b48d82"
+    },
+    {
+        "name": "C 3184",
+        "label": "c-3184",
+        "hex": "#e8d6d3"
+    },
+    {
+        "name": "C 3183",
+        "label": "c-3183",
+        "hex": "#d4baba"
+    },
+    {
+        "name": "C 3182",
+        "label": "c-3182",
+        "hex": "#c19d9e"
+    },
+    {
+        "name": "C 3181",
+        "label": "c-3181",
+        "hex": "#ac8281"
+    },
+    {
+        "name": "C 3180",
+        "label": "c-3180",
+        "hex": "#956b6c"
+    },
+    {
+        "name": "C 3194",
+        "label": "c-3194",
+        "hex": "#ded8d5"
+    },
+    {
+        "name": "C 3193",
+        "label": "c-3193",
+        "hex": "#cac3c1"
+    },
+    {
+        "name": "C 3192",
+        "label": "c-3192",
+        "hex": "#b1a9aa"
+    },
+    {
+        "name": "C 3191",
+        "label": "c-3191",
+        "hex": "#9c9193"
+    },
+    {
+        "name": "C 3190",
+        "label": "c-3190",
+        "hex": "#81787b"
+    },
+    {
+        "name": "C 3204",
+        "label": "c-3204",
+        "hex": "#dddddc"
+    },
+    {
+        "name": "C 3203",
+        "label": "c-3203",
+        "hex": "#c5c5ca"
+    },
+    {
+        "name": "C 3202",
+        "label": "c-3202",
+        "hex": "#afafb7"
+    },
+    {
+        "name": "C 3201",
+        "label": "c-3201",
+        "hex": "#9898a4"
+    },
+    {
+        "name": "C 3200",
+        "label": "c-3200",
+        "hex": "#757380"
+    },
+    {
+        "name": "C 3214",
+        "label": "c-3214",
+        "hex": "#e0dede"
+    },
+    {
+        "name": "C 3213",
+        "label": "c-3213",
+        "hex": "#cec9cd"
+    },
+    {
+        "name": "C 3212",
+        "label": "c-3212",
+        "hex": "#b5b0b8"
+    },
+    {
+        "name": "C 3211",
+        "label": "c-3211",
+        "hex": "#a198a2"
+    },
+    {
+        "name": "C 3210",
+        "label": "c-3210",
+        "hex": "#7e7682"
+    },
+    {
+        "name": "C 3224",
+        "label": "c-3224",
+        "hex": "#f1f0ec"
+    },
+    {
+        "name": "C 3223",
+        "label": "c-3223",
+        "hex": "#dcdfe1"
+    },
+    {
+        "name": "C 3222",
+        "label": "c-3222",
+        "hex": "#c5cad0"
+    },
+    {
+        "name": "C 3221",
+        "label": "c-3221",
+        "hex": "#aab2bc"
+    },
+    {
+        "name": "C 3220",
+        "label": "c-3220",
+        "hex": "#9199a6"
+    },
+    {
+        "name": "C 3234",
+        "label": "c-3234",
+        "hex": "#eaedea"
+    },
+    {
+        "name": "C 3233",
+        "label": "c-3233",
+        "hex": "#dce4e5"
+    },
+    {
+        "name": "C 3232",
+        "label": "c-3232",
+        "hex": "#c5d4dc"
+    },
+    {
+        "name": "C 3231",
+        "label": "c-3231",
+        "hex": "#a9bece"
+    },
+    {
+        "name": "C 3230",
+        "label": "c-3230",
+        "hex": "#8ea8bc"
+    },
+    {
+        "name": "C 3244",
+        "label": "c-3244",
+        "hex": "#dfe3dd"
+    },
+    {
+        "name": "C 3243",
+        "label": "c-3243",
+        "hex": "#d9e1de"
+    },
+    {
+        "name": "C 3242",
+        "label": "c-3242",
+        "hex": "#d0dedf"
+    },
+    {
+        "name": "C 3241",
+        "label": "c-3241",
+        "hex": "#bfd3d8"
+    },
+    {
+        "name": "C 3240",
+        "label": "c-3240",
+        "hex": "#aec7d0"
+    },
+    {
+        "name": "C 3254",
+        "label": "c-3254",
+        "hex": "#e0eae9"
+    },
+    {
+        "name": "C 3253",
+        "label": "c-3253",
+        "hex": "#cbdde2"
+    },
+    {
+        "name": "C 3252",
+        "label": "c-3252",
+        "hex": "#afcad6"
+    },
+    {
+        "name": "C 3251",
+        "label": "c-3251",
+        "hex": "#95b8c8"
+    },
+    {
+        "name": "C 3250",
+        "label": "c-3250",
+        "hex": "#6f97ac"
+    },
+    {
+        "name": "C 3264",
+        "label": "c-3264",
+        "hex": "#e2eceb"
+    },
+    {
+        "name": "C 3263",
+        "label": "c-3263",
+        "hex": "#c7dee5"
+    },
+    {
+        "name": "C 3262",
+        "label": "c-3262",
+        "hex": "#adcfda"
+    },
+    {
+        "name": "C 3261",
+        "label": "c-3261",
+        "hex": "#93c4d6"
+    },
+    {
+        "name": "C 3260",
+        "label": "c-3260",
+        "hex": "#69a4b7"
+    },
+    {
+        "name": "C 3274",
+        "label": "c-3274",
+        "hex": "#ecf1ec"
+    },
+    {
+        "name": "C 3273",
+        "label": "c-3273",
+        "hex": "#dfebeb"
+    },
+    {
+        "name": "C 3272",
+        "label": "c-3272",
+        "hex": "#c8e0e2"
+    },
+    {
+        "name": "C 3271",
+        "label": "c-3271",
+        "hex": "#a8ced3"
+    },
+    {
+        "name": "C 3270",
+        "label": "c-3270",
+        "hex": "#92c4c7"
+    },
+    {
+        "name": "C 3284",
+        "label": "c-3284",
+        "hex": "#dce7e3"
+    },
+    {
+        "name": "C 3283",
+        "label": "c-3283",
+        "hex": "#c5d7d7"
+    },
+    {
+        "name": "C 3282",
+        "label": "c-3282",
+        "hex": "#adc6c9"
+    },
+    {
+        "name": "C 3281",
+        "label": "c-3281",
+        "hex": "#91b0b3"
+    },
+    {
+        "name": "C 3280",
+        "label": "c-3280",
+        "hex": "#69898f"
+    },
+    {
+        "name": "C 3294",
+        "label": "c-3294",
+        "hex": "#eef0e9"
+    },
+    {
+        "name": "C 3293",
+        "label": "c-3293",
+        "hex": "#d9e3de"
+    },
+    {
+        "name": "C 3292",
+        "label": "c-3292",
+        "hex": "#c2d4d0"
+    },
+    {
+        "name": "C 3291",
+        "label": "c-3291",
+        "hex": "#aac2be"
+    },
+    {
+        "name": "C 3290",
+        "label": "c-3290",
+        "hex": "#87a8a5"
+    },
+    {
+        "name": "C 3304",
+        "label": "c-3304",
+        "hex": "#ecf1e9"
+    },
+    {
+        "name": "C 3303",
+        "label": "c-3303",
+        "hex": "#e3eee7"
+    },
+    {
+        "name": "C 3302",
+        "label": "c-3302",
+        "hex": "#c7dfd6"
+    },
+    {
+        "name": "C 3301",
+        "label": "c-3301",
+        "hex": "#a9cfc4"
+    },
+    {
+        "name": "C 3300",
+        "label": "c-3300",
+        "hex": "#8dbeb1"
+    },
+    {
+        "name": "C 3314",
+        "label": "c-3314",
+        "hex": "#edf0e3"
+    },
+    {
+        "name": "C 3313",
+        "label": "c-3313",
+        "hex": "#dae7da"
+    },
+    {
+        "name": "C 3312",
+        "label": "c-3312",
+        "hex": "#c7dbcd"
+    },
+    {
+        "name": "C 3311",
+        "label": "c-3311",
+        "hex": "#adc9b9"
+    },
+    {
+        "name": "C 3310",
+        "label": "c-3310",
+        "hex": "#92b3a1"
+    },
+    {
+        "name": "C 3324",
+        "label": "c-3324",
+        "hex": "#eaede3"
+    },
+    {
+        "name": "C 3323",
+        "label": "c-3323",
+        "hex": "#dae2d5"
+    },
+    {
+        "name": "C 3322",
+        "label": "c-3322",
+        "hex": "#c2cfc0"
+    },
+    {
+        "name": "C 3321",
+        "label": "c-3321",
+        "hex": "#a5b7a6"
+    },
+    {
+        "name": "C 3320",
+        "label": "c-3320",
+        "hex": "#8fa491"
+    },
+    {
+        "name": "C 3334",
+        "label": "c-3334",
+        "hex": "#e1e2d7"
+    },
+    {
+        "name": "C 3333",
+        "label": "c-3333",
+        "hex": "#d3d8cb"
+    },
+    {
+        "name": "C 3332",
+        "label": "c-3332",
+        "hex": "#c9d2c5"
+    },
+    {
+        "name": "C 3331",
+        "label": "c-3331",
+        "hex": "#bcc6b7"
+    },
+    {
+        "name": "C 3330",
+        "label": "c-3330",
+        "hex": "#b6bdab"
+    },
+    {
+        "name": "C 3344",
+        "label": "c-3344",
+        "hex": "#eceee3"
+    },
+    {
+        "name": "C 3343",
+        "label": "c-3343",
+        "hex": "#dee4d5"
+    },
+    {
+        "name": "C 3342",
+        "label": "c-3342",
+        "hex": "#c9d2ba"
+    },
+    {
+        "name": "C 3341",
+        "label": "c-3341",
+        "hex": "#aebd9e"
+    },
+    {
+        "name": "C 3340",
+        "label": "c-3340",
+        "hex": "#92a380"
+    },
+    {
+        "name": "C 3354",
+        "label": "c-3354",
+        "hex": "#e8e4d3"
+    },
+    {
+        "name": "C 3353",
+        "label": "c-3353",
+        "hex": "#e0e1cb"
+    },
+    {
+        "name": "C 3352",
+        "label": "c-3352",
+        "hex": "#dce1ca"
+    },
+    {
+        "name": "C 3351",
+        "label": "c-3351",
+        "hex": "#d2d7ba"
+    },
+    {
+        "name": "C 3350",
+        "label": "c-3350",
+        "hex": "#c7ccab"
+    },
+    {
+        "name": "C 3364",
+        "label": "c-3364",
+        "hex": "#e3e2d6"
+    },
+    {
+        "name": "C 3363",
+        "label": "c-3363",
+        "hex": "#d1d0bf"
+    },
+    {
+        "name": "C 3362",
+        "label": "c-3362",
+        "hex": "#babaa6"
+    },
+    {
+        "name": "C 3361",
+        "label": "c-3361",
+        "hex": "#a2a38b"
+    },
+    {
+        "name": "C 3360",
+        "label": "c-3360",
+        "hex": "#83866f"
+    },
+    {
+        "name": "C 3374",
+        "label": "c-3374",
+        "hex": "#f5f0df"
+    },
+    {
+        "name": "C 3373",
+        "label": "c-3373",
+        "hex": "#ede3cd"
+    },
+    {
+        "name": "C 3372",
+        "label": "c-3372",
+        "hex": "#d9ccb0"
+    },
+    {
+        "name": "C 3371",
+        "label": "c-3371",
+        "hex": "#c2b18e"
+    },
+    {
+        "name": "C 3370",
+        "label": "c-3370",
+        "hex": "#ae9b74"
+    },
+    {
+        "name": "C 3384",
+        "label": "c-3384",
+        "hex": "#eeebde"
+    },
+    {
+        "name": "C 3383",
+        "label": "c-3383",
+        "hex": "#dad3c3"
+    },
+    {
+        "name": "C 3382",
+        "label": "c-3382",
+        "hex": "#c9c2ae"
+    },
+    {
+        "name": "C 3381",
+        "label": "c-3381",
+        "hex": "#b2a78f"
+    },
+    {
+        "name": "C 3380",
+        "label": "c-3380",
+        "hex": "#978b75"
+    },
+    {
+        "name": "C 3394",
+        "label": "c-3394",
+        "hex": "#e0dacb"
+    },
+    {
+        "name": "C 3393",
+        "label": "c-3393",
+        "hex": "#cdc3b0"
+    },
+    {
+        "name": "C 3392",
+        "label": "c-3392",
+        "hex": "#b8aa94"
+    },
+    {
+        "name": "C 3391",
+        "label": "c-3391",
+        "hex": "#9f907b"
+    },
+    {
+        "name": "C 3390",
+        "label": "c-3390",
+        "hex": "#7f725f"
+    },
+    {
+        "name": "C 3404",
+        "label": "c-3404",
+        "hex": "#e7ddc8"
+    },
+    {
+        "name": "C 3403",
+        "label": "c-3403",
+        "hex": "#d2bea3"
+    },
+    {
+        "name": "C 3402",
+        "label": "c-3402",
+        "hex": "#bea484"
+    },
+    {
+        "name": "C 3401",
+        "label": "c-3401",
+        "hex": "#ab8e6c"
+    },
+    {
+        "name": "C 3400",
+        "label": "c-3400",
+        "hex": "#8e7357"
+    },
+    {
+        "name": "C 3414",
+        "label": "c-3414",
+        "hex": "#e9dacd"
+    },
+    {
+        "name": "C 3413",
+        "label": "c-3413",
+        "hex": "#d4bba8"
+    },
+    {
+        "name": "C 3412",
+        "label": "c-3412",
+        "hex": "#be9e8b"
+    },
+    {
+        "name": "C 3411",
+        "label": "c-3411",
+        "hex": "#ab8974"
+    },
+    {
+        "name": "C 3410",
+        "label": "c-3410",
+        "hex": "#8e6c59"
+    },
+    {
+        "name": "C 3424",
+        "label": "c-3424",
+        "hex": "#eae2da"
+    },
+    {
+        "name": "C 3423",
+        "label": "c-3423",
+        "hex": "#ddd1c7"
+    },
+    {
+        "name": "C 3422",
+        "label": "c-3422",
+        "hex": "#c4b1a6"
+    },
+    {
+        "name": "C 3421",
+        "label": "c-3421",
+        "hex": "#ab9588"
+    },
+    {
+        "name": "C 3420",
+        "label": "c-3420",
+        "hex": "#927c71"
+    },
+    {
+        "name": "C 3434",
+        "label": "c-3434",
+        "hex": "#ddd8cf"
+    },
+    {
+        "name": "C 3433",
+        "label": "c-3433",
+        "hex": "#c7beb3"
+    },
+    {
+        "name": "C 3432",
+        "label": "c-3432",
+        "hex": "#ada298"
+    },
+    {
+        "name": "C 3431",
+        "label": "c-3431",
+        "hex": "#968b82"
+    },
+    {
+        "name": "C 3430",
+        "label": "c-3430",
+        "hex": "#7d736c"
+    },
+    {
+        "name": "C 3444",
+        "label": "c-3444",
+        "hex": "#dddbd5"
+    },
+    {
+        "name": "C 3443",
+        "label": "c-3443",
+        "hex": "#cdcbc5"
+    },
+    {
+        "name": "C 3442",
+        "label": "c-3442",
+        "hex": "#b1aeac"
+    },
+    {
+        "name": "C 3441",
+        "label": "c-3441",
+        "hex": "#9b9792"
+    },
+    {
+        "name": "C 3440",
+        "label": "c-3440",
+        "hex": "#7f7e7c"
+    },
+    {
+        "name": "C 3454",
+        "label": "c-3454",
+        "hex": "#e3dacd"
+    },
+    {
+        "name": "C 3453",
+        "label": "c-3453",
+        "hex": "#e1d7ca"
+    },
+    {
+        "name": "C 3452",
+        "label": "c-3452",
+        "hex": "#dacdbc"
+    },
+    {
+        "name": "C 3451",
+        "label": "c-3451",
+        "hex": "#c9baa7"
+    },
+    {
+        "name": "C 3450",
+        "label": "c-3450",
+        "hex": "#baac97"
+    },
+    {
+        "name": "C 3464",
+        "label": "c-3464",
+        "hex": "#e3ddd2"
+    },
+    {
+        "name": "C 3463",
+        "label": "c-3463",
+        "hex": "#d8d5cc"
+    },
+    {
+        "name": "C 3462",
+        "label": "c-3462",
+        "hex": "#c7c3b7"
+    },
+    {
+        "name": "C 3461",
+        "label": "c-3461",
+        "hex": "#a8a497"
+    },
+    {
+        "name": "C 3460",
+        "label": "c-3460",
+        "hex": "#9b958b"
+    },
+    {
+        "name": "C 3474",
+        "label": "c-3474",
+        "hex": "#e9e8e0"
+    },
+    {
+        "name": "C 3473",
+        "label": "c-3473",
+        "hex": "#d8d7d2"
+    },
+    {
+        "name": "C 3472",
+        "label": "c-3472",
+        "hex": "#bcbcb8"
+    },
+    {
+        "name": "C 3471",
+        "label": "c-3471",
+        "hex": "#a0a29d"
+    },
+    {
+        "name": "C 3470",
+        "label": "c-3470",
+        "hex": "#858783"
+    },
+    {
+        "name": "C 3484",
+        "label": "c-3484",
+        "hex": "#dadbd7"
+    },
+    {
+        "name": "C 3483",
+        "label": "c-3483",
+        "hex": "#c4c4c4"
+    },
+    {
+        "name": "C 3482",
+        "label": "c-3482",
+        "hex": "#ababad"
+    },
+    {
+        "name": "C 3481",
+        "label": "c-3481",
+        "hex": "#8a8d91"
+    },
+    {
+        "name": "C 3480",
+        "label": "c-3480",
+        "hex": "#7b7f85"
+    },
+    {
+        "name": "C 3494",
+        "label": "c-3494",
+        "hex": "#e0dfd8"
+    },
+    {
+        "name": "C 3493",
+        "label": "c-3493",
+        "hex": "#d5d5d2"
+    },
+    {
+        "name": "C 3492",
+        "label": "c-3492",
+        "hex": "#c6c9c6"
+    },
+    {
+        "name": "C 3491",
+        "label": "c-3491",
+        "hex": "#c3c4c3"
+    },
+    {
+        "name": "C 3490",
+        "label": "c-3490",
+        "hex": "#bec1c0"
+    },
+    {
+        "name": "C 3504",
+        "label": "c-3504",
+        "hex": "#ebede6"
+    },
+    {
+        "name": "C 3503",
+        "label": "c-3503",
+        "hex": "#dcdfdd"
+    },
+    {
+        "name": "C 3502",
+        "label": "c-3502",
+        "hex": "#bec5c6"
+    },
+    {
+        "name": "C 3501",
+        "label": "c-3501",
+        "hex": "#a1a8ad"
+    },
+    {
+        "name": "C 3500",
+        "label": "c-3500",
+        "hex": "#868f96"
+    },
+    {
+        "name": "C 3514",
+        "label": "c-3514",
+        "hex": "#e6e3da"
+    },
+    {
+        "name": "C 3513",
+        "label": "c-3513",
+        "hex": "#d7d5d0"
+    },
+    {
+        "name": "C 3512",
+        "label": "c-3512",
+        "hex": "#ceccc9"
+    },
+    {
+        "name": "C 3511",
+        "label": "c-3511",
+        "hex": "#bcbdbd"
+    },
+    {
+        "name": "C 3510",
+        "label": "c-3510",
+        "hex": "#b6b7b9"
+    },
+    {
+        "name": "C 3524",
+        "label": "c-3524",
+        "hex": "#d4d9d6"
+    },
+    {
+        "name": "C 3523",
+        "label": "c-3523",
+        "hex": "#c8cfcd"
+    },
+    {
+        "name": "C 3522",
+        "label": "c-3522",
+        "hex": "#b4bfc3"
+    },
+    {
+        "name": "C 3521",
+        "label": "c-3521",
+        "hex": "#a8b2b6"
+    },
+    {
+        "name": "C 3520",
+        "label": "c-3520",
+        "hex": "#a2acb1"
+    },
+    {
+        "name": "C 3534",
+        "label": "c-3534",
+        "hex": "#eff1e9"
+    },
+    {
+        "name": "C 3533",
+        "label": "c-3533",
+        "hex": "#dde2de"
+    },
+    {
+        "name": "C 3532",
+        "label": "c-3532",
+        "hex": "#c0cac8"
+    },
+    {
+        "name": "C 3531",
+        "label": "c-3531",
+        "hex": "#a4b1b2"
+    },
+    {
+        "name": "C 3530",
+        "label": "c-3530",
+        "hex": "#8b9a9b"
+    },
+    {
+        "name": "C 3544",
+        "label": "c-3544",
+        "hex": "#eceee5"
+    },
+    {
+        "name": "C 3543",
+        "label": "c-3543",
+        "hex": "#dae0d9"
+    },
+    {
+        "name": "C 3542",
+        "label": "c-3542",
+        "hex": "#c3cac5"
+    },
+    {
+        "name": "C 3541",
+        "label": "c-3541",
+        "hex": "#a5b0aa"
+    },
+    {
+        "name": "C 3540",
+        "label": "c-3540",
+        "hex": "#8c9a94"
+    }
+]

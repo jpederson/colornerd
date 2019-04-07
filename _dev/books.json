@@ -1,0 +1,1134 @@
+[
+    { 
+        "title": "ANPA",
+        "filename": "anpa"
+    },
+    { 
+        "title": "DIC",
+        "filename": "dic"
+    },
+    { 
+        "title": "Focoltone",
+        "filename": "focoltone"
+    },
+    { 
+        "title": "HKS E Process",
+        "filename": "hks-e-process"
+    },
+    { 
+        "title": "HKS E",
+        "filename": "hks-e"
+    },
+    { 
+        "title": "HKS K Process",
+        "filename": "hks-k-process"
+    },
+    { 
+        "title": "HKS K",
+        "filename": "hks-k"
+    },
+    { 
+        "title": "HKS N Process",
+        "filename": "hks-n-process"
+    },
+    { 
+        "title": "HKS N",
+        "filename": "hks-n"
+    },
+    { 
+        "title": "HKS Z Process",
+        "filename": "hks-z-process"
+    },
+    { 
+        "title": "HKS Z",
+        "filename": "hks-z"
+    },
+    { 
+        "title": "TOYO 94 Color Finder",
+        "filename": "toyo-94-color-finder"
+    },
+    { 
+        "title": "TOYO Color Finder",
+        "filename": "toyo-color-finder"
+    },
+    { 
+        "title": "TRUMATCH",
+        "filename": "trumatch"
+    },
+    {
+        "title": "3M ExclDesigner Swatch",
+        "filename": "threem-excldesigner-swatch"
+    },
+    {
+        "title": "3M Scotchcal Serie 100",
+        "filename": "threem-scotchcal-serie-100"
+    },
+    {
+        "title": "3M Scotchcal Serie 2330",
+        "filename": "threem-scotchcal-serie-2330"
+    },
+    {
+        "title": "3M Scotchcal Serie 30",
+        "filename": "threem-scotchcal-serie-30"
+    },
+    {
+        "title": "3M Scotchcal Serie 3630",
+        "filename": "threem-scotchcal-serie-3630"
+    },
+    {
+        "title": "3M Scotchcal Serie 50",
+        "filename": "threem-scotchcal-serie-50"
+    },
+    {
+        "title": "3M Scotchcal Serie 70",
+        "filename": "threem-scotchcal-serie-70"
+    },
+    {
+        "title": "3M Scotchcal Serie 80",
+        "filename": "threem-scotchcal-serie-80"
+    },
+    {
+        "title": "3M Scotchcal Serie 85",
+        "filename": "threem-scotchcal-serie-85"
+    },
+    {
+        "title": "3M Scotchlite Serie 580-680",
+        "filename": "threem-scotchlite-serie-580-680"
+    },
+    {
+        "title": "Achilles veredelt",
+        "filename": "achilles-veredelt"
+    },
+    {
+        "title": "Al Jazeera Color Harmony",
+        "filename": "al-jazeera-color-harmony"
+    },
+    {
+        "title": "Al Jazeera Kids Colors",
+        "filename": "al-jazeera-kids-colors"
+    },
+    {
+        "title": "Al Jazeera Magic Colors",
+        "filename": "al-jazeera-magic-colors"
+    },
+    {
+        "title": "Al Jazeera Universal Colors",
+        "filename": "al-jazeera-universal-colors"
+    },
+    {
+        "title": "Alligator Collection 3000",
+        "filename": "alligator-collection-3000"
+    },
+    {
+        "title": "Alligator Collection 4000",
+        "filename": "alligator-collection-4000"
+    },
+    {
+        "title": "Alligator Collection 5000",
+        "filename": "alligator-collection-5000"
+    },
+    {
+        "title": "Alligator Collection 5000+",
+        "filename": "alligator-collection-5000-plus"
+    },
+    {
+        "title": "Alligator Silikat",
+        "filename": "alligator-silikat"
+    },
+    {
+        "title": "Alpina Pure Colour",
+        "filename": "alpina-pure-colour"
+    },
+    {
+        "title": "Atlas-Nowa Paleta Barw",
+        "filename": "atlas-nowa-paleta-barw"
+    },
+    {
+        "title": "Auro Farbtonblock I Nr 321-330",
+        "filename": "auro-farbtonblock-i-nr-321-330"
+    },
+    {
+        "title": "Auro Farbtonblock II Nr 321-330",
+        "filename": "auro-farbtonblock-ii-nr-321-330"
+    },
+    {
+        "title": "Auro Farbtonblock III Nr 344-350",
+        "filename": "auro-farbtonblock-iii-nr-344-350"
+    },
+    {
+        "title": "Australian Standard",
+        "filename": "australian-standard"
+    },
+    {
+        "title": "Avery500EventFilm",
+        "filename": "avery500eventfilm"
+    },
+    {
+        "title": "Avery700PremiumFilm",
+        "filename": "avery700premiumfilm"
+    },
+    {
+        "title": "Avery800PremiumCast",
+        "filename": "avery800premiumcast"
+    },
+    {
+        "title": "Avery900SuperCast",
+        "filename": "avery900supercast"
+    },
+    {
+        "title": "BannerRite",
+        "filename": "bannerrite"
+    },
+    {
+        "title": "Baumann System Prase",
+        "filename": "baumann-system-prase"
+    },
+    {
+        "title": "Baumit Edelputz",
+        "filename": "baumit-edelputz"
+    },
+    {
+        "title": "Baumit Granolan",
+        "filename": "baumit-granolan"
+    },
+    {
+        "title": "Baumit Silikat",
+        "filename": "baumit-silikat"
+    },
+    {
+        "title": "Bayosan Decorputze",
+        "filename": "bayosan-decorputze"
+    },
+    {
+        "title": "Brander Siloxan",
+        "filename": "brander-siloxan"
+    },
+    {
+        "title": "Brillux AcrylColor",
+        "filename": "brillux-acrylcolor"
+    },
+    {
+        "title": "Brillux Creativ Sentimento 78",
+        "filename": "brillux-creativ-sentimento-78"
+    },
+    {
+        "title": "Brillux Farbkollektion",
+        "filename": "brillux-farbkollektion"
+    },
+    {
+        "title": "Brillux Kunstharzputz",
+        "filename": "brillux-kunstharzputz"
+    },
+    {
+        "title": "Brillux Lack",
+        "filename": "brillux-lack"
+    },
+    {
+        "title": "Brillux Mineralputz",
+        "filename": "brillux-mineralputz"
+    },
+    {
+        "title": "Brillux Mix",
+        "filename": "brillux-mix"
+    },
+    {
+        "title": "Brillux Scala",
+        "filename": "brillux-scala"
+    },
+    {
+        "title": "Brillux Silikat",
+        "filename": "brillux-silikat"
+    },
+    {
+        "title": "British Standard Colours",
+        "filename": "british-standard-colours"
+    },
+    {
+        "title": "British Std 5252F 1976",
+        "filename": "british-std-5252f-1976"
+    },
+    {
+        "title": "British Std Build-DecPaints",
+        "filename": "british-std-build-decpaints"
+    },
+    {
+        "title": "British Std IdCod-Special",
+        "filename": "british-std-idcod-special"
+    },
+    {
+        "title": "British Std Readymixed",
+        "filename": "british-std-readymixed"
+    },
+    {
+        "title": "British Std SpecPurposes",
+        "filename": "british-std-specpurposes"
+    },
+    {
+        "title": "CIELabcube",
+        "filename": "ciela-b-cube"
+    },
+    {
+        "title": "Capalac Glimmer",
+        "filename": "capalac-glimmer"
+    },
+    {
+        "title": "Capalac Metallic-Pearl",
+        "filename": "capalac-metallic-pearl"
+    },
+    {
+        "title": "Caparol 3D Lack",
+        "filename": "caparol-3d-lack"
+    },
+    {
+        "title": "Caparol 3D System",
+        "filename": "caparol-3d-system"
+    },
+    {
+        "title": "Caparol 3D plus",
+        "filename": "caparol-3d-plus"
+    },
+    {
+        "title": "Caparol Alpinacolor",
+        "filename": "caparol-alpinacolor"
+    },
+    {
+        "title": "Caparol AmphiSilan",
+        "filename": "caparol-amphisilan"
+    },
+    {
+        "title": "Caparol Capacryl",
+        "filename": "caparol-capacryl"
+    },
+    {
+        "title": "Caparol Capamix",
+        "filename": "caparol-capamix"
+    },
+    {
+        "title": "Caparol Color",
+        "filename": "caparol-color"
+    },
+    {
+        "title": "Caparol Panorama",
+        "filename": "caparol-panorama"
+    },
+    {
+        "title": "Caparol Stadtbild 200",
+        "filename": "caparol-stadtbild-200"
+    },
+    {
+        "title": "China Building Color Card",
+        "filename": "china-building-color-card"
+    },
+    {
+        "title": "ColorXperience",
+        "filename": "colorxperience"
+    },
+    {
+        "title": "Colortrend Ambiance",
+        "filename": "colortrend-ambiance"
+    },
+    {
+        "title": "Colortrend Eurotrend",
+        "filename": "colortrend-eurotrend"
+    },
+    {
+        "title": "Colortrend Facade plus",
+        "filename": "colortrend-facade-plus"
+    },
+    {
+        "title": "Colortrend Facade",
+        "filename": "colortrend-facade"
+    },
+    {
+        "title": "Colortrend Folio",
+        "filename": "colortrend-folio"
+    },
+    {
+        "title": "Colortrend Wood Stains",
+        "filename": "colortrend-wood-stains"
+    },
+    {
+        "title": "Colwell Trends 2007 Spring-Summer",
+        "filename": "colwell-trends-2007-spring-summer"
+    },
+    {
+        "title": "DB-Eisenglimmer",
+        "filename": "db-eisenglimmer"
+    },
+    {
+        "title": "DIN 6164",
+        "filename": "din-6164"
+    },
+    {
+        "title": "DeutschePapier",
+        "filename": "deutschepapier"
+    },
+    {
+        "title": "Draka Polya",
+        "filename": "draka-polya"
+    },
+    {
+        "title": "Dupli-Color Auto-Color",
+        "filename": "dupli-color-auto-color"
+    },
+    {
+        "title": "Epson Stylus Color 3000",
+        "filename": "epson-stylus-color-3000"
+    },
+    {
+        "title": "Epson Stylus Pro 7000",
+        "filename": "epson-stylus-pro-7000"
+    },
+    {
+        "title": "Farrow-Ball",
+        "filename": "farrow-ball"
+    },
+    {
+        "title": "FasCal800",
+        "filename": "fascal800"
+    },
+    {
+        "title": "FasCal900",
+        "filename": "fascal900"
+    },
+    {
+        "title": "FasCalMarkingFilms",
+        "filename": "fascalmarkingfilms"
+    },
+    {
+        "title": "FasCalPromotional",
+        "filename": "fascalpromotional"
+    },
+    {
+        "title": "Fasson Graphix Materials",
+        "filename": "fasson-graphix-materials"
+    },
+    {
+        "title": "Faust Colour mix",
+        "filename": "faust-colour-mix"
+    },
+    {
+        "title": "Fema Avanti",
+        "filename": "fema-avanti"
+    },
+    {
+        "title": "Fema Raumtrend",
+        "filename": "fema-raumtrend"
+    },
+    {
+        "title": "Flamant Colour Chart Special Edition",
+        "filename": "flamant-colour-chart-special-edition"
+    },
+    {
+        "title": "GORI Compact-Buntlack",
+        "filename": "gori-compact-buntlack"
+    },
+    {
+        "title": "GS Palette 141 Kunstdruck",
+        "filename": "gs-palette-141-kunstdruck"
+    },
+    {
+        "title": "GS Palette 141 Naturpapier",
+        "filename": "gs-palette-141-naturpapier"
+    },
+    {
+        "title": "GSB05-1426-2001",
+        "filename": "gsb05-1426-2001"
+    },
+    {
+        "title": "Glasurit Euromix-Profimix",
+        "filename": "glasurit-euromix-profimix"
+    },
+    {
+        "title": "Gori BBZ-Lack",
+        "filename": "gori-bbz-lack"
+    },
+    {
+        "title": "Hartmann-Classen",
+        "filename": "hartmann-classen"
+    },
+    {
+        "title": "Heidelberger ip Oberputze",
+        "filename": "heidelberger-ip-oberputze"
+    },
+    {
+        "title": "Herbol Design",
+        "filename": "herbol-design"
+    },
+    {
+        "title": "Herbol Farbe und Architektur",
+        "filename": "herbol-farbe-und-architektur"
+    },
+    {
+        "title": "Herbol Farbe und Design Lacke",
+        "filename": "herbol-farbe-und-design-lacke"
+    },
+    {
+        "title": "Herbol Farbe und Design Wandfarbe",
+        "filename": "herbol-farbe-und-design-wandfarbe"
+    },
+    {
+        "title": "Herbol N-A",
+        "filename": "herbol-n-a"
+    },
+    {
+        "title": "Hexis Cast HX20000",
+        "filename": "hexis-cast-hx20000"
+    },
+    {
+        "title": "Hexis Ecotacplus E3000",
+        "filename": "hexis-ecotacplus-e3000"
+    },
+    {
+        "title": "Hexis Microtac M2000",
+        "filename": "hexis-microtac-m2000"
+    },
+    {
+        "title": "Hexis Suptac S5000",
+        "filename": "hexis-suptac-s5000"
+    },
+    {
+        "title": "Hornbach Fassadenfarben",
+        "filename": "hornbach-fassadenfarben"
+    },
+    {
+        "title": "Hornbach",
+        "filename": "hornbach"
+    },
+    {
+        "title": "Huili paint N280",
+        "filename": "huili-paint-n280"
+    },
+    {
+        "title": "IKEA Family",
+        "filename": "ikea-family"
+    },
+    {
+        "title": "J-S K mit Raster",
+        "filename": "j-s-k-mit-raster"
+    },
+    {
+        "title": "J-S K",
+        "filename": "j-s-k"
+    },
+    {
+        "title": "J-S N",
+        "filename": "j-s-n"
+    },
+    {
+        "title": "J-S Rasterfaecher",
+        "filename": "j-s-rasterfaecher"
+    },
+    {
+        "title": "JPMA Standard Paint Colors",
+        "filename": "jpma-standard-paint-colors"
+    },
+    {
+        "title": "Jaeger Fliesenlack 897",
+        "filename": "jaeger-fliesenlack-897"
+    },
+    {
+        "title": "K-E Novavit Serie 250",
+        "filename": "k-e-novavit-serie-250"
+    },
+    {
+        "title": "KEIM Avantgarde",
+        "filename": "keim-avantgarde"
+    },
+    {
+        "title": "Keimfarben Exclusiv",
+        "filename": "keimfarben-exclusiv"
+    },
+    {
+        "title": "Kobra",
+        "filename": "kobra"
+    },
+    {
+        "title": "Koessinger Keramik-Druck",
+        "filename": "koessinger-keramik-druck"
+    },
+    {
+        "title": "Krautol Fassade",
+        "filename": "krautol-fassade"
+    },
+    {
+        "title": "Krautol Trend2",
+        "filename": "krautol-trend2"
+    },
+    {
+        "title": "LGChem Hi-Pearl Film",
+        "filename": "lgchem-hi-pearl-film"
+    },
+    {
+        "title": "LGChem LA 8000 Series",
+        "filename": "lgchem-la-8000-series"
+    },
+    {
+        "title": "LGChem LA 9000 Series",
+        "filename": "lgchem-la-9000-series"
+    },
+    {
+        "title": "LGChem LC 2000 Series",
+        "filename": "lgchem-lc-2000-series"
+    },
+    {
+        "title": "LGChem LC 3000 Series",
+        "filename": "lgchem-lc-3000-series"
+    },
+    {
+        "title": "LGChem LK 2000 Series",
+        "filename": "lgchem-lk-2000-series"
+    },
+    {
+        "title": "LGChem LL 5000 Series",
+        "filename": "lgchem-ll-5000-series"
+    },
+    {
+        "title": "LGChem LT 4000 Series",
+        "filename": "lgchem-lt-4000-series"
+    },
+    {
+        "title": "LGChem Vizuoncal 4700",
+        "filename": "lgchem-vizuoncal-4700"
+    },
+    {
+        "title": "LGChem Vizuoncal 6700 Opaque",
+        "filename": "lgchem-vizuoncal-6700-opaque"
+    },
+    {
+        "title": "LGChem Vizuoncal 6800 Translucent",
+        "filename": "lgchem-vizuoncal-6800-translucent"
+    },
+    {
+        "title": "LGChem Vizuoncal Specialty",
+        "filename": "lgchem-vizuoncal-specialty"
+    },
+    {
+        "title": "LGChem Vizuoncast 9000 Translucent",
+        "filename": "lgchem-vizuoncast-9000-translucent"
+    },
+    {
+        "title": "Leinos Naturfarben",
+        "filename": "leinos-naturfarben"
+    },
+    {
+        "title": "Little Greene-Colour Scales",
+        "filename": "little-greene-colour-scales"
+    },
+    {
+        "title": "Little Greene-Colours of England",
+        "filename": "little-greene-colours-of-england"
+    },
+    {
+        "title": "Lukas Berlin",
+        "filename": "lukas-berlin"
+    },
+    {
+        "title": "Lukas Cryl",
+        "filename": "lukas-cryl"
+    },
+    {
+        "title": "Lukas Studio",
+        "filename": "lukas-studio"
+    },
+    {
+        "title": "MACal CAD-CAM Serie 8900S",
+        "filename": "macal-cad-cam-serie-8900s"
+    },
+    {
+        "title": "MACal CAD-CAM Serie 9700",
+        "filename": "macal-cad-cam-serie-9700"
+    },
+    {
+        "title": "MACal CAD-CAM Serie 9800",
+        "filename": "macal-cad-cam-serie-9800"
+    },
+    {
+        "title": "MACmark 0,5-2 years",
+        "filename": "macmark-0-5-2-years"
+    },
+    {
+        "title": "MACmark 5-7 years",
+        "filename": "macmark-5-7-years"
+    },
+    {
+        "title": "MACmark cad-cam",
+        "filename": "macmark-cad-cam"
+    },
+    {
+        "title": "MACtac MACscreen",
+        "filename": "mactac-macscreen"
+    },
+    {
+        "title": "MD-Color",
+        "filename": "md-color"
+    },
+    {
+        "title": "MP Colorplus",
+        "filename": "mp-colorplus"
+    },
+    {
+        "title": "Maday Mediterrano",
+        "filename": "maday-mediterrano"
+    },
+    {
+        "title": "Marabu Siebdruckfarben",
+        "filename": "marabu-siebdruckfarben"
+    },
+    {
+        "title": "Marabu-TX",
+        "filename": "marabu-tx"
+    },
+    {
+        "title": "Marmorit Fassadenfarben",
+        "filename": "marmorit-fassadenfarben"
+    },
+    {
+        "title": "Maxit XL Classic",
+        "filename": "maxit-xl-classic"
+    },
+    {
+        "title": "Maxit XL Modern",
+        "filename": "maxit-xl-modern"
+    },
+    {
+        "title": "Mixol",
+        "filename": "mixol"
+    },
+    {
+        "title": "Munsell",
+        "filename": "munsell"
+    },
+    {
+        "title": "Neverlak 6000",
+        "filename": "neverlak-6000"
+    },
+    {
+        "title": "Neverlak Frescolithe Lithox Putop",
+        "filename": "neverlak-frescolithe-lithox-putop"
+    },
+    {
+        "title": "Neverlak Frescolithe Superfresco",
+        "filename": "neverlak-frescolithe-superfresco"
+    },
+    {
+        "title": "Neverlak Frescolithe",
+        "filename": "neverlak-frescolithe"
+    },
+    {
+        "title": "OBI",
+        "filename": "obi"
+    },
+    {
+        "title": "Oracal 451",
+        "filename": "oracal-451"
+    },
+    {
+        "title": "Oracal 631",
+        "filename": "oracal-631"
+    },
+    {
+        "title": "Oracal 6510",
+        "filename": "oracal-6510"
+    },
+    {
+        "title": "Oracal 751C Cast",
+        "filename": "oracal-751c-cast"
+    },
+    {
+        "title": "Oracal 810, 8300, 8510",
+        "filename": "oracal-810-8300-8510"
+    },
+    {
+        "title": "Oracal 851 Premium Cast",
+        "filename": "oracal-851-premium-cast"
+    },
+    {
+        "title": "Oracal 951 Premium Cast",
+        "filename": "oracal-951-premium-cast"
+    },
+    {
+        "title": "Oracal 970 Premium Wrapping Cast",
+        "filename": "oracal-970-premium-wrapping-cast"
+    },
+    {
+        "title": "Oracal Serie 551",
+        "filename": "oracal-serie-551"
+    },
+    {
+        "title": "Oracal Serie 641",
+        "filename": "oracal-serie-641"
+    },
+    {
+        "title": "Oracal Serie 651",
+        "filename": "oracal-serie-651"
+    },
+    {
+        "title": "Oracal Serie 751",
+        "filename": "oracal-serie-751"
+    },
+    {
+        "title": "Oracal Serie 8500",
+        "filename": "oracal-serie-8500"
+    },
+    {
+        "title": "Oracal Serie 851",
+        "filename": "oracal-serie-851"
+    },
+    {
+        "title": "Osmo Dekorwachs",
+        "filename": "osmo-dekorwachs"
+    },
+    {
+        "title": "Osmo Einmallasur",
+        "filename": "osmo-einmallasur"
+    },
+    {
+        "title": "Osmo many",
+        "filename": "osmo-many"
+    },
+    {
+        "title": "PRB Color",
+        "filename": "prb-color"
+    },
+    {
+        "title": "Pflanzenfarben-Atlas",
+        "filename": "pflanzenfarben-atlas"
+    },
+    {
+        "title": "PigmentMIX",
+        "filename": "pigmentmix"
+    },
+    {
+        "title": "Relius Roof Acryl",
+        "filename": "relius-roof-acryl"
+    },
+    {
+        "title": "Relius Style und Trend 380",
+        "filename": "relius-style-und-trend-380"
+    },
+    {
+        "title": "Resomur Farben",
+        "filename": "resomur-farben"
+    },
+    {
+        "title": "Rubens Atelier",
+        "filename": "rubens-atelier"
+    },
+    {
+        "title": "Rubens Decoracryl",
+        "filename": "rubens-decoracryl"
+    },
+    {
+        "title": "Rubens Oelfarben",
+        "filename": "rubens-oelfarben"
+    },
+    {
+        "title": "Scala - Bodenbeschichtungen",
+        "filename": "scala-bodenbeschichtungen"
+    },
+    {
+        "title": "Scala - Deckfarben",
+        "filename": "scala-deckfarben"
+    },
+    {
+        "title": "Scala - Dunkle Farbtoene",
+        "filename": "scala-dunkle-farbtoene"
+    },
+    {
+        "title": "Scala - Fassade und Detail",
+        "filename": "scala-fassade-und-detail"
+    },
+    {
+        "title": "Scala - Helle Farbtoene",
+        "filename": "scala-helle-farbtoene"
+    },
+    {
+        "title": "Scala - Lacke und Metallics",
+        "filename": "scala-lacke-und-metallics"
+    },
+    {
+        "title": "Scala - Raum und Detail",
+        "filename": "scala-raum-und-detail"
+    },
+    {
+        "title": "Scala",
+        "filename": "scala"
+    },
+    {
+        "title": "Schmincke Akademieacryl",
+        "filename": "schmincke-akademieacryl"
+    },
+    {
+        "title": "Schmincke Hksgouache",
+        "filename": "schmincke-hksgouache"
+    },
+    {
+        "title": "Schmincke Horadamaquar",
+        "filename": "schmincke-horadamaquar"
+    },
+    {
+        "title": "Schmincke Normapro",
+        "filename": "schmincke-normapro"
+    },
+    {
+        "title": "Schöner Wohnen Trendfarben",
+        "filename": "schöner-wohnen-trendfarben"
+    },
+    {
+        "title": "Schwenk",
+        "filename": "schwenk"
+    },
+    {
+        "title": "Sericol Plastisol Inks",
+        "filename": "sericol-plastisol-inks"
+    },
+    {
+        "title": "Sericol StdColourSelector",
+        "filename": "sericol-stdcolourselector"
+    },
+    {
+        "title": "Sericol Tx MatchingSystem",
+        "filename": "sericol-tx-matchingsystem"
+    },
+    {
+        "title": "Sericol UCG Leuchtfarben",
+        "filename": "sericol-ucg-leuchtfarben"
+    },
+    {
+        "title": "Sericol UCG MatchingSystem",
+        "filename": "sericol-ucg-matchingsystem"
+    },
+    {
+        "title": "Sericol UCG Std",
+        "filename": "sericol-ucg-std"
+    },
+    {
+        "title": "Sericol Water-based Inks",
+        "filename": "sericol-water-based-inks"
+    },
+    {
+        "title": "Siegwerk Druckfarben",
+        "filename": "siegwerk-druckfarben"
+    },
+    {
+        "title": "Sigma Chroma G",
+        "filename": "sigma-chroma-g"
+    },
+    {
+        "title": "Sigma Coatings Standard",
+        "filename": "sigma-coatings-standard"
+    },
+    {
+        "title": "Sigma Sigmulto",
+        "filename": "sigma-sigmulto"
+    },
+    {
+        "title": "Sikkens 3031",
+        "filename": "sikkens-3031"
+    },
+    {
+        "title": "Sikkens 4041",
+        "filename": "sikkens-4041"
+    },
+    {
+        "title": "StoColorSystem",
+        "filename": "stocolorsystem"
+    },
+    {
+        "title": "T-Shade Tailor-made-colors",
+        "filename": "t-shade-tailor-made-colors"
+    },
+    {
+        "title": "TAG Farbe erleben",
+        "filename": "tag-farbe-erleben"
+    },
+    {
+        "title": "Terranova 151",
+        "filename": "terranova-151"
+    },
+    {
+        "title": "Terranova 43",
+        "filename": "terranova-43"
+    },
+    {
+        "title": "Terranova Color 2000",
+        "filename": "terranova-color-2000"
+    },
+    {
+        "title": "Terranova a la card",
+        "filename": "terranova-a-la-card"
+    },
+    {
+        "title": "Thermoshield",
+        "filename": "thermoshield"
+    },
+    {
+        "title": "Thyssen Krupp Reflections One",
+        "filename": "thyssen-krupp-reflections-one"
+    },
+    {
+        "title": "TintaSol",
+        "filename": "tintasol"
+    },
+    {
+        "title": "Trendline Collection",
+        "filename": "trendline-collection"
+    },
+    {
+        "title": "Trimetal Color Concept",
+        "filename": "trimetal-color-concept"
+    },
+    {
+        "title": "Ultramark Serie3500 Premium",
+        "filename": "ultramark-serie3500-premium"
+    },
+    {
+        "title": "Ultramark Serie5700 Premium",
+        "filename": "ultramark-serie5700-premium"
+    },
+    {
+        "title": "Vikunyl",
+        "filename": "vikunyl"
+    },
+    {
+        "title": "Winter-Bouts Moodscapes",
+        "filename": "winter-bouts-moodscapes"
+    },
+    {
+        "title": "Yosima",
+        "filename": "yosima"
+    },
+    {
+        "title": "Zero Color System 720",
+        "filename": "zero-color-system-720"
+    },
+    {
+        "title": "Zero Colorfassfarbe",
+        "filename": "zero-colorfassfarbe"
+    },
+    {
+        "title": "Zero Colorsystem",
+        "filename": "zero-colorsystem"
+    },
+    {
+        "title": "Zero Elastocryl1-2-3",
+        "filename": "zero-elastocryl1-2-3"
+    },
+    {
+        "title": "Zero Fassaden-Col 277",
+        "filename": "zero-fassaden-col-277"
+    },
+    {
+        "title": "Zero Hydrosil",
+        "filename": "zero-hydrosil"
+    },
+    {
+        "title": "Alsecco ACCS 2",
+        "filename": "alsecco-accs-2"
+    },
+    {
+        "title": "Alsecco ACCS",
+        "filename": "alsecco-accs"
+    },
+    {
+        "title": "Einz-a Novacolor",
+        "filename": "einz-a-novacolor"
+    },
+    {
+        "title": "Farbe-raum Collection",
+        "filename": "farbe-raum-kollektion"
+    },
+    {
+        "title": "Filmmegarex D-MG Economy Grade",
+        "filename": "filmmegarex-d-mg-economy-grade"
+    },
+    {
+        "title": "Filmmegarex D-MM Economy Grade",
+        "filename": "filmmegarex-d-mm-economy-grade"
+    },
+    {
+        "title": "Filmnormex D-CUM Intermediate Grade",
+        "filename": "filmnormex-d-cum-intermediate-grade"
+    },
+    {
+        "title": "Filmnormex D-CX Intermediate Grade",
+        "filename": "filmnormex-d-cx-intermediate-grade"
+    },
+    {
+        "title": "Filmnormex",
+        "filename": "filmnormex"
+    },
+    {
+        "title": "Filmstarex D-CL Premium Grade",
+        "filename": "filmstarex-d-cl-premium-grade"
+    },
+    {
+        "title": "Filmstarex D-CU Premium Grade",
+        "filename": "filmstarex-d-cu-premium-grade"
+    },
+    {
+        "title": "Filmstarex",
+        "filename": "filmstarex"
+    },
+    {
+        "title": "Flamant",
+        "filename": "flamant"
+    },
+    {
+        "title": "Handinhandbuch K",
+        "filename": "handinhandbuch-k"
+    },
+    {
+        "title": "ISPO 2001",
+        "filename": "ispo-2001"
+    },
+    {
+        "title": "ISPO 840",
+        "filename": "ispo-840"
+    },
+    {
+        "title": "Kera Colour-Line",
+        "filename": "kera-colour-line"
+    },
+    {
+        "title": "Knauf classic",
+        "filename": "knauf-classic"
+    },
+    {
+        "title": "Knauf finess",
+        "filename": "knauf-finess"
+    },
+    {
+        "title": "Multi-fix",
+        "filename": "multi-fix"
+    },
+    {
+        "title": "Sio-lein",
+        "filename": "sio-lein"
+    },
+    {
+        "title": "Standox Auto Paint",
+        "filename": "standox-autolacke"
+    },
+    {
+        "title": "Standox Standofleet",
+        "filename": "standox-standofleet"
+    },
+    {
+        "title": "Sto Silikat",
+        "filename": "sto-silikat"
+    },
+    {
+        "title": "Swedex",
+        "filename": "swedex"
+    },
+    {
+        "title": "Volvox",
+        "filename": "volvox"
+    },
+    {
+        "title": "Weber Maxit",
+        "filename": "weber-maxit"
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "name": "Brillux 1208 echtgelb",
+        "label": "1208-echtgelb",
+        "hex": "#eee47f"
+    },
+    {
+        "name": "Brillux 1209 ocker",
+        "label": "1209-ocker",
+        "hex": "#cc9238"
+    },
+    {
+        "name": "Brillux 1218",
+        "label": "1218",
+        "hex": "#eee1b9"
+    },
+    {
+        "name": "Brillux 1219",
+        "label": "1219",
+        "hex": "#ddc39b"
+    },
+    {
+        "name": "Brillux 1228",
+        "label": "1228",
+        "hex": "#e7d18f"
+    },
+    {
+        "name": "Brillux 1229",
+        "label": "1229",
+        "hex": "#dab17f"
+    },
+    {
+        "name": "Brillux 1238",
+        "label": "1238",
+        "hex": "#e2cb7a"
+    },
+    {
+        "name": "Brillux 1239",
+        "label": "1239",
+        "hex": "#caa070"
+    },
+    {
+        "name": "Brillux 1248",
+        "label": "1248",
+        "hex": "#e3dbc8"
+    },
+    {
+        "name": "Brillux 1249",
+        "label": "1249",
+        "hex": "#f1dfcf"
+    },
+    {
+        "name": "Brillux 1258",
+        "label": "1258",
+        "hex": "#e6d6b7"
+    },
+    {
+        "name": "Brillux 1268",
+        "label": "1268",
+        "hex": "#e1c391"
+    },
+    {
+        "name": "Brillux 1278",
+        "label": "1278",
+        "hex": "#d5b275"
+    },
+    {
+        "name": "Brillux 1288",
+        "label": "1288",
+        "hex": "#e7dfcc"
+    },
+    {
+        "name": "Brillux 1298",
+        "label": "1298",
+        "hex": "#e5d7be"
+    },
+    {
+        "name": "Brillux 2209 orange",
+        "label": "2209-orange",
+        "hex": "#c1623d"
+    },
+    {
+        "name": "Brillux 2219",
+        "label": "2219",
+        "hex": "#e8cfb7"
+    },
+    {
+        "name": "Brillux 2229",
+        "label": "2229",
+        "hex": "#e4bea1"
+    },
+    {
+        "name": "Brillux 2239",
+        "label": "2239",
+        "hex": "#deac8e"
+    },
+    {
+        "name": "Brillux 2249",
+        "label": "2249",
+        "hex": "#d3926d"
+    },
+    {
+        "name": "Brillux 2259",
+        "label": "2259",
+        "hex": "#bf7550"
+    },
+    {
+        "name": "Brillux 3209 oxidrot",
+        "label": "3209-oxidrot",
+        "hex": "#934a40"
+    },
+    {
+        "name": "Brillux 3218",
+        "label": "3218",
+        "hex": "#e0c9be"
+    },
+    {
+        "name": "Brillux 3219",
+        "label": "3219",
+        "hex": "#b16d5d"
+    },
+    {
+        "name": "Brillux 3228",
+        "label": "3228",
+        "hex": "#dab9a9"
+    },
+    {
+        "name": "Brillux 3229",
+        "label": "3229",
+        "hex": "#a3614f"
+    },
+    {
+        "name": "Brillux 3238",
+        "label": "3238",
+        "hex": "#c79783"
+    },
+    {
+        "name": "Brillux 3248",
+        "label": "3248",
+        "hex": "#b37d67"
+    },
+    {
+        "name": "Brillux 3258",
+        "label": "3258",
+        "hex": "#a56e59"
+    },
+    {
+        "name": "Brillux 3268",
+        "label": "3268",
+        "hex": "#e0c8be"
+    },
+    {
+        "name": "Brillux 3278",
+        "label": "3278",
+        "hex": "#e3b9ab"
+    },
+    {
+        "name": "Brillux 3288",
+        "label": "3288",
+        "hex": "#d69e8a"
+    },
+    {
+        "name": "Brillux 3298",
+        "label": "3298",
+        "hex": "#c58776"
+    },
+    {
+        "name": "Brillux 5209 blau",
+        "label": "5209-blau",
+        "hex": "#0089b3"
+    },
+    {
+        "name": "Brillux 5218",
+        "label": "5218",
+        "hex": "#88a0a7"
+    },
+    {
+        "name": "Brillux 5228",
+        "label": "5228",
+        "hex": "#a2adad"
+    },
+    {
+        "name": "Brillux 5238",
+        "label": "5238",
+        "hex": "#bec9c3"
+    },
+    {
+        "name": "Brillux 5248",
+        "label": "5248",
+        "hex": "#d5d6cf"
+    },
+    {
+        "name": "Brillux 5259",
+        "label": "5259",
+        "hex": "#cdd5d2"
+    },
+    {
+        "name": "Brillux 5269",
+        "label": "5269",
+        "hex": "#aec4ca"
+    },
+    {
+        "name": "Brillux 5279",
+        "label": "5279",
+        "hex": "#8aa9b7"
+    },
+    {
+        "name": "Brillux 5289",
+        "label": "5289",
+        "hex": "#6391a6"
+    },
+    {
+        "name": "Brillux 5299",
+        "label": "5299",
+        "hex": "#56859c"
+    },
+    {
+        "name": "Brillux 6208 oxidgruen",
+        "label": "6208-oxidgruen",
+        "hex": "#6c875f"
+    },
+    {
+        "name": "Brillux 6209 umbra",
+        "label": "6209-umbra",
+        "hex": "#71674e"
+    },
+    {
+        "name": "Brillux 6218",
+        "label": "6218",
+        "hex": "#d6d4c5"
+    },
+    {
+        "name": "Brillux 6219",
+        "label": "6219",
+        "hex": "#797c6d"
+    },
+    {
+        "name": "Brillux 6228",
+        "label": "6228",
+        "hex": "#c5c4ac"
+    },
+    {
+        "name": "Brillux 6238",
+        "label": "6238",
+        "hex": "#acac8e"
+    },
+    {
+        "name": "Brillux 6248",
+        "label": "6248",
+        "hex": "#929271"
+    },
+    {
+        "name": "Brillux 6258",
+        "label": "6258",
+        "hex": "#81825d"
+    },
+    {
+        "name": "Brillux 6268",
+        "label": "6268",
+        "hex": "#cdcfc3"
+    },
+    {
+        "name": "Brillux 6278",
+        "label": "6278",
+        "hex": "#b6b9a8"
+    },
+    {
+        "name": "Brillux 6279",
+        "label": "6279",
+        "hex": "#687a6f"
+    },
+    {
+        "name": "Brillux 6288",
+        "label": "6288",
+        "hex": "#a4a692"
+    },
+    {
+        "name": "Brillux 6289",
+        "label": "6289",
+        "hex": "#a6ada0"
+    },
+    {
+        "name": "Brillux 6298",
+        "label": "6298",
+        "hex": "#8b8e7b"
+    },
+    {
+        "name": "Brillux 6299",
+        "label": "6299",
+        "hex": "#bbc0b0"
+    },
+    {
+        "name": "Brillux 7218",
+        "label": "7218",
+        "hex": "#cccfcd"
+    },
+    {
+        "name": "Brillux 7219",
+        "label": "7219",
+        "hex": "#656667"
+    },
+    {
+        "name": "Brillux 7228",
+        "label": "7228",
+        "hex": "#bdc3c5"
+    },
+    {
+        "name": "Brillux 7229",
+        "label": "7229",
+        "hex": "#525151"
+    },
+    {
+        "name": "Brillux 7238",
+        "label": "7238",
+        "hex": "#a1a7a8"
+    },
+    {
+        "name": "Brillux 7248",
+        "label": "7248",
+        "hex": "#7f8081"
+    },
+    {
+        "name": "Brillux 7258",
+        "label": "7258",
+        "hex": "#575e62"
+    },
+    {
+        "name": "Brillux 7268",
+        "label": "7268",
+        "hex": "#cccbc5"
+    },
+    {
+        "name": "Brillux 7278",
+        "label": "7278",
+        "hex": "#b4b4b0"
+    },
+    {
+        "name": "Brillux 7288",
+        "label": "7288",
+        "hex": "#9d9e9e"
+    },
+    {
+        "name": "Brillux 7298",
+        "label": "7298",
+        "hex": "#7b7b7c"
+    },
+    {
+        "name": "Brillux 8282",
+        "label": "8282",
+        "hex": "#e7e0d9"
+    },
+    {
+        "name": "Brillux 8295",
+        "label": "8295",
+        "hex": "#e3d4ce"
+    },
+    {
+        "name": "Brillux 8296",
+        "label": "8296",
+        "hex": "#d9c5bf"
+    },
+    {
+        "name": "Brillux 8297",
+        "label": "8297",
+        "hex": "#ccb2a7"
+    },
+    {
+        "name": "Brillux 8298",
+        "label": "8298",
+        "hex": "#bd9c8f"
+    },
+    {
+        "name": "Brillux 8299 oxidbraun",
+        "label": "8299-oxidbraun",
+        "hex": "#654943"
+    },
+    {
+        "name": "Brillux 8384",
+        "label": "8384",
+        "hex": "#987264"
+    },
+    {
+        "name": "Brillux 8385",
+        "label": "8385",
+        "hex": "#876256"
+    },
+    {
+        "name": "Brillux 8386",
+        "label": "8386",
+        "hex": "#d0c5c1"
+    },
+    {
+        "name": "Brillux 8387",
+        "label": "8387",
+        "hex": "#beadaa"
+    },
+    {
+        "name": "Brillux 8388",
+        "label": "8388",
+        "hex": "#ab928e"
+    },
+    {
+        "name": "Brillux 8389",
+        "label": "8389",
+        "hex": "#9c817e"
+    },
+    {
+        "name": "Brillux 8390",
+        "label": "8390",
+        "hex": "#846461"
+    },
+    {
+        "name": "Brillux 8391",
+        "label": "8391",
+        "hex": "#c8c5c1"
+    },
+    {
+        "name": "Brillux 8392",
+        "label": "8392",
+        "hex": "#b8b1ae"
+    },
+    {
+        "name": "Brillux 8393",
+        "label": "8393",
+        "hex": "#a79a99"
+    },
+    {
+        "name": "Brillux 8394",
+        "label": "8394",
+        "hex": "#928380"
+    },
+    {
+        "name": "Brillux 8395",
+        "label": "8395",
+        "hex": "#847473"
+    },
+    {
+        "name": "Brillux 8396",
+        "label": "8396",
+        "hex": "#6d5855"
+    },
+    {
+        "name": "Brillux 8397",
+        "label": "8397",
+        "hex": "#e6d7cc"
+    },
+    {
+        "name": "Brillux 8398",
+        "label": "8398",
+        "hex": "#d9cbc0"
+    },
+    {
+        "name": "Brillux 8399",
+        "label": "8399",
+        "hex": "#cbb9ab"
+    },
+    {
+        "name": "Brillux 8488",
+        "label": "8488",
+        "hex": "#b49683"
+    },
+    {
+        "name": "Brillux 8489",
+        "label": "8489",
+        "hex": "#9c7865"
+    },
+    {
+        "name": "Brillux 8490",
+        "label": "8490",
+        "hex": "#e5ded3"
+    },
+    {
+        "name": "Brillux 8491",
+        "label": "8491",
+        "hex": "#cec4b6"
+    },
+    {
+        "name": "Brillux 8492",
+        "label": "8492",
+        "hex": "#b6a695"
+    },
+    {
+        "name": "Brillux 8493",
+        "label": "8493",
+        "hex": "#9c8973"
+    },
+    {
+        "name": "Brillux 8494",
+        "label": "8494",
+        "hex": "#85755f"
+    },
+    {
+        "name": "Brillux 8495",
+        "label": "8495",
+        "hex": "#ede7d6"
+    },
+    {
+        "name": "Brillux 8496",
+        "label": "8496",
+        "hex": "#ddd2be"
+    },
+    {
+        "name": "Brillux 8497",
+        "label": "8497",
+        "hex": "#cdc0a6"
+    },
+    {
+        "name": "Brillux 8498",
+        "label": "8498",
+        "hex": "#b9a682"
+    },
+    {
+        "name": "Brillux 8499",
+        "label": "8499",
+        "hex": "#ae966f"
+    },
+    {
+        "name": "Brillux 9900 schwarz",
+        "label": "9900-schwarz",
+        "hex": "#4d4b4a"
+    }
+]

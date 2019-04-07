@@ -1,0 +1,10 @@
+
+
+// set our color array
+macmark-0-5-2-years-colors = ("macal-8901-00" #e56102) ("macal-8903-00" #ffa600) ("macal-8905-00" #ffc200) ("macal-8909-00" #ffd300) ("macal-8929-00" #f7f6f8) ("macal-8939-00" #005397) ("macal-8939-02" #203e6e) ("macal-8939-06" #007fbe) ("macal-8949-00" #009150) ("macal-8949-03" #71b02f) ("macal-8959-00" #a10011) ("macal-8959-01" #c52926) ("macal-8983-02" #583925) ("macal-8989-00" #131415) ("macal-8989-01" #5b6062) ("macal-8989-04" #7f888e) ("macal-8902-00" #f37235) ("macal-8908-00" #fcd138) ("macal-8908-09" #ffb900) ("macal-8928-00" #f2f3f9) ("macal-8928-01" #f5dab3) ("macal-8938-00" #0080c1) ("macal-8938-01" #1d5d9c) ("macal-8938-04" #00a0d8) ("macal-8938-05" #a393be) ("macal-8938-06" #714878) ("macal-8938-07" #009ea6) ("macal-8948-00" #0b855a) ("macal-8948-01" #329049) ("macal-8958-00" #a33038) ("macal-8958-01" #cb3e3d) ("macal-8958-03" #d94538) ("macal-8958-04" #ce447f) ("macal-8982-02" #624738) ("macal-8982-03" #55453c) ("macal-8988-00" #343536) ("macal-8988-05" #9c9c9a) ("macal-8988-06" #666b6c) ("macal-8002" #ff7800) ("macal-8004" #f9f500) ("macal-8034" #007fbd) ("macal-8044" #00c400) ("macal-8054" #ff2600) ("macal-8056" #ff2b93)
+
+
+// grab a specific color based on key
+macmark-0-5-2-years( color )
+  return item[1] if item[0] == color for item in macmark-0-5-2-years-colors
+

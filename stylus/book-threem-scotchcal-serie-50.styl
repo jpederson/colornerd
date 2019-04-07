@@ -1,0 +1,10 @@
+
+
+// set our color array
+threem-scotchcal-serie-50-colors = ("threem-50-10" #eaeef3) ("threem-50-100" #e9ecf3) ("threem-50-912" #e7d9b6) ("threem-50-91" #e8d1b9) ("threem-50-914" #dfc493) ("threem-50-917" #7c4b24) ("threem-50-918" #694122) ("threem-50-92" #42271a) ("threem-50-78" #004e2c) ("threem-50-77" #0d5113) ("threem-50-76" #006e39) ("threem-50-74" #008e56) ("threem-50-745" #008e2f) ("threem-50-73" #379d00) ("threem-50-72" #7ac82a) ("threem-50-24" #f8de00) ("threem-50-25" #fec600) ("threem-50-26" #ffb700) ("threem-50-27" #f8a800) ("threem-50-28" #f99500) ("threem-50-32" #e46000) ("threem-50-34" #e85201) ("threem-50-42" #cf3011) ("threem-50-44" #bc2710) ("threem-50-46" #c71e00) ("threem-50-47" #bc1d2c) ("threem-50-475" #c21314) ("threem-50-48" #a71015) ("threem-50-483" #a0000a) ("threem-50-486" #7e1e23) ("threem-50-49" #601a29) ("threem-50-66" #5e3e8c) ("threem-50-65" #7866a7) ("threem-50-64" #b62260) ("threem-50-63" #c93f7f) ("threem-50-62" #ea86b5) ("threem-50-792" #66d8bc) ("threem-50-795" #00a095) ("threem-50-79" #008c8e) ("threem-50-81" #4eadd3) ("threem-50-82" #0094cc) ("threem-50-83" #1183b5) ("threem-50-834" #0072b2) ("threem-50-84" #0064aa) ("threem-50-862" #005194) ("threem-50-87" #3041b1) ("threem-50-88" #004189) ("threem-50-884" #0c316d) ("threem-50-90" #082752) ("threem-50-905" #151f33) ("threem-50-93" #c4c6c6) ("threem-50-94" #919691) ("threem-50-96" #5b6161) ("threem-50-97" #424547) ("threem-50-12" #090a0d) ("threem-50-120" #3a3a3b) ("threem-50-58" #a6a8a9) ("threem-50-54" #b09158) ("threem-50-585" #4b4a47)
+
+
+// grab a specific color based on key
+threem-scotchcal-serie-50( color )
+  return item[1] if item[0] == color for item in threem-scotchcal-serie-50-colors
+

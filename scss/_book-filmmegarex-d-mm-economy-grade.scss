@@ -1,0 +1,16 @@
+
+
+// array of colors
+$filmmegarex-d-mm-economy-grade-colors: ("d-mm-6630" #ebe25c), ("d-mm-6631" #f4ca21), ("d-mm-6632" #fcb527), ("d-mm-6641" #f2733c), ("d-mm-6640" #c84437), ("d-mm-6643" #af363a), ("d-mm-6644" #a12f32), ("d-mm-6650" #75363a), ("d-mm-6691" #5fbce5), ("d-mm-6692" #009ed2), ("d-mm-6694" #077db5), ("d-mm-6695" #26628e), ("d-mm-6686" #4757ae), ("d-mm-6696" #3e4d85), ("d-mm-6697" #304367), ("d-mm-6662" #579e37), ("d-mm-6663" #008d47), ("d-mm-6665" #007f50), ("d-mm-6666" #166243), ("d-mm-6800" #e9d9b9), ("d-mm-6700" #b1b4aa), ("d-mm-6710" #848685), ("d-mm-6720" #6a6d6d), ("d-mm-6620" #ebeff3), ("d-mm-6610" #3c3d3e);
+
+
+// grab a specific color based on key
+@function filmmegarex-d-mm-economy-grade( $color ) {
+    @each $item in $filmmegarex-d-mm-economy-grade-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

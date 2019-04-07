@@ -1,0 +1,717 @@
+[
+    {
+        "name": "BMS 1635 Bomag gelb",
+        "label": "bms-1635-bomag-gelb",
+        "hex": "#f7c22e"
+    },
+    {
+        "name": "BMS 281 Caterpillar gelb",
+        "label": "bms-281-caterpillar-gelb",
+        "hex": "#be8738"
+    },
+    {
+        "name": "BMS 1656 Caterpillar gelb",
+        "label": "bms-1656-caterpillar-gelb",
+        "hex": "#bd8737"
+    },
+    {
+        "name": "LM 288 Clayson gelb",
+        "label": "lm-288-clayson-gelb",
+        "hex": "#e2aa49"
+    },
+    {
+        "name": "LM 215 Clayson gelb New Holland",
+        "label": "lm-215-clayson-gelb-new-holland",
+        "hex": "#dfb63f"
+    },
+    {
+        "name": "LM 1209 David Brown beige",
+        "label": "lm-1209-david-brown-beige",
+        "hex": "#ebddc4"
+    },
+    {
+        "name": "LM 1223 Fiat Agri beige",
+        "label": "lm-1223-fiat-agri-beige",
+        "hex": "#d3ccaa"
+    },
+    {
+        "name": "BMS 1475 Hyster gelb",
+        "label": "bms-1475-hyster-gelb",
+        "hex": "#d39742"
+    },
+    {
+        "name": "BMS 1352 JCB yellow",
+        "label": "bms-1352-jcb-yellow",
+        "hex": "#f59c00"
+    },
+    {
+        "name": "LM 217 John Deere gelb",
+        "label": "lm-217-john-deere-gelb",
+        "hex": "#ffce36"
+    },
+    {
+        "name": "BMS 2294 Jungheinrich Yale gelb",
+        "label": "bms-2294-jungheinrich-yale-gelb",
+        "hex": "#d8891b"
+    },
+    {
+        "name": "BMS 1446 Komatsu natural yellow",
+        "label": "bms-1446-komatsu-natural-yellow",
+        "hex": "#e29f00"
+    },
+    {
+        "name": "BMS 1222 KramerINeuson gelb",
+        "label": "bms-1222-kramerineuson-gelb",
+        "hex": "#e3a100"
+    },
+    {
+        "name": "LM 216 Krone Aufbau creme",
+        "label": "lm-216-krone-aufbau-creme",
+        "hex": "#ebc484"
+    },
+    {
+        "name": "LM 1229 Krone creme NEU",
+        "label": "lm-1229-krone-creme-neu",
+        "hex": "#f3c276"
+    },
+    {
+        "name": "BMS 1108 Liebherr gelb",
+        "label": "bms-1108-liebherr-gelb",
+        "hex": "#d78d20"
+    },
+    {
+        "name": "BMS 1395 Liebherr gelb neu",
+        "label": "bms-1395-liebherr-gelb-neu",
+        "hex": "#cf8718"
+    },
+    {
+        "name": "LM 1865 New Holland gelb",
+        "label": "lm-1865-new-holland-gelb",
+        "hex": "#eaaf2c"
+    },
+    {
+        "name": "LM 1622 New Holland gelb Mahdrescher",
+        "label": "lm-1622-new-holland-gelb-mahdrescher",
+        "hex": "#faad00"
+    },
+    {
+        "name": "LM 1101 P2-Zweegers beige",
+        "label": "lm-1101-p2-zweegers-beige",
+        "hex": "#bdab75"
+    },
+    {
+        "name": "LM 285 Renault gelb",
+        "label": "lm-285-renault-gelb",
+        "hex": "#e97800"
+    },
+    {
+        "name": "LM 1228 Same elfenbein",
+        "label": "lm-1228-same-elfenbein",
+        "hex": "#e8d4ad"
+    },
+    {
+        "name": "LM 293 Schluter Felgenbeige",
+        "label": "lm-293-schluter-felgenbeige",
+        "hex": "#a98d63"
+    },
+    {
+        "name": "LM 1232 Vicon gelb",
+        "label": "lm-1232-vicon-gelb",
+        "hex": "#ddae6f"
+    },
+    {
+        "name": "BMS 1130 Volvo Baumaschinen gelb",
+        "label": "bms-1130-volvo-baumaschinen-gelb",
+        "hex": "#e29b00"
+    },
+    {
+        "name": "BMS 1116 Zeppelin CAT gelb",
+        "label": "bms-1116-zeppelin-cat-gelb",
+        "hex": "#bf842f"
+    },
+    {
+        "name": "BMS 2135 Atlas orange",
+        "label": "bms-2135-atlas-orange",
+        "hex": "#d2481c"
+    },
+    {
+        "name": "LM 238 Fiat-Agri orange",
+        "label": "lm-238-fiat-agri-orange",
+        "hex": "#c35421"
+    },
+    {
+        "name": "BMS 2306 Fiat Kobelco orange",
+        "label": "bms-2306-fiat-kobelco-orange",
+        "hex": "#de5600"
+    },
+    {
+        "name": "BMS 2312 Hitachi orange",
+        "label": "bms-2312-hitachi-orange",
+        "hex": "#d05402"
+    },
+    {
+        "name": "LM 2139 Howard orange",
+        "label": "lm-2139-howard-orange",
+        "hex": "#ba4a1f"
+    },
+    {
+        "name": "LM 286 Maschio orange",
+        "label": "lm-286-maschio-orange",
+        "hex": "#db5500"
+    },
+    {
+        "name": "BMS 2257 Steinbock orange",
+        "label": "bms-2257-steinbock-orange",
+        "hex": "#e55811"
+    },
+    {
+        "name": "BMS 2256 Still orange",
+        "label": "bms-2256-still-orange",
+        "hex": "#d86200"
+    },
+    {
+        "name": "BMS 2284 Toyota orange",
+        "label": "bms-2284-toyota-orange",
+        "hex": "#c54c29"
+    },
+    {
+        "name": "LM 3276 Bergmann rot",
+        "label": "lm-3276-bergmann-rot",
+        "hex": "#a42c1c"
+    },
+    {
+        "name": "LM 278 Case international rot",
+        "label": "lm-278-case-international-rot",
+        "hex": "#831d1b"
+    },
+    {
+        "name": "LM 3162 David Brown rot",
+        "label": "lm-3162-david-brown-rot",
+        "hex": "#941b1a"
+    },
+    {
+        "name": "LM 3165 Fahr rot",
+        "label": "lm-3165-fahr-rot",
+        "hex": "#951b1a"
+    },
+    {
+        "name": "LM 280 Fella rot",
+        "label": "lm-280-fella-rot",
+        "hex": "#b42b21"
+    },
+    {
+        "name": "LM 239 Grimme rot",
+        "label": "lm-239-grimme-rot",
+        "hex": "#b22407"
+    },
+    {
+        "name": "LM 3171 Valmet rot",
+        "label": "lm-3171-valmet-rot",
+        "hex": "#b22406"
+    },
+    {
+        "name": "LM 3246 IHC rot 332 NEU",
+        "label": "lm-3246-ihc-rot-332-neu",
+        "hex": "#9e1a1a"
+    },
+    {
+        "name": "LM 219 IHC MC Cormik rot",
+        "label": "lm-219-ihc-mc-cormik-rot",
+        "hex": "#7e020f"
+    },
+    {
+        "name": "LM 241 Kuhn 2 rot",
+        "label": "lm-241-kuhn-2-rot",
+        "hex": "#be2314"
+    },
+    {
+        "name": "LM 3266 Kverneland rot",
+        "label": "lm-3266-kverneland-rot",
+        "hex": "#a9060d"
+    },
+    {
+        "name": "BMS 3452 Manitou rot",
+        "label": "bms-3452-manitou-rot",
+        "hex": "#b12019"
+    },
+    {
+        "name": "LM 235 Mengele rot",
+        "label": "lm-235-mengele-rot",
+        "hex": "#b11a0a"
+    },
+    {
+        "name": "LM 3152 Spagele rot",
+        "label": "lm-3152-spagele-rot",
+        "hex": "#b11a0a"
+    },
+    {
+        "name": "LM 224 Niedermeyer rot",
+        "label": "lm-224-niedermeyer-rot",
+        "hex": "#ab201a"
+    },
+    {
+        "name": "LM 3172 Krone rot NEU",
+        "label": "lm-3172-krone-rot-neu",
+        "hex": "#ab201a"
+    },
+    {
+        "name": "LM 3174 CS rot",
+        "label": "lm-3174-cs-rot",
+        "hex": "#ab201a"
+    },
+    {
+        "name": "LM 3241 Manitou rot",
+        "label": "lm-3241-manitou-rot",
+        "hex": "#ab1f1a"
+    },
+    {
+        "name": "LM 236 Pottinger rot",
+        "label": "lm-236-pottinger-rot",
+        "hex": "#b81508"
+    },
+    {
+        "name": "LM 237 Same rot",
+        "label": "lm-237-same-rot",
+        "hex": "#c02a10"
+    },
+    {
+        "name": "LM 287 Same rot NEU",
+        "label": "lm-287-same-rot-neu",
+        "hex": "#b63518"
+    },
+    {
+        "name": "LM 277 Schluter rot",
+        "label": "lm-277-schluter-rot",
+        "hex": "#ae1d23"
+    },
+    {
+        "name": "LM 3167 Steyr Chassis rot",
+        "label": "lm-3167-steyr-chassis-rot",
+        "hex": "#6a1411"
+    },
+    {
+        "name": "LM 289 Stoll rot",
+        "label": "lm-289-stoll-rot",
+        "hex": "#a51d14"
+    },
+    {
+        "name": "LM 3166 Rauch rot",
+        "label": "lm-3166-rauch-rot",
+        "hex": "#a51d13"
+    },
+    {
+        "name": "BMS 3374 Takeuschi rot",
+        "label": "bms-3374-takeuschi-rot",
+        "hex": "#9e1d24"
+    },
+    {
+        "name": "BMS 3124 Volvo rot",
+        "label": "bms-3124-volvo-rot",
+        "hex": "#8e2324"
+    },
+    {
+        "name": "LM 2338 Deutz blau 84",
+        "label": "lm-2338-deutz-blau-84",
+        "hex": "#202428"
+    },
+    {
+        "name": "LM 227 Eicher alpenblau",
+        "label": "lm-227-eicher-alpenblau",
+        "hex": "#66808a"
+    },
+    {
+        "name": "LM 230 Eicher hellblau",
+        "label": "lm-230-eicher-hellblau",
+        "hex": "#3483a0"
+    },
+    {
+        "name": "LM 228 Eicher kurierblau",
+        "label": "lm-228-eicher-kurierblau",
+        "hex": "#517a86"
+    },
+    {
+        "name": "LM 248 Fiat-Agri blau",
+        "label": "lm-248-fiat-agri-blau",
+        "hex": "#2f434b"
+    },
+    {
+        "name": "LM 259 Ford blau",
+        "label": "lm-259-ford-blau",
+        "hex": "#005571"
+    },
+    {
+        "name": "LM 5200 Hanomag blaugrun",
+        "label": "lm-5200-hanomag-blaugrun",
+        "hex": "#1c535c"
+    },
+    {
+        "name": "LM 255 Lamborghini blau",
+        "label": "lm-255-lamborghini-blau",
+        "hex": "#181c21"
+    },
+    {
+        "name": "LM 5203 Landini blau",
+        "label": "lm-5203-landini-blau",
+        "hex": "#3a79b2"
+    },
+    {
+        "name": "LM 5195 Lanz blau",
+        "label": "lm-5195-lanz-blau",
+        "hex": "#2b4c58"
+    },
+    {
+        "name": "LM 5197 Lemken blau 93 NEU",
+        "label": "lm-5197-lemken-blau-93-neu",
+        "hex": "#0086b2"
+    },
+    {
+        "name": "LM 232 Mengele nlau",
+        "label": "lm-232-mengele-nlau",
+        "hex": "#358fa1"
+    },
+    {
+        "name": "LM 279 Mengele blau 79",
+        "label": "lm-279-mengele-blau-79",
+        "hex": "#3f8897"
+    },
+    {
+        "name": "LM 234 Rabe blau",
+        "label": "lm-234-rabe-blau",
+        "hex": "#005b83"
+    },
+    {
+        "name": "LM 231 Same blau",
+        "label": "lm-231-same-blau",
+        "hex": "#1c283d"
+    },
+    {
+        "name": "LM 5139 Steyr Mahbalken blau",
+        "label": "lm-5139-steyr-mahbalken-blau",
+        "hex": "#1b263b"
+    },
+    {
+        "name": "LM 233 Schmotzer blau",
+        "label": "lm-233-schmotzer-blau",
+        "hex": "#006c9d"
+    },
+    {
+        "name": "LM 6243 Agria grun",
+        "label": "lm-6243-agria-grun",
+        "hex": "#64821d"
+    },
+    {
+        "name": "LM 6111 Allgaier grun",
+        "label": "lm-6111-allgaier-grun",
+        "hex": "#2d5436"
+    },
+    {
+        "name": "LM 270 Amazone grun",
+        "label": "lm-270-amazone-grun",
+        "hex": "#4c682f"
+    },
+    {
+        "name": "LM 6244 Brantner grun",
+        "label": "lm-6244-brantner-grun",
+        "hex": "#627c59"
+    },
+    {
+        "name": "LM 205 Claas Saatengrun",
+        "label": "lm-205-claas-saatengrun",
+        "hex": "#999920"
+    },
+    {
+        "name": "LM 6361 Deutz grun 06",
+        "label": "lm-6361-deutz-grun-06",
+        "hex": "#1b6733"
+    },
+    {
+        "name": "LM 203 Deutz grun hell 74",
+        "label": "lm-203-deutz-grun-hell-74",
+        "hex": "#529429"
+    },
+    {
+        "name": "LM 262 Eberhard grun",
+        "label": "lm-262-eberhard-grun",
+        "hex": "#54672d"
+    },
+    {
+        "name": "LM 208 Fendt grun NEU 98",
+        "label": "lm-208-fendt-grun-neu-98",
+        "hex": "#546f47"
+    },
+    {
+        "name": "LM 266 Fendt grun",
+        "label": "lm-266-fendt-grun",
+        "hex": "#546f47"
+    },
+    {
+        "name": "LM 6211 Gulder grun",
+        "label": "lm-6211-gulder-grun",
+        "hex": "#407644"
+    },
+    {
+        "name": "LM 206 Holder grun",
+        "label": "lm-206-holder-grun",
+        "hex": "#537e4b"
+    },
+    {
+        "name": "LM 0206-D Holder grun Alt",
+        "label": "lm-0206-d-holder-grun-alt",
+        "hex": "#3b6848"
+    },
+    {
+        "name": "LM 268 John Deere grun",
+        "label": "lm-268-john-deere-grun",
+        "hex": "#2f6225"
+    },
+    {
+        "name": "LM 261 Krone grun",
+        "label": "lm-261-krone-grun",
+        "hex": "#455f2e"
+    },
+    {
+        "name": "LM 264 Kruger grun",
+        "label": "lm-264-kruger-grun",
+        "hex": "#00a887"
+    },
+    {
+        "name": "LM 6107 Kverneland grun",
+        "label": "lm-6107-kverneland-grun",
+        "hex": "#015133"
+    },
+    {
+        "name": "LM 6219 Lanz grun",
+        "label": "lm-6219-lanz-grun",
+        "hex": "#2e4828"
+    },
+    {
+        "name": "LM 207 MAN grun",
+        "label": "lm-207-man-grun",
+        "hex": "#567a60"
+    },
+    {
+        "name": "LM 6841 MB Trac hellgrun",
+        "label": "lm-6841-mb-trac-hellgrun",
+        "hex": "#bbc054"
+    },
+    {
+        "name": "LM 6648 Reisch grun NEU",
+        "label": "lm-6648-reisch-grun-neu",
+        "hex": "#007741"
+    },
+    {
+        "name": "LM 201 Reisch grun",
+        "label": "lm-201-reisch-grun",
+        "hex": "#437056"
+    },
+    {
+        "name": "LM 273 Rohr grun",
+        "label": "lm-273-rohr-grun",
+        "hex": "#587b61"
+    },
+    {
+        "name": "LM 6374 Schluter grun hell",
+        "label": "lm-6374-schluter-grun-hell",
+        "hex": "#547545"
+    },
+    {
+        "name": "LM 6620 Stetzl grun",
+        "label": "lm-6620-stetzl-grun",
+        "hex": "#35602e"
+    },
+    {
+        "name": "LM 202 Stoll grun",
+        "label": "lm-202-stoll-grun",
+        "hex": "#8fa221"
+    },
+    {
+        "name": "LM 6223 Stoll grun NEU",
+        "label": "lm-6223-stoll-grun-neu",
+        "hex": "#749733"
+    },
+    {
+        "name": "LM 276 Strautmann grun",
+        "label": "lm-276-strautmann-grun",
+        "hex": "#748a26"
+    },
+    {
+        "name": "LM 274 Strautmann olivgrun",
+        "label": "lm-274-strautmann-olivgrun",
+        "hex": "#85825c"
+    },
+    {
+        "name": "DB 6277 Unimog meergrun",
+        "label": "db-6277-unimog-meergrun",
+        "hex": "#576d55"
+    },
+    {
+        "name": "LM 275 Unsinn grun 85",
+        "label": "lm-275-unsinn-grun-85",
+        "hex": "#428856"
+    },
+    {
+        "name": "LM 272 Unsinn grun hell",
+        "label": "lm-272-unsinn-grun-hell",
+        "hex": "#1e874f"
+    },
+    {
+        "name": "LM 200 Unsinn grun",
+        "label": "lm-200-unsinn-grun",
+        "hex": "#34745c"
+    },
+    {
+        "name": "LM 6128 Kirchner grun",
+        "label": "lm-6128-kirchner-grun",
+        "hex": "#34745c"
+    },
+    {
+        "name": "LM 209 Welger grun",
+        "label": "lm-209-welger-grun",
+        "hex": "#516348"
+    },
+    {
+        "name": "LM 271 Zetor dunkelgrun",
+        "label": "lm-271-zetor-dunkelgrun",
+        "hex": "#212928"
+    },
+    {
+        "name": "BMS 7448 Bomag anthrazit dunkel",
+        "label": "bms-7448-bomag-anthrazit-dunkel",
+        "hex": "#2c3032"
+    },
+    {
+        "name": "LM 243 Claas grau",
+        "label": "lm-243-claas-grau",
+        "hex": "#c0bfb2"
+    },
+    {
+        "name": "LM 243 Ford grau NEU",
+        "label": "lm-243-ford-grau-neu",
+        "hex": "#c0bfb2"
+    },
+    {
+        "name": "LM 229 Eicher anthrazitgrau",
+        "label": "lm-229-eicher-anthrazitgrau",
+        "hex": "#464741"
+    },
+    {
+        "name": "LM 245 Fendt grau",
+        "label": "lm-245-fendt-grau",
+        "hex": "#444342"
+    },
+    {
+        "name": "LM 240 Ferguson grau",
+        "label": "lm-240-ferguson-grau",
+        "hex": "#3a3231"
+    },
+    {
+        "name": "LM 7278 Ford dunkelgrau",
+        "label": "lm-7278-ford-dunkelgrau",
+        "hex": "#373b3d"
+    },
+    {
+        "name": "LM 7179 Holder dunkelgrau",
+        "label": "lm-7179-holder-dunkelgrau",
+        "hex": "#4a5056"
+    },
+    {
+        "name": "BMS 7452 Komatsu schwarzgrau",
+        "label": "bms-7452-komatsu-schwarzgrau",
+        "hex": "#2c2f31"
+    },
+    {
+        "name": "BMS 7452 Bomag anthrazit",
+        "label": "bms-7452-bomag-anthrazit",
+        "hex": "#2c2f32"
+    },
+    {
+        "name": "BMS 7840 Liebherr grau SM",
+        "label": "bms-7840-liebherr-grau-sm",
+        "hex": "#505352"
+    },
+    {
+        "name": "LM 242 Renault anthrazit",
+        "label": "lm-242-renault-anthrazit",
+        "hex": "#3e3b39"
+    },
+    {
+        "name": "LM 244 Same dunkelgrau NEU",
+        "label": "lm-244-same-dunkelgrau-neu",
+        "hex": "#21201f"
+    },
+    {
+        "name": "LM 7183 Hurlimann dunkelgrau",
+        "label": "lm-7183-hurlimann-dunkelgrau",
+        "hex": "#21201f"
+    },
+    {
+        "name": "BMS 7404 Takeuschi hellgrau",
+        "label": "bms-7404-takeuschi-hellgrau",
+        "hex": "#b9baac"
+    },
+    {
+        "name": "BMS 7454 Volvo grau SM NEU",
+        "label": "bms-7454-volvo-grau-sm-neu",
+        "hex": "#494544"
+    },
+    {
+        "name": "LM 246 Fiat Agri braun",
+        "label": "lm-246-fiat-agri-braun",
+        "hex": "#ebead7"
+    },
+    {
+        "name": "LM 223 Fiat Agri braun",
+        "label": "lm-223-fiat-agri-braun",
+        "hex": "#2d201d"
+    },
+    {
+        "name": "LM 284 Fiat Agri rotbraun",
+        "label": "lm-284-fiat-agri-rotbraun",
+        "hex": "#873119"
+    },
+    {
+        "name": "LM 8122 Krone Erntewagen hellbraun 8129",
+        "label": "lm-8122-krone-erntewagen-hellbraun-8129",
+        "hex": "#8b6b35"
+    },
+    {
+        "name": "LM 9388 Landini schwarzgrau",
+        "label": "lm-9388-landini-schwarzgrau",
+        "hex": "#252427"
+    },
+    {
+        "name": "BMS 7155 Atlas anthrazit",
+        "label": "bms-7155-atlas-anthrazit",
+        "hex": "#4f4f49"
+    },
+    {
+        "name": "BMS 9432 Bobcat white",
+        "label": "bms-9432-bobcat-white",
+        "hex": "#e4e1d1"
+    },
+    {
+        "name": "LM 291 Aufbauten wei",
+        "label": "lm-291-aufbauten-wei",
+        "hex": "#d8ceb2"
+    },
+    {
+        "name": "BMS 9378 Liebherr wei",
+        "label": "bms-9378-liebherr-wei",
+        "hex": "#d1cfbf"
+    },
+    {
+        "name": "LM 295 Renault wei",
+        "label": "lm-295-renault-wei",
+        "hex": "#e4dcc3"
+    },
+    {
+        "name": "LM 225 Motorblock silber",
+        "label": "lm-225-motorblock-silber",
+        "hex": "#8f8b84"
+    },
+    {
+        "name": "LM 226 Fendt diamantgrau metallic",
+        "label": "lm-226-fendt-diamantgrau-metallic",
+        "hex": "#6e665a"
+    }
+]

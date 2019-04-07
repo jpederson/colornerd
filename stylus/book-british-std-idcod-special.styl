@@ -1,0 +1,10 @@
+
+
+// set our color array
+british-std-idcod-special-colors = ("115-cobald-blue" #5b83af) ("104-azure-blue" #1f4971) ("110-roundel-blue" #253767) ("105-oxford-blue" #192b4c) ("106-royal-blue" #005574) ("109-middle-blue" #5ba0ad) ("112-arctic-blue" #1d5c6a) ("113-deep-saxe-blue" #00444e) ("114-rail-blue" #448581) ("102-turquoise-blue" #42837f) ("275-opaline-green" #82ac83) ("226-middle-brunswick-green" #1d442a) ("225-light-brunswick-green" #2e5620) ("216-eau-de-nil" #a0b67d) ("217-sea-green" #829e54) ("224-deep-bronze-green" #2a301b) ("210-sky" #adaf93) ("222-light-bronze-green" #5a5a1f) ("641-dark-green" #464536) ("285-nato-green" #545348) ("352-pale-cream" #e0c685) ("384-light-straw" #d4c092) ("366-light-beige" #dfc291) ("361-light-stone" #bd9c6e) ("450-dark-earth" #6e5a44) ("360-deep-buff" #ab7a49) ("410-light-brown" #8e6131) ("411-middle-brown" #684121) ("499-service-brown" #483626) ("414-golden-brown" #935519) ("489-leaf-brown" #77472d) ("412-dark-brown" #4d2c1e) ("447-salmon-pink" #d6987e) ("446-red-oxide" #632d1f) ("453-shell-pink" #dfc4c0) ("542-ruby" #77244b) ("797-light-violet" #ad9ab8) ("627-light-aircraft-grey" #a9a9a2) ("637-medium-sea-grey" #82898c) ("632-dark-admirality-grey" #5c6468) ("676-light-weatherwork-grey" #9ca6a8) ("677-dark-weatherwork-grey" #5c646a) ("638-dark-sea-grey" #5b6065) ("640-extra-dark-sea-grey" #4c5258) ("697-light-admirality-grey" #a6bdb7) ("636-pru-blue" #526973) ("633-raf-blue-grey" #313b40) ("631-light-grey" #8c968d) ("693-aircraft-grey" #787e79) ("796-dark-violet" #5c3d67) ("166-french-blue" #2b5e9c) ("175-light-french-blue" #3d7db2) ("107-strong-blue" #096e96) ("228-emerald-green" #027b52) ("221-brilliant-green" #336626) ("218-grass-green" #4b752d) ("309-canary-yellow" #e0b900) ("355-lemon" #e5ac00) ("356-golden-yellow" #eda100) ("368-traffic-yellow" #d07800) ("557-light-orange" #d3670e) ("592-international-orange" #be3e0f) ("593-rail-red" #c4330c) ("537-signal-red" #b22213) ("539-red" #a51a1a) ("538-post-office-red" #941719)
+
+
+// grab a specific color based on key
+british-std-idcod-special( color )
+  return item[1] if item[0] == color for item in british-std-idcod-special-colors
+

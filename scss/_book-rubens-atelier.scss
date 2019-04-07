@@ -1,0 +1,16 @@
+
+
+// array of colors
+$rubens-atelier-colors: ("rubens-323102-titanweiss" #deddd6), ("rubens-323205-echtgelb-zitron" #dad50f), ("rubens-323206-echtgelb-hell" #e9bf00), ("rubens-323212-indischgelb" #f19d00), ("rubens-323303-echtorange" #db4d1a), ("rubens-323306-zinnoberrot" #b3292b), ("rubens-323312-karminrot" #9e263a), ("rubens-323317-krapprot" #832d42), ("rubens-323318-magenta" #9d3465), ("rubens-323403-rotviolett" #5f375d), ("rubens-323405-blauviolett" #3e2f60), ("rubens-323408-kobaltblau" #292e54), ("rubens-323410-ultramarinblau" #39259c), ("rubens-323418-phthaloblau" #18406f), ("rubens-323420-coelinblau" #00607d), ("rubens-323412-indigo" #303740), ("rubens-323504-phthalogruen" #00604b), ("rubens-323505-permanentgruen-dunkel" #00704a), ("rubens-323507-permanentgruen-hell" #1fb134), ("rubens-323515-laubgruen" #50764e), ("rubens-323516-olivgruen" #4d593b), ("rubens-323217-hautfarbe" #d7ae8f), ("rubens-323602-lichter-ocker" #c1883b), ("rubens-323610-terra-di-siena-gebrannt" #8f4a38), ("rubens-323612-englischrot" #81423c), ("rubens-323618-umbra-gebrannt" #554642), ("rubens-323701-schiefergrau" #4b4842), ("rubens-323704-paynes-grey" #32373b), ("rubens-323706-schwarz" #2c2d2e), ("rubens-323802-gold" #9a7a41), ("rubens-323804-silber" #a8a5a2), ("rubens-323806-kupfer" #ad7957);
+
+
+// grab a specific color based on key
+@function rubens-atelier( $color ) {
+    @each $item in $rubens-atelier-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

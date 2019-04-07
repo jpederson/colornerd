@@ -1,0 +1,10 @@
+
+
+// set our color array
+oracal-serie-641-colors = ("oracal-010-weiss" #e5eaef) ("oracal-020-goldgelb" #f2a000) ("oracal-019-signalgelb" #e7a100) ("oracal-021-gelb" #febc00) ("oracal-022-shellgelb" #ecc100) ("oracal-025-schwefelgelb" #ebda00) ("oracal-030-dunkelrot" #821a1d) ("oracal-031-rot" #a80b18) ("oracal-032-hellrot" #bb1b0f) ("oracal-034-orange" #d24d1c) ("oracal-036-hellrotorange" #dd6513) ("oracal-035-pastellorange" #f36702) ("oracal-040-violett" #5e336e) ("oracal-043-lavendel" #7b67a7) ("oracal-042-flieder" #b99ac0) ("oracal-041-pink" #bb3673) ("oracal-045-hellrosa" #e688b8) ("oracal-050-dunkelblau" #273961) ("oracal-049-koenigsblau" #213779) ("oracal-086-brillantblau" #2d44a6) ("oracal-051-enzianblau" #005283) ("oracal-052-azurblau" #006fad) ("oracal-053-hellblau" #0094c2) ("oracal-056-lichtblau" #4cabd1) ("oracal-066-tuerkisblau" #008b89) ("oracal-054-tuerkis" #00a394) ("oracal-055-mint" #6bd2b6) ("oracal-060-dunkelgruen" #004029) ("oracal-061-gruen" #007c4b) ("oracal-062-hellgruen" #008835) ("oracal-064-gelbgruen" #3f9300) ("oracal-063-lindgruen" #72a427) ("oracal-070-schwarz" #0d0e10) ("oracal-073-dunkelgrau" #4a4b4b) ("oracal-071-grau" #767d7c) ("oracal-074-mittelgrau" #8d918d) ("oracal-072-hellgrau" #c2c4c3) ("oracal-080-braun" #412e1f) ("oracal-083-haselnussbraun" #a75520) ("oracal-081-hellbraun" #a5845a) ("oracal-082-beige" #cfbd9d) ("oracal-090-silbergrau" #8c8e8e) ("oracal-091-gold" #957e46) ("oracal-092-kupfer" #93602f)
+
+
+// grab a specific color based on key
+oracal-serie-641( color )
+  return item[1] if item[0] == color for item in oracal-serie-641-colors
+

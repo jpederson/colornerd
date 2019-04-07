@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Fema Zitrone 0",
+        "label": "fema-zitrone-0",
+        "hex": "#f3df81"
+    },
+    {
+        "name": "Fema Zitrone 2",
+        "label": "fema-zitrone-2",
+        "hex": "#f2e395"
+    },
+    {
+        "name": "Fema Zitrone 4",
+        "label": "fema-zitrone-4",
+        "hex": "#f3eaad"
+    },
+    {
+        "name": "Fema Zitrone 6",
+        "label": "fema-zitrone-6",
+        "hex": "#f2f0c9"
+    },
+    {
+        "name": "Fema Zitrone 8",
+        "label": "fema-zitrone-8",
+        "hex": "#f3efd2"
+    },
+    {
+        "name": "Fema Birne 0",
+        "label": "fema-birne-0",
+        "hex": "#f3c85f"
+    },
+    {
+        "name": "Fema Birne 2",
+        "label": "fema-birne-2",
+        "hex": "#f6d375"
+    },
+    {
+        "name": "Fema Birne 4",
+        "label": "fema-birne-4",
+        "hex": "#f6de8e"
+    },
+    {
+        "name": "Fema Birne 6",
+        "label": "fema-birne-6",
+        "hex": "#f3e7b2"
+    },
+    {
+        "name": "Fema Birne 8",
+        "label": "fema-birne-8",
+        "hex": "#f2ebc3"
+    },
+    {
+        "name": "Fema Orange 0",
+        "label": "fema-orange-0",
+        "hex": "#f4a545"
+    },
+    {
+        "name": "Fema Orange 2",
+        "label": "fema-orange-2",
+        "hex": "#f6b355"
+    },
+    {
+        "name": "Fema Orange 4",
+        "label": "fema-orange-4",
+        "hex": "#f6c36f"
+    },
+    {
+        "name": "Fema Orange 6",
+        "label": "fema-orange-6",
+        "hex": "#f4d796"
+    },
+    {
+        "name": "Fema Orange 8",
+        "label": "fema-orange-8",
+        "hex": "#f8e3b0"
+    },
+    {
+        "name": "Fema Apricot 0",
+        "label": "fema-apricot-0",
+        "hex": "#de8b66"
+    },
+    {
+        "name": "Fema Apricot 2",
+        "label": "fema-apricot-2",
+        "hex": "#e79e7a"
+    },
+    {
+        "name": "Fema Apricot 4",
+        "label": "fema-apricot-4",
+        "hex": "#eeb08e"
+    },
+    {
+        "name": "Fema Apricot 6",
+        "label": "fema-apricot-6",
+        "hex": "#f5c9ad"
+    },
+    {
+        "name": "Fema Apricot 8",
+        "label": "fema-apricot-8",
+        "hex": "#f6d9c4"
+    },
+    {
+        "name": "Fema Mango 0",
+        "label": "fema-mango-0",
+        "hex": "#bc7974"
+    },
+    {
+        "name": "Fema Mango 2",
+        "label": "fema-mango-2",
+        "hex": "#c98984"
+    },
+    {
+        "name": "Fema Mango 4",
+        "label": "fema-mango-4",
+        "hex": "#d7a19d"
+    },
+    {
+        "name": "Fema Mango 6",
+        "label": "fema-mango-6",
+        "hex": "#e7c2bd"
+    },
+    {
+        "name": "Fema Mango 8",
+        "label": "fema-mango-8",
+        "hex": "#edd0cb"
+    },
+    {
+        "name": "Fema Kirsche 0",
+        "label": "fema-kirsche-0",
+        "hex": "#c96464"
+    },
+    {
+        "name": "Fema Kirsche 2",
+        "label": "fema-kirsche-2",
+        "hex": "#d57676"
+    },
+    {
+        "name": "Fema Kirsche 4",
+        "label": "fema-kirsche-4",
+        "hex": "#e29090"
+    },
+    {
+        "name": "Fema Kirsche 6",
+        "label": "fema-kirsche-6",
+        "hex": "#ecb4b2"
+    },
+    {
+        "name": "Fema Kirsche 8",
+        "label": "fema-kirsche-8",
+        "hex": "#f2d1cf"
+    },
+    {
+        "name": "Fema Pflaume 0",
+        "label": "fema-pflaume-0",
+        "hex": "#a28ca7"
+    },
+    {
+        "name": "Fema Pflaume 2",
+        "label": "fema-pflaume-2",
+        "hex": "#b5a1b8"
+    },
+    {
+        "name": "Fema Pflaume 4",
+        "label": "fema-pflaume-4",
+        "hex": "#c9b8ca"
+    },
+    {
+        "name": "Fema Pflaume 6",
+        "label": "fema-pflaume-6",
+        "hex": "#dcd1db"
+    },
+    {
+        "name": "Fema Pflaume 8",
+        "label": "fema-pflaume-8",
+        "hex": "#e6dfe3"
+    },
+    {
+        "name": "Fema Flieder 0",
+        "label": "fema-flieder-0",
+        "hex": "#88a0d0"
+    },
+    {
+        "name": "Fema Flieder 2",
+        "label": "fema-flieder-2",
+        "hex": "#a0b5da"
+    },
+    {
+        "name": "Fema Flieder 4",
+        "label": "fema-flieder-4",
+        "hex": "#b9c8e3"
+    },
+    {
+        "name": "Fema Flieder 6",
+        "label": "fema-flieder-6",
+        "hex": "#ced9e7"
+    },
+    {
+        "name": "Fema Flieder 8",
+        "label": "fema-flieder-8",
+        "hex": "#dfe5e9"
+    },
+    {
+        "name": "Fema Iris 0",
+        "label": "fema-iris-0",
+        "hex": "#61b4d1"
+    },
+    {
+        "name": "Fema Iris 2",
+        "label": "fema-iris-2",
+        "hex": "#79bfd9"
+    },
+    {
+        "name": "Fema Iris 4",
+        "label": "fema-iris-4",
+        "hex": "#97cde1"
+    },
+    {
+        "name": "Fema Iris 6",
+        "label": "fema-iris-6",
+        "hex": "#bcdee8"
+    },
+    {
+        "name": "Fema Iris 8",
+        "label": "fema-iris-8",
+        "hex": "#cee4e9"
+    },
+    {
+        "name": "Fema Ozean 0",
+        "label": "fema-ozean-0",
+        "hex": "#63afbb"
+    },
+    {
+        "name": "Fema Ozean 2",
+        "label": "fema-ozean-2",
+        "hex": "#78bcc6"
+    },
+    {
+        "name": "Fema Ozean 4",
+        "label": "fema-ozean-4",
+        "hex": "#93cbd3"
+    },
+    {
+        "name": "Fema Ozean 6",
+        "label": "fema-ozean-6",
+        "hex": "#badde2"
+    },
+    {
+        "name": "Fema Ozean 8",
+        "label": "fema-ozean-8",
+        "hex": "#cbe3e5"
+    },
+    {
+        "name": "Fema Minze 0",
+        "label": "fema-minze-0",
+        "hex": "#62c2ae"
+    },
+    {
+        "name": "Fema Minze 2",
+        "label": "fema-minze-2",
+        "hex": "#74cbb8"
+    },
+    {
+        "name": "Fema Minze 4",
+        "label": "fema-minze-4",
+        "hex": "#98dbca"
+    },
+    {
+        "name": "Fema Minze 6",
+        "label": "fema-minze-6",
+        "hex": "#b7e3d8"
+    },
+    {
+        "name": "Fema Minze 8",
+        "label": "fema-minze-8",
+        "hex": "#ceeae1"
+    },
+    {
+        "name": "Fema Apfel 0",
+        "label": "fema-apfel-0",
+        "hex": "#8ba85e"
+    },
+    {
+        "name": "Fema Apfel 2",
+        "label": "fema-apfel-2",
+        "hex": "#9db771"
+    },
+    {
+        "name": "Fema Apfel 4",
+        "label": "fema-apfel-4",
+        "hex": "#b4c88b"
+    },
+    {
+        "name": "Fema Apfel 6",
+        "label": "fema-apfel-6",
+        "hex": "#d1dcad"
+    },
+    {
+        "name": "Fema Apfel 8",
+        "label": "fema-apfel-8",
+        "hex": "#dbe4c1"
+    }
+]

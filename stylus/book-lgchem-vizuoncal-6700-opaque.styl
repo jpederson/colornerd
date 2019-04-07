@@ -1,0 +1,10 @@
+
+
+// set our color array
+lgchem-vizuoncal-6700-opaque-colors = ("lc-6771m" #eff1f4) ("lc-6770g" #eef0f2) ("lc-6772g" #c9c9c8) ("lc-6773g" #959791) ("lc-6774g" #757d7c) ("lc-6775g" #5d6364) ("lc-6776g" #494e4f) ("lc-6779g" #7a7977) ("lc-6781m" #18191c) ("lc-6780g" #0f1113) ("lc-6727g" #ac5c27) ("lc-6726g" #4a2d1e) ("lc-6739g" #8d6a3d) ("lc-6737g" #eddeb8) ("lc-6736g" #e7ca92) ("lc-6734g" #fbe400) ("lc-6733g" #ffc600) ("lc-6732g" #feaf00) ("lc-6730g" #ffa300) ("lc-6731g" #f79a00) ("lc-6720g" #e85f00) ("lc-6721g" #d65020) ("lc-6713g" #c6220e) ("lc-6711g" #aa071c) ("lc-6710g" #a4000c) ("lc-6716g" #7f151d) ("lc-6717g" #641326) ("lc-6766g" #df87b0) ("lc-6765g" #bc346d) ("lc-6763g" #bd94bd) ("lc-6762g" #78699b) ("lc-6761g" #5e2b62) ("lc-6760g" #462f77) ("lc-675ag" #4db8e0) ("lc-6759g" #009cd4) ("lc-6758g" #0087b8) ("lc-6757g" #0075b5) ("lc-6756g" #0065b0) ("lc-6755g" #005399) ("lc-6754g" #234398) ("lc-6753g" #093482) ("lc-6752g" #0b3175) ("lc-6751g" #082b56) ("lc-6750g" #181e33) ("lc-6748g" #65d6bd) ("lc-6747g" #00a297) ("lc-6746g" #008e90) ("lc-6744g" #4a9b09) ("lc-6742g" #007643) ("lc-6743g" #1d5d2e) ("lc-6741g" #005032) ("lc-6740g" #00492a) ("lc-675bg" #00418e) ("lc-674bg" #007138) ("lc-672ag" #e35106) ("lc-671cg" #b72129) ("lc-676ag" #60418b) ("lc-674cg" #009359) ("lc-674dg" #7ecc31) ("lc-671ag" #ca351e) ("lc-671bg" #c02a12) ("lc-673ag" #f1d899)
+
+
+// grab a specific color based on key
+lgchem-vizuoncal-6700-opaque( color )
+  return item[1] if item[0] == color for item in lgchem-vizuoncal-6700-opaque-colors
+

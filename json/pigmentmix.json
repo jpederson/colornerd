@@ -1,0 +1,362 @@
+[
+    {
+        "name": "1 - 1L",
+        "label": "1-1l",
+        "hex": "#f7de69"
+    },
+    {
+        "name": "1 - 3L",
+        "label": "1-3l",
+        "hex": "#f6e797"
+    },
+    {
+        "name": "1 - 10L",
+        "label": "1-10l",
+        "hex": "#f6eebf"
+    },
+    {
+        "name": "2 - 1L",
+        "label": "2-1l",
+        "hex": "#ffcf6b"
+    },
+    {
+        "name": "2 - 3L",
+        "label": "2-3l",
+        "hex": "#fde29b"
+    },
+    {
+        "name": "2 - 10L",
+        "label": "2-10l",
+        "hex": "#f6e8ba"
+    },
+    {
+        "name": "3 - 1L",
+        "label": "3-1l",
+        "hex": "#ebba6b"
+    },
+    {
+        "name": "3 - 3L",
+        "label": "3-3l",
+        "hex": "#f5d397"
+    },
+    {
+        "name": "3 - 10L",
+        "label": "3-10l",
+        "hex": "#f8e3b8"
+    },
+    {
+        "name": "4 - 1L",
+        "label": "4-1l",
+        "hex": "#dba767"
+    },
+    {
+        "name": "4 - 3L",
+        "label": "4-3l",
+        "hex": "#eec68c"
+    },
+    {
+        "name": "4 - 10L",
+        "label": "4-10l",
+        "hex": "#f5dbb3"
+    },
+    {
+        "name": "5 - 1L",
+        "label": "5-1l",
+        "hex": "#fbaf71"
+    },
+    {
+        "name": "5 - 3L",
+        "label": "5-3l",
+        "hex": "#fbcc9d"
+    },
+    {
+        "name": "5 - 10L",
+        "label": "5-10l",
+        "hex": "#f9e2c1"
+    },
+    {
+        "name": "6 - 1L",
+        "label": "6-1l",
+        "hex": "#f59b73"
+    },
+    {
+        "name": "6 - 3L",
+        "label": "6-3l",
+        "hex": "#f9bd9f"
+    },
+    {
+        "name": "6 - 10L",
+        "label": "6-10l",
+        "hex": "#f6dcc6"
+    },
+    {
+        "name": "7 - 1L",
+        "label": "7-1l",
+        "hex": "#ce8f6a"
+    },
+    {
+        "name": "7 - 3L",
+        "label": "7-3l",
+        "hex": "#e4b290"
+    },
+    {
+        "name": "7 - 10L",
+        "label": "7-10l",
+        "hex": "#f0cfb3"
+    },
+    {
+        "name": "8 - 1L",
+        "label": "8-1l",
+        "hex": "#c0837e"
+    },
+    {
+        "name": "8 - 3L",
+        "label": "8-3l",
+        "hex": "#daaaa7"
+    },
+    {
+        "name": "8 - 10L",
+        "label": "8-10l",
+        "hex": "#ebcac2"
+    },
+    {
+        "name": "9 - 1L",
+        "label": "9-1l",
+        "hex": "#ee826a"
+    },
+    {
+        "name": "9 - 3L",
+        "label": "9-3l",
+        "hex": "#fbaf9f"
+    },
+    {
+        "name": "9 - 10L",
+        "label": "9-10l",
+        "hex": "#fdcbbc"
+    },
+    {
+        "name": "10 - 1L",
+        "label": "10-1l",
+        "hex": "#e7767a"
+    },
+    {
+        "name": "10 - 3L",
+        "label": "10-3l",
+        "hex": "#f09398"
+    },
+    {
+        "name": "10 - 10L",
+        "label": "10-10l",
+        "hex": "#f7cac7"
+    },
+    {
+        "name": "11 - 1L",
+        "label": "11-1l",
+        "hex": "#e46d82"
+    },
+    {
+        "name": "11 - 3L",
+        "label": "11-3l",
+        "hex": "#ef99aa"
+    },
+    {
+        "name": "11 - 10L",
+        "label": "11-10l",
+        "hex": "#f3b8c3"
+    },
+    {
+        "name": "12 - 1L",
+        "label": "12-1l",
+        "hex": "#967993"
+    },
+    {
+        "name": "12 - 3L",
+        "label": "12-3l",
+        "hex": "#bea9bc"
+    },
+    {
+        "name": "12 - 10L",
+        "label": "12-10l",
+        "hex": "#dbc8d3"
+    },
+    {
+        "name": "13 - 1L",
+        "label": "13-1l",
+        "hex": "#5378a2"
+    },
+    {
+        "name": "13 - 3L",
+        "label": "13-3l",
+        "hex": "#83a5c7"
+    },
+    {
+        "name": "13 - 10L",
+        "label": "13-10l",
+        "hex": "#a4c0d6"
+    },
+    {
+        "name": "14 - 1L",
+        "label": "14-1l",
+        "hex": "#2a8dc6"
+    },
+    {
+        "name": "14 - 3L",
+        "label": "14-3l",
+        "hex": "#6bb8e1"
+    },
+    {
+        "name": "14 - 10L",
+        "label": "14-10l",
+        "hex": "#9dd0e6"
+    },
+    {
+        "name": "15 - 1L",
+        "label": "15-1l",
+        "hex": "#41a8a1"
+    },
+    {
+        "name": "15 - 3L",
+        "label": "15-3l",
+        "hex": "#7dc8c1"
+    },
+    {
+        "name": "15 - 10L",
+        "label": "15-10l",
+        "hex": "#b4e4da"
+    },
+    {
+        "name": "16 - 1L",
+        "label": "16-1l",
+        "hex": "#44b081"
+    },
+    {
+        "name": "16 - 3L",
+        "label": "16-3l",
+        "hex": "#77cba5"
+    },
+    {
+        "name": "16 - 10L",
+        "label": "16-10l",
+        "hex": "#ace3c7"
+    },
+    {
+        "name": "17 - 1L",
+        "label": "17-1l",
+        "hex": "#6eb86f"
+    },
+    {
+        "name": "17 - 3L",
+        "label": "17-3l",
+        "hex": "#a0d299"
+    },
+    {
+        "name": "17 - 10L",
+        "label": "17-10l",
+        "hex": "#c6e4c0"
+    },
+    {
+        "name": "18 - 1L",
+        "label": "18-1l",
+        "hex": "#a8bd6b"
+    },
+    {
+        "name": "18 - 3L",
+        "label": "18-3l",
+        "hex": "#c8d697"
+    },
+    {
+        "name": "18 - 10L",
+        "label": "18-10l",
+        "hex": "#dfe3b5"
+    },
+    {
+        "name": "19 - 1L",
+        "label": "19-1l",
+        "hex": "#b1a66e"
+    },
+    {
+        "name": "19 - 3L",
+        "label": "19-3l",
+        "hex": "#d7cb9c"
+    },
+    {
+        "name": "19 - 10L",
+        "label": "19-10l",
+        "hex": "#e8ddb9"
+    },
+    {
+        "name": "20 - 1L",
+        "label": "20-1l",
+        "hex": "#ad8d6a"
+    },
+    {
+        "name": "20 - 3L",
+        "label": "20-3l",
+        "hex": "#cdb18d"
+    },
+    {
+        "name": "20 - 10L",
+        "label": "20-10l",
+        "hex": "#e3ccae"
+    },
+    {
+        "name": "21 - 1L",
+        "label": "21-1l",
+        "hex": "#a57a68"
+    },
+    {
+        "name": "21 - 3L",
+        "label": "21-3l",
+        "hex": "#c69f8f"
+    },
+    {
+        "name": "21 - 10L",
+        "label": "21-10l",
+        "hex": "#dec1b2"
+    },
+    {
+        "name": "22 - 1L",
+        "label": "22-1l",
+        "hex": "#998573"
+    },
+    {
+        "name": "22 - 3L",
+        "label": "22-3l",
+        "hex": "#bda997"
+    },
+    {
+        "name": "22 - 10L",
+        "label": "22-10l",
+        "hex": "#dbcbba"
+    },
+    {
+        "name": "23 - 1L",
+        "label": "23-1l",
+        "hex": "#957b75"
+    },
+    {
+        "name": "23 - 3L",
+        "label": "23-3l",
+        "hex": "#af9790"
+    },
+    {
+        "name": "23 - 10L",
+        "label": "23-10l",
+        "hex": "#cfbbb5"
+    },
+    {
+        "name": "24 - 1L",
+        "label": "24-1l",
+        "hex": "#525558"
+    },
+    {
+        "name": "24 - 3L",
+        "label": "24-3l",
+        "hex": "#66696c"
+    },
+    {
+        "name": "24 - 10L",
+        "label": "24-10l",
+        "hex": "#9c9e9e"
+    }
+]

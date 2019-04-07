@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Gold",
+        "label": "gold",
+        "hex": "#bba66e"
+    },
+    {
+        "name": "Silver",
+        "label": "silver",
+        "hex": "#a9acab"
+    },
+    {
+        "name": "520",
+        "label": "520",
+        "hex": "#853e4a"
+    },
+    {
+        "name": "525",
+        "label": "525",
+        "hex": "#993f47"
+    },
+    {
+        "name": "RB",
+        "label": "rb",
+        "hex": "#c43c3b"
+    },
+    {
+        "name": "530",
+        "label": "530",
+        "hex": "#c54848"
+    },
+    {
+        "name": "540",
+        "label": "540",
+        "hex": "#cd514a"
+    },
+    {
+        "name": "OB",
+        "label": "ob",
+        "hex": "#eb613f"
+    },
+    {
+        "name": "550",
+        "label": "550",
+        "hex": "#e25e43"
+    },
+    {
+        "name": "610",
+        "label": "610",
+        "hex": "#ed7339"
+    },
+    {
+        "name": "620",
+        "label": "620",
+        "hex": "#f48e3b"
+    },
+    {
+        "name": "630",
+        "label": "630",
+        "hex": "#f6ba24"
+    },
+    {
+        "name": "640",
+        "label": "640",
+        "hex": "#ffd528"
+    },
+    {
+        "name": "GB",
+        "label": "gb",
+        "hex": "#ffce00"
+    },
+    {
+        "name": "650",
+        "label": "650",
+        "hex": "#f7ea48"
+    },
+    {
+        "name": "720",
+        "label": "720",
+        "hex": "#83b339"
+    },
+    {
+        "name": "730",
+        "label": "730",
+        "hex": "#4ebd66"
+    },
+    {
+        "name": "740",
+        "label": "740",
+        "hex": "#008659"
+    },
+    {
+        "name": "750",
+        "label": "750",
+        "hex": "#007f61"
+    },
+    {
+        "name": "754",
+        "label": "754",
+        "hex": "#339349"
+    },
+    {
+        "name": "756",
+        "label": "756",
+        "hex": "#4a8650"
+    },
+    {
+        "name": "760",
+        "label": "760",
+        "hex": "#3e604a"
+    },
+    {
+        "name": "810",
+        "label": "810",
+        "hex": "#008294"
+    },
+    {
+        "name": "820",
+        "label": "820",
+        "hex": "#00769f"
+    },
+    {
+        "name": "830",
+        "label": "830",
+        "hex": "#3472a8"
+    },
+    {
+        "name": "835",
+        "label": "835",
+        "hex": "#2c66a0"
+    },
+    {
+        "name": "840",
+        "label": "840",
+        "hex": "#3c58a8"
+    },
+    {
+        "name": "BB",
+        "label": "bb",
+        "hex": "#3f45ad"
+    },
+    {
+        "name": "850",
+        "label": "850",
+        "hex": "#40476a"
+    },
+    {
+        "name": "872",
+        "label": "872",
+        "hex": "#a25488"
+    },
+    {
+        "name": "874",
+        "label": "874",
+        "hex": "#b24b82"
+    },
+    {
+        "name": "876",
+        "label": "876",
+        "hex": "#b14670"
+    },
+    {
+        "name": "910",
+        "label": "910",
+        "hex": "#d39649"
+    },
+    {
+        "name": "920",
+        "label": "920",
+        "hex": "#a06c55"
+    },
+    {
+        "name": "930",
+        "label": "930",
+        "hex": "#6b4b49"
+    },
+    {
+        "name": "940",
+        "label": "940",
+        "hex": "#5b4d48"
+    },
+    {
+        "name": "944",
+        "label": "944",
+        "hex": "#745e4e"
+    },
+    {
+        "name": "945",
+        "label": "945",
+        "hex": "#84473f"
+    },
+    {
+        "name": "950",
+        "label": "950",
+        "hex": "#ccc1a9"
+    },
+    {
+        "name": "960",
+        "label": "960",
+        "hex": "#f0e7d4"
+    },
+    {
+        "name": "Black Extra",
+        "label": "black-extra",
+        "hex": "#393939"
+    },
+    {
+        "name": "101-4",
+        "label": "101-4",
+        "hex": "#6e6e6e"
+    },
+    {
+        "name": "101-5",
+        "label": "101-5",
+        "hex": "#7c7d7d"
+    },
+    {
+        "name": "101-6",
+        "label": "101-6",
+        "hex": "#929290"
+    },
+    {
+        "name": "101-8",
+        "label": "101-8",
+        "hex": "#b2b1ad"
+    },
+    {
+        "name": "101-9",
+        "label": "101-9",
+        "hex": "#c9c9c6"
+    },
+    {
+        "name": "Chroma-Key 1027",
+        "label": "chroma-key-1027",
+        "hex": "#3750a4"
+    },
+    {
+        "name": "Chroma-Key 1030",
+        "label": "chroma-key-1030",
+        "hex": "#489538"
+    },
+    {
+        "name": "Chroma-Key 1031",
+        "label": "chroma-key-1031",
+        "hex": "#d13c43"
+    },
+    {
+        "name": "Reflex Yellow",
+        "label": "reflex-yellow",
+        "hex": "#edff0e"
+    },
+    {
+        "name": "Reflex Arc Chrome",
+        "label": "reflex-arc-chrome",
+        "hex": "#ff9432"
+    },
+    {
+        "name": "Reflex Orange",
+        "label": "reflex-orange",
+        "hex": "#ff7546"
+    },
+    {
+        "name": "Reflex Red",
+        "label": "reflex-red",
+        "hex": "#ff5572"
+    },
+    {
+        "name": "Reflex Pink",
+        "label": "reflex-pink",
+        "hex": "#ff3785"
+    },
+    {
+        "name": "Reflex Lilac",
+        "label": "reflex-lilac",
+        "hex": "#be3982"
+    },
+    {
+        "name": "Reflex Blue",
+        "label": "reflex-blue",
+        "hex": "#008ac9"
+    },
+    {
+        "name": "Reflex Green",
+        "label": "reflex-green",
+        "hex": "#00de2c"
+    },
+    {
+        "name": "Reflex White",
+        "label": "reflex-white",
+        "hex": "#f0f1f7"
+    }
+]

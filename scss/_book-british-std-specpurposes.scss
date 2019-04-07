@@ -1,0 +1,16 @@
+
+
+// array of colors
+$british-std-specpurposes-colors: ("109-middle-blue" #005471), ("104-azure-blue" #1c4872), ("108-aircraft-blue" #22376a), ("110-roundel-blue" #283c67), ("105-oxford-blue" #040a16), ("106-royal-blue" #1f222f), ("112-arctic-blue" #599fad), ("692-smoke-grey" #698490), ("636-p-r-u-blue" #526973), ("103-peacock-blue" #155d66), ("113-deep-sace-blue" #1c5b69), ("114-rail-blue" #00414c), ("697-light-admiralty-grey" #a3bab4), ("111-pale-blue" #82b0a2), ("101-sky-blue" #7ca394), ("174-oriental-blue" #3e8d91), ("102-turquoise-blue" #46847f), ("275-opaline-green" #84a982), ("631-light-grey" #8f998e), ("280-verdigris-green" #519068), ("639-light-slate-grey" #5d6658), ("282-forest-green" #3c5a3d), ("267-traffic-green" #275639), ("226-middle-brunswick-green" #184528), ("216-eau-de-nil" #a1b27b), ("217-sea-green" #849d54), ("630-french-grey" #979a88), ("283-aircraft-grey-green" #6c7a60), ("221-brilliant-green" #306725), ("225-light-brunswick-green" #30581f), ("635-lead" #474e46), ("227-deep-brunswick-green" #163624), ("210-sky" #a9ac91), ("278-light-olive-green" #797d4a), ("634-slate" #5e6151), ("222-light-bronze-green" #5c5a19), ("220-olive-green" #3b451c), ("223-middle-bronze-green" #3b4025), ("641-dark-green" #464636), ("224-deep-bronze-green" #2c331d), ("367-manilla" #e8d3ab), ("365-vellum" #d6cca9), ("353-deep-cream" #f7ca6f), ("352-pale-cream" #e6ca86), ("384-light-straw" #d7c394), ("366-light-beige" #dfc290), ("388-beige" #d2b68a), ("298-olive-drab" #403f26), ("437-very-dark-drab" #464133), ("369-biscuit" #ecc999), ("358-light-buff" #daa661), ("359-middle-buff" #c68f46), ("361-light-stone" #c19e6f), ("360-deep-buff" #b17d49), ("410-light-brown" #8e602e), ("450-dark-earth" #6f5b43), ("411-middle-brown" #67401e), ("414-golden-brown" #90531a), ("489-leaf-brown" #7a462a), ("499-service-brown" #483423), ("436-dark-camouflage-brown" #4c3f37), ("412-dark-brown" #4c2c1d), ("447-salmon-pink" #d99a7e), ("444-terra-cota" #904638), ("435-camouflage-red" #754f40), ("445-venetian-red" #763322), ("446-red-oxide" #662e1f), ("473-gulf-red" #652822), ("448-deep-indian-red" #52251f), ("449-light-purple-brown" #4b2524), ("453-shell-pink" #ddc3bc), ("797-light-violet" #aa99b6), ("540-crimson" #61141b), ("452-dark-crimson" #4e1f22), ("541-maroon" #341317), ("627-light-aricraft-grey" #adaca4), ("637-medium-sea-grey" #848b8e), ("638-dark-sea-grey" #5d6368), ("632-dark-admiralty-grey" #5c6366), ("640-extra-dark-sea-grey" #4d5459), ("633-r-a-f-blue-grey" #313b40), ("642-night" #1e1f20), ("694-dove-grey" #858882), ("693-aircraft-grey" #7a817d), ("671-middle-graphite" #45494b), ("310-primose" #e8d25c), ("309-canary-yellow" #ecc500), ("355-lemon" #eeb200), ("356-golden-yellow" #eda200), ("368-traffic-yellow" #da7e00), ("557-light-orange" #d56a0d), ("592-international-orange" #c34117), ("593-rail-red" #cc3513), ("537-signal-red" #b32417), ("539-red" #a41d1e), ("538-post-office-red" #9a121d), ("218-grass-green" #50772f), ("228-emerald-green" #007c50), ("175-light-french-blue" #3b7cb0), ("107-strong-blue" #036d91), ("166-french-blue" #2c5ea2), ("796-dark-violet" #623f6b);
+
+
+// grab a specific color based on key
+@function british-std-specpurposes( $color ) {
+    @each $item in $british-std-specpurposes-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

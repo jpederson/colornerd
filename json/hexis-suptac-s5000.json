@@ -1,0 +1,432 @@
+[
+    {
+        "name": "S-5100B",
+        "label": "s-5100b",
+        "hex": "#eee673"
+    },
+    {
+        "name": "S-5108B",
+        "label": "s-5108b",
+        "hex": "#e6d800"
+    },
+    {
+        "name": "S-5109B",
+        "label": "s-5109b",
+        "hex": "#f3c200"
+    },
+    {
+        "name": "S-5123B",
+        "label": "s-5123b",
+        "hex": "#f7b100"
+    },
+    {
+        "name": "S-5136B",
+        "label": "s-5136b",
+        "hex": "#f5a700"
+    },
+    {
+        "name": "S-5137B",
+        "label": "s-5137b",
+        "hex": "#f19300"
+    },
+    {
+        "name": "S-5165B",
+        "label": "s-5165b",
+        "hex": "#dd5d01"
+    },
+    {
+        "name": "S-5OVIF",
+        "label": "s-5ovif",
+        "hex": "#ee5614"
+    },
+    {
+        "name": "S-5WRED",
+        "label": "s-5wred",
+        "hex": "#d23e10"
+    },
+    {
+        "name": "S-5179B",
+        "label": "s-5179b",
+        "hex": "#ca3919"
+    },
+    {
+        "name": "S-5795B",
+        "label": "s-5795b",
+        "hex": "#c8280b"
+    },
+    {
+        "name": "S-5485B",
+        "label": "s-5485b",
+        "hex": "#b92216"
+    },
+    {
+        "name": "S-5186B",
+        "label": "s-5186b",
+        "hex": "#a61118"
+    },
+    {
+        "name": "S-5193B",
+        "label": "s-5193b",
+        "hex": "#961723"
+    },
+    {
+        "name": "S-5200B",
+        "label": "s-5200b",
+        "hex": "#96010e"
+    },
+    {
+        "name": "S-5201B",
+        "label": "s-5201b",
+        "hex": "#7b1a20"
+    },
+    {
+        "name": "S-5505B",
+        "label": "s-5505b",
+        "hex": "#601725"
+    },
+    {
+        "name": "S-5214B",
+        "label": "s-5214b",
+        "hex": "#bf3979"
+    },
+    {
+        "name": "S-5220B",
+        "label": "s-5220b",
+        "hex": "#b62a63"
+    },
+    {
+        "name": "S-5169B",
+        "label": "s-5169b",
+        "hex": "#f7b7a8"
+    },
+    {
+        "name": "S-5698B",
+        "label": "s-5698b",
+        "hex": "#ebcebe"
+    },
+    {
+        "name": "S-5251B",
+        "label": "s-5251b",
+        "hex": "#d09ed2"
+    },
+    {
+        "name": "S-5480B",
+        "label": "s-5480b",
+        "hex": "#894687"
+    },
+    {
+        "name": "S-5623B",
+        "label": "s-5623b",
+        "hex": "#563267"
+    },
+    {
+        "name": "S-5655B",
+        "label": "s-5655b",
+        "hex": "#7a66a7"
+    },
+    {
+        "name": "S-5527B",
+        "label": "s-5527b",
+        "hex": "#5b3a8c"
+    },
+    {
+        "name": "S-5532B",
+        "label": "s-5532b",
+        "hex": "#121f32"
+    },
+    {
+        "name": "S-5295B",
+        "label": "s-5295b",
+        "hex": "#0b2d55"
+    },
+    {
+        "name": "S-5281B",
+        "label": "s-5281b",
+        "hex": "#1d285f"
+    },
+    {
+        "name": "S-5280B",
+        "label": "s-5280b",
+        "hex": "#163476"
+    },
+    {
+        "name": "S-5NORB",
+        "label": "s-5norb",
+        "hex": "#271e7f"
+    },
+    {
+        "name": "S-5ELEB",
+        "label": "s-5eleb",
+        "hex": "#2d42a9"
+    },
+    {
+        "name": "S-5RFXB",
+        "label": "s-5rfxb",
+        "hex": "#0f4088"
+    },
+    {
+        "name": "S-5294B",
+        "label": "s-5294b",
+        "hex": "#00457d"
+    },
+    {
+        "name": "S-5534B",
+        "label": "s-5534b",
+        "hex": "#384a70"
+    },
+    {
+        "name": "S-5300B",
+        "label": "s-5300b",
+        "hex": "#005290"
+    },
+    {
+        "name": "S-5293B",
+        "label": "s-5293b",
+        "hex": "#0061a6"
+    },
+    {
+        "name": "S-5005B",
+        "label": "s-5005b",
+        "hex": "#0085ba"
+    },
+    {
+        "name": "S-5299B",
+        "label": "s-5299b",
+        "hex": "#0096cf"
+    },
+    {
+        "name": "S-5278B",
+        "label": "s-5278b",
+        "hex": "#7196bc"
+    },
+    {
+        "name": "S-5297B",
+        "label": "s-5297b",
+        "hex": "#56add6"
+    },
+    {
+        "name": "S-5298B",
+        "label": "s-5298b",
+        "hex": "#7fc9e1"
+    },
+    {
+        "name": "S-5351B",
+        "label": "s-5351b",
+        "hex": "#a8dcb6"
+    },
+    {
+        "name": "S-5332B",
+        "label": "s-5332b",
+        "hex": "#66d1b7"
+    },
+    {
+        "name": "S-5268B",
+        "label": "s-5268b",
+        "hex": "#00ae87"
+    },
+    {
+        "name": "S-5320B",
+        "label": "s-5320b",
+        "hex": "#009493"
+    },
+    {
+        "name": "S-5323B",
+        "label": "s-5323b",
+        "hex": "#004e4e"
+    },
+    {
+        "name": "S-5336B",
+        "label": "s-5336b",
+        "hex": "#004e2c"
+    },
+    {
+        "name": "S-5498B",
+        "label": "s-5498b",
+        "hex": "#40471b"
+    },
+    {
+        "name": "S-5364B",
+        "label": "s-5364b",
+        "hex": "#235320"
+    },
+    {
+        "name": "S-5348B",
+        "label": "s-5348b",
+        "hex": "#007237"
+    },
+    {
+        "name": "S-5340B",
+        "label": "s-5340b",
+        "hex": "#008e55"
+    },
+    {
+        "name": "S-5354B",
+        "label": "s-5354b",
+        "hex": "#00992d"
+    },
+    {
+        "name": "S-5369B",
+        "label": "s-5369b",
+        "hex": "#3d9b01"
+    },
+    {
+        "name": "S-5360B",
+        "label": "s-5360b",
+        "hex": "#45b134"
+    },
+    {
+        "name": "S-5375B",
+        "label": "s-5375b",
+        "hex": "#7bc52c"
+    },
+    {
+        "name": "S-5392B",
+        "label": "s-5392b",
+        "hex": "#8b8605"
+    },
+    {
+        "name": "S-5245B",
+        "label": "s-5245b",
+        "hex": "#bf9017"
+    },
+    {
+        "name": "S-5167B",
+        "label": "s-5167b",
+        "hex": "#b6520d"
+    },
+    {
+        "name": "S-5635B",
+        "label": "s-5635b",
+        "hex": "#86542a"
+    },
+    {
+        "name": "S-5405B",
+        "label": "s-5405b",
+        "hex": "#67481d"
+    },
+    {
+        "name": "S-5476B",
+        "label": "s-5476b",
+        "hex": "#412818"
+    },
+    {
+        "name": "S-5607B",
+        "label": "s-5607b",
+        "hex": "#eae5b4"
+    },
+    {
+        "name": "S-5155B",
+        "label": "s-5155b",
+        "hex": "#f2dd9d"
+    },
+    {
+        "name": "S-5461B",
+        "label": "s-5461b",
+        "hex": "#e1c394"
+    },
+    {
+        "name": "S-5468B",
+        "label": "s-5468b",
+        "hex": "#e2cfac"
+    },
+    {
+        "name": "S-5506B",
+        "label": "s-5506b",
+        "hex": "#edd7b8"
+    },
+    {
+        "name": "S-5685B",
+        "label": "s-5685b",
+        "hex": "#e9dac2"
+    },
+    {
+        "name": "S-5GPEB",
+        "label": "s-5gpeb",
+        "hex": "#d8d5c9"
+    },
+    {
+        "name": "S-5517B",
+        "label": "s-5517b",
+        "hex": "#d5d7c8"
+    },
+    {
+        "name": "S-5434B",
+        "label": "s-5434b",
+        "hex": "#ded4d0"
+    },
+    {
+        "name": "S-5001B",
+        "label": "s-5001b",
+        "hex": "#e9ebf0"
+    },
+    {
+        "name": "S-5001M",
+        "label": "s-5001m",
+        "hex": "#edeef3"
+    },
+    {
+        "name": "S-5428B",
+        "label": "s-5428b",
+        "hex": "#c4c5c6"
+    },
+    {
+        "name": "S-5431B",
+        "label": "s-5431b",
+        "hex": "#908f8c"
+    },
+    {
+        "name": "S-5443B",
+        "label": "s-5443b",
+        "hex": "#8e928c"
+    },
+    {
+        "name": "S-5430B",
+        "label": "s-5430b",
+        "hex": "#7b8486"
+    },
+    {
+        "name": "S-5445B",
+        "label": "s-5445b",
+        "hex": "#5e6363"
+    },
+    {
+        "name": "S-5446B",
+        "label": "s-5446b",
+        "hex": "#444848"
+    },
+    {
+        "name": "S-5433B",
+        "label": "s-5433b",
+        "hex": "#434342"
+    },
+    {
+        "name": "S-5889B",
+        "label": "s-5889b",
+        "hex": "#0d0f11"
+    },
+    {
+        "name": "S-5889M",
+        "label": "s-5889m",
+        "hex": "#353537"
+    },
+    {
+        "name": "S-5871B",
+        "label": "s-5871b",
+        "hex": "#a58c50"
+    },
+    {
+        "name": "S-5877B",
+        "label": "s-5877b",
+        "hex": "#9d9fa0"
+    },
+    {
+        "name": "S-5899B",
+        "label": "s-5899b",
+        "hex": "#e1e0e2"
+    },
+    {
+        "name": "S-5899M",
+        "label": "s-5899m",
+        "hex": "#e2e1e1"
+    }
+]

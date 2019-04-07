@@ -1,0 +1,10 @@
+
+
+// set our color array
+flamant-colour-chart-special-edition-colors = ("204-ginger" #bfb09f) ("205-muscade" #9d8d8a) ("206-cumin" #c7aa67) ("203-salvia" #bbccdb) ("202-pesto" #a9ae6d) ("207-violetta" #bfa4b3) ("208-pavot" #927e89)
+
+
+// grab a specific color based on key
+flamant-colour-chart-special-edition( color )
+  return item[1] if item[0] == color for item in flamant-colour-chart-special-edition-colors
+

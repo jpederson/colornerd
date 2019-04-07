@@ -1,0 +1,16 @@
+
+
+// array of colors
+$vikunyl-colors: ("vikunyl-15" #c5ae48), ("vikunyl-320" #feb600), ("vikunyl-340" #f36d00), ("vikunyl-480" #ad0004), ("vikunyl-680" #0087be), ("vikunyl-761" #00b250), ("vikunyl-940" #7a756f), ("vikunyl-1236" #ffca3e), ("vikunyl-1244" #eed584), ("vikunyl-2036" #f17852), ("vikunyl-3051" #c7503c), ("vikunyl-3053" #a93c42), ("vikunyl-4550" #c24949), ("vikunyl-5046" #90bdce), ("vikunyl-5047" #007db6), ("vikunyl-5048" #264561), ("vikunyl-6046" #8cb894), ("vikunyl-7100" #50b04f), ("vikunyl-7945" #335f54), ("vikunyl-7050" #cfcfc1), ("vikunyl-9010" #c8c8c2), ("vikunyl-8620" #614e43), ("vikunyl-9700" #373839), ("vikunyl-2330" #fade78), ("vikunyl-3710" #e16045), ("vikunyl-9270" #808485), ("vikunyl-2710" #ead05d), ("vikunyl-6400" #195f9f), ("vikunyl-6900" #324d70), ("vikunyl-7610" #007c56), ("vikunyl-9160" #abadae), ("vikunyl-8430" #7b5446), ("vikunyl-2400" #face00), ("vikunyl-3660" #d65920), ("vikunyl-4630" #991a11), ("vikunyl-6800" #114685), ("vikunyl-7260" #008636), ("vikunyl-9075" #ecece7), ("vikunyl-1015" #e8ede1), ("vikunyl-1309" #edeeea), ("vikunyl-1522-offset" #eef2f6);
+
+
+// grab a specific color based on key
+@function vikunyl( $color ) {
+    @each $item in $vikunyl-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

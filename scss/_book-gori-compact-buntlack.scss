@@ -1,0 +1,16 @@
+
+
+// array of colors
+$gori-compact-buntlack-colors: ("9016-wei-sg-hg" #f9f8ef), ("9001-cremewei-sg-hg" #f2ead7), ("3000-feuerrot-sg-hg" #a33433), ("1011-braunbeige-sg-hg" #af8654), ("8001-ockerbraun-sg-hg" #956531), ("7001-silbergrau-sg-hg" #90999d), ("8011-nussbraun-sg-hg" #583e31), ("5010-enzianblau-sg-hg" #004c7d), ("7035-lichtgrau-sg-hg" #d0d0cc), ("7016-anthrazitgrau-sg-hg" #414649), ("6002-laubgruen-sg-hg" #346239), ("6005-moosgruen-sg-hg" #164235), ("9005-tiefschwarz-sg-hg" #1d1e1f), ("1023-verkehrsgelb-sg-hg" #f8c000), ("9010-reinweiss" #f3f1e5);
+
+
+// grab a specific color based on key
+@function gori-compact-buntlack( $color ) {
+    @each $item in $gori-compact-buntlack-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

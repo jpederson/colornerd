@@ -1,0 +1,1102 @@
+[
+    {
+        "name": "Herbol A1",
+        "label": "herbol-a1",
+        "hex": "#009d72"
+    },
+    {
+        "name": "Herbol A2",
+        "label": "herbol-a2",
+        "hex": "#44bf94"
+    },
+    {
+        "name": "Herbol A3",
+        "label": "herbol-a3",
+        "hex": "#5fc69e"
+    },
+    {
+        "name": "Herbol A4",
+        "label": "herbol-a4",
+        "hex": "#86ceac"
+    },
+    {
+        "name": "Herbol A5",
+        "label": "herbol-a5",
+        "hex": "#a0d6bc"
+    },
+    {
+        "name": "Herbol A6",
+        "label": "herbol-a6",
+        "hex": "#b7d7c8"
+    },
+    {
+        "name": "Herbol A7",
+        "label": "herbol-a7",
+        "hex": "#cae5d1"
+    },
+    {
+        "name": "Herbol A8",
+        "label": "herbol-a8",
+        "hex": "#ddeae0"
+    },
+    {
+        "name": "Herbol A9",
+        "label": "herbol-a9",
+        "hex": "#e4e9e0"
+    },
+    {
+        "name": "Herbol B1",
+        "label": "herbol-b1",
+        "hex": "#009783"
+    },
+    {
+        "name": "Herbol B2",
+        "label": "herbol-b2",
+        "hex": "#30a895"
+    },
+    {
+        "name": "Herbol B3",
+        "label": "herbol-b3",
+        "hex": "#65c1ae"
+    },
+    {
+        "name": "Herbol B4",
+        "label": "herbol-b4",
+        "hex": "#81d0bf"
+    },
+    {
+        "name": "Herbol B5",
+        "label": "herbol-b5",
+        "hex": "#a0d7c9"
+    },
+    {
+        "name": "Herbol B6",
+        "label": "herbol-b6",
+        "hex": "#afd8cd"
+    },
+    {
+        "name": "Herbol B7",
+        "label": "herbol-b7",
+        "hex": "#b7e0d0"
+    },
+    {
+        "name": "Herbol B8",
+        "label": "herbol-b8",
+        "hex": "#d6e7df"
+    },
+    {
+        "name": "Herbol B9",
+        "label": "herbol-b9",
+        "hex": "#dee9e2"
+    },
+    {
+        "name": "Herbol C1",
+        "label": "herbol-c1",
+        "hex": "#009c95"
+    },
+    {
+        "name": "Herbol C2",
+        "label": "herbol-c2",
+        "hex": "#36aaa3"
+    },
+    {
+        "name": "Herbol C3",
+        "label": "herbol-c3",
+        "hex": "#45bbaf"
+    },
+    {
+        "name": "Herbol C4",
+        "label": "herbol-c4",
+        "hex": "#7ac8c2"
+    },
+    {
+        "name": "Herbol C5",
+        "label": "herbol-c5",
+        "hex": "#99d2cd"
+    },
+    {
+        "name": "Herbol C6",
+        "label": "herbol-c6",
+        "hex": "#afd4d0"
+    },
+    {
+        "name": "Herbol C7",
+        "label": "herbol-c7",
+        "hex": "#c4e8df"
+    },
+    {
+        "name": "Herbol C8",
+        "label": "herbol-c8",
+        "hex": "#daebe4"
+    },
+    {
+        "name": "Herbol C9",
+        "label": "herbol-c9",
+        "hex": "#dce9e4"
+    },
+    {
+        "name": "Herbol Color A",
+        "label": "herbol-color-a",
+        "hex": "#007d58"
+    },
+    {
+        "name": "Herbol Color B",
+        "label": "herbol-color-b",
+        "hex": "#00806f"
+    },
+    {
+        "name": "Herbol Color C",
+        "label": "herbol-color-c",
+        "hex": "#00827c"
+    },
+    {
+        "name": "Herbol Color D",
+        "label": "herbol-color-d",
+        "hex": "#007f85"
+    },
+    {
+        "name": "Herbol Color E",
+        "label": "herbol-color-e",
+        "hex": "#007c91"
+    },
+    {
+        "name": "Herbol Color F",
+        "label": "herbol-color-f",
+        "hex": "#2c6999"
+    },
+    {
+        "name": "Herbol Color G",
+        "label": "herbol-color-g",
+        "hex": "#5760a3"
+    },
+    {
+        "name": "Herbol Color H",
+        "label": "herbol-color-h",
+        "hex": "#7c5b8d"
+    },
+    {
+        "name": "Herbol Color I",
+        "label": "herbol-color-i",
+        "hex": "#8d4561"
+    },
+    {
+        "name": "Herbol Color J",
+        "label": "herbol-color-j",
+        "hex": "#963949"
+    },
+    {
+        "name": "Herbol Color K",
+        "label": "herbol-color-k",
+        "hex": "#933b38"
+    },
+    {
+        "name": "Herbol Color L",
+        "label": "herbol-color-l",
+        "hex": "#9b4830"
+    },
+    {
+        "name": "Herbol Color M",
+        "label": "herbol-color-m",
+        "hex": "#d27341"
+    },
+    {
+        "name": "Herbol Color N",
+        "label": "herbol-color-n",
+        "hex": "#ed9026"
+    },
+    {
+        "name": "Herbol Color O",
+        "label": "herbol-color-o",
+        "hex": "#eeb03f"
+    },
+    {
+        "name": "Herbol Color P",
+        "label": "herbol-color-p",
+        "hex": "#ddbe29"
+    },
+    {
+        "name": "Herbol Color Q",
+        "label": "herbol-color-q",
+        "hex": "#c0b830"
+    },
+    {
+        "name": "Herbol Color R",
+        "label": "herbol-color-r",
+        "hex": "#8e942f"
+    },
+    {
+        "name": "Herbol Color S",
+        "label": "herbol-color-s",
+        "hex": "#6a973a"
+    },
+    {
+        "name": "Herbol Color T",
+        "label": "herbol-color-t",
+        "hex": "#248f4b"
+    },
+    {
+        "name": "Herbol D1",
+        "label": "herbol-d1",
+        "hex": "#00a0a4"
+    },
+    {
+        "name": "Herbol D2",
+        "label": "herbol-d2",
+        "hex": "#3bacad"
+    },
+    {
+        "name": "Herbol D3",
+        "label": "herbol-d3",
+        "hex": "#59b7bc"
+    },
+    {
+        "name": "Herbol D4",
+        "label": "herbol-d4",
+        "hex": "#7ac7c8"
+    },
+    {
+        "name": "Herbol D5",
+        "label": "herbol-d5",
+        "hex": "#91cbcd"
+    },
+    {
+        "name": "Herbol D6",
+        "label": "herbol-d6",
+        "hex": "#add3d3"
+    },
+    {
+        "name": "Herbol D7",
+        "label": "herbol-d7",
+        "hex": "#bde1e0"
+    },
+    {
+        "name": "Herbol D8",
+        "label": "herbol-d8",
+        "hex": "#d3e7e6"
+    },
+    {
+        "name": "Herbol D9",
+        "label": "herbol-d9",
+        "hex": "#dbe8e3"
+    },
+    {
+        "name": "Herbol E1",
+        "label": "herbol-e1",
+        "hex": "#0595ae"
+    },
+    {
+        "name": "Herbol E2",
+        "label": "herbol-e2",
+        "hex": "#2ea6ba"
+    },
+    {
+        "name": "Herbol E3",
+        "label": "herbol-e3",
+        "hex": "#47afc3"
+    },
+    {
+        "name": "Herbol E4",
+        "label": "herbol-e4",
+        "hex": "#7bc6d3"
+    },
+    {
+        "name": "Herbol E5",
+        "label": "herbol-e5",
+        "hex": "#96cdd7"
+    },
+    {
+        "name": "Herbol E6",
+        "label": "herbol-e6",
+        "hex": "#b8d8de"
+    },
+    {
+        "name": "Herbol E7",
+        "label": "herbol-e7",
+        "hex": "#c1e2e5"
+    },
+    {
+        "name": "Herbol E8",
+        "label": "herbol-e8",
+        "hex": "#d8e8e7"
+    },
+    {
+        "name": "Herbol E9",
+        "label": "herbol-e9",
+        "hex": "#e1ece9"
+    },
+    {
+        "name": "Herbol F1",
+        "label": "herbol-f1",
+        "hex": "#3181bb"
+    },
+    {
+        "name": "Herbol F2",
+        "label": "herbol-f2",
+        "hex": "#428ec2"
+    },
+    {
+        "name": "Herbol F3",
+        "label": "herbol-f3",
+        "hex": "#6ca7d5"
+    },
+    {
+        "name": "Herbol F4",
+        "label": "herbol-f4",
+        "hex": "#83b2da"
+    },
+    {
+        "name": "Herbol F5",
+        "label": "herbol-f5",
+        "hex": "#a2c2d8"
+    },
+    {
+        "name": "Herbol F6",
+        "label": "herbol-f6",
+        "hex": "#bad2e2"
+    },
+    {
+        "name": "Herbol F7",
+        "label": "herbol-f7",
+        "hex": "#c8dee5"
+    },
+    {
+        "name": "Herbol F8",
+        "label": "herbol-f8",
+        "hex": "#d7e5e6"
+    },
+    {
+        "name": "Herbol F9",
+        "label": "herbol-f9",
+        "hex": "#dce6e4"
+    },
+    {
+        "name": "Herbol G1",
+        "label": "herbol-g1",
+        "hex": "#6972b6"
+    },
+    {
+        "name": "Herbol G2",
+        "label": "herbol-g2",
+        "hex": "#7b8ec8"
+    },
+    {
+        "name": "Herbol G3",
+        "label": "herbol-g3",
+        "hex": "#8d9dd4"
+    },
+    {
+        "name": "Herbol G4",
+        "label": "herbol-g4",
+        "hex": "#9fafd9"
+    },
+    {
+        "name": "Herbol G5",
+        "label": "herbol-g5",
+        "hex": "#b4bfde"
+    },
+    {
+        "name": "Herbol G6",
+        "label": "herbol-g6",
+        "hex": "#c5cde1"
+    },
+    {
+        "name": "Herbol G7",
+        "label": "herbol-g7",
+        "hex": "#cfd7e3"
+    },
+    {
+        "name": "Herbol G8",
+        "label": "herbol-g8",
+        "hex": "#d7dee4"
+    },
+    {
+        "name": "Herbol G9",
+        "label": "herbol-g9",
+        "hex": "#e4e8e9"
+    },
+    {
+        "name": "Herbol Grey B",
+        "label": "herbol-grey-b",
+        "hex": "#9da0a2"
+    },
+    {
+        "name": "Herbol Grey B1",
+        "label": "herbol-grey-b1",
+        "hex": "#b3b7b9"
+    },
+    {
+        "name": "Herbol Grey B2",
+        "label": "herbol-grey-b2",
+        "hex": "#ced2ce"
+    },
+    {
+        "name": "Herbol Grey B3",
+        "label": "herbol-grey-b3",
+        "hex": "#d8dbd7"
+    },
+    {
+        "name": "Herbol Grey B4",
+        "label": "herbol-grey-b4",
+        "hex": "#e3e6e4"
+    },
+    {
+        "name": "Herbol Grey G",
+        "label": "herbol-grey-g",
+        "hex": "#a0a39f"
+    },
+    {
+        "name": "Herbol Grey G1",
+        "label": "herbol-grey-g1",
+        "hex": "#b5b9b4"
+    },
+    {
+        "name": "Herbol Grey G2",
+        "label": "herbol-grey-g2",
+        "hex": "#d1d2c9"
+    },
+    {
+        "name": "Herbol Grey G3",
+        "label": "herbol-grey-g3",
+        "hex": "#d8dad4"
+    },
+    {
+        "name": "Herbol Grey G4",
+        "label": "herbol-grey-g4",
+        "hex": "#e8ece3"
+    },
+    {
+        "name": "Herbol Grey R",
+        "label": "herbol-grey-r",
+        "hex": "#a09c99"
+    },
+    {
+        "name": "Herbol Grey R1",
+        "label": "herbol-grey-r1",
+        "hex": "#b9b4b2"
+    },
+    {
+        "name": "Herbol Grey R2",
+        "label": "herbol-grey-r2",
+        "hex": "#d1cdc9"
+    },
+    {
+        "name": "Herbol Grey R3",
+        "label": "herbol-grey-r3",
+        "hex": "#ded7d0"
+    },
+    {
+        "name": "Herbol Grey R4",
+        "label": "herbol-grey-r4",
+        "hex": "#eae5de"
+    },
+    {
+        "name": "Herbol Grey Y",
+        "label": "herbol-grey-y",
+        "hex": "#a5a49f"
+    },
+    {
+        "name": "Herbol Grey Y1",
+        "label": "herbol-grey-y1",
+        "hex": "#bcb9b3"
+    },
+    {
+        "name": "Herbol Grey Y2",
+        "label": "herbol-grey-y2",
+        "hex": "#d2d0cb"
+    },
+    {
+        "name": "Herbol Grey Y3",
+        "label": "herbol-grey-y3",
+        "hex": "#ded9cb"
+    },
+    {
+        "name": "Herbol Grey Y4",
+        "label": "herbol-grey-y4",
+        "hex": "#e8e6db"
+    },
+    {
+        "name": "Herbol H1",
+        "label": "herbol-h1",
+        "hex": "#8b5c8e"
+    },
+    {
+        "name": "Herbol H2",
+        "label": "herbol-h2",
+        "hex": "#a57ca5"
+    },
+    {
+        "name": "Herbol H3",
+        "label": "herbol-h3",
+        "hex": "#a98db7"
+    },
+    {
+        "name": "Herbol H4",
+        "label": "herbol-h4",
+        "hex": "#bda8c9"
+    },
+    {
+        "name": "Herbol H5",
+        "label": "herbol-h5",
+        "hex": "#c8b5d3"
+    },
+    {
+        "name": "Herbol H6",
+        "label": "herbol-h6",
+        "hex": "#d1c3d6"
+    },
+    {
+        "name": "Herbol H7",
+        "label": "herbol-h7",
+        "hex": "#dcd0de"
+    },
+    {
+        "name": "Herbol H8",
+        "label": "herbol-h8",
+        "hex": "#e3dfe1"
+    },
+    {
+        "name": "Herbol H9",
+        "label": "herbol-h9",
+        "hex": "#ebe7e4"
+    },
+    {
+        "name": "Herbol I1",
+        "label": "herbol-i1",
+        "hex": "#ae567a"
+    },
+    {
+        "name": "Herbol I2",
+        "label": "herbol-i2",
+        "hex": "#bf7496"
+    },
+    {
+        "name": "Herbol I3",
+        "label": "herbol-i3",
+        "hex": "#c18aa5"
+    },
+    {
+        "name": "Herbol I4",
+        "label": "herbol-i4",
+        "hex": "#d99ab2"
+    },
+    {
+        "name": "Herbol I5",
+        "label": "herbol-i5",
+        "hex": "#d8aec0"
+    },
+    {
+        "name": "Herbol I6",
+        "label": "herbol-i6",
+        "hex": "#e0c1cd"
+    },
+    {
+        "name": "Herbol I7",
+        "label": "herbol-i7",
+        "hex": "#eacfd4"
+    },
+    {
+        "name": "Herbol I8",
+        "label": "herbol-i8",
+        "hex": "#ebdcdc"
+    },
+    {
+        "name": "Herbol I9",
+        "label": "herbol-i9",
+        "hex": "#ede6e3"
+    },
+    {
+        "name": "Herbol J1",
+        "label": "herbol-j1",
+        "hex": "#bb586c"
+    },
+    {
+        "name": "Herbol J2",
+        "label": "herbol-j2",
+        "hex": "#dc7481"
+    },
+    {
+        "name": "Herbol J3",
+        "label": "herbol-j3",
+        "hex": "#e58597"
+    },
+    {
+        "name": "Herbol J4",
+        "label": "herbol-j4",
+        "hex": "#e398a0"
+    },
+    {
+        "name": "Herbol J5",
+        "label": "herbol-j5",
+        "hex": "#e7b1b3"
+    },
+    {
+        "name": "Herbol J6",
+        "label": "herbol-j6",
+        "hex": "#e4c1c2"
+    },
+    {
+        "name": "Herbol J7",
+        "label": "herbol-j7",
+        "hex": "#eeccce"
+    },
+    {
+        "name": "Herbol J8",
+        "label": "herbol-j8",
+        "hex": "#f8eae2"
+    },
+    {
+        "name": "Herbol J9",
+        "label": "herbol-j9",
+        "hex": "#f1e7e0"
+    },
+    {
+        "name": "Herbol K1",
+        "label": "herbol-k1",
+        "hex": "#ae4441"
+    },
+    {
+        "name": "Herbol K2",
+        "label": "herbol-k2",
+        "hex": "#d65c52"
+    },
+    {
+        "name": "Herbol K3",
+        "label": "herbol-k3",
+        "hex": "#e0807b"
+    },
+    {
+        "name": "Herbol K4",
+        "label": "herbol-k4",
+        "hex": "#e1968d"
+    },
+    {
+        "name": "Herbol K5",
+        "label": "herbol-k5",
+        "hex": "#e6aaa5"
+    },
+    {
+        "name": "Herbol K6",
+        "label": "herbol-k6",
+        "hex": "#ebc3b9"
+    },
+    {
+        "name": "Herbol K7",
+        "label": "herbol-k7",
+        "hex": "#f3cdc5"
+    },
+    {
+        "name": "Herbol K8",
+        "label": "herbol-k8",
+        "hex": "#f2ded6"
+    },
+    {
+        "name": "Herbol K9",
+        "label": "herbol-k9",
+        "hex": "#efe4dd"
+    },
+    {
+        "name": "Herbol L1",
+        "label": "herbol-l1",
+        "hex": "#bc5a3d"
+    },
+    {
+        "name": "Herbol L2",
+        "label": "herbol-l2",
+        "hex": "#e06648"
+    },
+    {
+        "name": "Herbol L3",
+        "label": "herbol-l3",
+        "hex": "#e78668"
+    },
+    {
+        "name": "Herbol L4",
+        "label": "herbol-l4",
+        "hex": "#f0a185"
+    },
+    {
+        "name": "Herbol L5",
+        "label": "herbol-l5",
+        "hex": "#eeb09b"
+    },
+    {
+        "name": "Herbol L6",
+        "label": "herbol-l6",
+        "hex": "#ebc4b3"
+    },
+    {
+        "name": "Herbol L7",
+        "label": "herbol-l7",
+        "hex": "#f6cab6"
+    },
+    {
+        "name": "Herbol L8",
+        "label": "herbol-l8",
+        "hex": "#f5dece"
+    },
+    {
+        "name": "Herbol L9",
+        "label": "herbol-l9",
+        "hex": "#f0dfd3"
+    },
+    {
+        "name": "Herbol M1",
+        "label": "herbol-m1",
+        "hex": "#e9823c"
+    },
+    {
+        "name": "Herbol M2",
+        "label": "herbol-m2",
+        "hex": "#f48b4c"
+    },
+    {
+        "name": "Herbol M3",
+        "label": "herbol-m3",
+        "hex": "#ef9762"
+    },
+    {
+        "name": "Herbol M4",
+        "label": "herbol-m4",
+        "hex": "#f2ac81"
+    },
+    {
+        "name": "Herbol M5",
+        "label": "herbol-m5",
+        "hex": "#f2bb99"
+    },
+    {
+        "name": "Herbol M6",
+        "label": "herbol-m6",
+        "hex": "#f0c5a7"
+    },
+    {
+        "name": "Herbol M7",
+        "label": "herbol-m7",
+        "hex": "#faceaf"
+    },
+    {
+        "name": "Herbol M8",
+        "label": "herbol-m8",
+        "hex": "#f8e2cd"
+    },
+    {
+        "name": "Herbol M9",
+        "label": "herbol-m9",
+        "hex": "#f1e7d7"
+    },
+    {
+        "name": "Herbol N1",
+        "label": "herbol-n1",
+        "hex": "#f8982c"
+    },
+    {
+        "name": "Herbol N2",
+        "label": "herbol-n2",
+        "hex": "#fc9f3c"
+    },
+    {
+        "name": "Herbol N3",
+        "label": "herbol-n3",
+        "hex": "#eea95f"
+    },
+    {
+        "name": "Herbol N4",
+        "label": "herbol-n4",
+        "hex": "#efb475"
+    },
+    {
+        "name": "Herbol N5",
+        "label": "herbol-n5",
+        "hex": "#f0be88"
+    },
+    {
+        "name": "Herbol N6",
+        "label": "herbol-n6",
+        "hex": "#ebc69b"
+    },
+    {
+        "name": "Herbol N7",
+        "label": "herbol-n7",
+        "hex": "#f9d8b0"
+    },
+    {
+        "name": "Herbol N8",
+        "label": "herbol-n8",
+        "hex": "#f6e5cc"
+    },
+    {
+        "name": "Herbol N9",
+        "label": "herbol-n9",
+        "hex": "#f2e7d1"
+    },
+    {
+        "name": "Herbol O1",
+        "label": "herbol-o1",
+        "hex": "#ffbc00"
+    },
+    {
+        "name": "Herbol O2",
+        "label": "herbol-o2",
+        "hex": "#ffc131"
+    },
+    {
+        "name": "Herbol O3",
+        "label": "herbol-o3",
+        "hex": "#f1c15b"
+    },
+    {
+        "name": "Herbol O4",
+        "label": "herbol-o4",
+        "hex": "#f2cc7f"
+    },
+    {
+        "name": "Herbol O5",
+        "label": "herbol-o5",
+        "hex": "#e8ca90"
+    },
+    {
+        "name": "Herbol O6",
+        "label": "herbol-o6",
+        "hex": "#edd5a5"
+    },
+    {
+        "name": "Herbol O7",
+        "label": "herbol-o7",
+        "hex": "#f9e4b1"
+    },
+    {
+        "name": "Herbol O8",
+        "label": "herbol-o8",
+        "hex": "#eee5ca"
+    },
+    {
+        "name": "Herbol O9",
+        "label": "herbol-o9",
+        "hex": "#f2ebd9"
+    },
+    {
+        "name": "Herbol P1",
+        "label": "herbol-p1",
+        "hex": "#efcf07"
+    },
+    {
+        "name": "Herbol P2",
+        "label": "herbol-p2",
+        "hex": "#f0d436"
+    },
+    {
+        "name": "Herbol P3",
+        "label": "herbol-p3",
+        "hex": "#dbc85a"
+    },
+    {
+        "name": "Herbol P4",
+        "label": "herbol-p4",
+        "hex": "#e2d078"
+    },
+    {
+        "name": "Herbol P5",
+        "label": "herbol-p5",
+        "hex": "#ded290"
+    },
+    {
+        "name": "Herbol P6",
+        "label": "herbol-p6",
+        "hex": "#e9dfad"
+    },
+    {
+        "name": "Herbol P7",
+        "label": "herbol-p7",
+        "hex": "#f4ebba"
+    },
+    {
+        "name": "Herbol P8",
+        "label": "herbol-p8",
+        "hex": "#f1eaca"
+    },
+    {
+        "name": "Herbol P9",
+        "label": "herbol-p9",
+        "hex": "#edecdd"
+    },
+    {
+        "name": "Herbol Q1",
+        "label": "herbol-q1",
+        "hex": "#cbce27"
+    },
+    {
+        "name": "Herbol Q2",
+        "label": "herbol-q2",
+        "hex": "#ddcd22"
+    },
+    {
+        "name": "Herbol Q3",
+        "label": "herbol-q3",
+        "hex": "#cecf5e"
+    },
+    {
+        "name": "Herbol Q4",
+        "label": "herbol-q4",
+        "hex": "#cfcd73"
+    },
+    {
+        "name": "Herbol Q5",
+        "label": "herbol-q5",
+        "hex": "#d9dc8f"
+    },
+    {
+        "name": "Herbol Q6",
+        "label": "herbol-q6",
+        "hex": "#dfe0ac"
+    },
+    {
+        "name": "Herbol Q7",
+        "label": "herbol-q7",
+        "hex": "#f2eeb3"
+    },
+    {
+        "name": "Herbol Q8",
+        "label": "herbol-q8",
+        "hex": "#f3f1d0"
+    },
+    {
+        "name": "Herbol Q9",
+        "label": "herbol-q9",
+        "hex": "#ecebd8"
+    },
+    {
+        "name": "Herbol R1",
+        "label": "herbol-r1",
+        "hex": "#afb333"
+    },
+    {
+        "name": "Herbol R2",
+        "label": "herbol-r2",
+        "hex": "#c1c636"
+    },
+    {
+        "name": "Herbol R3",
+        "label": "herbol-r3",
+        "hex": "#b6c865"
+    },
+    {
+        "name": "Herbol R4",
+        "label": "herbol-r4",
+        "hex": "#bccf80"
+    },
+    {
+        "name": "Herbol R5",
+        "label": "herbol-r5",
+        "hex": "#ccd797"
+    },
+    {
+        "name": "Herbol R6",
+        "label": "herbol-r6",
+        "hex": "#d3dbaa"
+    },
+    {
+        "name": "Herbol R7",
+        "label": "herbol-r7",
+        "hex": "#e7eebb"
+    },
+    {
+        "name": "Herbol R8",
+        "label": "herbol-r8",
+        "hex": "#e7ead1"
+    },
+    {
+        "name": "Herbol R9",
+        "label": "herbol-r9",
+        "hex": "#e9edda"
+    },
+    {
+        "name": "Herbol S1",
+        "label": "herbol-s1",
+        "hex": "#7fb042"
+    },
+    {
+        "name": "Herbol S2",
+        "label": "herbol-s2",
+        "hex": "#8cbd63"
+    },
+    {
+        "name": "Herbol S3",
+        "label": "herbol-s3",
+        "hex": "#99c574"
+    },
+    {
+        "name": "Herbol S4",
+        "label": "herbol-s4",
+        "hex": "#aecf90"
+    },
+    {
+        "name": "Herbol S5",
+        "label": "herbol-s5",
+        "hex": "#b8d09c"
+    },
+    {
+        "name": "Herbol S6",
+        "label": "herbol-s6",
+        "hex": "#c7dbb6"
+    },
+    {
+        "name": "Herbol S7",
+        "label": "herbol-s7",
+        "hex": "#dfefca"
+    },
+    {
+        "name": "Herbol S8",
+        "label": "herbol-s8",
+        "hex": "#e2edd6"
+    },
+    {
+        "name": "Herbol S9",
+        "label": "herbol-s9",
+        "hex": "#e6eadc"
+    },
+    {
+        "name": "Herbol T1",
+        "label": "herbol-t1",
+        "hex": "#5cab62"
+    },
+    {
+        "name": "Herbol T2",
+        "label": "herbol-t2",
+        "hex": "#64c472"
+    },
+    {
+        "name": "Herbol T3",
+        "label": "herbol-t3",
+        "hex": "#80c889"
+    },
+    {
+        "name": "Herbol T4",
+        "label": "herbol-t4",
+        "hex": "#90cc98"
+    },
+    {
+        "name": "Herbol T5",
+        "label": "herbol-t5",
+        "hex": "#afd4af"
+    },
+    {
+        "name": "Herbol T6",
+        "label": "herbol-t6",
+        "hex": "#c0ddc0"
+    },
+    {
+        "name": "Herbol T7",
+        "label": "herbol-t7",
+        "hex": "#d1edcd"
+    },
+    {
+        "name": "Herbol T8",
+        "label": "herbol-t8",
+        "hex": "#dbe9d8"
+    },
+    {
+        "name": "Herbol T9",
+        "label": "herbol-t9",
+        "hex": "#deebdf"
+    }
+]

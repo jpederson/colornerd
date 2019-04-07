@@ -1,0 +1,1412 @@
+[
+    {
+        "name": "J-S K 010 K",
+        "label": "010-k",
+        "hex": "#f6d160"
+    },
+    {
+        "name": "J-S K 020 K",
+        "label": "020-k",
+        "hex": "#f2ca00"
+    },
+    {
+        "name": "J-S K 030 K",
+        "label": "030-k",
+        "hex": "#fcd000"
+    },
+    {
+        "name": "J-S K 040 K",
+        "label": "040-k",
+        "hex": "#fab900"
+    },
+    {
+        "name": "J-S K 050 K",
+        "label": "050-k",
+        "hex": "#ffac00"
+    },
+    {
+        "name": "J-S K 060 K",
+        "label": "060-k",
+        "hex": "#ff8300"
+    },
+    {
+        "name": "J-S K 070 K",
+        "label": "070-k",
+        "hex": "#fc6800"
+    },
+    {
+        "name": "J-S K 080 K",
+        "label": "080-k",
+        "hex": "#f35c18"
+    },
+    {
+        "name": "J-S K 082 K",
+        "label": "082-k",
+        "hex": "#e34026"
+    },
+    {
+        "name": "J-S K 100 K",
+        "label": "100-k",
+        "hex": "#ef5129"
+    },
+    {
+        "name": "J-S K 110 K",
+        "label": "110-k",
+        "hex": "#fa8e6f"
+    },
+    {
+        "name": "J-S K 120 K",
+        "label": "120-k",
+        "hex": "#d8402d"
+    },
+    {
+        "name": "J-S K 121 K",
+        "label": "121-k",
+        "hex": "#e64435"
+    },
+    {
+        "name": "J-S K 130 K",
+        "label": "130-k",
+        "hex": "#dc2e2f"
+    },
+    {
+        "name": "J-S K 140 K",
+        "label": "140-k",
+        "hex": "#cd3a35"
+    },
+    {
+        "name": "J-S K 150 K",
+        "label": "150-k",
+        "hex": "#b72839"
+    },
+    {
+        "name": "J-S K 160 K",
+        "label": "160-k",
+        "hex": "#8d3238"
+    },
+    {
+        "name": "J-S K 170 K",
+        "label": "170-k",
+        "hex": "#912e44"
+    },
+    {
+        "name": "J-S K 180 K",
+        "label": "180-k",
+        "hex": "#6a2c39"
+    },
+    {
+        "name": "J-S K 210 K",
+        "label": "210-k",
+        "hex": "#f17789"
+    },
+    {
+        "name": "J-S K 220 K",
+        "label": "220-k",
+        "hex": "#e53e3f"
+    },
+    {
+        "name": "J-S K 230 K",
+        "label": "230-k",
+        "hex": "#cf2641"
+    },
+    {
+        "name": "J-S K 240 K",
+        "label": "240-k",
+        "hex": "#b12e50"
+    },
+    {
+        "name": "J-S K 250 K",
+        "label": "250-k",
+        "hex": "#be0f57"
+    },
+    {
+        "name": "J-S K 260 K",
+        "label": "260-k",
+        "hex": "#a81862"
+    },
+    {
+        "name": "J-S K 270 K",
+        "label": "270-k",
+        "hex": "#ca038a"
+    },
+    {
+        "name": "J-S K 280 K",
+        "label": "280-k",
+        "hex": "#9f2951"
+    },
+    {
+        "name": "J-S K 290 K",
+        "label": "290-k",
+        "hex": "#882c82"
+    },
+    {
+        "name": "J-S K 310 K",
+        "label": "310-k",
+        "hex": "#b3207e"
+    },
+    {
+        "name": "J-S K 320 K",
+        "label": "320-k",
+        "hex": "#b21967"
+    },
+    {
+        "name": "J-S K 330 K",
+        "label": "330-k",
+        "hex": "#991ba9"
+    },
+    {
+        "name": "J-S K 340 K",
+        "label": "340-k",
+        "hex": "#663388"
+    },
+    {
+        "name": "J-S K 350 K",
+        "label": "350-k",
+        "hex": "#4b408a"
+    },
+    {
+        "name": "J-S K 360 K",
+        "label": "360-k",
+        "hex": "#5d3790"
+    },
+    {
+        "name": "J-S K 370 K",
+        "label": "370-k",
+        "hex": "#513674"
+    },
+    {
+        "name": "J-S K 371 K",
+        "label": "371-k",
+        "hex": "#5e2da9"
+    },
+    {
+        "name": "J-S K 380 K",
+        "label": "380-k",
+        "hex": "#2a3a4b"
+    },
+    {
+        "name": "J-S K 390 K",
+        "label": "390-k",
+        "hex": "#006ab8"
+    },
+    {
+        "name": "J-S K 400 K",
+        "label": "400-k",
+        "hex": "#0084a8"
+    },
+    {
+        "name": "J-S K 410 K",
+        "label": "410-k",
+        "hex": "#2e425a"
+    },
+    {
+        "name": "J-S K 411 K",
+        "label": "411-k",
+        "hex": "#4531af"
+    },
+    {
+        "name": "J-S K 420 K",
+        "label": "420-k",
+        "hex": "#1f4499"
+    },
+    {
+        "name": "J-S K 430 K",
+        "label": "430-k",
+        "hex": "#2449ba"
+    },
+    {
+        "name": "J-S K 432 K",
+        "label": "432-k",
+        "hex": "#0069c1"
+    },
+    {
+        "name": "J-S K 440 K",
+        "label": "440-k",
+        "hex": "#0066a8"
+    },
+    {
+        "name": "J-S K 450 K",
+        "label": "450-k",
+        "hex": "#4d5a98"
+    },
+    {
+        "name": "J-S K 460 K",
+        "label": "460-k",
+        "hex": "#1187ab"
+    },
+    {
+        "name": "J-S K 470 K",
+        "label": "470-k",
+        "hex": "#008ec6"
+    },
+    {
+        "name": "J-S K 480 K",
+        "label": "480-k",
+        "hex": "#0090b8"
+    },
+    {
+        "name": "J-S K 490 K",
+        "label": "490-k",
+        "hex": "#007ca7"
+    },
+    {
+        "name": "J-S K 500 K",
+        "label": "500-k",
+        "hex": "#00b6d2"
+    },
+    {
+        "name": "J-S K 510 K",
+        "label": "510-k",
+        "hex": "#009697"
+    },
+    {
+        "name": "J-S K 520 K",
+        "label": "520-k",
+        "hex": "#008b77"
+    },
+    {
+        "name": "J-S K 521 K",
+        "label": "521-k",
+        "hex": "#00a68e"
+    },
+    {
+        "name": "J-S K 530 K",
+        "label": "530-k",
+        "hex": "#00ba87"
+    },
+    {
+        "name": "J-S K 540 K",
+        "label": "540-k",
+        "hex": "#00834e"
+    },
+    {
+        "name": "J-S K 550 K",
+        "label": "550-k",
+        "hex": "#007452"
+    },
+    {
+        "name": "J-S K 560 K",
+        "label": "560-k",
+        "hex": "#005d4e"
+    },
+    {
+        "name": "J-S K 570 K",
+        "label": "570-k",
+        "hex": "#007b3f"
+    },
+    {
+        "name": "J-S K 571 K",
+        "label": "571-k",
+        "hex": "#00923c"
+    },
+    {
+        "name": "J-S K 580 K",
+        "label": "580-k",
+        "hex": "#325b37"
+    },
+    {
+        "name": "J-S K 590 K",
+        "label": "590-k",
+        "hex": "#007771"
+    },
+    {
+        "name": "J-S K 600 K",
+        "label": "600-k",
+        "hex": "#358519"
+    },
+    {
+        "name": "J-S K 610 K",
+        "label": "610-k",
+        "hex": "#355135"
+    },
+    {
+        "name": "J-S K 620 K",
+        "label": "620-k",
+        "hex": "#5c5c2d"
+    },
+    {
+        "name": "J-S K 630 K",
+        "label": "630-k",
+        "hex": "#426d29"
+    },
+    {
+        "name": "J-S K 640 K",
+        "label": "640-k",
+        "hex": "#0e8f27"
+    },
+    {
+        "name": "J-S K 650 K",
+        "label": "650-k",
+        "hex": "#3ba008"
+    },
+    {
+        "name": "J-S K 660 K",
+        "label": "660-k",
+        "hex": "#73ad17"
+    },
+    {
+        "name": "J-S K 670 K",
+        "label": "670-k",
+        "hex": "#6ab600"
+    },
+    {
+        "name": "J-S K 680 K",
+        "label": "680-k",
+        "hex": "#cbae19"
+    },
+    {
+        "name": "J-S K 690 K",
+        "label": "690-k",
+        "hex": "#d1bc00"
+    },
+    {
+        "name": "J-S K 710 K",
+        "label": "710-k",
+        "hex": "#d38d29"
+    },
+    {
+        "name": "J-S K 720 K",
+        "label": "720-k",
+        "hex": "#c57f17"
+    },
+    {
+        "name": "J-S K 730 K",
+        "label": "730-k",
+        "hex": "#a27136"
+    },
+    {
+        "name": "J-S K 740 K",
+        "label": "740-k",
+        "hex": "#815f34"
+    },
+    {
+        "name": "J-S K 750 K",
+        "label": "750-k",
+        "hex": "#756133"
+    },
+    {
+        "name": "J-S K 760 K",
+        "label": "760-k",
+        "hex": "#514235"
+    },
+    {
+        "name": "J-S K 770 K",
+        "label": "770-k",
+        "hex": "#5a4132"
+    },
+    {
+        "name": "J-S K 780 K",
+        "label": "780-k",
+        "hex": "#734030"
+    },
+    {
+        "name": "J-S K 810 K",
+        "label": "810-k",
+        "hex": "#b05934"
+    },
+    {
+        "name": "J-S K 820 K",
+        "label": "820-k",
+        "hex": "#92432f"
+    },
+    {
+        "name": "J-S K 830 K",
+        "label": "830-k",
+        "hex": "#724239"
+    },
+    {
+        "name": "J-S K 840 K",
+        "label": "840-k",
+        "hex": "#5a3a35"
+    },
+    {
+        "name": "J-S K 880 K",
+        "label": "880-k",
+        "hex": "#2c2c2b"
+    },
+    {
+        "name": "J-S K 890 K",
+        "label": "890-k",
+        "hex": "#a79e8c"
+    },
+    {
+        "name": "J-S K 900 K",
+        "label": "900-k",
+        "hex": "#3e3636"
+    },
+    {
+        "name": "J-S K 910 K",
+        "label": "910-k",
+        "hex": "#939d95"
+    },
+    {
+        "name": "J-S K 920 K",
+        "label": "920-k",
+        "hex": "#6d7271"
+    },
+    {
+        "name": "J-S K 930 K",
+        "label": "930-k",
+        "hex": "#485054"
+    },
+    {
+        "name": "J-S K 931 K",
+        "label": "931-k",
+        "hex": "#919b9b"
+    },
+    {
+        "name": "J-S K 950 K",
+        "label": "950-k",
+        "hex": "#8e9087"
+    },
+    {
+        "name": "J-S K 960 K",
+        "label": "960-k",
+        "hex": "#75766e"
+    },
+    {
+        "name": "J-S K 970 K",
+        "label": "970-k",
+        "hex": "#343933"
+    },
+    {
+        "name": "J-S K 010 K 30",
+        "label": "010-k-30",
+        "hex": "#f6e5b6"
+    },
+    {
+        "name": "J-S K 020 K 30",
+        "label": "020-k-30",
+        "hex": "#f5e3a1"
+    },
+    {
+        "name": "J-S K 030 K 30",
+        "label": "030-k-30",
+        "hex": "#f8e6af"
+    },
+    {
+        "name": "J-S K 040 K 30",
+        "label": "040-k-30",
+        "hex": "#f7dfb2"
+    },
+    {
+        "name": "J-S K 050 K 30",
+        "label": "050-k-30",
+        "hex": "#fad6a6"
+    },
+    {
+        "name": "J-S K 060 K 30",
+        "label": "060-k-30",
+        "hex": "#fbcaae"
+    },
+    {
+        "name": "J-S K 070 K 30",
+        "label": "070-k-30",
+        "hex": "#fbc6b7"
+    },
+    {
+        "name": "J-S K 080 K 30",
+        "label": "080-k-30",
+        "hex": "#f8bfb6"
+    },
+    {
+        "name": "J-S K 082 K 30",
+        "label": "082-k-30",
+        "hex": "#f1bbba"
+    },
+    {
+        "name": "J-S K 100 K 30",
+        "label": "100-k-30",
+        "hex": "#f6bebb"
+    },
+    {
+        "name": "J-S K 110 K 30",
+        "label": "110-k-30",
+        "hex": "#f8c9c2"
+    },
+    {
+        "name": "J-S K 120 K 30",
+        "label": "120-k-30",
+        "hex": "#efb7b8"
+    },
+    {
+        "name": "J-S K 121 K 30",
+        "label": "121-k-30",
+        "hex": "#f4aeb5"
+    },
+    {
+        "name": "J-S K 130 K 30",
+        "label": "130-k-30",
+        "hex": "#eeacb6"
+    },
+    {
+        "name": "J-S K 140 K 30",
+        "label": "140-k-30",
+        "hex": "#e7bec1"
+    },
+    {
+        "name": "J-S K 150 K 30",
+        "label": "150-k-30",
+        "hex": "#deb7c1"
+    },
+    {
+        "name": "J-S K 160 K 30",
+        "label": "160-k-30",
+        "hex": "#d3afbb"
+    },
+    {
+        "name": "J-S K 170 K 30",
+        "label": "170-k-30",
+        "hex": "#d7b7c8"
+    },
+    {
+        "name": "J-S K 180 K 30",
+        "label": "180-k-30",
+        "hex": "#c7adba"
+    },
+    {
+        "name": "J-S K 210 K 30",
+        "label": "210-k-30",
+        "hex": "#f4c4ce"
+    },
+    {
+        "name": "J-S K 220 K 30",
+        "label": "220-k-30",
+        "hex": "#f2bcc3"
+    },
+    {
+        "name": "J-S K 230 K 30",
+        "label": "230-k-30",
+        "hex": "#e8b2c1"
+    },
+    {
+        "name": "J-S K 240 K 30",
+        "label": "240-k-30",
+        "hex": "#dea7ba"
+    },
+    {
+        "name": "J-S K 250 K 30",
+        "label": "250-k-30",
+        "hex": "#dfb0c7"
+    },
+    {
+        "name": "J-S K 260 K 30",
+        "label": "260-k-30",
+        "hex": "#dcadca"
+    },
+    {
+        "name": "J-S K 270 K 30",
+        "label": "270-k-30",
+        "hex": "#e7aed4"
+    },
+    {
+        "name": "J-S K 280 K 30",
+        "label": "280-k-30",
+        "hex": "#d5b0c3"
+    },
+    {
+        "name": "J-S K 290 K 30",
+        "label": "290-k-30",
+        "hex": "#caabcc"
+    },
+    {
+        "name": "J-S K 310 K 30",
+        "label": "310-k-30",
+        "hex": "#dfa7cc"
+    },
+    {
+        "name": "J-S K 320 K 30",
+        "label": "320-k-30",
+        "hex": "#ddb1cd"
+    },
+    {
+        "name": "J-S K 330 K 30",
+        "label": "330-k-30",
+        "hex": "#cba7dc"
+    },
+    {
+        "name": "J-S K 340 K 30",
+        "label": "340-k-30",
+        "hex": "#c4b9d6"
+    },
+    {
+        "name": "J-S K 350 K 30",
+        "label": "350-k-30",
+        "hex": "#b3b1d0"
+    },
+    {
+        "name": "J-S K 360 K 30",
+        "label": "360-k-30",
+        "hex": "#c2bad8"
+    },
+    {
+        "name": "J-S K 370 K 30",
+        "label": "370-k-30",
+        "hex": "#b8b3ce"
+    },
+    {
+        "name": "J-S K 371 K 30",
+        "label": "371-k-30",
+        "hex": "#c0b4df"
+    },
+    {
+        "name": "J-S K 380 K 30",
+        "label": "380-k-30",
+        "hex": "#adb6c2"
+    },
+    {
+        "name": "J-S K 390 K 30",
+        "label": "390-k-30",
+        "hex": "#acc2e3"
+    },
+    {
+        "name": "J-S K 400 K 30",
+        "label": "400-k-30",
+        "hex": "#abcadb"
+    },
+    {
+        "name": "J-S K 410 K 30",
+        "label": "410-k-30",
+        "hex": "#b3bcca"
+    },
+    {
+        "name": "J-S K 411 K 30",
+        "label": "411-k-30",
+        "hex": "#aeb1e0"
+    },
+    {
+        "name": "J-S K 420 K 30",
+        "label": "420-k-30",
+        "hex": "#b8c6e4"
+    },
+    {
+        "name": "J-S K 430 K 30",
+        "label": "430-k-30",
+        "hex": "#abbae5"
+    },
+    {
+        "name": "J-S K 432 K 30",
+        "label": "432-k-30",
+        "hex": "#adc6e8"
+    },
+    {
+        "name": "J-S K 440 K 30",
+        "label": "440-k-30",
+        "hex": "#a9c1dd"
+    },
+    {
+        "name": "J-S K 450 K 30",
+        "label": "450-k-30",
+        "hex": "#bac0d9"
+    },
+    {
+        "name": "J-S K 460 K 30",
+        "label": "460-k-30",
+        "hex": "#aac9db"
+    },
+    {
+        "name": "J-S K 470 K 30",
+        "label": "470-k-30",
+        "hex": "#9ccde7"
+    },
+    {
+        "name": "J-S K 480 K 30",
+        "label": "480-k-30",
+        "hex": "#9fd0e4"
+    },
+    {
+        "name": "J-S K 490 K 30",
+        "label": "490-k-30",
+        "hex": "#9bc9de"
+    },
+    {
+        "name": "J-S K 500 K 30",
+        "label": "500-k-30",
+        "hex": "#b1dcea"
+    },
+    {
+        "name": "J-S K 510 K 30",
+        "label": "510-k-30",
+        "hex": "#a9d0d5"
+    },
+    {
+        "name": "J-S K 520 K 30",
+        "label": "520-k-30",
+        "hex": "#aad0ce"
+    },
+    {
+        "name": "J-S K 521 K 30",
+        "label": "521-k-30",
+        "hex": "#a6dad7"
+    },
+    {
+        "name": "J-S K 530 K 30",
+        "label": "530-k-30",
+        "hex": "#a8e0d3"
+    },
+    {
+        "name": "J-S K 540 K 30",
+        "label": "540-k-30",
+        "hex": "#add0c5"
+    },
+    {
+        "name": "J-S K 550 K 30",
+        "label": "550-k-30",
+        "hex": "#a2c6c0"
+    },
+    {
+        "name": "J-S K 560 K 30",
+        "label": "560-k-30",
+        "hex": "#a7c0bf"
+    },
+    {
+        "name": "J-S K 570 K 30",
+        "label": "570-k-30",
+        "hex": "#aeccbf"
+    },
+    {
+        "name": "J-S K 571 K 30",
+        "label": "571-k-30",
+        "hex": "#b4d2bd"
+    },
+    {
+        "name": "J-S K 580 K 30",
+        "label": "580-k-30",
+        "hex": "#a7b8ae"
+    },
+    {
+        "name": "J-S K 590 K 30",
+        "label": "590-k-30",
+        "hex": "#96c3c5"
+    },
+    {
+        "name": "J-S K 600 K 30",
+        "label": "600-k-30",
+        "hex": "#b9d0b2"
+    },
+    {
+        "name": "J-S K 610 K 30",
+        "label": "610-k-30",
+        "hex": "#b1bbb5"
+    },
+    {
+        "name": "J-S K 620 K 30",
+        "label": "620-k-30",
+        "hex": "#babbac"
+    },
+    {
+        "name": "J-S K 630 K 30",
+        "label": "630-k-30",
+        "hex": "#b3c3ae"
+    },
+    {
+        "name": "J-S K 640 K 30",
+        "label": "640-k-30",
+        "hex": "#bcd5be"
+    },
+    {
+        "name": "J-S K 650 K 30",
+        "label": "650-k-30",
+        "hex": "#bdd9b2"
+    },
+    {
+        "name": "J-S K 660 K 30",
+        "label": "660-k-30",
+        "hex": "#caddb6"
+    },
+    {
+        "name": "J-S K 670 K 30",
+        "label": "670-k-30",
+        "hex": "#c4dea9"
+    },
+    {
+        "name": "J-S K 680 K 30",
+        "label": "680-k-30",
+        "hex": "#e7dcb5"
+    },
+    {
+        "name": "J-S K 690 K 30",
+        "label": "690-k-30",
+        "hex": "#e8dead"
+    },
+    {
+        "name": "J-S K 710 K 30",
+        "label": "710-k-30",
+        "hex": "#ebcfb6"
+    },
+    {
+        "name": "J-S K 720 K 30",
+        "label": "720-k-30",
+        "hex": "#e5ceb9"
+    },
+    {
+        "name": "J-S K 730 K 30",
+        "label": "730-k-30",
+        "hex": "#d6c3b2"
+    },
+    {
+        "name": "J-S K 740 K 30",
+        "label": "740-k-30",
+        "hex": "#c9bcaf"
+    },
+    {
+        "name": "J-S K 750 K 30",
+        "label": "750-k-30",
+        "hex": "#c6bfb1"
+    },
+    {
+        "name": "J-S K 760 K 30",
+        "label": "760-k-30",
+        "hex": "#b8b3b2"
+    },
+    {
+        "name": "J-S K 770 K 30",
+        "label": "770-k-30",
+        "hex": "#bfb8b8"
+    },
+    {
+        "name": "J-S K 780 K 30",
+        "label": "780-k-30",
+        "hex": "#c5adac"
+    },
+    {
+        "name": "J-S K 810 K 30",
+        "label": "810-k-30",
+        "hex": "#e0c3be"
+    },
+    {
+        "name": "J-S K 820 K 30",
+        "label": "820-k-30",
+        "hex": "#d4b7b5"
+    },
+    {
+        "name": "J-S K 830 K 30",
+        "label": "830-k-30",
+        "hex": "#c3b3b5"
+    },
+    {
+        "name": "J-S K 840 K 30",
+        "label": "840-k-30",
+        "hex": "#bbb0b4"
+    },
+    {
+        "name": "J-S K 880 K 30",
+        "label": "880-k-30",
+        "hex": "#b6b6bb"
+    },
+    {
+        "name": "J-S K 890 K 30",
+        "label": "890-k-30",
+        "hex": "#dad7d6"
+    },
+    {
+        "name": "J-S K 900 K 30",
+        "label": "900-k-30",
+        "hex": "#b7b6bb"
+    },
+    {
+        "name": "J-S K 910 K 30",
+        "label": "910-k-30",
+        "hex": "#d0d3d4"
+    },
+    {
+        "name": "J-S K 920 K 30",
+        "label": "920-k-30",
+        "hex": "#c5c8cc"
+    },
+    {
+        "name": "J-S K 930 K 30",
+        "label": "930-k-30",
+        "hex": "#b3b7bb"
+    },
+    {
+        "name": "J-S K 931 K 30",
+        "label": "931-k-30",
+        "hex": "#d3d7da"
+    },
+    {
+        "name": "J-S K 950 K 30",
+        "label": "950-k-30",
+        "hex": "#d3d4d5"
+    },
+    {
+        "name": "J-S K 960 K 30",
+        "label": "960-k-30",
+        "hex": "#c1c2c2"
+    },
+    {
+        "name": "J-S K 970 K 30",
+        "label": "970-k-30",
+        "hex": "#b4b6b6"
+    },
+    {
+        "name": "J-S K 010 K 55",
+        "label": "010-k-55",
+        "hex": "#f6dd93"
+    },
+    {
+        "name": "J-S K 020 K 55",
+        "label": "020-k-55",
+        "hex": "#f5db73"
+    },
+    {
+        "name": "J-S K 030 K 55",
+        "label": "030-k-55",
+        "hex": "#f9df84"
+    },
+    {
+        "name": "J-S K 040 K 55",
+        "label": "040-k-55",
+        "hex": "#f8d589"
+    },
+    {
+        "name": "J-S K 050 K 55",
+        "label": "050-k-55",
+        "hex": "#fdc878"
+    },
+    {
+        "name": "J-S K 060 K 55",
+        "label": "060-k-55",
+        "hex": "#feb685"
+    },
+    {
+        "name": "J-S K 070 K 55",
+        "label": "070-k-55",
+        "hex": "#feb093"
+    },
+    {
+        "name": "J-S K 080 K 55",
+        "label": "080-k-55",
+        "hex": "#f8a492"
+    },
+    {
+        "name": "J-S K 082 K 55",
+        "label": "082-k-55",
+        "hex": "#ee9c97"
+    },
+    {
+        "name": "J-S K 100 K 55",
+        "label": "100-k-55",
+        "hex": "#f59f96"
+    },
+    {
+        "name": "J-S K 110 K 55",
+        "label": "110-k-55",
+        "hex": "#fab6a7"
+    },
+    {
+        "name": "J-S K 120 K 55",
+        "label": "120-k-55",
+        "hex": "#eb9794"
+    },
+    {
+        "name": "J-S K 121 K 55",
+        "label": "121-k-55",
+        "hex": "#f1898f"
+    },
+    {
+        "name": "J-S K 130 K 55",
+        "label": "130-k-55",
+        "hex": "#ea8994"
+    },
+    {
+        "name": "J-S K 140 K 55",
+        "label": "140-k-55",
+        "hex": "#e19d9f"
+    },
+    {
+        "name": "J-S K 150 K 55",
+        "label": "150-k-55",
+        "hex": "#d495a2"
+    },
+    {
+        "name": "J-S K 160 K 55",
+        "label": "160-k-55",
+        "hex": "#c08b99"
+    },
+    {
+        "name": "J-S K 170 K 55",
+        "label": "170-k-55",
+        "hex": "#c794aa"
+    },
+    {
+        "name": "J-S K 180 K 55",
+        "label": "180-k-55",
+        "hex": "#ab8496"
+    },
+    {
+        "name": "J-S K 210 K 55",
+        "label": "210-k-55",
+        "hex": "#f4a8b6"
+    },
+    {
+        "name": "J-S K 220 K 55",
+        "label": "220-k-55",
+        "hex": "#f09ba3"
+    },
+    {
+        "name": "J-S K 230 K 55",
+        "label": "230-k-55",
+        "hex": "#e18ca0"
+    },
+    {
+        "name": "J-S K 240 K 55",
+        "label": "240-k-55",
+        "hex": "#cf7894"
+    },
+    {
+        "name": "J-S K 250 K 55",
+        "label": "250-k-55",
+        "hex": "#d488a9"
+    },
+    {
+        "name": "J-S K 260 K 55",
+        "label": "260-k-55",
+        "hex": "#cf84ae"
+    },
+    {
+        "name": "J-S K 270 K 55",
+        "label": "270-k-55",
+        "hex": "#e084bf"
+    },
+    {
+        "name": "J-S K 280 K 55",
+        "label": "280-k-55",
+        "hex": "#c68da6"
+    },
+    {
+        "name": "J-S K 290 K 55",
+        "label": "290-k-55",
+        "hex": "#b281b2"
+    },
+    {
+        "name": "J-S K 310 K 55",
+        "label": "310-k-55",
+        "hex": "#d27ab2"
+    },
+    {
+        "name": "J-S K 320 K 55",
+        "label": "320-k-55",
+        "hex": "#d088b0"
+    },
+    {
+        "name": "J-S K 330 K 55",
+        "label": "330-k-55",
+        "hex": "#b77acc"
+    },
+    {
+        "name": "J-S K 340 K 55",
+        "label": "340-k-55",
+        "hex": "#a995c1"
+    },
+    {
+        "name": "J-S K 350 K 55",
+        "label": "350-k-55",
+        "hex": "#908db9"
+    },
+    {
+        "name": "J-S K 360 K 55",
+        "label": "360-k-55",
+        "hex": "#a698c6"
+    },
+    {
+        "name": "J-S K 370 K 55",
+        "label": "370-k-55",
+        "hex": "#968bb3"
+    },
+    {
+        "name": "J-S K 371 K 55",
+        "label": "371-k-55",
+        "hex": "#a28dd0"
+    },
+    {
+        "name": "J-S K 380 K 55",
+        "label": "380-k-55",
+        "hex": "#8592a0"
+    },
+    {
+        "name": "J-S K 390 K 55",
+        "label": "390-k-55",
+        "hex": "#89aad8"
+    },
+    {
+        "name": "J-S K 400 K 55",
+        "label": "400-k-55",
+        "hex": "#84b5cd"
+    },
+    {
+        "name": "J-S K 410 K 55",
+        "label": "410-k-55",
+        "hex": "#929fb0"
+    },
+    {
+        "name": "J-S K 411 K 55",
+        "label": "411-k-55",
+        "hex": "#8e90d4"
+    },
+    {
+        "name": "J-S K 420 K 55",
+        "label": "420-k-55",
+        "hex": "#94abd8"
+    },
+    {
+        "name": "J-S K 430 K 55",
+        "label": "430-k-55",
+        "hex": "#869cdb"
+    },
+    {
+        "name": "J-S K 432 K 55",
+        "label": "432-k-55",
+        "hex": "#83adde"
+    },
+    {
+        "name": "J-S K 440 K 55",
+        "label": "440-k-55",
+        "hex": "#80a7cf"
+    },
+    {
+        "name": "J-S K 450 K 55",
+        "label": "450-k-55",
+        "hex": "#9aa3c7"
+    },
+    {
+        "name": "J-S K 460 K 55",
+        "label": "460-k-55",
+        "hex": "#81b2cc"
+    },
+    {
+        "name": "J-S K 470 K 55",
+        "label": "470-k-55",
+        "hex": "#68bade"
+    },
+    {
+        "name": "J-S K 480 K 55",
+        "label": "480-k-55",
+        "hex": "#6cbfd9"
+    },
+    {
+        "name": "J-S K 490 K 55",
+        "label": "490-k-55",
+        "hex": "#6bb3d0"
+    },
+    {
+        "name": "J-S K 500 K 55",
+        "label": "500-k-55",
+        "hex": "#8ad0e3"
+    },
+    {
+        "name": "J-S K 510 K 55",
+        "label": "510-k-55",
+        "hex": "#81bfc3"
+    },
+    {
+        "name": "J-S K 520 K 55",
+        "label": "520-k-55",
+        "hex": "#7ebcb5"
+    },
+    {
+        "name": "J-S K 521 K 55",
+        "label": "521-k-55",
+        "hex": "#76cdc5"
+    },
+    {
+        "name": "J-S K 530 K 55",
+        "label": "530-k-55",
+        "hex": "#78d6be"
+    },
+    {
+        "name": "J-S K 540 K 55",
+        "label": "540-k-55",
+        "hex": "#83bca7"
+    },
+    {
+        "name": "J-S K 550 K 55",
+        "label": "550-k-55",
+        "hex": "#73ada0"
+    },
+    {
+        "name": "J-S K 560 K 55",
+        "label": "560-k-55",
+        "hex": "#7aa29d"
+    },
+    {
+        "name": "J-S K 570 K 55",
+        "label": "570-k-55",
+        "hex": "#86b79e"
+    },
+    {
+        "name": "J-S K 571 K 55",
+        "label": "571-k-55",
+        "hex": "#90c19b"
+    },
+    {
+        "name": "J-S K 580 K 55",
+        "label": "580-k-55",
+        "hex": "#7d9682"
+    },
+    {
+        "name": "J-S K 590 K 55",
+        "label": "590-k-55",
+        "hex": "#57a6a6"
+    },
+    {
+        "name": "J-S K 600 K 55",
+        "label": "600-k-55",
+        "hex": "#96bb87"
+    },
+    {
+        "name": "J-S K 610 K 55",
+        "label": "610-k-55",
+        "hex": "#89998b"
+    },
+    {
+        "name": "J-S K 620 K 55",
+        "label": "620-k-55",
+        "hex": "#96977a"
+    },
+    {
+        "name": "J-S K 630 K 55",
+        "label": "630-k-55",
+        "hex": "#8ca67f"
+    },
+    {
+        "name": "J-S K 640 K 55",
+        "label": "640-k-55",
+        "hex": "#99c49a"
+    },
+    {
+        "name": "J-S K 650 K 55",
+        "label": "650-k-55",
+        "hex": "#9cc988"
+    },
+    {
+        "name": "J-S K 660 K 55",
+        "label": "660-k-55",
+        "hex": "#b3d08f"
+    },
+    {
+        "name": "J-S K 670 K 55",
+        "label": "670-k-55",
+        "hex": "#a8d177"
+    },
+    {
+        "name": "J-S K 680 K 55",
+        "label": "680-k-55",
+        "hex": "#dece8a"
+    },
+    {
+        "name": "J-S K 690 K 55",
+        "label": "690-k-55",
+        "hex": "#e0d37e"
+    },
+    {
+        "name": "J-S K 710 K 55",
+        "label": "710-k-55",
+        "hex": "#e5bb8f"
+    },
+    {
+        "name": "J-S K 720 K 55",
+        "label": "720-k-55",
+        "hex": "#ddba95"
+    },
+    {
+        "name": "J-S K 730 K 55",
+        "label": "730-k-55",
+        "hex": "#c5a88a"
+    },
+    {
+        "name": "J-S K 740 K 55",
+        "label": "740-k-55",
+        "hex": "#b19c84"
+    },
+    {
+        "name": "J-S K 750 K 55",
+        "label": "750-k-55",
+        "hex": "#aea38a"
+    },
+    {
+        "name": "J-S K 760 K 55",
+        "label": "760-k-55",
+        "hex": "#98908d"
+    },
+    {
+        "name": "J-S K 770 K 55",
+        "label": "770-k-55",
+        "hex": "#a29794"
+    },
+    {
+        "name": "J-S K 780 K 55",
+        "label": "780-k-55",
+        "hex": "#a7827b"
+    },
+    {
+        "name": "J-S K 810 K 55",
+        "label": "810-k-55",
+        "hex": "#d4a79a"
+    },
+    {
+        "name": "J-S K 820 K 55",
+        "label": "820-k-55",
+        "hex": "#c0928b"
+    },
+    {
+        "name": "J-S K 830 K 55",
+        "label": "830-k-55",
+        "hex": "#a88e8d"
+    },
+    {
+        "name": "J-S K 840 K 55",
+        "label": "840-k-55",
+        "hex": "#9c898b"
+    },
+    {
+        "name": "J-S K 880 K 55",
+        "label": "880-k-55",
+        "hex": "#8f8f93"
+    },
+    {
+        "name": "J-S K 890 K 55",
+        "label": "890-k-55",
+        "hex": "#ccc8c3"
+    },
+    {
+        "name": "J-S K 900 K 55",
+        "label": "900-k-55",
+        "hex": "#969498"
+    },
+    {
+        "name": "J-S K 910 K 55",
+        "label": "910-k-55",
+        "hex": "#bcc2c0"
+    },
+    {
+        "name": "J-S K 920 K 55",
+        "label": "920-k-55",
+        "hex": "#acafb3"
+    },
+    {
+        "name": "J-S K 930 K 55",
+        "label": "930-k-55",
+        "hex": "#8d9397"
+    },
+    {
+        "name": "J-S K 931 K 55",
+        "label": "931-k-55",
+        "hex": "#c1c6c9"
+    },
+    {
+        "name": "J-S K 950 K 55",
+        "label": "950-k-55",
+        "hex": "#c0c1c0"
+    },
+    {
+        "name": "J-S K 960 K 55",
+        "label": "960-k-55",
+        "hex": "#a4a4a1"
+    },
+    {
+        "name": "J-S K 970 K 55",
+        "label": "970-k-55",
+        "hex": "#939594"
+    }
+]

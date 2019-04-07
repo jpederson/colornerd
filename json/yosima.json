@@ -1,0 +1,692 @@
+[
+    {
+        "name": "RO 0",
+        "label": "ro-0",
+        "hex": "#a57464"
+    },
+    {
+        "name": "RO 1",
+        "label": "ro-1",
+        "hex": "#be8e7c"
+    },
+    {
+        "name": "RO 2",
+        "label": "ro-2",
+        "hex": "#d2ac9c"
+    },
+    {
+        "name": "RO 3",
+        "label": "ro-3",    
+        "hex": "#e0c2b0"
+    },
+    {
+        "name": "RO 4",
+        "label": "ro-4",
+        "hex": "#e5d1c1"
+    },
+    {
+        "name": "GE 0",
+        "label": "ge-0",
+        "hex": "#ba966c"
+    },
+    {
+        "name": "GE 1",
+        "label": "ge-1",
+        "hex": "#cba97e"
+    },
+    {
+        "name": "GE 2",
+        "label": "ge-2",
+        "hex": "#d5b58b"
+    },
+    {
+        "name": "GE 3",
+        "label": "ge-3",
+        "hex": "#dcc39d"
+    },
+    {
+        "name": "GE 4",
+        "label": "ge-4",
+        "hex": "#e8d7ba"
+    },
+    {
+        "name": "GR 0",
+        "label": "gr-0",
+        "hex": "#aba586"
+    },
+    {
+        "name": "GR 1",
+        "label": "gr-1",
+        "hex": "#b9b08f"
+    },
+    {
+        "name": "GR 2",
+        "label": "gr-2",
+        "hex": "#c4ba9b"
+    },
+    {
+        "name": "GR 3",
+        "label": "gr-3",
+        "hex": "#cdc4a7"
+    },
+    {
+        "name": "GR 4",
+        "label": "gr-4",
+        "hex": "#d6ceb4"
+    },
+    {
+        "name": "BR 0",
+        "label": "br-0",
+        "hex": "#987964"
+    },
+    {
+        "name": "BR 1",
+        "label": "br-1",
+        "hex": "#b0947f"
+    },
+    {
+        "name": "BR 2",
+        "label": "br-2",
+        "hex": "#bba18a"
+    },
+    {
+        "name": "BR 3",
+        "label": "br-3",
+        "hex": "#cdb59f"
+    },
+    {
+        "name": "BR 4",
+        "label": "br-4",
+        "hex": "#decebb"
+    },
+    {
+        "name": "SC 0",
+        "label": "sc-0",
+        "hex": "#6b6964"
+    },
+    {
+        "name": "SC 1",
+        "label": "sc-1",
+        "hex": "#918e8b"
+    },
+    {
+        "name": "SC 2",
+        "label": "sc-2",
+        "hex": "#aba8a3"
+    },
+    {
+        "name": "SC 3",
+        "label": "sc-3",
+        "hex": "#c6c3bc"
+    },
+    {
+        "name": "SC 4",
+        "label": "sc-4",
+        "hex": "#d5cfc5"
+    },
+    {
+        "name": "WE 0",
+        "label": "we-0",
+        "hex": "#f0eadc"
+    },
+    {
+        "name": "ROGE 1-0",
+        "label": "roge-1-0",
+        "hex": "#a77460"
+    },
+    {
+        "name": "ROGE 1-1",
+        "label": "roge-1-1",
+        "hex": "#c08f79"
+    },
+    {
+        "name": "ROGE 1-2",
+        "label": "roge-1-2",
+        "hex": "#d4ad98"
+    },
+    {
+        "name": "ROGE 1-3",
+        "label": "roge-1-3",
+        "hex": "#e6ceb9"
+    },
+    {
+        "name": "ROGE 2-0",
+        "label": "roge-2-0",
+        "hex": "#ac7d66"
+    },
+    {
+        "name": "ROGE 2-1",
+        "label": "roge-2-1",
+        "hex": "#c5997f"
+    },
+    {
+        "name": "ROGE 2-2",
+        "label": "roge-2-2",
+        "hex": "#d8b59d"
+    },
+    {
+        "name": "ROGE 2-3",
+        "label": "roge-2-3",
+        "hex": "#e5cbb6"
+    },
+    {
+        "name": "ROGE 3-0",
+        "label": "roge-3-0",
+        "hex": "#af8568"
+    },
+    {
+        "name": "ROGE 3-1",
+        "label": "roge-3-1",
+        "hex": "#c59d7f"
+    },
+    {
+        "name": "ROGE 3-2",
+        "label": "roge-3-2",
+        "hex": "#d4b094"
+    },
+    {
+        "name": "ROGE 3-3",
+        "label": "roge-3-3",
+        "hex": "#e0c5aa"
+    },
+    {
+        "name": "ROGE 4-0",
+        "label": "roge-4-0",
+        "hex": "#b58a68"
+    },
+    {
+        "name": "ROGE 4-1",
+        "label": "roge-4-1",
+        "hex": "#caa481"
+    },
+    {
+        "name": "ROGE 4-2",
+        "label": "roge-4-2",
+        "hex": "#d6b594"
+    },
+    {
+        "name": "ROGE 4-3",
+        "label": "roge-4-3",
+        "hex": "#e0c4a5"
+    },
+    {
+        "name": "SCBR 1-0",
+        "label": "scbr-1-0",
+        "hex": "#827569"
+    },
+    {
+        "name": "SCBR 1-1",
+        "label": "scbr-1-1",
+        "hex": "#9e9183"
+    },
+    {
+        "name": "SCBR 1-2",
+        "label": "scbr-1-2",
+        "hex": "#b4a796"
+    },
+    {
+        "name": "SCBR 1-3",
+        "label": "scbr-1-3",
+        "hex": "#cec2b4"
+    },
+    {
+        "name": "SCBR 2-0",
+        "label": "scbr-2-0",
+        "hex": "#87776a"
+    },
+    {
+        "name": "SCBR 2-1",
+        "label": "scbr-2-1",
+        "hex": "#9d8d7f"
+    },
+    {
+        "name": "SCBR 2-2",
+        "label": "scbr-2-2",
+        "hex": "#b8a897"
+    },
+    {
+        "name": "SCBR 2-3",
+        "label": "scbr-2-3",
+        "hex": "#d3c5b5"
+    },
+    {
+        "name": "SCBR 3-0",
+        "label": "scbr-3-0",
+        "hex": "#8e7765"
+    },
+    {
+        "name": "SCBR 3-1",
+        "label": "scbr-3-1",
+        "hex": "#a38f7d"
+    },
+    {
+        "name": "SCBR 3-2",
+        "label": "scbr-3-2",
+        "hex": "#bdab99"
+    },
+    {
+        "name": "SCBR 3-3",
+        "label": "scbr-3-3",
+        "hex": "#d3c4b2"
+    },
+    {
+        "name": "SCBR 4-0",
+        "label": "scbr-4-0",
+        "hex": "#927863"
+    },
+    {
+        "name": "SCBR 4-1",
+        "label": "scbr-4-1",
+        "hex": "#ac927b"
+    },
+    {
+        "name": "SCBR 4-2",
+        "label": "scbr-4-2",
+        "hex": "#c5ad97"
+    },
+    {
+        "name": "SCBR 4-3",
+        "label": "scbr-4-3",
+        "hex": "#dbc8b5"
+    },
+    {
+        "name": "SCGE 1-0",
+        "label": "scge-1-0",
+        "hex": "#8a7f6b"
+    },
+    {
+        "name": "SCGE 1-1",
+        "label": "scge-1-1",
+        "hex": "#a29780"
+    },
+    {
+        "name": "SCGE 1-2",
+        "label": "scge-1-2",
+        "hex": "#b8ad95"
+    },
+    {
+        "name": "SCGE 1-3",
+        "label": "scge-1-3",
+        "hex": "#cbc0aa"
+    },
+    {
+        "name": "SCGE 2-0",
+        "label": "scge-2-0",
+        "hex": "#96866a"
+    },
+    {
+        "name": "SCGE 2-1",
+        "label": "scge-2-1",
+        "hex": "#ae9d7f"
+    },
+    {
+        "name": "SCGE 2-2",
+        "label": "scge-2-2",
+        "hex": "#c3b394"
+    },
+    {
+        "name": "SCGE 2-3",
+        "label": "scge-2-3",
+        "hex": "#d5c6ab"
+    },
+    {
+        "name": "SCGE 3-0",
+        "label": "scge-3-0",
+        "hex": "#a28e70"
+    },
+    {
+        "name": "SCGE 3-1",
+        "label": "scge-3-1",
+        "hex": "#b8a281"
+    },
+    {
+        "name": "SCGE 3-2",
+        "label": "scge-3-2",
+        "hex": "#c5b190"
+    },
+    {
+        "name": "SCGE 3-3",
+        "label": "scge-3-3",
+        "hex": "#d6c6a8"
+    },
+    {
+        "name": "SCGE 4-0",
+        "label": "scge-4-0",
+        "hex": "#a98f6b"
+    },
+    {
+        "name": "SCGE 4-1",
+        "label": "scge-4-1",
+        "hex": "#bfa57f"
+    },
+    {
+        "name": "SCGE 4-2",
+        "label": "scge-4-2",
+        "hex": "#ceb690"
+    },
+    {
+        "name": "SCGE 4-3",
+        "label": "scge-4-3",
+        "hex": "#d9c7a7"
+    },
+    {
+        "name": "BRGE 1-0",
+        "label": "brge-1-0",
+        "hex": "#9e8168"
+    },
+    {
+        "name": "BRGE 1-1",
+        "label": "brge-1-1",
+        "hex": "#b6987b"
+    },
+    {
+        "name": "BRGE 1-2",
+        "label": "brge-1-2",
+        "hex": "#caaf93"
+    },
+    {
+        "name": "BRGE 1-3",
+        "label": "brge-1-3",
+        "hex": "#d8c1a7"
+    },
+    {
+        "name": "BRGE 2-0",
+        "label": "brge-2-0",
+        "hex": "#a6896e"
+    },
+    {
+        "name": "BRGE 2-1",
+        "label": "brge-2-1",
+        "hex": "#bb9e7f"
+    },
+    {
+        "name": "BRGE 2-2",
+        "label": "brge-2-2",
+        "hex": "#caae8f"
+    },
+    {
+        "name": "BRGE 2-3",
+        "label": "brge-2-3",
+        "hex": "#dbc4a8"
+    },
+    {
+        "name": "BRGE 3-0",
+        "label": "brge-3-0",
+        "hex": "#ab8969"
+    },
+    {
+        "name": "BRGE 3-1",
+        "label": "brge-3-1",
+        "hex": "#be9e7d"
+    },
+    {
+        "name": "BRGE 3-2",
+        "label": "brge-3-2",
+        "hex": "#ccaf8d"
+    },
+    {
+        "name": "BRGE 3-3",
+        "label": "brge-3-3",
+        "hex": "#dcc4a6"
+    },
+    {
+        "name": "BRGE 4-0",
+        "label": "brge-4-0",
+        "hex": "#b28f6c"
+    },
+    {
+        "name": "BRGE 4-1",
+        "label": "brge-4-1",
+        "hex": "#c4a47d"
+    },
+    {
+        "name": "BRGE 4-2",
+        "label": "brge-4-2",
+        "hex": "#d1b48e"
+    },
+    {
+        "name": "BRGE 4-3",
+        "label": "brge-4-3",
+        "hex": "#e0c8a6"
+    },
+    {
+        "name": "GRGE 1-0",
+        "label": "grge-1-0",
+        "hex": "#aea382"
+    },
+    {
+        "name": "GRGE 1-1",
+        "label": "grge-1-1",
+        "hex": "#c2b694"
+    },
+    {
+        "name": "GRGE 1-2",
+        "label": "grge-1-2",
+        "hex": "#d0c6a8"
+    },
+    {
+        "name": "GRGE 1-3",
+        "label": "grge-1-3",
+        "hex": "#dfd6bf"
+    },
+    {
+        "name": "GRGE 2-0",
+        "label": "grge-2-0",
+        "hex": "#b4a07b"
+    },
+    {
+        "name": "GRGE 2-1",
+        "label": "grge-2-1",
+        "hex": "#c4b28d"
+    },
+    {
+        "name": "GRGE 2-2",
+        "label": "grge-2-2",
+        "hex": "#d7c7a6"
+    },
+    {
+        "name": "GRGE 2-3",
+        "label": "grge-2-3",
+        "hex": "#ded1b4"
+    },
+    {
+        "name": "GRGE 3-0",
+        "label": "grge-3-0",
+        "hex": "#b99d71"
+    },
+    {
+        "name": "GRGE 3-1",
+        "label": "grge-3-1",
+        "hex": "#c9b28a"
+    },
+    {
+        "name": "GRGE 3-2",
+        "label": "grge-3-2",
+        "hex": "#d8c5a2"
+    },
+    {
+        "name": "GRGE 3-3",
+        "label": "grge-3-3",
+        "hex": "#e1d2b3"
+    },
+    {
+        "name": "GRGE 4-0",
+        "label": "grge-4-0",
+        "hex": "#b8996e"
+    },
+    {
+        "name": "GRGE 4-1",
+        "label": "grge-4-1",
+        "hex": "#c5aa7f"
+    },
+    {
+        "name": "GRGE 4-2",
+        "label": "grge-4-2",
+        "hex": "#d5bc96"
+    },
+    {
+        "name": "GRGE 4-3",
+        "label": "grge-4-3",
+        "hex": "#e0ceac"
+    },
+    {
+        "name": "SCGE 1-0",
+        "label": "scge-1-0",
+        "hex": "#8a897c"
+    },
+    {
+        "name": "SCGE 1-1",
+        "label": "scge-1-1",
+        "hex": "#a19e90"
+    },
+    {
+        "name": "SCGE 1-2",
+        "label": "scge-1-2",
+        "hex": "#b3b0a0"
+    },
+    {
+        "name": "SCGE 1-3",
+        "label": "scge-1-3",
+        "hex": "#d2cebe"
+    },
+    {
+        "name": "SCGE 2-0",
+        "label": "scge-2-0",
+        "hex": "#939180"
+    },
+    {
+        "name": "SCGE 2-1",
+        "label": "scge-2-1",
+        "hex": "#aca997"
+    },
+    {
+        "name": "SCGE 2-2",
+        "label": "scge-2-2",
+        "hex": "#c2bdab"
+    },
+    {
+        "name": "SCGE 2-3",
+        "label": "scge-2-3",
+        "hex": "#d7d2c0"
+    },
+    {
+        "name": "SCGE 3-0",
+        "label": "scge-3-0",
+        "hex": "#999782"
+    },
+    {
+        "name": "SCGE 3-1",
+        "label": "scge-3-1",
+        "hex": "#b2ae98"
+    },
+    {
+        "name": "SCGE 3-2",
+        "label": "scge-3-2",
+        "hex": "#c5c0a9"
+    },
+    {
+        "name": "SCGE 3-3",
+        "label": "scge-3-3",
+        "hex": "#dad4c1"
+    },
+    {
+        "name": "SCGE 4-0",
+        "label": "scge-4-0",
+        "hex": "#a29e85"
+    },
+    {
+        "name": "SCGE 4-1",
+        "label": "scge-4-1",
+        "hex": "#b8b399"
+    },
+    {
+        "name": "SCGE 4-2",
+        "label": "scge-4-2",
+        "hex": "#cac4ab"
+    },
+    {
+        "name": "SCGE 4-3",
+        "label": "scge-4-3",
+        "hex": "#d9d3bf"
+    },
+    {
+        "name": "SCRO 1-0",
+        "label": "scro-1-0",
+        "hex": "#a18e84"
+    },
+    {
+        "name": "SCRO 1-1",
+        "label": "scro-1-1",
+        "hex": "#9f8c81"
+    },
+    {
+        "name": "SCRO 1-2",
+        "label": "scro-1-2",
+        "hex": "#c0aea3"
+    },
+    {
+        "name": "SCRO 1-3",
+        "label": "scro-1-3",
+        "hex": "#daccbe"
+    },
+    {
+        "name": "SCRO 2-0",
+        "label": "scro-2-0",
+        "hex": "#886f64"
+    },
+    {
+        "name": "SCRO 2-1",
+        "label": "scro-2-1",
+        "hex": "#a4897d"
+    },
+    {
+        "name": "SCRO 2-2",
+        "label": "scro-2-2",
+        "hex": "#c7b0a3"
+    },
+    {
+        "name": "SCRO 2-3",
+        "label": "scro-2-3",
+        "hex": "#d9c8bc"
+    },
+    {
+        "name": "SCRO 3-0",
+        "label": "scro-3-0",
+        "hex": "#906d5f"
+    },
+    {
+        "name": "SCRO 3-1",
+        "label": "scro-3-1",
+        "hex": "#a17f71"
+    },
+    {
+        "name": "SCRO 3-2",
+        "label": "scro-3-2",
+        "hex": "#caaea0"
+    },
+    {
+        "name": "SCRO 3-3",
+        "label": "scro-3-3",
+        "hex": "#dbc6b8"
+    },
+    {
+        "name": "SCRO 4-0",
+        "label": "scro-4-0",
+        "hex": "#966c5d"
+    },
+    {
+        "name": "SCRO 4-1",
+        "label": "scro-4-1",
+        "hex": "#af8575"
+    },
+    {
+        "name": "SCRO 4-2",
+        "label": "scro-4-2",
+        "hex": "#caa796"
+    },
+    {
+        "name": "SCRO 4-3",
+        "label": "scro-4-3",
+        "hex": "#ddc3b5"
+    }
+]

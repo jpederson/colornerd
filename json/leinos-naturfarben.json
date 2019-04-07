@@ -1,0 +1,467 @@
+[
+    {
+        "name": "326 Sonnen-Gelb Vollton",
+        "label": "326-sonnen-gelb-vollton",
+        "hex": "#e1d476"
+    },
+    {
+        "name": "326 Sonnen-Gelb Mischungsverhaltnis I",
+        "label": "326-sonnen-gelb-mischungsverhaltnis-i",
+        "hex": "#ecead2"
+    },
+    {
+        "name": "326 Sonnen-Gelb Mischungsverhaltnis II",
+        "label": "326-sonnen-gelb-mischungsverhaltnis-ii",
+        "hex": "#eae9df"
+    },
+    {
+        "name": "333 Mais-Gelb Vollton",
+        "label": "333-mais-gelb-vollton",
+        "hex": "#e09f50"
+    },
+    {
+        "name": "333 Mais-Gelb Mischungsverhaltnis I",
+        "label": "333-mais-gelb-mischungsverhaltnis-i",
+        "hex": "#f6e6cc"
+    },
+    {
+        "name": "333 Mais-Gelb Mischungsverhaltnis II",
+        "label": "333-mais-gelb-mischungsverhaltnis-ii",
+        "hex": "#f8eedb"
+    },
+    {
+        "name": "327 Orange Vollton",
+        "label": "327-orange-vollton",
+        "hex": "#db9a4a"
+    },
+    {
+        "name": "327 Orange Mischungsverhaltnis I",
+        "label": "327-orange-mischungsverhaltnis-i",
+        "hex": "#f0e3cf"
+    },
+    {
+        "name": "327 Orange Mischungsverhaltnis II",
+        "label": "327-orange-mischungsverhaltnis-ii",
+        "hex": "#f6efdf"
+    },
+    {
+        "name": "309 Ocker-Gelb Vollton",
+        "label": "309-ocker-gelb-vollton",
+        "hex": "#b6813c"
+    },
+    {
+        "name": "309 Ocker-Gelb Mischungsverhaltnis I",
+        "label": "309-ocker-gelb-mischungsverhaltnis-i",
+        "hex": "#fbe0bb"
+    },
+    {
+        "name": "309 Ocker-Gelb Mischungsverhaltnis II",
+        "label": "309-ocker-gelb-mischungsverhaltnis-ii",
+        "hex": "#fbf1df"
+    },
+    {
+        "name": "307 Oxid-Gelb Vollton",
+        "label": "307-oxid-gelb-vollton",
+        "hex": "#dba155"
+    },
+    {
+        "name": "307 Oxid-Gelb Mischungsverhaltnis I",
+        "label": "307-oxid-gelb-mischungsverhaltnis-i",
+        "hex": "#faf0dd"
+    },
+    {
+        "name": "307 Oxid-Gelb Mischungsverhaltnis II",
+        "label": "307-oxid-gelb-mischungsverhaltnis-ii",
+        "hex": "#faf4e6"
+    },
+    {
+        "name": "332 Pompejanisch- Rot Vollton",
+        "label": "332-pompejanisch-rot-vollton",
+        "hex": "#b46b44"
+    },
+    {
+        "name": "332 Pompejanisch- Rot Mischungsverhaltnis I",
+        "label": "332-pompejanisch-rot-mischungsverhaltnis-i",
+        "hex": "#f0c5b1"
+    },
+    {
+        "name": "332 Pompejanisch- Rot Mischungsverhaltnis II",
+        "label": "332-pompejanisch-rot-mischungsverhaltnis-ii",
+        "hex": "#f7e2d4"
+    },
+    {
+        "name": "312 Ocker-Rot Vollton",
+        "label": "312-ocker-rot-vollton",
+        "hex": "#9b5644"
+    },
+    {
+        "name": "312 Ocker-Rot Mischungsverhaltnis I",
+        "label": "312-ocker-rot-mischungsverhaltnis-i",
+        "hex": "#fae1d1"
+    },
+    {
+        "name": "312 Ocker-Rot Mischungsverhaltnis II",
+        "label": "312-ocker-rot-mischungsverhaltnis-ii",
+        "hex": "#fdecde"
+    },
+    {
+        "name": "338 Krapp-Hellrot Vollton",
+        "label": "338-krapp-hellrot-vollton",
+        "hex": "#bb372f"
+    },
+    {
+        "name": "338 Krapp-Hellrot Mischungsverhaltnis I",
+        "label": "338-krapp-hellrot-mischungsverhaltnis-i",
+        "hex": "#f7aab8"
+    },
+    {
+        "name": "338 Krapp-Hellrot Mischungsverhaltnis II",
+        "label": "338-krapp-hellrot-mischungsverhaltnis-ii",
+        "hex": "#f9d3d7"
+    },
+    {
+        "name": "337 Krapp-Dunkelrot Vollton",
+        "label": "337-krapp-dunkelrot-vollton",
+        "hex": "#a93a4f"
+    },
+    {
+        "name": "337 Krapp-Dunkelrot Mischungsverhaltnis I",
+        "label": "337-krapp-dunkelrot-mischungsverhaltnis-i",
+        "hex": "#f0bfcb"
+    },
+    {
+        "name": "337 Krapp-Dunkelrot Mischungsverhaltnis II",
+        "label": "337-krapp-dunkelrot-mischungsverhaltnis-ii",
+        "hex": "#fcebe9"
+    },
+    {
+        "name": "303 Eisenoxid-Rot Vollton",
+        "label": "303-eisenoxid-rot-vollton",
+        "hex": "#89473e"
+    },
+    {
+        "name": "303 Eisenoxid-Rot Mischungsverhaltnis I",
+        "label": "303-eisenoxid-rot-mischungsverhaltnis-i",
+        "hex": "#e3bcbb"
+    },
+    {
+        "name": "303 Eisenoxid-Rot Mischungsverhaltnis II",
+        "label": "303-eisenoxid-rot-mischungsverhaltnis-ii",
+        "hex": "#ecd2cf"
+    },
+    {
+        "name": "306 Eisenoxid-Mahagoni Vollton",
+        "label": "306-eisenoxid-mahagoni-vollton",
+        "hex": "#824f44"
+    },
+    {
+        "name": "306 Eisenoxid-Mahagoni Mischungsverhaltnis I",
+        "label": "306-eisenoxid-mahagoni-mischungsverhaltnis-i",
+        "hex": "#f4e1da"
+    },
+    {
+        "name": "306 Eisenoxid-Mahagoni Mischungsverhaltnis II",
+        "label": "306-eisenoxid-mahagoni-mischungsverhaltnis-ii",
+        "hex": "#f5f0e8"
+    },
+    {
+        "name": "311 Ocker-Havanna Vollton",
+        "label": "311-ocker-havanna-vollton",
+        "hex": "#996748"
+    },
+    {
+        "name": "311 Ocker-Havanna Mischungsverhaltnis I",
+        "label": "311-ocker-havanna-mischungsverhaltnis-i",
+        "hex": "#f8eddf"
+    },
+    {
+        "name": "311 Ocker-Havanna Mischungsverhaltnis II",
+        "label": "311-ocker-havanna-mischungsverhaltnis-ii",
+        "hex": "#fbf4e5"
+    },
+    {
+        "name": "335 Ultramarin-Rot Vollton",
+        "label": "335-ultramarin-rot-vollton",
+        "hex": "#c78eb6"
+    },
+    {
+        "name": "335 Ultramarin-Rot Mischungsverhaltnis I",
+        "label": "335-ultramarin-rot-mischungsverhaltnis-i",
+        "hex": "#f7e7e8"
+    },
+    {
+        "name": "335 Ultramarin-Rot Mischungsverhaltnis II",
+        "label": "335-ultramarin-rot-mischungsverhaltnis-ii",
+        "hex": "#fcf7f0"
+    },
+    {
+        "name": "336 Ultramarin-Rotviolett Vollton",
+        "label": "336-ultramarin-rotviolett-vollton",
+        "hex": "#7f6baf"
+    },
+    {
+        "name": "336 Ultramarin-Rotviolett Mischungsverhaltnis I",
+        "label": "336-ultramarin-rotviolett-mischungsverhaltnis-i",
+        "hex": "#ebe5ec"
+    },
+    {
+        "name": "336 Ultramarin-Rotviolett Mischungsverhaltnis II",
+        "label": "336-ultramarin-rotviolett-mischungsverhaltnis-ii",
+        "hex": "#f9f5ef"
+    },
+    {
+        "name": "324 Ultramarin-Violett Vollton",
+        "label": "324-ultramarin-violett-vollton",
+        "hex": "#696db9"
+    },
+    {
+        "name": "324 Ultramarin-Violett Mischungsverhaltnis I",
+        "label": "324-ultramarin-violett-mischungsverhaltnis-i",
+        "hex": "#ebebee"
+    },
+    {
+        "name": "324 Ultramarin-Violett Mischungsverhaltnis II",
+        "label": "324-ultramarin-violett-mischungsverhaltnis-ii",
+        "hex": "#f1efec"
+    },
+    {
+        "name": "328 Spinell-Blau Vollton",
+        "label": "328-spinell-blau-vollton",
+        "hex": "#4892d5"
+    },
+    {
+        "name": "328 Spinell-Blau Mischungsverhaltnis I",
+        "label": "328-spinell-blau-mischungsverhaltnis-i",
+        "hex": "#d8e7ef"
+    },
+    {
+        "name": "328 Spinell-Blau Mischungsverhaltnis II",
+        "label": "328-spinell-blau-mischungsverhaltnis-ii",
+        "hex": "#e9f0f0"
+    },
+    {
+        "name": "323 Ultramarin-Blau Vollton",
+        "label": "323-ultramarin-blau-vollton",
+        "hex": "#3d4fa7"
+    },
+    {
+        "name": "323 Ultramarin-Blau Mischungsverhaltnis I",
+        "label": "323-ultramarin-blau-mischungsverhaltnis-i",
+        "hex": "#dbe6f0"
+    },
+    {
+        "name": "323 Ultramarin-Blau Mischungsverhaltnis II",
+        "label": "323-ultramarin-blau-mischungsverhaltnis-ii",
+        "hex": "#f2f3ed"
+    },
+    {
+        "name": "329 Spinell-Grun Vollton",
+        "label": "329-spinell-grun-vollton",
+        "hex": "#397e53"
+    },
+    {
+        "name": "329 Spinell-Grun Mischungsverhaltnis I",
+        "label": "329-spinell-grun-mischungsverhaltnis-i",
+        "hex": "#ddeedc"
+    },
+    {
+        "name": "329 Spinell-Grun Mischungsverhaltnis II",
+        "label": "329-spinell-grun-mischungsverhaltnis-ii",
+        "hex": "#f0f5e8"
+    },
+    {
+        "name": "330 Spinell-Turkis Vollton",
+        "label": "330-spinell-turkis-vollton",
+        "hex": "#1f7a80"
+    },
+    {
+        "name": "330 Spinell-Turkis Mischungsverhaltnis I",
+        "label": "330-spinell-turkis-mischungsverhaltnis-i",
+        "hex": "#bddfdd"
+    },
+    {
+        "name": "330 Spinell-Turkis Mischungsverhaltnis II",
+        "label": "330-spinell-turkis-mischungsverhaltnis-ii",
+        "hex": "#d3e8e5"
+    },
+    {
+        "name": "313 Ocker-Rostbraun Vollton",
+        "label": "313-ocker-rostbraun-vollton",
+        "hex": "#503f3a"
+    },
+    {
+        "name": "313 Ocker-Rostbraun Mischungsverhaltnis I",
+        "label": "313-ocker-rostbraun-mischungsverhaltnis-i",
+        "hex": "#ede5dd"
+    },
+    {
+        "name": "313 Ocker-Rostbraun Mischungsverhaltnis II",
+        "label": "313-ocker-rostbraun-mischungsverhaltnis-ii",
+        "hex": "#f7f3eb"
+    },
+    {
+        "name": "320 Ebenholz-Schwarz Vollton",
+        "label": "320-ebenholz-schwarz-vollton",
+        "hex": "#413e3e"
+    },
+    {
+        "name": "320 Ebenholz-Schwarz Mischungsverhaltnis I",
+        "label": "320-ebenholz-schwarz-mischungsverhaltnis-i",
+        "hex": "#cdcccb"
+    },
+    {
+        "name": "320 Ebenholz-Schwarz Mischungsverhaltnis II",
+        "label": "320-ebenholz-schwarz-mischungsverhaltnis-ii",
+        "hex": "#e8e6e2"
+    },
+    {
+        "name": "Nr-0184",
+        "label": "nr-0184",
+        "hex": "#5975af"
+    },
+    {
+        "name": "Nr-0118",
+        "label": "nr-0118",
+        "hex": "#767ba9"
+    },
+    {
+        "name": "Nr-0063",
+        "label": "nr-0063",
+        "hex": "#cbc0be"
+    },
+    {
+        "name": "Nr-0075",
+        "label": "nr-0075",
+        "hex": "#a08884"
+    },
+    {
+        "name": "Nr-0133",
+        "label": "nr-0133",
+        "hex": "#5d473f"
+    },
+    {
+        "name": "Nr-9001 Nickeltitangelb- KEIM Optil Monochromton",
+        "label": "nr-9001-nickeltitangelb-keim-optil-monochromton",
+        "hex": "#f1e880"
+    },
+    {
+        "name": "Nr-9002 Ocker- KEIM Optil Monochromton",
+        "label": "nr-9002-ocker-keim-optil-monochromton",
+        "hex": "#d59941"
+    },
+    {
+        "name": "Nr-9003 Oxidrot- KEIM Optil Monochromton",
+        "label": "nr-9003-oxidrot-keim-optil-monochromton",
+        "hex": "#974837"
+    },
+    {
+        "name": "Nr-9005 Oxidgrun- KEIM Optil Monochromton",
+        "label": "nr-9005-oxidgrun-keim-optil-monochromton",
+        "hex": "#658156"
+    },
+    {
+        "name": "Nr-9006 Ultramarinblau- KEIM Optil Monochromton",
+        "label": "nr-9006-ultramarinblau-keim-optil-monochromton",
+        "hex": "#6589d7"
+    },
+    {
+        "name": "Nr-9009 Kobaltblau- KEIM Optil Monochromton",
+        "label": "nr-9009-kobaltblau-keim-optil-monochromton",
+        "hex": "#4392ce"
+    },
+    {
+        "name": "Nr-9011 Oxidorange- KEIM Optil Monochromton",
+        "label": "nr-9011-oxidorange-keim-optil-monochromton",
+        "hex": "#cd7e35"
+    },
+    {
+        "name": "Nr- 9012Kobaltgrun- KEIM Optil Monochromton",
+        "label": "nr-9012kobaltgrun-keim-optil-monochromton",
+        "hex": "#4fa064"
+    },
+    {
+        "name": "Nr-9019 Zinnoberrot- KEIM Optil Monochromton",
+        "label": "nr-9019-zinnoberrot-keim-optil-monochromton",
+        "hex": "#c93d30"
+    },
+    {
+        "name": "Nr-9020 Turkis- KEIM Optil Monochromton",
+        "label": "nr-9020-turkis-keim-optil-monochromton",
+        "hex": "#32c2be"
+    },
+    {
+        "name": "Nr-9021 Oxidschwarz- KEIM Optil Monochromton",
+        "label": "nr-9021-oxidschwarz-keim-optil-monochromton",
+        "hex": "#464341"
+    },
+    {
+        "name": "Nr-1001 Gold- KEIM Optil Monochromton",
+        "label": "nr-1001-gold-keim-optil-monochromton",
+        "hex": "#ffe469"
+    },
+    {
+        "name": "Nr-1002 Silber- KEIM Optil Monochromton",
+        "label": "nr-1002-silber-keim-optil-monochromton",
+        "hex": "#cbcbcb"
+    },
+    {
+        "name": "Nr-9001 Nickeltitangelb KEIM Soldalit Monochromton",
+        "label": "nr-9001-nickeltitangelb-keim-soldalit-monochromton",
+        "hex": "#f4ed8e"
+    },
+    {
+        "name": "Nr-9002 OckerKEIM Soldalit Monochromton",
+        "label": "nr-9002-ockerkeim-soldalit-monochromton",
+        "hex": "#dea249"
+    },
+    {
+        "name": "Nr-9003 OxidrotKEIM Soldalit Monochromton",
+        "label": "nr-9003-oxidrotkeim-soldalit-monochromton",
+        "hex": "#9f4e3d"
+    },
+    {
+        "name": "Nr-9004 Umbra- KEIM Soldalit Monochromton",
+        "label": "nr-9004-umbra-keim-soldalit-monochromton",
+        "hex": "#766c52"
+    },
+    {
+        "name": "Nr-9005 Chromgrun- KEIM Soldalit Monochromton",
+        "label": "nr-9005-chromgrun-keim-soldalit-monochromton",
+        "hex": "#778e68"
+    },
+    {
+        "name": "Nr-9006 Ultramarinblau- KEIM Soldalit Monochromton",
+        "label": "nr-9006-ultramarinblau-keim-soldalit-monochromton",
+        "hex": "#7391d7"
+    },
+    {
+        "name": "Nr-9007 Oxidbraun- KEIM Soldalit Monochromton",
+        "label": "nr-9007-oxidbraun-keim-soldalit-monochromton",
+        "hex": "#765044"
+    },
+    {
+        "name": "Nr-9008 Schwarz- KEIM Soldalit Monochromton",
+        "label": "nr-9008-schwarz-keim-soldalit-monochromton",
+        "hex": "#5c5a5a"
+    },
+    {
+        "name": "Nr-9009 Kobaltblau- KEIM Soldalit Monochromton",
+        "label": "nr-9009-kobaltblau-keim-soldalit-monochromton",
+        "hex": "#4ca4c2"
+    },
+    {
+        "name": "Nr-9010 Oxidrot dunkel- KEIM Soldalit Monochromton",
+        "label": "nr-9010-oxidrot-dunkel-keim-soldalit-monochromton",
+        "hex": "#8e4e48"
+    },
+    {
+        "name": "Nr-9011 Oxidorange- KEIM Soldalit Monochromton",
+        "label": "nr-9011-oxidorange-keim-soldalit-monochromton",
+        "hex": "#e09140"
+    },
+    {
+        "name": "Nr-9012 Kobaltgrun- KEIM Soldalit Monochromton",
+        "label": "nr-9012-kobaltgrun-keim-soldalit-monochromton",
+        "hex": "#79ad7c"
+    }
+]

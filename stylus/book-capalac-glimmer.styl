@@ -1,0 +1,10 @@
+
+
+// set our color array
+capalac-glimmer-colors = ("db-301" #8a5555) ("db-310" #915452) ("db-501" #778589) ("db-502" #61787e) ("db-503" #5d6e76) ("db-510" #57788c) ("db-601" #757a6a) ("db-602" #79927a) ("db-603" #677168) ("db-610" #4e7f74) ("db-701" #969088) ("db-702" #8a8780) ("db-703" #615f5f) ("db-704" #908b82) ("ral-9006" #b0b0ad) ("ral-9007" #9c9b99) ("kupfer" #946954) ("altkupfer" #906c59)
+
+
+// grab a specific color based on key
+capalac-glimmer( color )
+  return item[1] if item[0] == color for item in capalac-glimmer-colors
+

@@ -1,0 +1,10 @@
+
+
+// set our color array
+oracal-451-colors = ("oracal-10" #fafbfd) ("oracal-21" #ffc90b) ("oracal-30" #8a2a2e) ("oracal-31" #b1232c) ("oracal-32" #ce291b) ("oracal-35" #f76605) ("oracal-41" #c74182) ("oracal-49" #374a8a) ("oracal-50" #2f4065) ("oracal-51" #005d8f) ("oracal-52" #007bba) ("oracal-53" #00a1d2) ("oracal-54" #00ada0) ("oracal-60" #304f3f) ("oracal-61" #008a59) ("oracal-64" #53a622) ("oracal-88" #482f29) ("oracal-70" #222325) ("oracal-71" #777e7e) ("oracal-72" #d0d3d3)
+
+
+// grab a specific color based on key
+oracal-451( color )
+  return item[1] if item[0] == color for item in oracal-451-colors
+

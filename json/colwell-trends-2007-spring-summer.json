@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Pearl Bliss",
+        "label": "pearl-bliss",
+        "hex": "#fcedd8"
+    },
+    {
+        "name": "Raspberry Dream Bliss",
+        "label": "raspberry-dream-bliss",
+        "hex": "#dbbbca"
+    },
+    {
+        "name": "Seashell Bliss",
+        "label": "seashell-bliss",
+        "hex": "#f8c4b5"
+    },
+    {
+        "name": "Pollen Bliss",
+        "label": "pollen-bliss",
+        "hex": "#f0b871"
+    },
+    {
+        "name": "Tangerine Bliss",
+        "label": "tangerine-bliss",
+        "hex": "#ffa64d"
+    },
+    {
+        "name": "Dirty Mint Lush",
+        "label": "dirty-mint-lush",
+        "hex": "#d4d6b7"
+    },
+    {
+        "name": "Lagoon Lush",
+        "label": "lagoon-lush",
+        "hex": "#88a9a0"
+    },
+    {
+        "name": "Hueless Lush",
+        "label": "hueless-lush",
+        "hex": "#f9f8ee"
+    },
+    {
+        "name": "Caterpillar Lush",
+        "label": "caterpillar-lush",
+        "hex": "#b6ce68"
+    },
+    {
+        "name": "Lemon Ice Lush",
+        "label": "lemon-ice-lush",
+        "hex": "#fbe583"
+    },
+    {
+        "name": "Pale violet Fluent",
+        "label": "pale-violet-fluent",
+        "hex": "#c9cdd6"
+    },
+    {
+        "name": "Candied Plum Fluent",
+        "label": "candied-plum-fluent",
+        "hex": "#988a9b"
+    },
+    {
+        "name": "Chill Fluent",
+        "label": "chill-fluent",
+        "hex": "#afc6de"
+    },
+    {
+        "name": "Artic Aqua Fluent",
+        "label": "artic-aqua-fluent",
+        "hex": "#ddefec"
+    },
+    {
+        "name": "Flight Blue Fluent",
+        "label": "flight-blue-fluent",
+        "hex": "#9bd4d4"
+    },
+    {
+        "name": "Teacake Breathless",
+        "label": "teacake-breathless",
+        "hex": "#e2ddd0"
+    },
+    {
+        "name": "Cashmere Breathless",
+        "label": "cashmere-breathless",
+        "hex": "#d7bc9d"
+    },
+    {
+        "name": "Smoke Breathless",
+        "label": "smoke-breathless",
+        "hex": "#d0c5b7"
+    },
+    {
+        "name": "Vanishing Gray Breathless",
+        "label": "vanishing-gray-breathless",
+        "hex": "#dbdad5"
+    },
+    {
+        "name": "Canvas Breathless",
+        "label": "canvas-breathless",
+        "hex": "#dacdaf"
+    }
+]

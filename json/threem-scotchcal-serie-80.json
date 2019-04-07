@@ -1,0 +1,422 @@
+[
+    {
+        "name": "SC 80-2563 Canary Yellow",
+        "label": "2563-canary-yellow",
+        "hex": "#f2db1f"
+    },
+    {
+        "name": "SC 80-2562 Buttercup",
+        "label": "2562-buttercup",
+        "hex": "#f3c900"
+    },
+    {
+        "name": "SC 80-2549 Goldrod",
+        "label": "2549-goldrod",
+        "hex": "#fbc000"
+    },
+    {
+        "name": "SC 80-15 Cadmium Yellow",
+        "label": "15-cadmium-yellow",
+        "hex": "#ffc100"
+    },
+    {
+        "name": "SC 80-25 Yellow",
+        "label": "25-yellow",
+        "hex": "#ffb100"
+    },
+    {
+        "name": "SC 80-2550 Golden Yellow",
+        "label": "2550-golden-yellow",
+        "hex": "#ffa000"
+    },
+    {
+        "name": "SC 80-717 Light Orange",
+        "label": "717-light-orange",
+        "hex": "#f47a00"
+    },
+    {
+        "name": "SC 80-2434 Signal Orange",
+        "label": "2434-signal-orange",
+        "hex": "#f26000"
+    },
+    {
+        "name": "SC 80-14 Bright Orange",
+        "label": "14-bright-orange",
+        "hex": "#e45d00"
+    },
+    {
+        "name": "SC 80-410 Mandarin",
+        "label": "410-mandarin",
+        "hex": "#e35106"
+    },
+    {
+        "name": "SC 80-266 Red Orange",
+        "label": "266-red-orange",
+        "hex": "#da3c0b"
+    },
+    {
+        "name": "SC 80-2551 Signal Red",
+        "label": "2551-signal-red",
+        "hex": "#c42513"
+    },
+    {
+        "name": "SC 80-368 Light Red",
+        "label": "368-light-red",
+        "hex": "#bf1c04"
+    },
+    {
+        "name": "SC 80-2552 Sanguine",
+        "label": "2552-sanguine",
+        "hex": "#c10a02"
+    },
+    {
+        "name": "SC 80-13 Tomato Red",
+        "label": "13-tomato-red",
+        "hex": "#b61a0b"
+    },
+    {
+        "name": "SC 80-176 Geranium Red",
+        "label": "176-geranium-red",
+        "hex": "#a30d12"
+    },
+    {
+        "name": "SC 80-2553 Fire Brick",
+        "label": "2553-fire-brick",
+        "hex": "#9d2217"
+    },
+    {
+        "name": "SC 80-53 Cardinal Red",
+        "label": "53-cardinal-red",
+        "hex": "#92091c"
+    },
+    {
+        "name": "SC 80-23 Ruby Red",
+        "label": "23-ruby-red",
+        "hex": "#8a181d"
+    },
+    {
+        "name": "SC 80-2554 Deep Red",
+        "label": "2554-deep-red",
+        "hex": "#830e19"
+    },
+    {
+        "name": "SC 80-2400 Intense Red",
+        "label": "2400-intense-red",
+        "hex": "#860619"
+    },
+    {
+        "name": "SC 80-2415 Light Pink",
+        "label": "2415-light-pink",
+        "hex": "#e88ab8"
+    },
+    {
+        "name": "SC 80-1916 Intense Pink",
+        "label": "1916-intense-pink",
+        "hex": "#b02267"
+    },
+    {
+        "name": "SC 80-2410 Fuchsia",
+        "label": "2410-fuchsia",
+        "hex": "#ac4982"
+    },
+    {
+        "name": "SC 80-2413 Lilac",
+        "label": "2413-lilac",
+        "hex": "#bc90bc"
+    },
+    {
+        "name": "SC 80-721 Bright Violet",
+        "label": "721-bright-violet",
+        "hex": "#85437f"
+    },
+    {
+        "name": "SC 80-2409 Aubergine",
+        "label": "2409-aubergine",
+        "hex": "#61295c"
+    },
+    {
+        "name": "SC 80-597 Purple",
+        "label": "597-purple",
+        "hex": "#4d2d51"
+    },
+    {
+        "name": "SC 80-2412 Lavender",
+        "label": "2412-lavender",
+        "hex": "#7b65ae"
+    },
+    {
+        "name": "SC 80-2411 Intense Violet",
+        "label": "2411-intense-violet",
+        "hex": "#583c8b"
+    },
+    {
+        "name": "SC 80-595 Royal Purple",
+        "label": "595-royal-purple",
+        "hex": "#3e2a6f"
+    },
+    {
+        "name": "SC 80-1794 Deep Blue",
+        "label": "1794-deep-blue",
+        "hex": "#23205b"
+    },
+    {
+        "name": "SC 80-2416 Basalt Blue",
+        "label": "2416-basalt-blue",
+        "hex": "#111e3f"
+    },
+    {
+        "name": "SC 80-2557 Night Blue",
+        "label": "2557-night-blue",
+        "hex": "#0b2558"
+    },
+    {
+        "name": "SC 80-1024 Bluet",
+        "label": "1024-bluet",
+        "hex": "#1d3577"
+    },
+    {
+        "name": "SC 80-2556 Gentian",
+        "label": "2556-gentian",
+        "hex": "#1d4a98"
+    },
+    {
+        "name": "SC 80-2565 Highway Blue",
+        "label": "2565-highway-blue",
+        "hex": "#113980"
+    },
+    {
+        "name": "SC 80-37 Sapphire Blue",
+        "label": "37-sapphire-blue",
+        "hex": "#0e3a79"
+    },
+    {
+        "name": "SC 80-003 Dark Blue",
+        "label": "003-dark-blue",
+        "hex": "#1a3964"
+    },
+    {
+        "name": "SC 80-724 Light Navy",
+        "label": "724-light-navy",
+        "hex": "#002a4a"
+    },
+    {
+        "name": "SC 80-1789 Fjord Blue",
+        "label": "1789-fjord-blue",
+        "hex": "#004c7b"
+    },
+    {
+        "name": "SC 80-17 Vivid Blue",
+        "label": "17-vivid-blue",
+        "hex": "#005394"
+    },
+    {
+        "name": "SC 80-47 Intense Blue",
+        "label": "47-intense-blue",
+        "hex": "#0065a0"
+    },
+    {
+        "name": "SC 80-2555 Curacao",
+        "label": "2555-curacao",
+        "hex": "#0073ba"
+    },
+    {
+        "name": "SC 80-57 Olympic Blue",
+        "label": "57-olympic-blue",
+        "hex": "#008ac6"
+    },
+    {
+        "name": "SC 80-123 Light Blue",
+        "label": "123-light-blue",
+        "hex": "#0097d0"
+    },
+    {
+        "name": "SC 80-453 Soft Blue",
+        "label": "453-soft-blue",
+        "hex": "#54add9"
+    },
+    {
+        "name": "SC 80-600 Robin Egg Blue",
+        "label": "600-robin-egg-blue",
+        "hex": "#8edbd7"
+    },
+    {
+        "name": "SC 80-716 Aqua",
+        "label": "716-aqua",
+        "hex": "#53ccb0"
+    },
+    {
+        "name": "SC 80-603 Teal",
+        "label": "603-teal",
+        "hex": "#008689"
+    },
+    {
+        "name": "SC 80-449 Lime Green",
+        "label": "449-lime-green",
+        "hex": "#b1c41a"
+    },
+    {
+        "name": "SC 80-719 Apple Green",
+        "label": "719-apple-green",
+        "hex": "#5a9900"
+    },
+    {
+        "name": "SC 80-1583 Clear Green",
+        "label": "1583-clear-green",
+        "hex": "#008e2c"
+    },
+    {
+        "name": "SC 80-1645 Intense Green",
+        "label": "1645-intense-green",
+        "hex": "#007951"
+    },
+    {
+        "name": "SC 80-56 Dark Green",
+        "label": "56-dark-green",
+        "hex": "#005739"
+    },
+    {
+        "name": "SC 80-008 Fir Tree Green",
+        "label": "008-fir-tree-green",
+        "hex": "#0f3f29"
+    },
+    {
+        "name": "SC 80-384 Light Grey",
+        "label": "384-light-grey",
+        "hex": "#c7cbcb"
+    },
+    {
+        "name": "SC 80-2428 Crystal Grey ",
+        "label": "2428-crystal-grey",
+        "hex": "#c6c9c6"
+    },
+    {
+        "name": "SC 80-605 Medium Grey ",
+        "label": "605-medium-grey",
+        "hex": "#a7a7a6"
+    },
+    {
+        "name": "SC 80-822 Mid Grey ",
+        "label": "822-mid-grey",
+        "hex": "#88898a"
+    },
+    {
+        "name": "SC 80-038 Traffic Grey",
+        "label": "038-traffic-grey",
+        "hex": "#7a8281"
+    },
+    {
+        "name": "SC 80-2558 Cool Grey",
+        "label": "2558-cool-grey",
+        "hex": "#666a67"
+    },
+    {
+        "name": "SC 80-1833 Fossil Grey",
+        "label": "1833-fossil-grey",
+        "hex": "#5d6365"
+    },
+    {
+        "name": "SC 80-012 Grey ",
+        "label": "012-grey",
+        "hex": "#4a4d4e"
+    },
+    {
+        "name": "SC 80-706 Dark Grey",
+        "label": "706-dark-grey",
+        "hex": "#555757"
+    },
+    {
+        "name": "SC 80-12 Black ",
+        "label": "12-black",
+        "hex": "#121214"
+    },
+    {
+        "name": "SC 80-22 Black Matte",
+        "label": "22-black-matte",
+        "hex": "#333333"
+    },
+    {
+        "name": "SC 80-19 Deep Mahogany Brown",
+        "label": "19-deep-mahogany-brown",
+        "hex": "#4a2b20"
+    },
+    {
+        "name": "SC 80-2407 Red Brown",
+        "label": "2407-red-brown",
+        "hex": "#5e211b"
+    },
+    {
+        "name": "SC 80-2429 Nevada Beige",
+        "label": "2429-nevada-beige",
+        "hex": "#c7ab7d"
+    },
+    {
+        "name": "SC 80-2430 Sand",
+        "label": "2430-sand",
+        "hex": "#e5d4ba"
+    },
+    {
+        "name": "SC 80-2431 Almond ",
+        "label": "2431-almond",
+        "hex": "#ece0ba"
+    },
+    {
+        "name": "SC 80-2564 Wheat",
+        "label": "2564-wheat",
+        "hex": "#f1d69c"
+    },
+    {
+        "name": "SC 80-114 Transparent",
+        "label": "114-transparent",
+        "hex": "#e5e3d8"
+    },
+    {
+        "name": "SC 80-10 White",
+        "label": "10-white",
+        "hex": "#f8f9f6"
+    },
+    {
+        "name": "SC 80-20 White Matte",
+        "label": "20-white-matte",
+        "hex": "#f8f9f6"
+    },
+    {
+        "name": "SC 80-58 Aluminium Metallic",
+        "label": "58-aluminium-metallic",
+        "hex": "#b2b4b5"
+    },
+    {
+        "name": "SC 80-144 Anthracite Metallic",
+        "label": "144-anthracite-metallic",
+        "hex": "#616162"
+    },
+    {
+        "name": "SC 80-2476 Granite Metallic",
+        "label": "2476-granite-metallic",
+        "hex": "#484b4b"
+    },
+    {
+        "name": "SC 80-2560 Black Metallic",
+        "label": "2560-black-metallic",
+        "hex": "#28292a"
+    },
+    {
+        "name": "SC 80-2559 Golden Mica Metallic",
+        "label": "2559-golden-mica-metallic",
+        "hex": "#9e8847"
+    },
+    {
+        "name": "SC 80-54 Gold Metallic",
+        "label": "54-gold-metallic",
+        "hex": "#9d824d"
+    },
+    {
+        "name": "SC 80-2065 Venus Gold Metallic",
+        "label": "2065-venus-gold-metallic",
+        "hex": "#866b34"
+    },
+    {
+        "name": "SC 80-2561 Navy Blue Metallic",
+        "label": "2561-navy-blue-metallic",
+        "hex": "#223e60"
+    }
+]

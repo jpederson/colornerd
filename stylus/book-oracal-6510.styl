@@ -1,0 +1,10 @@
+
+
+// set our color array
+oracal-6510-colors = ("oracal-29" #f1f600) ("oracal-37" #ff7c00) ("oracal-38" #ff3300) ("oracal-39" #ff2438) ("oracal-46" #ff47bf) ("oracal-69" #00c600) ("oracal-59" #0063b3)
+
+
+// grab a specific color based on key
+oracal-6510( color )
+  return item[1] if item[0] == color for item in oracal-6510-colors
+

@@ -1,0 +1,362 @@
+[
+    {
+        "name": "7801",
+        "label": "7801",
+        "hex": "#f3ddb2"
+    },
+    {
+        "name": "7802",
+        "label": "7802",
+        "hex": "#f2cf91"
+    },
+    {
+        "name": "7803",
+        "label": "7803",
+        "hex": "#eec169"
+    },
+    {
+        "name": "7804",
+        "label": "7804",
+        "hex": "#d1b074"
+    },
+    {
+        "name": "7805",
+        "label": "7805",
+        "hex": "#fbdfc1"
+    },
+    {
+        "name": "7806",
+        "label": "7806",
+        "hex": "#fbd4a9"
+    },
+    {
+        "name": "7807",
+        "label": "7807",
+        "hex": "#fad08c"
+    },
+    {
+        "name": "7808",
+        "label": "7808",
+        "hex": "#f3c17d"
+    },
+    {
+        "name": "7809",
+        "label": "7809",
+        "hex": "#f8ead1"
+    },
+    {
+        "name": "7810",
+        "label": "7810",
+        "hex": "#fae8c2"
+    },
+    {
+        "name": "7811",
+        "label": "7811",
+        "hex": "#d8c5a4"
+    },
+    {
+        "name": "7812",
+        "label": "7812",
+        "hex": "#c4b7a3"
+    },
+    {
+        "name": "7813",
+        "label": "7813",
+        "hex": "#f1e1cb"
+    },
+    {
+        "name": "7814",
+        "label": "7814",
+        "hex": "#efdbbf"
+    },
+    {
+        "name": "7815",
+        "label": "7815",
+        "hex": "#e0c6a5"
+    },
+    {
+        "name": "7816",
+        "label": "7816",
+        "hex": "#c6aa8d"
+    },
+    {
+        "name": "7817",
+        "label": "7817",
+        "hex": "#fceedb"
+    },
+    {
+        "name": "7818",
+        "label": "7818",
+        "hex": "#e7d2bb"
+    },
+    {
+        "name": "7819",
+        "label": "7819",
+        "hex": "#e0c7ad"
+    },
+    {
+        "name": "7820",
+        "label": "7820",
+        "hex": "#bdac9a"
+    },
+    {
+        "name": "7821",
+        "label": "7821",
+        "hex": "#f4ede3"
+    },
+    {
+        "name": "7822",
+        "label": "7822",
+        "hex": "#e9e0d8"
+    },
+    {
+        "name": "7823",
+        "label": "7823",
+        "hex": "#cdc4bc"
+    },
+    {
+        "name": "7824",
+        "label": "7824",
+        "hex": "#beb3ab"
+    },
+    {
+        "name": "7825",
+        "label": "7825",
+        "hex": "#fbede0"
+    },
+    {
+        "name": "7826",
+        "label": "7826",
+        "hex": "#edded3"
+    },
+    {
+        "name": "7827",
+        "label": "7827",
+        "hex": "#ebcfc1"
+    },
+    {
+        "name": "7828",
+        "label": "7828",
+        "hex": "#d49881"
+    },
+    {
+        "name": "7829",
+        "label": "7829",
+        "hex": "#fbdcc8"
+    },
+    {
+        "name": "7830",
+        "label": "7830",
+        "hex": "#fecbb6"
+    },
+    {
+        "name": "7831",
+        "label": "7831",
+        "hex": "#fab79f"
+    },
+    {
+        "name": "7832",
+        "label": "7832",
+        "hex": "#e08169"
+    },
+    {
+        "name": "7833",
+        "label": "7833",
+        "hex": "#efcec6"
+    },
+    {
+        "name": "7834",
+        "label": "7834",
+        "hex": "#e9c1ba"
+    },
+    {
+        "name": "7835",
+        "label": "7835",
+        "hex": "#e9aaa0"
+    },
+    {
+        "name": "7836",
+        "label": "7836",
+        "hex": "#d27f72"
+    },
+    {
+        "name": "7837",
+        "label": "7837",
+        "hex": "#e3d2d1"
+    },
+    {
+        "name": "7838",
+        "label": "7838",
+        "hex": "#dfbbba"
+    },
+    {
+        "name": "7839",
+        "label": "7839",
+        "hex": "#d9a5a5"
+    },
+    {
+        "name": "7840",
+        "label": "7840",
+        "hex": "#c98a88"
+    },
+    {
+        "name": "7841",
+        "label": "7841",
+        "hex": "#ecdadc"
+    },
+    {
+        "name": "7842",
+        "label": "7842",
+        "hex": "#e4d3d9"
+    },
+    {
+        "name": "7843",
+        "label": "7843",
+        "hex": "#d7c3cb"
+    },
+    {
+        "name": "7844",
+        "label": "7844",
+        "hex": "#caadb7"
+    },
+    {
+        "name": "7845",
+        "label": "7845",
+        "hex": "#dad5e8"
+    },
+    {
+        "name": "7846",
+        "label": "7846",
+        "hex": "#cdc7e2"
+    },
+    {
+        "name": "7847",
+        "label": "7847",
+        "hex": "#b7b5d1"
+    },
+    {
+        "name": "7848",
+        "label": "7848",
+        "hex": "#a499b9"
+    },
+    {
+        "name": "7849",
+        "label": "7849",
+        "hex": "#e0e8ef"
+    },
+    {
+        "name": "7850",
+        "label": "7850",
+        "hex": "#ccd7df"
+    },
+    {
+        "name": "7851",
+        "label": "7851",
+        "hex": "#aeb9c3"
+    },
+    {
+        "name": "7852",
+        "label": "7852",
+        "hex": "#96a5b4"
+    },
+    {
+        "name": "7853",
+        "label": "7853",
+        "hex": "#d4e2e2"
+    },
+    {
+        "name": "7854",
+        "label": "7854",
+        "hex": "#cce7ee"
+    },
+    {
+        "name": "7855",
+        "label": "7855",
+        "hex": "#b7cee4"
+    },
+    {
+        "name": "7856",
+        "label": "7856",
+        "hex": "#a3b8d1"
+    },
+    {
+        "name": "7857",
+        "label": "7857",
+        "hex": "#d5e4dd"
+    },
+    {
+        "name": "7858",
+        "label": "7858",
+        "hex": "#b9ecdd"
+    },
+    {
+        "name": "7859",
+        "label": "7859",
+        "hex": "#b8dad5"
+    },
+    {
+        "name": "7860",
+        "label": "7860",
+        "hex": "#85b2af"
+    },
+    {
+        "name": "7861",
+        "label": "7861",
+        "hex": "#eff1ce"
+    },
+    {
+        "name": "7862",
+        "label": "7862",
+        "hex": "#e7f2aa"
+    },
+    {
+        "name": "7863",
+        "label": "7863",
+        "hex": "#d0cc9a"
+    },
+    {
+        "name": "7864",
+        "label": "7864",
+        "hex": "#c9cdb6"
+    },
+    {
+        "name": "7865",
+        "label": "7865",
+        "hex": "#ddd6cc"
+    },
+    {
+        "name": "7866",
+        "label": "7866",
+        "hex": "#d1cbc0"
+    },
+    {
+        "name": "7867",
+        "label": "7867",
+        "hex": "#beb7ab"
+    },
+    {
+        "name": "7868",
+        "label": "7868",
+        "hex": "#b0aaa0"
+    },
+    {
+        "name": "7869",
+        "label": "7869",
+        "hex": "#ebebe4"
+    },
+    {
+        "name": "7870",
+        "label": "7870",
+        "hex": "#dadad6"
+    },
+    {
+        "name": "7871",
+        "label": "7871",
+        "hex": "#c8c8c6"
+    },
+    {
+        "name": "7872",
+        "label": "7872",
+        "hex": "#b4b4b2"
+    }
+]

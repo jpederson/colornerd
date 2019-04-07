@@ -1,0 +1,402 @@
+[
+    {
+        "name": "K05 1",
+        "label": "k05-1",
+        "hex": "#fdf3e1"
+    },
+    {
+        "name": "K05 2",
+        "label": "k05-2",
+        "hex": "#fbecd4"
+    },
+    {
+        "name": "K05 3",
+        "label": "k05-3",
+        "hex": "#fce7c8"
+    },
+    {
+        "name": "K05 4",
+        "label": "k05-4",
+        "hex": "#f9ddb3"
+    },
+    {
+        "name": "K05 5",
+        "label": "k05-5",
+        "hex": "#fadaab"
+    },
+    {
+        "name": "K05 6",
+        "label": "k05-6",
+        "hex": "#f6d099"
+    },
+    {
+        "name": "K05 7",
+        "label": "k05-7",
+        "hex": "#f2c785"
+    },
+    {
+        "name": "K05 8",
+        "label": "k05-8",
+        "hex": "#e4a94f"
+    },
+    {
+        "name": "K35 1",
+        "label": "k35-1",
+        "hex": "#f7e0dd"
+    },
+    {
+        "name": "K35 2",
+        "label": "k35-2",
+        "hex": "#f4d8d4"
+    },
+    {
+        "name": "K35 3",
+        "label": "k35-3",
+        "hex": "#eec9c5"
+    },
+    {
+        "name": "K35 4",
+        "label": "k35-4",
+        "hex": "#e5b7b2"
+    },
+    {
+        "name": "K35 5",
+        "label": "k35-5",
+        "hex": "#dda8a3"
+    },
+    {
+        "name": "K35 6",
+        "label": "k35-6",
+        "hex": "#d6958d"
+    },
+    {
+        "name": "K35 7",
+        "label": "k35-7",
+        "hex": "#cb867e"
+    },
+    {
+        "name": "K35 8",
+        "label": "k35-8",
+        "hex": "#aa5140"
+    },
+    {
+        "name": "K45 1",
+        "label": "k45-1",
+        "hex": "#f1e6e6"
+    },
+    {
+        "name": "K45 2",
+        "label": "k45-2",
+        "hex": "#ebdbdd"
+    },
+    {
+        "name": "K45 3",
+        "label": "k45-3",
+        "hex": "#e3cfd2"
+    },
+    {
+        "name": "K45 4",
+        "label": "k45-4",
+        "hex": "#d7bdc1"
+    },
+    {
+        "name": "K45 5",
+        "label": "k45-5",
+        "hex": "#d0b4b8"
+    },
+    {
+        "name": "K45 6",
+        "label": "k45-6",
+        "hex": "#c4a2a6"
+    },
+    {
+        "name": "K45 7",
+        "label": "k45-7",
+        "hex": "#b79095"
+    },
+    {
+        "name": "K45 8",
+        "label": "k45-8",
+        "hex": "#8f595a"
+    },
+    {
+        "name": "K55 1",
+        "label": "k55-1",
+        "hex": "#f0f5f6"
+    },
+    {
+        "name": "K55 2",
+        "label": "k55-2",
+        "hex": "#e9f1f6"
+    },
+    {
+        "name": "K55 3",
+        "label": "k55-3",
+        "hex": "#e0edf6"
+    },
+    {
+        "name": "K55 4",
+        "label": "k55-4",
+        "hex": "#d3e6f6"
+    },
+    {
+        "name": "K55 5",
+        "label": "k55-5",
+        "hex": "#c8dff3"
+    },
+    {
+        "name": "K55 6",
+        "label": "k55-6",
+        "hex": "#bbd8f3"
+    },
+    {
+        "name": "K55 7",
+        "label": "k55-7",
+        "hex": "#afd2f3"
+    },
+    {
+        "name": "K55 8",
+        "label": "k55-8",
+        "hex": "#70aee8"
+    },
+    {
+        "name": "K65 1",
+        "label": "k65-1",
+        "hex": "#edf0e8"
+    },
+    {
+        "name": "K65 2",
+        "label": "k65-2",
+        "hex": "#e9eee5"
+    },
+    {
+        "name": "K65 3",
+        "label": "k65-3",
+        "hex": "#e0e7db"
+    },
+    {
+        "name": "K65 4",
+        "label": "k65-4",
+        "hex": "#d0dbca"
+    },
+    {
+        "name": "K65 5",
+        "label": "k65-5",
+        "hex": "#c9d5c2"
+    },
+    {
+        "name": "K65 6",
+        "label": "k65-6",
+        "hex": "#bccbb4"
+    },
+    {
+        "name": "K65 7",
+        "label": "k65-7",
+        "hex": "#abbda2"
+    },
+    {
+        "name": "K65 8",
+        "label": "k65-8",
+        "hex": "#809a71"
+    },
+    {
+        "name": "K85 1",
+        "label": "k85-1",
+        "hex": "#eee4e2"
+    },
+    {
+        "name": "K85 2",
+        "label": "k85-2",
+        "hex": "#e5d8d6"
+    },
+    {
+        "name": "K85 3",
+        "label": "k85-3",
+        "hex": "#dacac8"
+    },
+    {
+        "name": "K85 4",
+        "label": "k85-4",
+        "hex": "#ceb9b6"
+    },
+    {
+        "name": "K85 5",
+        "label": "k85-5",
+        "hex": "#c5aca9"
+    },
+    {
+        "name": "K85 6",
+        "label": "k85-6",
+        "hex": "#ba9e9b"
+    },
+    {
+        "name": "K85 7",
+        "label": "k85-7",
+        "hex": "#a58683"
+    },
+    {
+        "name": "K85 8",
+        "label": "k85-8",
+        "hex": "#7d5348"
+    },
+    {
+        "name": "K95 1",
+        "label": "k95-1",
+        "hex": "#e5e6e5"
+    },
+    {
+        "name": "K95 2",
+        "label": "k95-2",
+        "hex": "#dedede"
+    },
+    {
+        "name": "K95 3",
+        "label": "k95-3",
+        "hex": "#d0d0d0"
+    },
+    {
+        "name": "K95 4",
+        "label": "k95-4",
+        "hex": "#c1c1c2"
+    },
+    {
+        "name": "K95 5",
+        "label": "k95-5",
+        "hex": "#b5b5b7"
+    },
+    {
+        "name": "K95 6",
+        "label": "k95-6",
+        "hex": "#a6a6a7"
+    },
+    {
+        "name": "K95 7",
+        "label": "k95-7",
+        "hex": "#939395"
+    },
+    {
+        "name": "K95 8",
+        "label": "k95-8",
+        "hex": "#5b5857"
+    },
+    {
+        "name": "K196",
+        "label": "k196",
+        "hex": "#f5e6ca"
+    },
+    {
+        "name": "K238",
+        "label": "k238",
+        "hex": "#f4ddb8"
+    },
+    {
+        "name": "K244",
+        "label": "k244",
+        "hex": "#f1dcb4"
+    },
+    {
+        "name": "K160",
+        "label": "k160",
+        "hex": "#f0e8d1"
+    },
+    {
+        "name": "K246",
+        "label": "k246",
+        "hex": "#e6dab7"
+    },
+    {
+        "name": "K291",
+        "label": "k291",
+        "hex": "#ded1a7"
+    },
+    {
+        "name": "K290",
+        "label": "k290",
+        "hex": "#cac294"
+    },
+    {
+        "name": "K836",
+        "label": "k836",
+        "hex": "#c2dbec"
+    },
+    {
+        "name": "K834",
+        "label": "k834",
+        "hex": "#b3cfe0"
+    },
+    {
+        "name": "K333",
+        "label": "k333",
+        "hex": "#aec4d7"
+    },
+    {
+        "name": "K184",
+        "label": "k184",
+        "hex": "#f2ddc8"
+    },
+    {
+        "name": "K226",
+        "label": "k226",
+        "hex": "#efd4b3"
+    },
+    {
+        "name": "K232",
+        "label": "k232",
+        "hex": "#f3d3b2"
+    },
+    {
+        "name": "K234",
+        "label": "k234",
+        "hex": "#ebbfa6"
+    },
+    {
+        "name": "K501",
+        "label": "k501",
+        "hex": "#e3ae79"
+    },
+    {
+        "name": "K500",
+        "label": "k500",
+        "hex": "#d49352"
+    },
+    {
+        "name": "K1013",
+        "label": "k1013",
+        "hex": "#d19164"
+    },
+    {
+        "name": "K679",
+        "label": "k679",
+        "hex": "#e1b5af"
+    },
+    {
+        "name": "K278",
+        "label": "k278",
+        "hex": "#d79b82"
+    },
+    {
+        "name": "K504",
+        "label": "k504",
+        "hex": "#ce8b70"
+    },
+    {
+        "name": "K707",
+        "label": "k707",
+        "hex": "#c59995"
+    },
+    {
+        "name": "K1011",
+        "label": "k1011",
+        "hex": "#bc704d"
+    },
+    {
+        "name": "K1002",
+        "label": "k1002",
+        "hex": "#b27a52"
+    },
+    {
+        "name": "K1000",
+        "label": "k1000",
+        "hex": "#a0685e"
+    }
+]

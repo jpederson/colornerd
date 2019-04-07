@@ -1,0 +1,267 @@
+[
+    {
+        "name": "Brillux altweiss",
+        "label": "altweiss",
+        "hex": "#edefea"
+    },
+    {
+        "name": "Brillux anthrazitgrau",
+        "label": "anthrazitgrau",
+        "hex": "#32393d"
+    },
+    {
+        "name": "Brillux azurblau",
+        "label": "azurblau",
+        "hex": "#1b5773"
+    },
+    {
+        "name": "Brillux beige",
+        "label": "beige",
+        "hex": "#c9ad7d"
+    },
+    {
+        "name": "Brillux blaugrau",
+        "label": "blaugrau",
+        "hex": "#5a676b"
+    },
+    {
+        "name": "Brillux bordeauxviolett",
+        "label": "bordeauxviolett",
+        "hex": "#621632"
+    },
+    {
+        "name": "Brillux chromgelb",
+        "label": "chromgelb",
+        "hex": "#e18c00"
+    },
+    {
+        "name": "Brillux cremeweiss",
+        "label": "cremeweiss",
+        "hex": "#ece4d5"
+    },
+    {
+        "name": "Brillux enzianblau",
+        "label": "enzianblau",
+        "hex": "#004776"
+    },
+    {
+        "name": "Brillux feuerrot",
+        "label": "feuerrot",
+        "hex": "#9d1f14"
+    },
+    {
+        "name": "Brillux gelb",
+        "label": "gelb",
+        "hex": "#e6b200"
+    },
+    {
+        "name": "Brillux gelborange",
+        "label": "gelborange",
+        "hex": "#d56e00"
+    },
+    {
+        "name": "Brillux ginstergelb",
+        "label": "ginstergelb",
+        "hex": "#d8a100"
+    },
+    {
+        "name": "Brillux grasgruen",
+        "label": "grasgruen",
+        "hex": "#3f682b"
+    },
+    {
+        "name": "Brillux graublau",
+        "label": "graublau",
+        "hex": "#29353f"
+    },
+    {
+        "name": "Brillux grauweiss",
+        "label": "grauweiss",
+        "hex": "#d6d5c9"
+    },
+    {
+        "name": "Brillux hellblau",
+        "label": "hellblau",
+        "hex": "#dbe7ea"
+    },
+    {
+        "name": "Brillux hellelfenbein",
+        "label": "hellelfenbein",
+        "hex": "#e7d7b8"
+    },
+    {
+        "name": "Brillux hellgelb",
+        "label": "hellgelb",
+        "hex": "#f2ebcf"
+    },
+    {
+        "name": "Brillux hellgrau",
+        "label": "hellgrau",
+        "hex": "#e2e5e3"
+    },
+    {
+        "name": "Brillux hellorange",
+        "label": "hellorange",
+        "hex": "#f3e4e0"
+    },
+    {
+        "name": "Brillux hellrosa",
+        "label": "hellrosa",
+        "hex": "#da9fa5"
+    },
+    {
+        "name": "Brillux hellviolett",
+        "label": "hellviolett",
+        "hex": "#e8e4e4"
+    },
+    {
+        "name": "Brillux himmelblau",
+        "label": "himmelblau",
+        "hex": "#0078af"
+    },
+    {
+        "name": "Brillux kieselgrau",
+        "label": "kieselgrau",
+        "hex": "#b2af9c"
+    },
+    {
+        "name": "Brillux kobaltblau",
+        "label": "kobaltblau",
+        "hex": "#1b2b4f"
+    },
+    {
+        "name": "Brillux laubgruen",
+        "label": "laubgruen",
+        "hex": "#275a23"
+    },
+    {
+        "name": "Brillux lichtblau",
+        "label": "lichtblau",
+        "hex": "#2684b3"
+    },
+    {
+        "name": "Brillux lichtgrau",
+        "label": "lichtgrau",
+        "hex": "#c0c4bf"
+    },
+    {
+        "name": "Brillux lichtgruen",
+        "label": "lichtgruen",
+        "hex": "#7dbbb6"
+    },
+    {
+        "name": "Brillux mahagonibraun",
+        "label": "mahagonibraun",
+        "hex": "#48291d"
+    },
+    {
+        "name": "Brillux moosgruen",
+        "label": "moosgruen",
+        "hex": "#033f2b"
+    },
+    {
+        "name": "Brillux nussbraun",
+        "label": "nussbraun",
+        "hex": "#57331d"
+    },
+    {
+        "name": "Brillux ockerbraun",
+        "label": "ockerbraun",
+        "hex": "#986223"
+    },
+    {
+        "name": "Brillux orangebraun",
+        "label": "orangebraun",
+        "hex": "#a15826"
+    },
+    {
+        "name": "Brillux oxidrot",
+        "label": "oxidrot",
+        "hex": "#682b22"
+    },
+    {
+        "name": "Brillux ozeanblau",
+        "label": "ozeanblau",
+        "hex": "#003a45"
+    },
+    {
+        "name": "Brillux perlweiss",
+        "label": "perlweiss",
+        "hex": "#e2dac6"
+    },
+    {
+        "name": "Brillux rehbraun",
+        "label": "rehbraun",
+        "hex": "#653e1e"
+    },
+    {
+        "name": "Brillux reinweiss",
+        "label": "reinweiss",
+        "hex": "#f1f0e5"
+    },
+    {
+        "name": "Brillux resedagruen",
+        "label": "resedagruen",
+        "hex": "#657c55"
+    },
+    {
+        "name": "Brillux rose",
+        "label": "rose",
+        "hex": "#c85059"
+    },
+    {
+        "name": "Brillux rubinrot",
+        "label": "rubinrot",
+        "hex": "#7f0d14"
+    },
+    {
+        "name": "Brillux safrangelb",
+        "label": "safrangelb",
+        "hex": "#eda644"
+    },
+    {
+        "name": "Brillux schokoladenbraun",
+        "label": "schokoladenbraun",
+        "hex": "#3f2820"
+    },
+    {
+        "name": "Brillux schwarzrot",
+        "label": "schwarzrot",
+        "hex": "#3a1a1b"
+    },
+    {
+        "name": "Brillux sepiabraun",
+        "label": "sepiabraun",
+        "hex": "#44311e"
+    },
+    {
+        "name": "Brillux silbergrau",
+        "label": "silbergrau",
+        "hex": "#8d959a"
+    },
+    {
+        "name": "Brillux steingrau",
+        "label": "steingrau",
+        "hex": "#8d8b82"
+    },
+    {
+        "name": "Brillux tieforange",
+        "label": "tieforange",
+        "hex": "#e06f00"
+    },
+    {
+        "name": "Brillux tuerkisblau",
+        "label": "tuerkisblau",
+        "hex": "#158a8b"
+    },
+    {
+        "name": "Brillux weiss",
+        "label": "weiss",
+        "hex": "#efefe5"
+    },
+    {
+        "name": "Brillux weissgruen",
+        "label": "weissgruen",
+        "hex": "#b3cfad"
+    }
+]

@@ -1,0 +1,10 @@
+
+
+// set our color array
+lgchem-vizuoncast-9000-translucent-colors = ("lg-la9207" #aa284a) ("lg-la9149" #6e1726) ("lg-la9153" #9f1521) ("lg-la9133" #b8171e) ("lg-la9143" #c22624) ("lg-la9444" #e25b31) ("lg-la9445" #e46237) ("lg-la9901p" #f05700) ("lg-la9446" #f17e25) ("lg-la9425" #f6a413) ("lg-la9423" #fcaa00) ("lg-la9415" #f6c200) ("lg-la9402" #ead700) ("lg-la9506" #76ab29) ("lg-la9516" #24b246) ("lg-la9572" #009a42) ("lg-la9355" #009044) ("lg-la9556" #117e3c) ("lg-la9526" #006b28) ("lg-la9576" #005029) ("lg-la9585" #009679) ("lg-la9502gs" #58c9c7) ("lg-la9522gs" #008784) ("lg-la9582" #00807e) ("lg-la9637" #0089ad) ("lg-la9593" #00616f) ("lg-la9595" #005758) ("lg-la9636" #1d79be) ("lg-la9629" #0080bc) ("lg-la9627" #0073af) ("lg-la9667" #0065a0) ("lg-la9626" #006daf) ("lg-la9603" #005296) ("lg-la9659" #1c4985) ("lg-la9665" #144590) ("lg-la96sf" #004c8a) ("lg-la96ss" #034687) ("lg-la9605" #153c70) ("lg-la9679" #193960) ("lg-la9680" #1e3963) ("lg-la9683" #1b345e) ("lg-la96sh" #23345d) ("lg-la9677" #11315a) ("lg-la9651h" #4169b0) ("lg-la9654" #323a76) ("lg-la9687" #302d6f) ("lg-la9696" #633772) ("lg-la9759" #49312d) ("lg-la9405" #dfd2a9) ("lg-la9327" #706f66) ("lg-la9365" #787a7b) ("lg-la9431" #646c6e) ("lg-la9421" #b6b4af) ("lg-la9351" #8b9493) ("lg-la9430" #868d91) ("lg-la9001t" #b28f68) ("lg-la9002" #b9bbbb) ("lg-la8024gs" #bbbebe) ("lg-la9220" #eeefeb) ("lg-la9012" #27292b)
+
+
+// grab a specific color based on key
+lgchem-vizuoncast-9000-translucent( color )
+  return item[1] if item[0] == color for item in lgchem-vizuoncast-9000-translucent-colors
+

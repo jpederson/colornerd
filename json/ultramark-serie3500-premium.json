@@ -1,0 +1,367 @@
+[
+    {
+        "name": "Ultramark U3501G Weiss",
+        "label": "ultramark-u3501g-weiss",
+        "hex": "#edf1f2"
+    },
+    {
+        "name": "Ultramark U3508G Schwarz",
+        "label": "ultramark-u3508g-schwarz",
+        "hex": "#0e1012"
+    },
+    {
+        "name": "Ultramark U3507G Mausgrau",
+        "label": "ultramark-u3507g-mausgrau",
+        "hex": "#606566"
+    },
+    {
+        "name": "Ultramark U3506G Kieselgrau",
+        "label": "ultramark-u3506g-kieselgrau",
+        "hex": "#868f96"
+    },
+    {
+        "name": "Ultramark U3509G Hellgrau",
+        "label": "ultramark-u3509g-hellgrau",
+        "hex": "#a7aeb9"
+    },
+    {
+        "name": "Ultramark U3512G Zitronengelb",
+        "label": "ultramark-u3512g-zitronengelb",
+        "hex": "#fbe708"
+    },
+    {
+        "name": "Ultramark U3514G Kanariengelb",
+        "label": "ultramark-u3514g-kanariengelb",
+        "hex": "#fdd518"
+    },
+    {
+        "name": "Ultramark U3517G Gelb",
+        "label": "ultramark-u3517g-gelb",
+        "hex": "#ffc100"
+    },
+    {
+        "name": "Ultramark U3519G Senfgelb",
+        "label": "ultramark-u3519g-senfgelb",
+        "hex": "#ffac00"
+    },
+    {
+        "name": "Ultramark U3523G Orange",
+        "label": "ultramark-u3523g-orange",
+        "hex": "#f06600"
+    },
+    {
+        "name": "Ultramark U3526G Hellrot",
+        "label": "ultramark-u3526g-hellrot",
+        "hex": "#d83e24"
+    },
+    {
+        "name": "Ultramark U3527G Purpurrot",
+        "label": "ultramark-u3527g-purpurrot",
+        "hex": "#c3281a"
+    },
+    {
+        "name": "Ultramark U3528G Rot",
+        "label": "ultramark-u3528g-rot",
+        "hex": "#c1141a"
+    },
+    {
+        "name": "Ultramark U3530G Kirschrot",
+        "label": "ultramark-u3530g-kirschrot",
+        "hex": "#b6171c"
+    },
+    {
+        "name": "Ultramark U3533G Preiselbeerrot",
+        "label": "ultramark-u3533g-preiselbeerrot",
+        "hex": "#8f1e24"
+    },
+    {
+        "name": "Ultramark U3534G Weinrot",
+        "label": "ultramark-u3534g-weinrot",
+        "hex": "#7e162b"
+    },
+    {
+        "name": "Ultramark U3536G Hellblau",
+        "label": "ultramark-u3536g-hellblau",
+        "hex": "#4ebde7"
+    },
+    {
+        "name": "Ultramark U3537G Himmelblau",
+        "label": "ultramark-u3537g-himmelblau",
+        "hex": "#00aac6"
+    },
+    {
+        "name": "Ultramark U3542G Wedgwoodblau",
+        "label": "ultramark-u3542g-wedgwoodblau",
+        "hex": "#009fd7"
+    },
+    {
+        "name": "Ultramark U3541G Blau",
+        "label": "ultramark-u3541g-blau",
+        "hex": "#008cc4"
+    },
+    {
+        "name": "Ultramark U3548G Dunkelblau",
+        "label": "ultramark-u3548g-dunkelblau",
+        "hex": "#005ca2"
+    },
+    {
+        "name": "Ultramark U3549G Ultramark Ultramarinblau",
+        "label": "ultramark-u3549g-ultramark-ultramarinblau",
+        "hex": "#00397a"
+    },
+    {
+        "name": "Ultramark U3552G Orientblau",
+        "label": "ultramark-u3552g-orientblau",
+        "hex": "#2b4b7c"
+    },
+    {
+        "name": "Ultramark U3553G Franzoesischblau",
+        "label": "ultramark-u3553g-franzoesischblau",
+        "hex": "#253b69"
+    },
+    {
+        "name": "Ultramark U3556G Apfelgruen",
+        "label": "ultramark-u3556g-apfelgruen",
+        "hex": "#77c241"
+    },
+    {
+        "name": "Ultramark U3558G Gelbgruen",
+        "label": "ultramark-u3558g-gelbgruen",
+        "hex": "#3ea600"
+    },
+    {
+        "name": "Ultramark U3560G Moosgruen",
+        "label": "ultramark-u3560g-moosgruen",
+        "hex": "#009648"
+    },
+    {
+        "name": "Ultramark U3559G Kleegruen",
+        "label": "ultramark-u3559g-kleegruen",
+        "hex": "#009246"
+    },
+    {
+        "name": "Ultramark U3563G Gruen",
+        "label": "ultramark-u3563g-gruen",
+        "hex": "#008754"
+    },
+    {
+        "name": "Ultramark U3564G Smaragdgruen",
+        "label": "ultramark-u3564g-smaragdgruen",
+        "hex": "#007837"
+    },
+    {
+        "name": "Ultramark U3565G Dunkelgruen",
+        "label": "ultramark-u3565g-dunkelgruen",
+        "hex": "#005534"
+    },
+    {
+        "name": "Ultramark U3566G Waldgruen",
+        "label": "ultramark-u3566g-waldgruen",
+        "hex": "#124a2d"
+    },
+    {
+        "name": "Ultramark U3569G Wasserblau",
+        "label": "ultramark-u3569g-wasserblau",
+        "hex": "#00868a"
+    },
+    {
+        "name": "Ultramark U3579G Violett",
+        "label": "ultramark-u3579g-violett",
+        "hex": "#5f3d94"
+    },
+    {
+        "name": "Ultramark U3576G Rosa",
+        "label": "ultramark-u3576g-rosa",
+        "hex": "#bb2666"
+    },
+    {
+        "name": "Ultramark U3580G Mandel",
+        "label": "ultramark-u3580g-mandel",
+        "hex": "#e6dec7"
+    },
+    {
+        "name": "Ultramark U3582G Beige",
+        "label": "ultramark-u3582g-beige",
+        "hex": "#ebce98"
+    },
+    {
+        "name": "Ultramark U3593G Braun",
+        "label": "ultramark-u3593g-braun",
+        "hex": "#432a1a"
+    },
+    {
+        "name": "Ultramark U3596G Silber metallic",
+        "label": "ultramark-u3596g-silber-metallic",
+        "hex": "#85888a"
+    },
+    {
+        "name": "Ultramark U3597G Gold metallic",
+        "label": "ultramark-u3597g-gold-metallic",
+        "hex": "#8e7339"
+    },
+    {
+        "name": "Ultramark U3598G Anthrazit metallic",
+        "label": "ultramark-u3598g-anthrazit-metallic",
+        "hex": "#4d4c48"
+    },
+    {
+        "name": "Ultramark U3501M Weiss",
+        "label": "ultramark-u3501m-weiss",
+        "hex": "#f7f7f9"
+    },
+    {
+        "name": "Ultramark U3508M Schwarz",
+        "label": "ultramark-u3508m-schwarz",
+        "hex": "#373739"
+    },
+    {
+        "name": "Ultramark U3507M Mausgrau",
+        "label": "ultramark-u3507m-mausgrau",
+        "hex": "#6b7071"
+    },
+    {
+        "name": "Ultramark U3509M Hellgrau",
+        "label": "ultramark-u3509m-hellgrau",
+        "hex": "#a9b0ba"
+    },
+    {
+        "name": "Ultramark U3512M Zitronengelb",
+        "label": "ultramark-u3512m-zitronengelb",
+        "hex": "#ffe61e"
+    },
+    {
+        "name": "Ultramark U3514M Kanariengelb",
+        "label": "ultramark-u3514m-kanariengelb",
+        "hex": "#ffd100"
+    },
+    {
+        "name": "Ultramark U3517M Gelb",
+        "label": "ultramark-u3517m-gelb",
+        "hex": "#ffbf00"
+    },
+    {
+        "name": "Ultramark U3519M Senfgelb",
+        "label": "ultramark-u3519m-senfgelb",
+        "hex": "#ffaf26"
+    },
+    {
+        "name": "Ultramark U3523M Orange",
+        "label": "ultramark-u352threem-orange",
+        "hex": "#ea6a2b"
+    },
+    {
+        "name": "Ultramark U3526M Hellrot",
+        "label": "ultramark-u3526m-hellrot",
+        "hex": "#d84a3c"
+    },
+    {
+        "name": "Ultramark U3529M Tomatenrot",
+        "label": "ultramark-u3529m-tomatenrot",
+        "hex": "#c53f3e"
+    },
+    {
+        "name": "Ultramark U3530M Kirschrot",
+        "label": "ultramark-u3530m-kirschrot",
+        "hex": "#b12d33"
+    },
+    {
+        "name": "Ultramark U3534M Weinrot",
+        "label": "ultramark-u3534m-weinrot",
+        "hex": "#753c44"
+    },
+    {
+        "name": "Ultramark U3537M Himmelblau",
+        "label": "ultramark-u3537m-himmelblau",
+        "hex": "#00b1cc"
+    },
+    {
+        "name": "Ultramark U3541M Blau",
+        "label": "ultramark-u3541m-blau",
+        "hex": "#008dc3"
+    },
+    {
+        "name": "Ultramark U3543M Brillantblau",
+        "label": "ultramark-u354threem-brillantblau",
+        "hex": "#0075b9"
+    },
+    {
+        "name": "Ultramark U3548M Dunkelblau",
+        "label": "ultramark-u3548m-dunkelblau",
+        "hex": "#005f9d"
+    },
+    {
+        "name": "Ultramark U3549M Ultramark Ultramarinblau",
+        "label": "ultramark-u3549m-ultramark-ultramarinblau",
+        "hex": "#324b83"
+    },
+    {
+        "name": "Ultramark U3550M Saphirblau",
+        "label": "ultramark-u3550m-saphirblau",
+        "hex": "#35446a"
+    },
+    {
+        "name": "Ultramark U3554M Lindgruen",
+        "label": "ultramark-u3554m-lindgruen",
+        "hex": "#87d242"
+    },
+    {
+        "name": "Ultramark U3558M Gelbgruen",
+        "label": "ultramark-u3558m-gelbgruen",
+        "hex": "#56a632"
+    },
+    {
+        "name": "Ultramark U3562M Verkehrsgruen",
+        "label": "ultramark-u3562m-verkehrsgruen",
+        "hex": "#00975f"
+    },
+    {
+        "name": "Ultramark U3564M Smaragdgruen",
+        "label": "ultramark-u3564m-smaragdgruen",
+        "hex": "#008350"
+    },
+    {
+        "name": "Ultramark U3565M Dunkelgruen",
+        "label": "ultramark-u3565m-dunkelgruen",
+        "hex": "#005e45"
+    },
+    {
+        "name": "Ultramark U3567M Tuerkis",
+        "label": "ultramark-u3567m-tuerkis",
+        "hex": "#00b0a6"
+    },
+    {
+        "name": "Ultramark U3571M Pink",
+        "label": "ultramark-u3571m-pink",
+        "hex": "#f797c8"
+    },
+    {
+        "name": "Ultramark U3579M Violett",
+        "label": "ultramark-u3579m-violett",
+        "hex": "#69509a"
+    },
+    {
+        "name": "Ultramark U3576M Rosa",
+        "label": "ultramark-u3576m-rosa",
+        "hex": "#bf3b6e"
+    },
+    {
+        "name": "Ultramark U3582M Beige",
+        "label": "ultramark-u3582m-beige",
+        "hex": "#edd09e"
+    },
+    {
+        "name": "Ultramark U3594M Braun",
+        "label": "ultramark-u3594m-braun",
+        "hex": "#54423a"
+    },
+    {
+        "name": "Ultramark U3596M Silber metallic",
+        "label": "ultramark-u3596m-silber-metallic",
+        "hex": "#a0a2a3"
+    },
+    {
+        "name": "Ultramark U3597M Gold metallic",
+        "label": "ultramark-u3597m-gold-metallic",
+        "hex": "#9c885b"
+    }
+]

@@ -1,0 +1,326 @@
+
+
+// some maths
+$usage_height_narrow: 220px;
+$usage_height_wide: 140px;
+
+$usage_left_768: 30%;
+$usage_left_1220: 20%;
+
+
+$green: #00a500;
+
+
+/// basic font stuffs
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300,700);
+
+@mixin font {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+}
+
+
+
+// clearfixin' mixin
+@mixin clearfix {
+	zoom: 1;
+
+	&:before, &:after { 
+		content: ""; 
+		display: table;
+	}
+
+	&:after { clear: both; }
+}
+
+.group {
+	@include clearfix;
+}
+
+
+
+// responsive mixin
+@mixin respond-to( $breakpoint ) {
+    @media only screen and (min-width: $breakpoint) { @content; }
+}
+
+
+
+// general styles
+body {
+	margin: 0;
+	@include font;
+	transition: padding-top 500ms ease-in-out;
+	-webkit-transition: padding-top 500ms ease-in-out;
+
+	@include respond-to( 768px ) {
+		padding-left: $usage_left_768;
+
+		&.with-usage {
+			padding-top: $usage_height_narrow;
+		}
+	}
+
+	@include respond-to( 1024px ) {
+		&.with-usage {
+			padding-top: $usage_height_wide;
+		}
+	}
+
+	@include respond-to( 1220px ) {
+		padding-left: $usage_left_1220;
+	}
+}
+
+
+
+// book list styles
+.book-list {
+	@include respond-to( 768px ) {
+		position: fixed;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 70%;
+		overflow: auto;
+		border-right: 1px solid #eee;
+	}
+
+	@include respond-to( 1220px ) {
+		right: 80%;
+	}
+
+	ul {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+	
+		li {
+			a {
+				display: block;
+				padding: 12px;
+				font-weight: 700;
+				color: #888;
+				border-bottom: 1px solid #eee;
+				cursor: pointer;
+				
+				// nix transitions on small screens
+				@include respond-to( 1025px ) {
+					transition: background-color 300ms ease-in-out, color 300ms, ease-in-out;
+					-webkit-transition: background-color 300ms ease-in-out, color 300ms, ease-in-out;
+				}
+
+				span {
+					font-weight: 300;
+					font-size: .85em;
+					opacity: .7;
+					display: block;
+				}
+
+				&:hover {
+					color: #eee;
+					background: #666;
+				}
+
+				&.book-usage-toggle {
+					display: none;
+
+					@include respond-to( 768px ) {
+						display: block;
+						background-color: #ddd;
+						color: #444;
+						font-size: 12px;
+						text-transform: uppercase;
+						text-align: center;
+					}
+				}
+
+				&.download {
+					background-color: #aaa;
+					color: white;
+					text-shadow: 1px 1px 0 darken( $green, 10% );
+					text-decoration: none;
+					text-transform: uppercase;
+					font-size: 16px;
+					padding: 20px;
+					text-align: center;
+					
+					@include respond-to( 1024px ) {
+						font-size: 18px;
+						transition: background-color 300ms ease-in-out, color 300ms, ease-in-out, text-shadow 300ms, ease-in-out;
+						-webkit-transition: background-color 300ms ease-in-out, color 300ms, ease-in-out, text-shadow 300ms, ease-in-out;
+					}
+
+					&:hover {
+						background: lighten( $green, 5% );
+						text-shadow: 2px 2px 20px darken( $green, 15% );
+					}
+				}
+			}
+
+			&.label {
+				color: #999;
+				font-size: 12px;
+				text-align: center;
+				padding: 6px;
+				border-bottom: 1px solid #eee;
+			}
+		}
+	}
+}
+
+
+
+// usage instruction styles
+.book-usage {
+	display: none;
+	transition: height 500ms ease-in-out;
+	
+	@include respond-to( 768px ) {
+		display: block;
+		position: fixed;
+		background: white;
+		top: 0;
+		right: 0;
+		left: $usage_left_768;
+		height: 0;
+		padding: 0 30px;
+		overflow: hidden;
+
+		&.visible {
+			height: $usage_height_narrow;
+		}
+
+		h4 {
+			padding: 0;
+			color: #aaa;
+			text-transform: uppercase;
+			font-size: 14px;
+			padding-top: 15px;
+		}
+
+		code {
+			color: $green;
+		}
+
+		.quiet {
+			color: #aaa;
+		}
+
+		.half {
+			text-align: center;
+		}
+	}
+
+	@include respond-to( 1024px ) {
+		
+		&.visible {
+			height: $usage_height_wide;
+		}
+
+		.half {
+			float: left;
+			width: 50%;
+		}
+	}
+
+	@include respond-to( 1220px ) {
+		left: $usage_left_1220;
+	}
+}
+
+
+
+// swatch/viewer styles
+.book-viewer {
+	min-height: 480px;
+
+	h4 {
+		background: pantone( "cool-gray-1-u" );
+		padding: 30px 30px 15px;
+		margin: 0;
+		font-weight: 700;
+		font-size: 14px;
+		clear: both;
+	}
+}
+
+.swatch {
+	padding: 20px;
+	text-align: center;
+	overflow: hidden;
+	cursor: pointer;
+
+	@include respond-to( 480px ) {
+		padding: 30px 0;
+		float: left;
+		width: 50%;
+	}
+
+	@include respond-to( 600px ) {
+		padding: 60px 0;
+		width: 33%;
+	}
+
+	@include respond-to( 768px ) {
+		width: 25%;
+	}
+
+	@include respond-to( 1024px ) {
+		width: 20%;
+	}
+
+	@include respond-to( 1150px ) {
+		width: 16.6666%;
+	}
+
+	@include respond-to( 1240px ) {
+		width: 14.2857%;
+	}
+
+	@include respond-to( 1440px ) {
+		width: 12.5%;
+	}
+
+	@include respond-to( 1680px ) {
+		width: 11.11%;
+	}
+
+
+	span {
+		white-space: nowrap;
+		font-size: 14px;
+		padding: 5px 10px;
+		background-color: rgba( 255, 255, 255, 0.8 );
+		padding: rgba( 0, 0, 0, 0.8 );
+		box-shadow: 2px 2px 8px rgba( 0, 0, 0, 0.3 );
+	}
+
+}
+
+
+.introduction {
+	padding: 20px;
+
+	h2 {
+		color: #999;
+		font-size: 50px;
+		font-weight: 300;
+	}
+
+	@include respond-to( 480px ) {
+		padding: 40px;
+	}
+
+	@include respond-to( 768px ) {
+		padding: 50px;
+	}
+
+	@include respond-to( 1024px ) {
+		padding: 50px 90px;
+	}
+
+	@include respond-to( 1220px ) {
+		padding: 50px 130px;
+	}
+}

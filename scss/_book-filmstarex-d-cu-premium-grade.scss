@@ -1,0 +1,16 @@
+
+
+// array of colors
+$filmstarex-d-cu-premium-grade-colors: ("d-cu-1115" #0c0d10), ("d-cu-1116" #f0f4f2), ("d-cu-1160" #e5d500), ("d-cu-1154" #e7e144), ("d-cu-1104" #f2bc00), ("d-cu-1144" #f0ac00), ("d-cu-1124" #dc8e00), ("d-cu-1138" #d68831), ("d-cu-1128" #ee6b00), ("d-cu-1108" #d35407), ("d-cu-1141" #d0400b), ("d-cu-1161" #be280a), ("d-cu-1101" #b82215), ("d-cu-1162" #a01a1f), ("d-cu-1151" #a4191c), ("d-cu-1110" #9e1d18), ("d-cu-1120" #5e1934), ("d-cu-1163" #5e1723), ("d-cu-1118" #a92866), ("d-cu-1158" #8b7cac), ("d-cu-1159" #6e2d6e), ("d-cu-1126" #c8d520), ("d-cu-1106" #68b21b), ("d-cu-1165" #399904), ("d-cu-1142" #00a439), ("d-cu-1122" #446e31), ("d-cu-1152" #20765a), ("d-cu-1102" #00844e), ("d-cu-1146" #007146), ("d-cu-1167" #006e3a), ("d-cu-1136" #005c2e), ("d-cu-1111" #003e2a), ("d-cu-1169" #009790), ("d-cu-1170" #005f6a), ("d-cu-1156" #00919f), ("d-cu-1107" #209fca), ("d-cu-1150" #009ed3), ("d-cu-1127" #0076ae), ("d-cu-1103" #0063ac), ("d-cu-1153" #00517c), ("d-cu-1171" #005291), ("d-cu-1172" #003e85), ("d-cu-1173" #163374), ("d-cu-1157" #39395e), ("d-cu-1112" #002b5b), ("d-cu-1174" #112136), ("d-cu-1132" #ded4b5), ("d-cu-1125" #debd9a), ("d-cu-1131" #85532a), ("d-cu-1130" #4f2d1f), ("d-cu-1149" #b9bdb8), ("d-cu-1109" #90948f), ("d-cu-1119" #585d5e), ("d-cu-1304" #a28e58), ("d-cu-1301" #999c9d), ("m-1181" #2f3031), ("m-1180" #f5f9f8);
+
+
+// grab a specific color based on key
+@function filmstarex-d-cu-premium-grade( $color ) {
+    @each $item in $filmstarex-d-cu-premium-grade-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

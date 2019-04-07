@@ -1,0 +1,92 @@
+[
+    {
+        "name": "DB 301",
+        "label": "db-301",
+        "hex": "#8a5555"
+    },
+    {
+        "name": "DB 310",
+        "label": "db-310",
+        "hex": "#915452"
+    },
+    {
+        "name": "DB 501",
+        "label": "db-501",
+        "hex": "#778589"
+    },
+    {
+        "name": "DB 502",
+        "label": "db-502",
+        "hex": "#61787e"
+    },
+    {
+        "name": "DB 503",
+        "label": "db-503",
+        "hex": "#5d6e76"
+    },
+    {
+        "name": "DB 510",
+        "label": "db-510",
+        "hex": "#57788c"
+    },
+    {
+        "name": "DB 601",
+        "label": "db-601",
+        "hex": "#757a6a"
+    },
+    {
+        "name": "DB 602",
+        "label": "db-602",
+        "hex": "#79927a"
+    },
+    {
+        "name": "DB 603",
+        "label": "db-603",
+        "hex": "#677168"
+    },
+    {
+        "name": "DB 610",
+        "label": "db-610",
+        "hex": "#4e7f74"
+    },
+    {
+        "name": "DB 701",
+        "label": "db-701",
+        "hex": "#969088"
+    },
+    {
+        "name": "DB 702",
+        "label": "db-702",
+        "hex": "#8a8780"
+    },
+    {
+        "name": "DB 703",
+        "label": "db-703",
+        "hex": "#615f5f"
+    },
+    {
+        "name": "DB 704",
+        "label": "db-704",
+        "hex": "#908b82"
+    },
+    {
+        "name": "RAL 9006",
+        "label": "ral-9006",
+        "hex": "#b0b0ad"
+    },
+    {
+        "name": "RAL 9007",
+        "label": "ral-9007",
+        "hex": "#9c9b99"
+    },
+    {
+        "name": "Kupfer",
+        "label": "kupfer",
+        "hex": "#946954"
+    },
+    {
+        "name": "Altkupfer",
+        "label": "altkupfer",
+        "hex": "#906c59"
+    }
+]

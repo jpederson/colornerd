@@ -1,0 +1,16 @@
+
+
+// array of colors
+$al-jazeera-kids-colors-colors: ("k-6079" #ffba00), ("m-0159" #f8efd6), ("k-6010" #fbe9c6), ("k-6115" #e9c498), ("k-6019" #fde5af), ("k-6114" #eccf9f), ("k-6212" #d5a573), ("k-6039" #ffd983), ("k-6134" #f6c173), ("k-6232" #d7904c), ("k-6006" #f4e7dc), ("k-6015" #fbdfcf), ("h-7063" #eac0be), ("k-6110" #e8d0c5), ("k-6120" #e9bdaf), ("h-7074" #e5afb7), ("k-6208" #d1a69e), ("k-6228" #cb817b), ("k-6248" #bd5855), ("k-6262" #af322f), ("h-7370" #005f9b), ("h-7071" #bacdde), ("t-8026" #c9dbdf), ("t-8012" #c0e7e1), ("h-7147" #91a8c9), ("t-8032" #b2d3de), ("t-8034" #aed7d7), ("h-7376" #668dc4), ("h-7158" #74a2c6), ("t-8089" #5fa8bb), ("r-9089" #cfdecd), ("r-9093" #dce1c6), ("r-9023" #e8f0bc), ("r-9184" #a3c0a4), ("r-9101" #c7dab3), ("r-9105" #dddda9), ("r-9205" #82b17a), ("r-9196" #9eb887), ("r-9125" #d2d274), ("r-9305" #007937);
+
+
+// grab a specific color based on key
+@function al-jazeera-kids-colors( $color ) {
+    @each $item in $al-jazeera-kids-colors-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

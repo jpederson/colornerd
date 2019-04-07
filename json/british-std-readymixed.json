@@ -1,0 +1,467 @@
+[
+    {
+        "name": "BRITISH STD Blue 101",
+        "label": "blue-101",
+        "hex": "#83b2a0"
+    },
+    {
+        "name": "BRITISH STD Blue 102",
+        "label": "blue-102",
+        "hex": "#4b9089"
+    },
+    {
+        "name": "BRITISH STD Blue 103",
+        "label": "blue-103",
+        "hex": "#135e65"
+    },
+    {
+        "name": "BRITISH STD Blue 104",
+        "label": "blue-104",
+        "hex": "#1c4575"
+    },
+    {
+        "name": "BRITISH STD Blue 105",
+        "label": "blue-105",
+        "hex": "#1b2745"
+    },
+    {
+        "name": "BRITISH STD Blue 106",
+        "label": "blue-106",
+        "hex": "#141628"
+    },
+    {
+        "name": "BRITISH STD Blue 108",
+        "label": "blue-108",
+        "hex": "#1d3475"
+    },
+    {
+        "name": "BRITISH STD Blue 166",
+        "label": "blue-166",
+        "hex": "#2d5dac"
+    },
+    {
+        "name": "BRITISH STD Blue 169",
+        "label": "blue-169",
+        "hex": "#1d5c77"
+    },
+    {
+        "name": "BRITISH STD Blue 174",
+        "label": "blue-174",
+        "hex": "#409493"
+    },
+    {
+        "name": "BRITISH STD Green 216",
+        "label": "green-216",
+        "hex": "#b2c081"
+    },
+    {
+        "name": "BRITISH STD Green 217",
+        "label": "green-217",
+        "hex": "#89a151"
+    },
+    {
+        "name": "BRITISH STD Green 218",
+        "label": "green-218",
+        "hex": "#647e24"
+    },
+    {
+        "name": "BRITISH STD Green 219",
+        "label": "green-219",
+        "hex": "#6d7641"
+    },
+    {
+        "name": "BRITISH STD Green 220",
+        "label": "green-220",
+        "hex": "#414a17"
+    },
+    {
+        "name": "BRITISH STD Green 221",
+        "label": "green-221",
+        "hex": "#376c25"
+    },
+    {
+        "name": "BRITISH STD Green 222",
+        "label": "green-222",
+        "hex": "#605a0d"
+    },
+    {
+        "name": "BRITISH STD Green 223",
+        "label": "green-223",
+        "hex": "#3b3f20"
+    },
+    {
+        "name": "BRITISH STD Green 224",
+        "label": "green-224",
+        "hex": "#2d311c"
+    },
+    {
+        "name": "BRITISH STD Green 225",
+        "label": "green-225",
+        "hex": "#2f5818"
+    },
+    {
+        "name": "BRITISH STD Green 226",
+        "label": "green-226",
+        "hex": "#194325"
+    },
+    {
+        "name": "BRITISH STD Green 227",
+        "label": "green-227",
+        "hex": "#11331f"
+    },
+    {
+        "name": "BRITISH STD Green 267",
+        "label": "green-267",
+        "hex": "#305a37"
+    },
+    {
+        "name": "BRITISH STD Green 275",
+        "label": "green-275",
+        "hex": "#91b287"
+    },
+    {
+        "name": "BRITISH STD Green 276",
+        "label": "green-276",
+        "hex": "#28461a"
+    },
+    {
+        "name": "BRITISH STD Green 277",
+        "label": "green-277",
+        "hex": "#3a4c16"
+    },
+    {
+        "name": "BRITISH STD Green 278",
+        "label": "green-278",
+        "hex": "#808550"
+    },
+    {
+        "name": "BRITISH STD Green 279",
+        "label": "green-279",
+        "hex": "#3a3522"
+    },
+    {
+        "name": "BRITISH STD Green 280",
+        "label": "green-280",
+        "hex": "#4d9367"
+    },
+    {
+        "name": "BRITISH STD Green 281",
+        "label": "green-281",
+        "hex": "#7aa367"
+    },
+    {
+        "name": "BRITISH STD Green 282",
+        "label": "green-282",
+        "hex": "#485d39"
+    },
+    {
+        "name": "BRITISH STD Green 283",
+        "label": "green-283",
+        "hex": "#758660"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 309",
+        "label": "yellow-cream-and-buff-309",
+        "hex": "#f3c900"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 352",
+        "label": "yellow-cream-and-buff-352",
+        "hex": "#ecce8b"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 353",
+        "label": "yellow-cream-and-buff-353",
+        "hex": "#fbcd73"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 354",
+        "label": "yellow-cream-and-buff-354",
+        "hex": "#e2b94e"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 355",
+        "label": "yellow-cream-and-buff-355",
+        "hex": "#f3b300"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 356",
+        "label": "yellow-cream-and-buff-356",
+        "hex": "#f2a300"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 358",
+        "label": "yellow-cream-and-buff-358",
+        "hex": "#e0a964"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 359",
+        "label": "yellow-cream-and-buff-359",
+        "hex": "#cf8f3f"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 360",
+        "label": "yellow-cream-and-buff-360",
+        "hex": "#b27b46"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 361",
+        "label": "yellow-cream-and-buff-361",
+        "hex": "#c29d6c"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 362",
+        "label": "yellow-cream-and-buff-362",
+        "hex": "#ae7e43"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 363",
+        "label": "yellow-cream-and-buff-363",
+        "hex": "#a47034"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 364",
+        "label": "yellow-cream-and-buff-364",
+        "hex": "#cfc099"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 365",
+        "label": "yellow-cream-and-buff-365",
+        "hex": "#dfd3aa"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 368",
+        "label": "yellow-cream-and-buff-368",
+        "hex": "#dd7d00"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 384",
+        "label": "yellow-cream-and-buff-384",
+        "hex": "#d9c498"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 385",
+        "label": "yellow-cream-and-buff-385",
+        "hex": "#eccc94"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 386",
+        "label": "yellow-cream-and-buff-386",
+        "hex": "#e5c18f"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 387",
+        "label": "yellow-cream-and-buff-387",
+        "hex": "#d7ba88"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 388",
+        "label": "yellow-cream-and-buff-388",
+        "hex": "#d7b686"
+    },
+    {
+        "name": "BRITISH STD Yellow- Cream and Buff 397",
+        "label": "yellow-cream-and-buff-397",
+        "hex": "#edd163"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 410",
+        "label": "brown-and-pink-410",
+        "hex": "#95692c"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 411",
+        "label": "brown-and-pink-411",
+        "hex": "#684017"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 412",
+        "label": "brown-and-pink-412",
+        "hex": "#503022"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 413",
+        "label": "brown-and-pink-413",
+        "hex": "#3b271a"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 414",
+        "label": "brown-and-pink-414",
+        "hex": "#975a0c"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 415",
+        "label": "brown-and-pink-415",
+        "hex": "#683c23"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 439",
+        "label": "brown-and-pink-439",
+        "hex": "#733718"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 442",
+        "label": "brown-and-pink-442",
+        "hex": "#e8c891"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 443",
+        "label": "brown-and-pink-443",
+        "hex": "#c78d77"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 444",
+        "label": "brown-and-pink-444",
+        "hex": "#944532"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 445",
+        "label": "brown-and-pink-445",
+        "hex": "#762e17"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 446",
+        "label": "brown-and-pink-446",
+        "hex": "#662c1f"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 448",
+        "label": "brown-and-pink-448",
+        "hex": "#54211a"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 449",
+        "label": "brown-and-pink-449",
+        "hex": "#4d2524"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 451",
+        "label": "brown-and-pink-451",
+        "hex": "#311d17"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 473",
+        "label": "brown-and-pink-473",
+        "hex": "#66231a"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 489",
+        "label": "brown-and-pink-489",
+        "hex": "#79492f"
+    },
+    {
+        "name": "BRITISH STD Brown and Pink 490",
+        "label": "brown-and-pink-490",
+        "hex": "#593120"
+    },
+    {
+        "name": "BRITISH STD Red and Orange 536",
+        "label": "red-and-orange-536",
+        "hex": "#c52e04"
+    },
+    {
+        "name": "BRITISH STD Red and Orange 537",
+        "label": "red-and-orange-537",
+        "hex": "#bc1603"
+    },
+    {
+        "name": "BRITISH STD Red and Orange 538",
+        "label": "red-and-orange-538",
+        "hex": "#9d0003"
+    },
+    {
+        "name": "BRITISH STD Red and Orange 540",
+        "label": "red-and-orange-540",
+        "hex": "#670f16"
+    },
+    {
+        "name": "BRITISH STD Red and Orange 541",
+        "label": "red-and-orange-541",
+        "hex": "#34191a"
+    },
+    {
+        "name": "BRITISH STD Red and Orange 557",
+        "label": "red-and-orange-557",
+        "hex": "#dd6800"
+    },
+    {
+        "name": "BRITISH STD Red and Orange 570",
+        "label": "red-and-orange-570",
+        "hex": "#ab3c0e"
+    },
+    {
+        "name": "BRITISH STD Red and Orange 591",
+        "label": "red-and-orange-591",
+        "hex": "#cc4b00"
+    },
+    {
+        "name": "BRITISH STD Grey 628",
+        "label": "grey-628",
+        "hex": "#a0a181"
+    },
+    {
+        "name": "BRITISH STD Grey 629",
+        "label": "grey-629",
+        "hex": "#949077"
+    },
+    {
+        "name": "BRITISH STD Grey 630",
+        "label": "grey-630",
+        "hex": "#999d88"
+    },
+    {
+        "name": "BRITISH STD Grey 631",
+        "label": "grey-631",
+        "hex": "#939c92"
+    },
+    {
+        "name": "BRITISH STD Grey 632",
+        "label": "grey-632",
+        "hex": "#5e6568"
+    },
+    {
+        "name": "BRITISH STD Grey 633",
+        "label": "grey-633",
+        "hex": "#313c42"
+    },
+    {
+        "name": "BRITISH STD Grey 634",
+        "label": "grey-634",
+        "hex": "#5e6050"
+    },
+    {
+        "name": "BRITISH STD Grey 635",
+        "label": "grey-635",
+        "hex": "#4a5247"
+    },
+    {
+        "name": "BRITISH STD Grey 671",
+        "label": "grey-671",
+        "hex": "#444748"
+    },
+    {
+        "name": "BRITISH STD Grey 692",
+        "label": "grey-692",
+        "hex": "#728f8c"
+    },
+    {
+        "name": "BRITISH STD Grey 693",
+        "label": "grey-693",
+        "hex": "#7f8782"
+    },
+    {
+        "name": "BRITISH STD Grey 694",
+        "label": "grey-694",
+        "hex": "#8b8d81"
+    },
+    {
+        "name": "BRITISH STD Grey 695",
+        "label": "grey-695",
+        "hex": "#232625"
+    },
+    {
+        "name": "BRITISH STD Violet 796",
+        "label": "violet-796",
+        "hex": "#633a69"
+    }
+]

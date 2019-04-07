@@ -1,0 +1,10 @@
+
+
+// set our color array
+deutschepapier-colors = ("trendcolor-hellgelb" #e6dfa7) ("trendcolor-dunkelgelb" #eddf8d) ("trendcolor-kanariengelb" #f3d841) ("trendcolor-maisgold" #ffc469) ("trendcolor-chamois" #f6d4b8) ("trendcolor-orange" #ffc096) ("trendcolor-mandarin" #ff9e62) ("trendcolor-rosa" #fdc7cd) ("trendcolor-kirsch" #fea7bb) ("trendcolor-rot" #f36476) ("trendcolor-eosin" #fa74ba) ("trendcolor-hellgruen" #cee5b5) ("trendcolor-moosgruen" #a6da74) ("trendcolor-dunkelgruen" #67cb9b) ("trendcolor-hellblau" #a3d0da) ("trendcolor-arcticblau" #69b5d1) ("trendcolor-grau" #dcdbd3) ("colorline-creme" #fdf3d5) ("colorline-chamois" #ffe9b3) ("colorline-hellgelb" #faf6b5) ("colorline-kanariengelb" #f8ec4c) ("colorline-schwefelgelb" #ffd725) ("colorline-altgold" #ffc747) ("colorline-goldgelb" #ffc980) ("colorline-mandarinorange" #ffa62f) ("colorline-aprikotorange" #ff7a46) ("colorline-korallenrot" #e24d4b) ("colorline-rosa" #ffc5cd) ("colorline-eosin" #f588b3) ("colorline-flieder" #d1d2e4) ("colorline-silbergrau" #c1c0be) ("colorline-gletscherweiss" #f7f8ff) ("colorline-hellblau" #c9e5e9) ("colorline-himmelblau" #a2d0de) ("colorline-arcticblau" #4bc3e1) ("colorline-hellgruen" #caecb5) ("colorline-moosgruen" #9bd260) ("colorline-tuerkisgruen" #6dd3b1) ("paradiso-weiss" #fdfbff) ("paradiso-hellgrau" #e3e7eb) ("paradiso-lichtgrau" #c8c4b9) ("paradiso-steingrau" #adacaa) ("paradiso-elfenbein" #fbf0db) ("paradiso-beige" #fbe3c6) ("paradiso-goldgelb" #ffce31) ("paradiso-zartgelb" #f7ef8e) ("paradiso-gelb" #fdea34) ("paradiso-aprikot" #ffc08f) ("paradiso-marakuja" #ffaf00) ("paradiso-orange" #ff9739) ("paradiso-orangerot" #ed6a58) ("paradiso-rot" #c4434c) ("paradiso-rosa" #fcd0db) ("paradiso-karminrot" #d85e8c) ("paradiso-tuerkisgruen" #7bd4b1) ("paradiso-gruen" #41ae5d) ("paradiso-fruehlingsgruen" #9ad158) ("paradiso-grasgruen" #6cbe69) ("paradiso-hellblau" #bfe3e6) ("paradiso-flieder" #9eb9d5) ("paradiso-blau" #68bdd5) ("paradiso-royalblau" #5564a2)
+
+
+// grab a specific color based on key
+deutschepapier( color )
+  return item[1] if item[0] == color for item in deutschepapier-colors
+

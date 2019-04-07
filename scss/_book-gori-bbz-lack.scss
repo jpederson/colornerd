@@ -1,0 +1,16 @@
+
+
+// array of colors
+$gori-bbz-lack-colors: ("9016-wei-sg-hg" #f9f8ef), ("9001-cremewei-sg" #f2e9d6), ("8017-schokoladenbraun-sg" #443331), ("3000-feuerrot-sg" #a33331), ("8003-lehmbraun-sg" #7e502f), ("7001-silbergrau-sg" #8f999d), ("9005-tiefschwarz-sg-hg" #1e2021), ("5010-enzianblau-sg" #004c7d), ("1023-verkehrsgelb-sg" #f7c000), ("1015-hellelfenbein-sg" #e9d9bb), ("6005-moosgruen-sg" #174335), ("7035-lichtgrau-sg" #d0d0cc);
+
+
+// grab a specific color based on key
+@function gori-bbz-lack( $color ) {
+    @each $item in $gori-bbz-lack-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

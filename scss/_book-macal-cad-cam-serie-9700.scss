@@ -1,0 +1,16 @@
+
+
+// array of colors
+$macal-cad-cam-serie-9700-colors: ("macal-970200-orange" #ee612d), ("macal-970800-gelb" #f9ce04), ("macal-970801-gelb" #f2c100), ("macal-970802-maisgelb" #fbad10), ("macal-972800-weiss" #e8e8e4), ("macal-973800-blau" #0074b1), ("macal-973801-blau" #0062a4), ("macal-973802-koenigsblau" #382986), ("macal-973803-dunkelblau" #324285), ("macal-973804-himmelblau" #0090b9), ("macal-974800-gruen" #00834c), ("macal-974801-mintgruen" #007d3b), ("macal-974802-gelbgruen" #86bc00), ("macal-974803-tuerkis" #00a0a0), ("macal-975800-rot" #c43935), ("macal-975801-feuerrot" #c33e31), ("macal-975802-weinrot" #703038), ("macal-975803-pink" #b62c7d), ("macal-976800-silber" #9fa0a1), ("macal-977800-gold" #ad9860), ("macal-978801-grau" #969d9c);
+
+
+// grab a specific color based on key
+@function macal-cad-cam-serie-9700( $color ) {
+    @each $item in $macal-cad-cam-serie-9700-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

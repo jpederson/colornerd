@@ -1,0 +1,16 @@
+
+
+// array of colors
+$caparol-3d-lack-colors: ("diva-05" #21376b), ("diva-10" #404f80), ("diva-15" #493872), ("diva-20" #534c5f), ("diva-25" #693870), ("diva-30" #813263), ("blu-05" #004855), ("blu-10" #3799a9), ("blu-15" #03364c), ("blu-20" #005c7d), ("blu-25" #2a445e), ("blu-30" #3c668e), ("peru-05" #004a3e), ("peru-10" #005a49), ("peru-15" #00403b), ("peru-20" #007e72), ("peru-25" #00474e), ("peru-30" #006e78), ("verdo-05" #395229), ("verdo-10" #44851d), ("verdo-15" #15472b), ("verdo-20" #006631), ("verdo-25" #2c4d45), ("verdo-30" #008662), ("oliv-05" #212222), ("oliv-10" #d79d00), ("oliv-15" #5e5836), ("oliv-20" #cdad00), ("oliv-25" #918616), ("oliv-30" #cdcb20), ("brasil-05" #512e2a), ("brasil-10" #f57b00), ("brasil-15" #5d3d24), ("brasil-20" #bd7733), ("brasil-25" #4d4232), ("brasil-30" #ffbc00), ("rubin-05" #52222b), ("rubin-10" #af2b34), ("rubin-15" #802e22), ("rubin-20" #af2f1a), ("rubin-25" #643724), ("rubin-30" #c1431b), ("laser-05" #573e71), ("laser-10" #7a3669), ("laser-15" #a22f56), ("laser-20" #ab223c), ("laser-25" #c8333a), ("laser-30" #ef5816), ("laser-35" #fd8900), ("laser-40" #fca200), ("laser-45" #ffc000), ("laser-50" #f1db12), ("laser-55" #c6c900), ("laser-60" #78b31a), ("laser-65" #29902f), ("laser-70" #00815e), ("laser-75" #006875), ("laser-80" #005889), ("laser-85" #0d497f), ("laser-90" #37457e);
+
+
+// grab a specific color based on key
+@function caparol-3d-lack( $color ) {
+    @each $item in $caparol-3d-lack-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

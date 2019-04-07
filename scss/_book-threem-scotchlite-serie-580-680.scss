@@ -1,0 +1,16 @@
+
+
+// array of colors
+$threem-scotchlite-serie-580-680-colors: ("580-680-10" #b1b5b4), ("580-680-81" #ab9c00), ("580-680-71" #be8300), ("580-680-64" #a6793b), ("580-680-14" #d15500), ("580-680-72" #941208), ("580-680-82" #87030a), ("580-680-76" #00599a), ("580-680-75" #00326d), ("580-680-77" #00543a), ("580-680-85" #1c1c1e);
+
+
+// grab a specific color based on key
+@function threem-scotchlite-serie-580-680( $color ) {
+    @each $item in $threem-scotchlite-serie-580-680-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

@@ -1,0 +1,377 @@
+[
+    {
+        "name": "DRAKA POLYA Blanche 0223",
+        "label": "polya-blanche-0223",
+        "hex": "#f7f4f2"
+    },
+    {
+        "name": "DRAKA POLYA Albino 0203",
+        "label": "polya-albino-0203",
+        "hex": "#eaeaeb"
+    },
+    {
+        "name": "DRAKA POLYA Alpine 0202",
+        "label": "polya-alpine-0202",
+        "hex": "#f7f1e9"
+    },
+    {
+        "name": "DRAKA POLYA Chamois 0351",
+        "label": "polya-chamois-0351",
+        "hex": "#dcdad5"
+    },
+    {
+        "name": "DRAKA POLYA Stern 0350",
+        "label": "polya-stern-0350",
+        "hex": "#cccdcb"
+    },
+    {
+        "name": "DRAKA POLYA Misty 0311",
+        "label": "polya-misty-0311",
+        "hex": "#babab9"
+    },
+    {
+        "name": "DRAKA POLYA London 0392",
+        "label": "polya-london-0392",
+        "hex": "#9a9b9b"
+    },
+    {
+        "name": "DRAKA POLYA Silver-Toledo 1350",
+        "label": "polya-silver-toledo-1350",
+        "hex": "#a0a1a0"
+    },
+    {
+        "name": "DRAKA POLYA Elephant 0393",
+        "label": "polya-elephant-0393",
+        "hex": "#78797b"
+    },
+    {
+        "name": "DRAKA POLYA Antras 0309",
+        "label": "polya-antras-0309",
+        "hex": "#515355"
+    },
+    {
+        "name": "DRAKA POLYA Nero 0408",
+        "label": "polya-nero-0408",
+        "hex": "#414142"
+    },
+    {
+        "name": "DRAKA POLYA Peath 1543",
+        "label": "polya-peath-1543",
+        "hex": "#fabda5"
+    },
+    {
+        "name": "DRAKA POLYA Lobster 0625",
+        "label": "polya-lobster-0625",
+        "hex": "#e27461"
+    },
+    {
+        "name": "DRAKA POLYA Starlet 0569",
+        "label": "polya-starlet-0569",
+        "hex": "#cb547f"
+    },
+    {
+        "name": "DRAKA POLYA Lipstick 1544",
+        "label": "polya-lipstick-1544",
+        "hex": "#a14358"
+    },
+    {
+        "name": "DRAKA POLYA Mulberry 0538",
+        "label": "polya-mulberry-0538",
+        "hex": "#714558"
+    },
+    {
+        "name": "DRAKA POLYA Caracas 0733",
+        "label": "polya-caracas-0733",
+        "hex": "#653f3c"
+    },
+    {
+        "name": "DRAKA POLYA Port 0513",
+        "label": "polya-port-0513",
+        "hex": "#5b373b"
+    },
+    {
+        "name": "DRAKA POLYA Bordo 0597",
+        "label": "polya-bordo-0597",
+        "hex": "#713b41"
+    },
+    {
+        "name": "DRAKA POLYA Carmon 0510",
+        "label": "polya-carmon-0510",
+        "hex": "#9e363b"
+    },
+    {
+        "name": "DRAKA POLYA Toro 0596",
+        "label": "polya-toro-0596",
+        "hex": "#b64347"
+    },
+    {
+        "name": "DRAKA POLYA Pirate 0507",
+        "label": "polya-pirate-0507",
+        "hex": "#c84541"
+    },
+    {
+        "name": "DRAKA POLYA Electric 1965",
+        "label": "polya-electric-1965",
+        "hex": "#d5d744"
+    },
+    {
+        "name": "DRAKA POLYA Yell 0835",
+        "label": "polya-yell-0835",
+        "hex": "#f8e752"
+    },
+    {
+        "name": "DRAKA POLYA Solino 0801",
+        "label": "polya-solino-0801",
+        "hex": "#f7c549"
+    },
+    {
+        "name": "DRAKA POLYA Mais 0813",
+        "label": "polya-mais-0813",
+        "hex": "#f2be63"
+    },
+    {
+        "name": "DRAKA POLYA Verano 0800",
+        "label": "polya-verano-0800",
+        "hex": "#ffaf00"
+    },
+    {
+        "name": "DRAKA POLYA Ibiza 0836 ",
+        "label": "polya-ibiza-0836",
+        "hex": "#f7a82c"
+    },
+    {
+        "name": "DRAKA POLYA Dino 0807",
+        "label": "polya-dino-0807",
+        "hex": "#eb983c"
+    },
+    {
+        "name": "DRAKA POLYA Capri 0603",
+        "label": "polya-capri-0603",
+        "hex": "#e27739"
+    },
+    {
+        "name": "DRAKA POLYA Jaffa 0602",
+        "label": "polya-jaffa-0602",
+        "hex": "#d76238"
+    },
+    {
+        "name": "DRAKA POLYA Oran 0601",
+        "label": "polya-oran-0601",
+        "hex": "#d55741"
+    },
+    {
+        "name": "DRAKA POLYA Cremlin 0515",
+        "label": "polya-cremlin-0515",
+        "hex": "#c5443d"
+    },
+    {
+        "name": "DRAKA POLYA Casata 1966",
+        "label": "polya-casata-1966",
+        "hex": "#6cbb94"
+    },
+    {
+        "name": "DRAKA POLYA Jade 0914",
+        "label": "polya-jade-0914",
+        "hex": "#00977a"
+    },
+    {
+        "name": "DRAKA POLYA Country 0969",
+        "label": "polya-country-0969",
+        "hex": "#00915a"
+    },
+    {
+        "name": "DRAKA POLYA Berlin 0927",
+        "label": "polya-berlin-0927",
+        "hex": "#297a56"
+    },
+    {
+        "name": "DRAKA POLYA Olivo 0952",
+        "label": "polya-olivo-0952",
+        "hex": "#5d6550"
+    },
+    {
+        "name": "DRAKA POLYA Flora 0950",
+        "label": "polya-flora-0950",
+        "hex": "#41524d"
+    },
+    {
+        "name": "DRAKA POLYA Cactus 1967",
+        "label": "polya-cactus-1967",
+        "hex": "#3a5b52"
+    },
+    {
+        "name": "DRAKA POLYA Tundra 0951",
+        "label": "polya-tundra-0951",
+        "hex": "#2d6c54"
+    },
+    {
+        "name": "DRAKA POLYA Avocado 0919",
+        "label": "polya-avocado-0919",
+        "hex": "#557949"
+    },
+    {
+        "name": "DRAKA POLYA Herald 0908",
+        "label": "polya-herald-0908",
+        "hex": "#3f8043"
+    },
+    {
+        "name": "DRAKA POLYA Spring 0909",
+        "label": "polya-spring-0909",
+        "hex": "#66ae5b"
+    },
+    {
+        "name": "DRAKA POLYA Brise 1922",
+        "label": "polya-brise-1922",
+        "hex": "#80b9ab"
+    },
+    {
+        "name": "DRAKA POLYA Turko 1017",
+        "label": "polya-turko-1017",
+        "hex": "#008590"
+    },
+    {
+        "name": "DRAKA POLYA Messina 1185",
+        "label": "polya-messina-1185",
+        "hex": "#079cb4"
+    },
+    {
+        "name": "DRAKA POLYA Palma 1020",
+        "label": "polya-palma-1020",
+        "hex": "#45a6c3"
+    },
+    {
+        "name": "DRAKA POLYA Adonis 1026",
+        "label": "polya-adonis-1026",
+        "hex": "#bad7e4"
+    },
+    {
+        "name": "DRAKA POLYA Levico 1167",
+        "label": "polya-levico-1167",
+        "hex": "#0a81ac"
+    },
+    {
+        "name": "DRAKA POLYA Aqua 1025",
+        "label": "polya-aqua-1025",
+        "hex": "#2f83b3"
+    },
+    {
+        "name": "DRAKA POLYA Grape 1103",
+        "label": "polya-grape-1103",
+        "hex": "#6280a5"
+    },
+    {
+        "name": "DRAKA POLYA Rimini 1028",
+        "label": "polya-rimini-1028",
+        "hex": "#4f7bb5"
+    },
+    {
+        "name": "DRAKA POLYA Viola 1032",
+        "label": "polya-viola-1032",
+        "hex": "#675199"
+    },
+    {
+        "name": "DRAKA POLYA Cosmic 1427",
+        "label": "polya-cosmic-1427",
+        "hex": "#414fa4"
+    },
+    {
+        "name": "DRAKA POLYA Delta 1027",
+        "label": "polya-delta-1027",
+        "hex": "#90b7e0"
+    },
+    {
+        "name": "DRAKA POLYA Nautic 1407",
+        "label": "polya-nautic-1407",
+        "hex": "#0092ca"
+    },
+    {
+        "name": "DRAKA POLYA Lugano 1084",
+        "label": "polya-lugano-1084",
+        "hex": "#2e71b8"
+    },
+    {
+        "name": "DRAKA POLYA Como 1064",
+        "label": "polya-como-1064",
+        "hex": "#2c669b"
+    },
+    {
+        "name": "DRAKA POLYA Lido 1068",
+        "label": "polya-lido-1068",
+        "hex": "#365985"
+    },
+    {
+        "name": "DRAKA POLYA Empire 1104",
+        "label": "polya-empire-1104",
+        "hex": "#414769"
+    },
+    {
+        "name": "DRAKA POLYA Portofino 1108",
+        "label": "polya-portofino-1108",
+        "hex": "#324d6a"
+    },
+    {
+        "name": "DRAKA POLYA Palermo 1070",
+        "label": "polya-palermo-1070",
+        "hex": "#36476b"
+    },
+    {
+        "name": "DRAKA POLYA Azur 1065",
+        "label": "polya-azur-1065",
+        "hex": "#3b495f"
+    },
+    {
+        "name": "DRAKA POLYA Marino 1066",
+        "label": "polya-marino-1066",
+        "hex": "#3e444c"
+    },
+    {
+        "name": "DRAKA POLYA Oyster 1310",
+        "label": "polya-oyster-1310",
+        "hex": "#ded7c8"
+    },
+    {
+        "name": "DRAKA POLYA Porcelain 1311",
+        "label": "polya-porcelain-1311",
+        "hex": "#c4bcb3"
+    },
+    {
+        "name": "DRAKA POLYA Tabac 0717",
+        "label": "polya-tabac-0717",
+        "hex": "#544037"
+    },
+    {
+        "name": "DRAKA POLYA Raisin 1736",
+        "label": "polya-raisin-1736",
+        "hex": "#534742"
+    },
+    {
+        "name": "DRAKA POLYA Espresso 0711",
+        "label": "polya-espresso-0711",
+        "hex": "#4d4644"
+    },
+    {
+        "name": "DRAKA POLYA Cigar 1735",
+        "label": "polya-cigar-1735",
+        "hex": "#81533d"
+    },
+    {
+        "name": "DRAKA POLYA Bronze-Toledo 1850",
+        "label": "polya-bronze-toledo-1850",
+        "hex": "#a1805e"
+    },
+    {
+        "name": "DRAKA POLYA Veranda 0792",
+        "label": "polya-veranda-0792",
+        "hex": "#9a7151"
+    },
+    {
+        "name": "DRAKA POLYA Madras 0718",
+        "label": "polya-madras-0718",
+        "hex": "#b6987b"
+    },
+    {
+        "name": "DRAKA POLYA Roma 0103",
+        "label": "polya-roma-0103",
+        "hex": "#ecdec7"
+    }
+]

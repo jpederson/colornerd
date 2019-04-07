@@ -1,0 +1,16 @@
+
+
+// array of colors
+$avery500eventfilm-colors: ("526-g-saharagelb" #f3dc00), ("527-g-buttergelb" #f6ca00), ("504-g-primelgelb" #ffbe00), ("525-g-hellgelb" #fac600), ("516-g-hellorange" #f99700), ("509-g-orange" #f86400), ("514-g-klatschmohn" #ce3209), ("523-g-mittelrot" #c42918), ("511-g-kirschrot" #bd2713), ("503-g-geranienrot" #af0e1e), ("519-g-rot" #a8131d), ("515-g-dunkelrot" #8e201d), ("513-g-burgunder" #6e0e25), ("524-g-magenta" #ca4085), ("541-g-pink" #ee8dbf), ("550-g-lavendel" #7969a9), ("522-g-violet" #6c3b85), ("540-g-kobaltblau" #111c3a), ("512-g-dunkelblau" #253768), ("528-g-tiefblau" #133482), ("520-g-ultramarinblau" #104181), ("539-g-strahlendblau" #0949a5), ("505-g-blau" #005585), ("521-g-intensivblau" #006da7), ("510-g-hellblau" #0079ba), ("538-g-enzianblau" #0094b9), ("537-g-capriblau" #4eafd6), ("534-g-tuerkis" #008e8e), ("535-g-teal" #009f94), ("536-g-mint" #72d1b7), ("533-g-waldgruen" #004e30), ("532-g-irischgruen" #007a3c), ("506-g-kaktusgruen" #007d4e), ("518-g-grasgruen" #12852e), ("517-g-hellgruen" #65a321), ("531-g-limone" #79c529), ("501-g-weiss" #ebeced), ("544-g-lichtgrau" #c1c1c1), ("529-g-hellgrau" #9fa5af), ("508-g-grau" #818a91), ("545-g-taubengrau" #939590), ("530-g-dunkelgrau" #565c61), ("502-g-schwarz" #101115), ("546-g-silber" #85888a), ("547-g-gold" #968453), ("542-g-elfenbein" #e2cdb1), ("543-g-beige" #d9bf90), ("549-g-lichtbraun" #aa865b), ("507-g-braun" #3d241c), ("548-g-nussbraun" #af5a23), ("526-m-saharagelb" #f5db0c), ("527-m-buttergelb" #f1c905), ("504-m-primelgelb" #fcbe00), ("525-m-hellgelb" #f7c600), ("516-m-hellorange" #fa9b00), ("509-m-orange" #e75b27), ("514-m-klatschmohn" #d3442d), ("523-m-mittelrot" #c33e36), ("511-m-kirschrot" #bf3a2e), ("503-m-geranienrot" #ad272e), ("519-m-rot" #a92f33), ("515-m-dunkelrot" #8c3433), ("513-m-burgunder" #722a35), ("524-m-magenta" #c34a84), ("541-m-pink" #eb92c1), ("550-m-lavendel" #7d71ab), ("522-m-violet" #754a8c), ("540-m-kobaltblau" #2b3046), ("512-m-dunkelblau" #35436c), ("528-m-tiefblau" #3c4981), ("520-m-ultramarinblau" #35558d), ("539-m-strahlendblau" #2756aa), ("505-m-blau" #27608d), ("521-m-intensivblau" #0072ab), ("510-m-hellblau" #017ebc), ("538-m-enzianblau" #009abf), ("537-m-capriblau" #5ab1d9), ("534-m-tuerkis" #009295), ("535-m-teal" #00a098), ("536-m-mint" #76d5bd), ("533-m-waldgruen" #00593d), ("532-m-irischgruen" #007e4b), ("506-m-kaktusgruen" #008759), ("518-m-grasgruen" #328e40), ("517-m-hellgruen" #70ad3a), ("531-m-limone" #83cc3f), ("501-m-weiss" #f0f2f0), ("544-m-lichtgrau" #c8c8c7), ("529-m-hellgrau" #a4aab3), ("508-m-grau" #878e96), ("545-m-taubengrau" #969994), ("530-m-dunkelgrau" #63686d), ("502-m-schwarz" #2e2f31), ("546-m-silber" #9b9d9e), ("547-m-gold" #958457), ("542-m-elfenbein" #e7d2b8), ("543-m-beige" #dfc697), ("549-m-lichtbraun" #ae8c63), ("507-m-braun" #4c3a35), ("548-m-nussbraun" #b05f36);
+
+
+// grab a specific color based on key
+@function avery500eventfilm( $color ) {
+    @each $item in $avery500eventfilm-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

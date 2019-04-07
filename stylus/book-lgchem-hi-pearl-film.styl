@@ -1,0 +1,10 @@
+
+
+// set our color array
+lgchem-hi-pearl-film-colors = ("lc-5010" #92160e) ("lc-5020" #9c5114) ("lc-5030" #a3811a) ("lc-5040" #00877a) ("lc-5050" #292c87)
+
+
+// grab a specific color based on key
+lgchem-hi-pearl-film( color )
+  return item[1] if item[0] == color for item in lgchem-hi-pearl-film-colors
+

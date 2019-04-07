@@ -1,0 +1,16 @@
+
+
+// array of colors
+$yosima-colors: ("ro-0" #a57464), ("ro-1" #be8e7c), ("ro-2" #d2ac9c), ("ro-3" #e0c2b0), ("ro-4" #e5d1c1), ("ge-0" #ba966c), ("ge-1" #cba97e), ("ge-2" #d5b58b), ("ge-3" #dcc39d), ("ge-4" #e8d7ba), ("gr-0" #aba586), ("gr-1" #b9b08f), ("gr-2" #c4ba9b), ("gr-3" #cdc4a7), ("gr-4" #d6ceb4), ("br-0" #987964), ("br-1" #b0947f), ("br-2" #bba18a), ("br-3" #cdb59f), ("br-4" #decebb), ("sc-0" #6b6964), ("sc-1" #918e8b), ("sc-2" #aba8a3), ("sc-3" #c6c3bc), ("sc-4" #d5cfc5), ("we-0" #f0eadc), ("roge-1-0" #a77460), ("roge-1-1" #c08f79), ("roge-1-2" #d4ad98), ("roge-1-3" #e6ceb9), ("roge-2-0" #ac7d66), ("roge-2-1" #c5997f), ("roge-2-2" #d8b59d), ("roge-2-3" #e5cbb6), ("roge-3-0" #af8568), ("roge-3-1" #c59d7f), ("roge-3-2" #d4b094), ("roge-3-3" #e0c5aa), ("roge-4-0" #b58a68), ("roge-4-1" #caa481), ("roge-4-2" #d6b594), ("roge-4-3" #e0c4a5), ("scbr-1-0" #827569), ("scbr-1-1" #9e9183), ("scbr-1-2" #b4a796), ("scbr-1-3" #cec2b4), ("scbr-2-0" #87776a), ("scbr-2-1" #9d8d7f), ("scbr-2-2" #b8a897), ("scbr-2-3" #d3c5b5), ("scbr-3-0" #8e7765), ("scbr-3-1" #a38f7d), ("scbr-3-2" #bdab99), ("scbr-3-3" #d3c4b2), ("scbr-4-0" #927863), ("scbr-4-1" #ac927b), ("scbr-4-2" #c5ad97), ("scbr-4-3" #dbc8b5), ("scge-1-0" #8a7f6b), ("scge-1-1" #a29780), ("scge-1-2" #b8ad95), ("scge-1-3" #cbc0aa), ("scge-2-0" #96866a), ("scge-2-1" #ae9d7f), ("scge-2-2" #c3b394), ("scge-2-3" #d5c6ab), ("scge-3-0" #a28e70), ("scge-3-1" #b8a281), ("scge-3-2" #c5b190), ("scge-3-3" #d6c6a8), ("scge-4-0" #a98f6b), ("scge-4-1" #bfa57f), ("scge-4-2" #ceb690), ("scge-4-3" #d9c7a7), ("brge-1-0" #9e8168), ("brge-1-1" #b6987b), ("brge-1-2" #caaf93), ("brge-1-3" #d8c1a7), ("brge-2-0" #a6896e), ("brge-2-1" #bb9e7f), ("brge-2-2" #caae8f), ("brge-2-3" #dbc4a8), ("brge-3-0" #ab8969), ("brge-3-1" #be9e7d), ("brge-3-2" #ccaf8d), ("brge-3-3" #dcc4a6), ("brge-4-0" #b28f6c), ("brge-4-1" #c4a47d), ("brge-4-2" #d1b48e), ("brge-4-3" #e0c8a6), ("grge-1-0" #aea382), ("grge-1-1" #c2b694), ("grge-1-2" #d0c6a8), ("grge-1-3" #dfd6bf), ("grge-2-0" #b4a07b), ("grge-2-1" #c4b28d), ("grge-2-2" #d7c7a6), ("grge-2-3" #ded1b4), ("grge-3-0" #b99d71), ("grge-3-1" #c9b28a), ("grge-3-2" #d8c5a2), ("grge-3-3" #e1d2b3), ("grge-4-0" #b8996e), ("grge-4-1" #c5aa7f), ("grge-4-2" #d5bc96), ("grge-4-3" #e0ceac), ("scge-1-0" #8a897c), ("scge-1-1" #a19e90), ("scge-1-2" #b3b0a0), ("scge-1-3" #d2cebe), ("scge-2-0" #939180), ("scge-2-1" #aca997), ("scge-2-2" #c2bdab), ("scge-2-3" #d7d2c0), ("scge-3-0" #999782), ("scge-3-1" #b2ae98), ("scge-3-2" #c5c0a9), ("scge-3-3" #dad4c1), ("scge-4-0" #a29e85), ("scge-4-1" #b8b399), ("scge-4-2" #cac4ab), ("scge-4-3" #d9d3bf), ("scro-1-0" #a18e84), ("scro-1-1" #9f8c81), ("scro-1-2" #c0aea3), ("scro-1-3" #daccbe), ("scro-2-0" #886f64), ("scro-2-1" #a4897d), ("scro-2-2" #c7b0a3), ("scro-2-3" #d9c8bc), ("scro-3-0" #906d5f), ("scro-3-1" #a17f71), ("scro-3-2" #caaea0), ("scro-3-3" #dbc6b8), ("scro-4-0" #966c5d), ("scro-4-1" #af8575), ("scro-4-2" #caa796), ("scro-4-3" #ddc3b5);
+
+
+// grab a specific color based on key
+@function yosima( $color ) {
+    @each $item in $yosima-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

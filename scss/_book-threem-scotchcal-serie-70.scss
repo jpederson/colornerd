@@ -1,0 +1,16 @@
+
+
+// array of colors
+$threem-scotchcal-serie-70-colors: ("threem-70-10" #f8f8f3), ("threem-70-100" #f7f7f2), ("threem-70-912" #f1d6a3), ("threem-70-914" #dec99c), ("threem-70-915" #ad824f), ("threem-70-916" #ae521b), ("threem-70-919" #5d2518), ("threem-70-92" #3f241c), ("threem-70-785" #0a3d25), ("threem-70-78" #004a2b), ("threem-70-77" #075320), ("threem-70-76" #00743b), ("threem-70-75" #00762b), ("threem-70-74" #008850), ("threem-70-73" #37a700), ("threem-70-72" #82c727), ("threem-70-24" #f9db00), ("threem-70-25" #ffc100), ("threem-70-27" #ffb200), ("threem-70-275" #ffa500), ("threem-70-32" #e55d00), ("threem-70-34" #f04c00), ("threem-70-41" #da3a0d), ("threem-70-46" #c70d00), ("threem-70-44" #b51605), ("threem-70-475" #bd1e1e), ("threem-70-478" #ac000f), ("threem-70-48" #a50011), ("threem-70-485" #9f1e16), ("threem-70-488" #850813), ("threem-70-489" #6a0720), ("threem-70-66" #5c3b85), ("threem-70-65" #7e65ab), ("threem-70-645" #bc2b5e), ("threem-70-625" #d85389), ("threem-70-62" #e888b6), ("threem-70-792" #6fdbbe), ("threem-70-795" #00a495), ("threem-70-79" #008386), ("threem-70-81" #50abd8), ("threem-70-815" #0097cc), ("threem-70-825" #0089c3), ("threem-70-837" #0073b2), ("threem-70-862" #005390), ("threem-70-878" #1a4792), ("threem-70-882" #0d3979), ("threem-70-89" #1b3563), ("threem-70-903" #1a275d), ("threem-70-905" #0d1f33), ("threem-70-93" #c8cac6), ("threem-70-95" #788080), ("threem-70-96" #565655), ("threem-70-965" #4b4c4c), ("threem-70-97" #45484a), ("threem-70-12" #0e0e10), ("threem-70-120" #1d1c1d), ("threem-70-545" #9b884b), ("threem-70-58" #a8aaab), ("threem-70-585" #404140);
+
+
+// grab a specific color based on key
+@function threem-scotchcal-serie-70( $color ) {
+    @each $item in $threem-scotchcal-serie-70-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

@@ -1,0 +1,902 @@
+[
+    {
+        "name": "Rubens 170301 Deckweiss a",
+        "label": "rubens-170301-deckweiss-a",
+        "hex": "#e0e1db"
+    },
+    {
+        "name": "Rubens 170301 Deckweiss b",
+        "label": "rubens-170301-deckweiss-b",
+        "hex": "#e0e1dc"
+    },
+    {
+        "name": "Rubens 170301 Deckweiss c",
+        "label": "rubens-170301-deckweiss-c",
+        "hex": "#e0e1db"
+    },
+    {
+        "name": "Rubens 170302 Kremserweiss a",
+        "label": "rubens-170302-kremserweiss-a",
+        "hex": "#dcdcd6"
+    },
+    {
+        "name": "Rubens 170302 Kremserweiss b",
+        "label": "rubens-170302-kremserweiss-b",
+        "hex": "#dbdbd4"
+    },
+    {
+        "name": "Rubens 170302 Kremserweiss c",
+        "label": "rubens-170302-kremserweiss-c",
+        "hex": "#dad9d3"
+    },
+    {
+        "name": "Rubens 170303 Titanweiss a",
+        "label": "rubens-170303-titanweiss-a",
+        "hex": "#ddddd7"
+    },
+    {
+        "name": "Rubens 170303 Titanweiss b",
+        "label": "rubens-170303-titanweiss-b",
+        "hex": "#dadad3"
+    },
+    {
+        "name": "Rubens 170303 Titanweiss c",
+        "label": "rubens-170303-titanweiss-c",
+        "hex": "#e1e1da"
+    },
+    {
+        "name": "Rubens 170304 Zinkweiss a",
+        "label": "rubens-170304-zinkweiss-a",
+        "hex": "#dddeda"
+    },
+    {
+        "name": "Rubens 170304 Zinkweiss b",
+        "label": "rubens-170304-zinkweiss-b",
+        "hex": "#dadbd7"
+    },
+    {
+        "name": "Rubens 170304 Zinkweiss c",
+        "label": "rubens-170304-zinkweiss-c",
+        "hex": "#dadad5"
+    },
+    {
+        "name": "Rubens 170305 Mischweiss a",
+        "label": "rubens-170305-mischweiss-a",
+        "hex": "#deded7"
+    },
+    {
+        "name": "Rubens 170305 Mischweiss b",
+        "label": "rubens-170305-mischweiss-b",
+        "hex": "#dfdfd8"
+    },
+    {
+        "name": "Rubens 170305 Mischweiss c",
+        "label": "rubens-170305-mischweiss-c",
+        "hex": "#ddddd6"
+    },
+    {
+        "name": "Rubens 170306 Kadmiumgelb zitron a",
+        "label": "rubens-170306-kadmiumgelb-zitron-a",
+        "hex": "#d3c900"
+    },
+    {
+        "name": "Rubens 170306 Kadmiumgelb zitron b",
+        "label": "rubens-170306-kadmiumgelb-zitron-b",
+        "hex": "#d7d554"
+    },
+    {
+        "name": "Rubens 170306 Kadmiumgelb zitron c",
+        "label": "rubens-170306-kadmiumgelb-zitron-c",
+        "hex": "#d9da9f"
+    },
+    {
+        "name": "Rubens 170307 Zinkgelb a",
+        "label": "rubens-170307-zinkgelb-a",
+        "hex": "#d8c200"
+    },
+    {
+        "name": "Rubens 170307 Zinkgelb b",
+        "label": "rubens-170307-zinkgelb-b",
+        "hex": "#dbd37f"
+    },
+    {
+        "name": "Rubens 170307 Zinkgelb c",
+        "label": "rubens-170307-zinkgelb-c",
+        "hex": "#dedbaa"
+    },
+    {
+        "name": "Rubens 170308 Echtgelb hell a",
+        "label": "rubens-170308-echtgelb-hell-a",
+        "hex": "#e2ba00"
+    },
+    {
+        "name": "Rubens 170308 Echtgelb hell b",
+        "label": "rubens-170308-echtgelb-hell-b",
+        "hex": "#e5d269"
+    },
+    {
+        "name": "Rubens 170308 Echtgelb hell c",
+        "label": "rubens-170308-echtgelb-hell-c",
+        "hex": "#e0d8a1"
+    },
+    {
+        "name": "Rubens 170311 Chromgelb a",
+        "label": "rubens-170311-chromgelb-a",
+        "hex": "#e3b600"
+    },
+    {
+        "name": "Rubens 170311 Chromgelb b",
+        "label": "rubens-170311-chromgelb-b",
+        "hex": "#e7c748"
+    },
+    {
+        "name": "Rubens 170311 Chromgelb c",
+        "label": "rubens-170311-chromgelb-c",
+        "hex": "#e4d17f"
+    },
+    {
+        "name": "Rubens 170309 Kadmiumgelb hell a",
+        "label": "rubens-170309-kadmiumgelb-hell-a",
+        "hex": "#e6a500"
+    },
+    {
+        "name": "Rubens 170309 Kadmiumgelb hell b",
+        "label": "rubens-170309-kadmiumgelb-hell-b",
+        "hex": "#e9bb2c"
+    },
+    {
+        "name": "Rubens 170309 Kadmiumgelb hell c",
+        "label": "rubens-170309-kadmiumgelb-hell-c",
+        "hex": "#e5c869"
+    },
+    {
+        "name": "Rubens 170310 Neapelgelb hell a",
+        "label": "rubens-170310-neapelgelb-hell-a",
+        "hex": "#debc49"
+    },
+    {
+        "name": "Rubens 170310 Neapelgelb hell b",
+        "label": "rubens-170310-neapelgelb-hell-b",
+        "hex": "#dcc270"
+    },
+    {
+        "name": "Rubens 170310 Neapelgelb hell c",
+        "label": "rubens-170310-neapelgelb-hell-c",
+        "hex": "#dbcf9d"
+    },
+    {
+        "name": "Rubens 170312 Neapelgelb dunkel a",
+        "label": "rubens-170312-neapelgelb-dunkel-a",
+        "hex": "#de9f2e"
+    },
+    {
+        "name": "Rubens 170312 Neapelgelb dunkel b",
+        "label": "rubens-170312-neapelgelb-dunkel-b",
+        "hex": "#e0b257"
+    },
+    {
+        "name": "Rubens 170312 Neapelgelb dunkel c",
+        "label": "rubens-170312-neapelgelb-dunkel-c",
+        "hex": "#e1ca95"
+    },
+    {
+        "name": "Rubens 170313 Kadmiumgelb dunkel a",
+        "label": "rubens-170313-kadmiumgelb-dunkel-a",
+        "hex": "#e98b00"
+    },
+    {
+        "name": "Rubens 170313 Kadmiumgelb dunkel b",
+        "label": "rubens-170313-kadmiumgelb-dunkel-b",
+        "hex": "#e6a233"
+    },
+    {
+        "name": "Rubens 170313 Kadmiumgelb dunkel c",
+        "label": "rubens-170313-kadmiumgelb-dunkel-c",
+        "hex": "#e7be71"
+    },
+    {
+        "name": "Rubens 170314 Indischgelb a",
+        "label": "rubens-170314-indischgelb-a",
+        "hex": "#dc8500"
+    },
+    {
+        "name": "Rubens 170314 Indischgelb b",
+        "label": "rubens-170314-indischgelb-b",
+        "hex": "#dfb148"
+    },
+    {
+        "name": "Rubens 170314 Indischgelb c",
+        "label": "rubens-170314-indischgelb-c",
+        "hex": "#e2ca87"
+    },
+    {
+        "name": "Rubens 170315 Fleischfarbe a",
+        "label": "rubens-170315-fleischfarbe-a",
+        "hex": "#e2c3a3"
+    },
+    {
+        "name": "Rubens 170315 Fleischfarbe b",
+        "label": "rubens-170315-fleischfarbe-b",
+        "hex": "#e1c9b1"
+    },
+    {
+        "name": "Rubens 170315 Fleischfarbe c",
+        "label": "rubens-170315-fleischfarbe-c",
+        "hex": "#e0d6c8"
+    },
+    {
+        "name": "Rubens 170316 Chromorange a",
+        "label": "rubens-170316-chromorange-a",
+        "hex": "#d67400"
+    },
+    {
+        "name": "Rubens 170316 Chromorange b",
+        "label": "rubens-170316-chromorange-b",
+        "hex": "#e0b51c"
+    },
+    {
+        "name": "Rubens 170316 Chromorange c",
+        "label": "rubens-170316-chromorange-c",
+        "hex": "#e1ca5f"
+    },
+    {
+        "name": "Rubens 170317 Orange a",
+        "label": "rubens-170317-orange-a",
+        "hex": "#ce470b"
+    },
+    {
+        "name": "Rubens 170317 Orange b",
+        "label": "rubens-170317-orange-b",
+        "hex": "#da7c46"
+    },
+    {
+        "name": "Rubens 170317 Orange c",
+        "label": "rubens-170317-orange-c",
+        "hex": "#e3ae84"
+    },
+    {
+        "name": "Rubens 170318 Kadmiumorange a",
+        "label": "rubens-170318-kadmiumorange-a",
+        "hex": "#d84e00"
+    },
+    {
+        "name": "Rubens 170318 Kadmiumorange b",
+        "label": "rubens-170318-kadmiumorange-b",
+        "hex": "#e48b5b"
+    },
+    {
+        "name": "Rubens 170318 Kadmiumorange c",
+        "label": "rubens-170318-kadmiumorange-c",
+        "hex": "#eaa683"
+    },
+    {
+        "name": "Rubens 170319 Kadmiumrot hell a",
+        "label": "rubens-170319-kadmiumrot-hell-a",
+        "hex": "#b92912"
+    },
+    {
+        "name": "Rubens 170319 Kadmiumrot hell b",
+        "label": "rubens-170319-kadmiumrot-hell-b",
+        "hex": "#c34539"
+    },
+    {
+        "name": "Rubens 170319 Kadmiumrot hell c",
+        "label": "rubens-170319-kadmiumrot-hell-c",
+        "hex": "#d06d64"
+    },
+    {
+        "name": "Rubens 170320 Zinnoberrot a",
+        "label": "rubens-170320-zinnoberrot-a",
+        "hex": "#bb2416"
+    },
+    {
+        "name": "Rubens 170320 Zinnoberrot b",
+        "label": "rubens-170320-zinnoberrot-b",
+        "hex": "#cf5051"
+    },
+    {
+        "name": "Rubens 170320 Zinnoberrot c",
+        "label": "rubens-170320-zinnoberrot-c",
+        "hex": "#de8d8f"
+    },
+    {
+        "name": "Rubens 170321 Echtrot deckend a",
+        "label": "rubens-170321-echtrot-deckend-a",
+        "hex": "#b52c27"
+    },
+    {
+        "name": "Rubens 170321 Echtrot deckend b",
+        "label": "rubens-170321-echtrot-deckend-b",
+        "hex": "#cc565e"
+    },
+    {
+        "name": "Rubens 170321 Echtrot deckend c",
+        "label": "rubens-170321-echtrot-deckend-c",
+        "hex": "#dc858f"
+    },
+    {
+        "name": "Rubens 170322 Kadmiumrot dunkel a",
+        "label": "rubens-170322-kadmiumrot-dunkel-a",
+        "hex": "#a01822"
+    },
+    {
+        "name": "Rubens 170322 Kadmiumrot dunkel b",
+        "label": "rubens-170322-kadmiumrot-dunkel-b",
+        "hex": "#b94e5e"
+    },
+    {
+        "name": "Rubens 170322 Kadmiumrot dunkel c",
+        "label": "rubens-170322-kadmiumrot-dunkel-c",
+        "hex": "#cb7684"
+    },
+    {
+        "name": "Rubens 170323 Karminrot a",
+        "label": "rubens-170323-karminrot-a",
+        "hex": "#911f28"
+    },
+    {
+        "name": "Rubens 170323 Karminrot b",
+        "label": "rubens-170323-karminrot-b",
+        "hex": "#ab3e61"
+    },
+    {
+        "name": "Rubens 170323 Karminrot c",
+        "label": "rubens-170323-karminrot-c",
+        "hex": "#bf6a8e"
+    },
+    {
+        "name": "Rubens 170324 Krapplack hell a",
+        "label": "rubens-170324-krapplack-hell-a",
+        "hex": "#73151f"
+    },
+    {
+        "name": "Rubens 170324 Krapplack hell b",
+        "label": "rubens-170324-krapplack-hell-b",
+        "hex": "#923559"
+    },
+    {
+        "name": "Rubens 170324 Krapplack hell c",
+        "label": "rubens-170324-krapplack-hell-c",
+        "hex": "#b0648c"
+    },
+    {
+        "name": "Rubens 170325 Krapplack dunkel a",
+        "label": "rubens-170325-krapplack-dunkel-a",
+        "hex": "#6e0e1e"
+    },
+    {
+        "name": "Rubens 170325 Krapplack dunkel b",
+        "label": "rubens-170325-krapplack-dunkel-b",
+        "hex": "#8b405c"
+    },
+    {
+        "name": "Rubens 170325 Krapplack dunkel c",
+        "label": "rubens-170325-krapplack-dunkel-c",
+        "hex": "#b1778f"
+    },
+    {
+        "name": "Rubens 170326 Kobaltviolett hell a",
+        "label": "rubens-170326-kobaltviolett-hell-a",
+        "hex": "#46224a"
+    },
+    {
+        "name": "Rubens 170326 Kobaltviolett hell b",
+        "label": "rubens-170326-kobaltviolett-hell-b",
+        "hex": "#70447f"
+    },
+    {
+        "name": "Rubens 170326 Kobaltviolett hell c",
+        "label": "rubens-170326-kobaltviolett-hell-c",
+        "hex": "#a076ac"
+    },
+    {
+        "name": "Rubens 170327 Kobaltviolett dunkel a",
+        "label": "rubens-170327-kobaltviolett-dunkel-a",
+        "hex": "#522b57"
+    },
+    {
+        "name": "Rubens 170327 Kobaltviolett dunkel b",
+        "label": "rubens-170327-kobaltviolett-dunkel-b",
+        "hex": "#7c5d91"
+    },
+    {
+        "name": "Rubens 170327 Kobaltviolett dunkel c",
+        "label": "rubens-170327-kobaltviolett-dunkel-c",
+        "hex": "#a691b6"
+    },
+    {
+        "name": "Rubens 170328 Ultramarinviolett a",
+        "label": "rubens-170328-ultramarinviolett-a",
+        "hex": "#564396"
+    },
+    {
+        "name": "Rubens 170328 Ultramarinviolett b",
+        "label": "rubens-170328-ultramarinviolett-b",
+        "hex": "#7d77b6"
+    },
+    {
+        "name": "Rubens 170328 Ultramarinviolett c",
+        "label": "rubens-170328-ultramarinviolett-c",
+        "hex": "#acacca"
+    },
+    {
+        "name": "Rubens 170330 Indigo a",
+        "label": "rubens-170330-indigo-a",
+        "hex": "#29272b"
+    },
+    {
+        "name": "Rubens 170330 Indigo b",
+        "label": "rubens-170330-indigo-b",
+        "hex": "#30495b"
+    },
+    {
+        "name": "Rubens 170330 Indigo c",
+        "label": "rubens-170330-indigo-c",
+        "hex": "#5d8093"
+    },
+    {
+        "name": "Rubens 170329 Pariserblau a",
+        "label": "rubens-170329-pariserblau-a",
+        "hex": "#201f30"
+    },
+    {
+        "name": "Rubens 170329 Pariserblau b",
+        "label": "rubens-170329-pariserblau-b",
+        "hex": "#1f5681"
+    },
+    {
+        "name": "Rubens 170329 Pariserblau c",
+        "label": "rubens-170329-pariserblau-c",
+        "hex": "#4a85ac"
+    },
+    {
+        "name": "Rubens 170332 Ultramarinblau a",
+        "label": "rubens-170332-ultramarinblau-a",
+        "hex": "#314b93"
+    },
+    {
+        "name": "Rubens 170332 Ultramarinblau b",
+        "label": "rubens-170332-ultramarinblau-b",
+        "hex": "#4167ad"
+    },
+    {
+        "name": "Rubens 170332 Ultramarinblau c",
+        "label": "rubens-170332-ultramarinblau-c",
+        "hex": "#8ca5c7"
+    },
+    {
+        "name": "Rubens 170331 Helioblau a",
+        "label": "rubens-170331-helioblau-a",
+        "hex": "#162d50"
+    },
+    {
+        "name": "Rubens 170331 Helioblau b",
+        "label": "rubens-170331-helioblau-b",
+        "hex": "#006194"
+    },
+    {
+        "name": "Rubens 170331 Helioblau c",
+        "label": "rubens-170331-helioblau-c",
+        "hex": "#0088b8"
+    },
+    {
+        "name": "Rubens 170334 Kobaltblau dunkel a",
+        "label": "rubens-170334-kobaltblau-dunkel-a",
+        "hex": "#15428d"
+    },
+    {
+        "name": "Rubens 170334 Kobaltblau dunkel b",
+        "label": "rubens-170334-kobaltblau-dunkel-b",
+        "hex": "#407cb8"
+    },
+    {
+        "name": "Rubens 170334 Kobaltblau dunkel c",
+        "label": "rubens-170334-kobaltblau-dunkel-c",
+        "hex": "#7fa8cc"
+    },
+    {
+        "name": "Rubens 170335 Kobaltblau hell a",
+        "label": "rubens-170335-kobaltblau-hell-a",
+        "hex": "#165da5"
+    },
+    {
+        "name": "Rubens 170335 Kobaltblau hell b",
+        "label": "rubens-170335-kobaltblau-hell-b",
+        "hex": "#4083bf"
+    },
+    {
+        "name": "Rubens 170335 Kobaltblau hell c",
+        "label": "rubens-170335-kobaltblau-hell-c",
+        "hex": "#7ea8cc"
+    },
+    {
+        "name": "Rubens 170336 Coelinblau a",
+        "label": "rubens-170336-coelinblau-a",
+        "hex": "#006b97"
+    },
+    {
+        "name": "Rubens 170336 Coelinblau b",
+        "label": "rubens-170336-coelinblau-b",
+        "hex": "#0077a2"
+    },
+    {
+        "name": "Rubens 170336 Coelinblau c",
+        "label": "rubens-170336-coelinblau-c",
+        "hex": "#5d9fbf"
+    },
+    {
+        "name": "Rubens 170337 Coelinblau imit- a",
+        "label": "rubens-170337-coelinblau-imit-a",
+        "hex": "#005f89"
+    },
+    {
+        "name": "Rubens 170337 Coelinblau imit- b",
+        "label": "rubens-170337-coelinblau-imit-b",
+        "hex": "#1592b5"
+    },
+    {
+        "name": "Rubens 170337 Coelinblau imit- c",
+        "label": "rubens-170337-coelinblau-imit-c",
+        "hex": "#61adc5"
+    },
+    {
+        "name": "Rubens 170333 Koenigsblau a",
+        "label": "rubens-170333-koenigsblau-a",
+        "hex": "#4d85c0"
+    },
+    {
+        "name": "Rubens 170333 Koenigsblau b",
+        "label": "rubens-170333-koenigsblau-b",
+        "hex": "#729dca"
+    },
+    {
+        "name": "Rubens 170333 Koenigsblau c",
+        "label": "rubens-170333-koenigsblau-c",
+        "hex": "#9dbad4"
+    },
+    {
+        "name": "Rubens 170338 Chromoxidgruen feurig a",
+        "label": "rubens-170338-chromoxidgruen-feurig-a",
+        "hex": "#00472f"
+    },
+    {
+        "name": "Rubens 170338 Chromoxidgruen feurig b",
+        "label": "rubens-170338-chromoxidgruen-feurig-b",
+        "hex": "#007f5f"
+    },
+    {
+        "name": "Rubens 170338 Chromoxidgruen feurig c",
+        "label": "rubens-170338-chromoxidgruen-feurig-c",
+        "hex": "#09a88f"
+    },
+    {
+        "name": "Rubens 170339 Echtgruen dunkel a",
+        "label": "rubens-170339-echtgruen-dunkel-a",
+        "hex": "#00472f"
+    },
+    {
+        "name": "Rubens 170339 Echtgruen dunkel b",
+        "label": "rubens-170339-echtgruen-dunkel-b",
+        "hex": "#007656"
+    },
+    {
+        "name": "Rubens 170339 Echtgruen dunkel c",
+        "label": "rubens-170339-echtgruen-dunkel-c",
+        "hex": "#00a98f"
+    },
+    {
+        "name": "Rubens 170343 Kadmiumgruen hell a",
+        "label": "rubens-170343-kadmiumgruen-hell-a",
+        "hex": "#1f6635"
+    },
+    {
+        "name": "Rubens 170343 Kadmiumgruen hell b",
+        "label": "rubens-170343-kadmiumgruen-hell-b",
+        "hex": "#388959"
+    },
+    {
+        "name": "Rubens 170343 Kadmiumgruen hell c",
+        "label": "rubens-170343-kadmiumgruen-hell-c",
+        "hex": "#6dac88"
+    },
+    {
+        "name": "Rubens 170340 Zinkgruen a",
+        "label": "rubens-170340-zinkgruen-a",
+        "hex": "#1c5c20"
+    },
+    {
+        "name": "Rubens 170340 Zinkgruen b",
+        "label": "rubens-170340-zinkgruen-b",
+        "hex": "#3b823d"
+    },
+    {
+        "name": "Rubens 170340 Zinkgruen c",
+        "label": "rubens-170340-zinkgruen-c",
+        "hex": "#77b17e"
+    },
+    {
+        "name": "Rubens 170341 Permanentgruen dunkel a",
+        "label": "rubens-170341-permanentgruen-dunkel-a",
+        "hex": "#009733"
+    },
+    {
+        "name": "Rubens 170341 Permanentgruen dunkel b",
+        "label": "rubens-170341-permanentgruen-dunkel-b",
+        "hex": "#20ab5e"
+    },
+    {
+        "name": "Rubens 170341 Permanentgruen dunkel c",
+        "label": "rubens-170341-permanentgruen-dunkel-c",
+        "hex": "#95cfac"
+    },
+    {
+        "name": "Rubens 170344 Permanentgruen hell a",
+        "label": "rubens-170344-permanentgruen-hell-a",
+        "hex": "#00a12b"
+    },
+    {
+        "name": "Rubens 170344 Permanentgruen hell b",
+        "label": "rubens-170344-permanentgruen-hell-b",
+        "hex": "#5fc059"
+    },
+    {
+        "name": "Rubens 170344 Permanentgruen hell c",
+        "label": "rubens-170344-permanentgruen-hell-c",
+        "hex": "#9fd19c"
+    },
+    {
+        "name": "Rubens 170342 Chromoxidgruen matt a",
+        "label": "rubens-170342-chromoxidgruen-matt-a",
+        "hex": "#3b5832"
+    },
+    {
+        "name": "Rubens 170342 Chromoxidgruen matt b",
+        "label": "rubens-170342-chromoxidgruen-matt-b",
+        "hex": "#607960"
+    },
+    {
+        "name": "Rubens 170342 Chromoxidgruen matt c",
+        "label": "rubens-170342-chromoxidgruen-matt-c",
+        "hex": "#889e8b"
+    },
+    {
+        "name": "Rubens 170345 Boehmisch Gruene Erde a",
+        "label": "rubens-170345-boehmisch-gruene-erde-a",
+        "hex": "#574e31"
+    },
+    {
+        "name": "Rubens 170345 Boehmisch Gruene Erde b",
+        "label": "rubens-170345-boehmisch-gruene-erde-b",
+        "hex": "#909279"
+    },
+    {
+        "name": "Rubens 170345 Boehmisch Gruene Erde c",
+        "label": "rubens-170345-boehmisch-gruene-erde-c",
+        "hex": "#b3b9aa"
+    },
+    {
+        "name": "Rubens 170346 Veroneser Gruene Erde a",
+        "label": "rubens-170346-veroneser-gruene-erde-a",
+        "hex": "#5f5b2e"
+    },
+    {
+        "name": "Rubens 170346 Veroneser Gruene Erde b",
+        "label": "rubens-170346-veroneser-gruene-erde-b",
+        "hex": "#7d815a"
+    },
+    {
+        "name": "Rubens 170346 Veroneser Gruene Erde c",
+        "label": "rubens-170346-veroneser-gruene-erde-c",
+        "hex": "#abad8d"
+    },
+    {
+        "name": "Rubens 170347 Lichter Ocker a",
+        "label": "rubens-170347-lichter-ocker-a",
+        "hex": "#b37a2e"
+    },
+    {
+        "name": "Rubens 170347 Lichter Ocker b",
+        "label": "rubens-170347-lichter-ocker-b",
+        "hex": "#c29353"
+    },
+    {
+        "name": "Rubens 170347 Lichter Ocker c",
+        "label": "rubens-170347-lichter-ocker-c",
+        "hex": "#d2ae7c"
+    },
+    {
+        "name": "Rubens 170348 Terra di Siena natur a",
+        "label": "rubens-170348-terra-di-siena-natur-a",
+        "hex": "#875940"
+    },
+    {
+        "name": "Rubens 170348 Terra di Siena natur b",
+        "label": "rubens-170348-terra-di-siena-natur-b",
+        "hex": "#a2724c"
+    },
+    {
+        "name": "Rubens 170348 Terra di Siena natur c",
+        "label": "rubens-170348-terra-di-siena-natur-c",
+        "hex": "#cbaf93"
+    },
+    {
+        "name": "Rubens 170349 Goldocker a",
+        "label": "rubens-170349-goldocker-a",
+        "hex": "#7e4828"
+    },
+    {
+        "name": "Rubens 170349 Goldocker b",
+        "label": "rubens-170349-goldocker-b",
+        "hex": "#96694d"
+    },
+    {
+        "name": "Rubens 170349 Goldocker c",
+        "label": "rubens-170349-goldocker-c",
+        "hex": "#b58f75"
+    },
+    {
+        "name": "Rubens 170350 Terra di Siena gebrannt a",
+        "label": "rubens-170350-terra-di-siena-gebrannt-a",
+        "hex": "#5e3025"
+    },
+    {
+        "name": "Rubens 170350 Terra di Siena gebrannt b",
+        "label": "rubens-170350-terra-di-siena-gebrannt-b",
+        "hex": "#925a48"
+    },
+    {
+        "name": "Rubens 170350 Terra di Siena gebrannt c",
+        "label": "rubens-170350-terra-di-siena-gebrannt-c",
+        "hex": "#b58e7e"
+    },
+    {
+        "name": "Rubens 170351 Englischrot a",
+        "label": "rubens-170351-englischrot-a",
+        "hex": "#753628"
+    },
+    {
+        "name": "Rubens 170351 Englischrot b",
+        "label": "rubens-170351-englischrot-b",
+        "hex": "#985349"
+    },
+    {
+        "name": "Rubens 170351 Englischrot c",
+        "label": "rubens-170351-englischrot-c",
+        "hex": "#b37269"
+    },
+    {
+        "name": "Rubens 170352 Caput mortuum a",
+        "label": "rubens-170352-caput-mortuum-a",
+        "hex": "#572a2a"
+    },
+    {
+        "name": "Rubens 170352 Caput mortuum b",
+        "label": "rubens-170352-caput-mortuum-b",
+        "hex": "#79585f"
+    },
+    {
+        "name": "Rubens 170352 Caput mortuum c",
+        "label": "rubens-170352-caput-mortuum-c",
+        "hex": "#9e848c"
+    },
+    {
+        "name": "Rubens 170353 Umbra hell a",
+        "label": "rubens-170353-umbra-hell-a",
+        "hex": "#623b24"
+    },
+    {
+        "name": "Rubens 170353 Umbra hell b",
+        "label": "rubens-170353-umbra-hell-b",
+        "hex": "#89684b"
+    },
+    {
+        "name": "Rubens 170353 Umbra hell c",
+        "label": "rubens-170353-umbra-hell-c",
+        "hex": "#ae967e"
+    },
+    {
+        "name": "Rubens 170354 Umbra gebrannt a",
+        "label": "rubens-170354-umbra-gebrannt-a",
+        "hex": "#352d2b"
+    },
+    {
+        "name": "Rubens 170354 Umbra gebrannt b",
+        "label": "rubens-170354-umbra-gebrannt-b",
+        "hex": "#574134"
+    },
+    {
+        "name": "Rubens 170354 Umbra gebrannt c",
+        "label": "rubens-170354-umbra-gebrannt-c",
+        "hex": "#977f6d"
+    },
+    {
+        "name": "Rubens 170355 Umbra dunkel a",
+        "label": "rubens-170355-umbra-dunkel-a",
+        "hex": "#39342f"
+    },
+    {
+        "name": "Rubens 170355 Umbra dunkel b",
+        "label": "rubens-170355-umbra-dunkel-b",
+        "hex": "#645848"
+    },
+    {
+        "name": "Rubens 170355 Umbra dunkel c",
+        "label": "rubens-170355-umbra-dunkel-c",
+        "hex": "#9b907e"
+    },
+    {
+        "name": "Rubens 170356 Kasslerbraun a",
+        "label": "rubens-170356-kasslerbraun-a",
+        "hex": "#332c26"
+    },
+    {
+        "name": "Rubens 170356 Kasslerbraun b",
+        "label": "rubens-170356-kasslerbraun-b",
+        "hex": "#6c5e54"
+    },
+    {
+        "name": "Rubens 170356 Kasslerbraun c",
+        "label": "rubens-170356-kasslerbraun-c",
+        "hex": "#91887f"
+    },
+    {
+        "name": "Rubens 170357 Van Dyck Braun a",
+        "label": "rubens-170357-van-dyck-braun-a",
+        "hex": "#2f2e2f"
+    },
+    {
+        "name": "Rubens 170357 Van Dyck Braun b",
+        "label": "rubens-170357-van-dyck-braun-b",
+        "hex": "#7a7673"
+    },
+    {
+        "name": "Rubens 170357 Van Dyck Braun c",
+        "label": "rubens-170357-van-dyck-braun-c",
+        "hex": "#a9a6a3"
+    },
+    {
+        "name": "Rubens 170358 Lampenschwarz a",
+        "label": "rubens-170358-lampenschwarz-a",
+        "hex": "#191a1d"
+    },
+    {
+        "name": "Rubens 170358 Lampenschwarz b",
+        "label": "rubens-170358-lampenschwarz-b",
+        "hex": "#4c4f53"
+    },
+    {
+        "name": "Rubens 170358 Lampenschwarz c",
+        "label": "rubens-170358-lampenschwarz-c",
+        "hex": "#74777b"
+    },
+    {
+        "name": "Rubens 170359 Eisenoxidschwarz a",
+        "label": "rubens-170359-eisenoxidschwarz-a",
+        "hex": "#242323"
+    },
+    {
+        "name": "Rubens 170359 Eisenoxidschwarz b",
+        "label": "rubens-170359-eisenoxidschwarz-b",
+        "hex": "#505358"
+    },
+    {
+        "name": "Rubens 170359 Eisenoxidschwarz c",
+        "label": "rubens-170359-eisenoxidschwarz-c",
+        "hex": "#75787e"
+    },
+    {
+        "name": "Rubens 170360 Elfenbeinschwarz a",
+        "label": "rubens-170360-elfenbeinschwarz-a",
+        "hex": "#171819"
+    },
+    {
+        "name": "Rubens 170360 Elfenbeinschwarz b",
+        "label": "rubens-170360-elfenbeinschwarz-b",
+        "hex": "#55585b"
+    },
+    {
+        "name": "Rubens 170360 Elfenbeinschwarz c",
+        "label": "rubens-170360-elfenbeinschwarz-c",
+        "hex": "#7e8184"
+    }
+]

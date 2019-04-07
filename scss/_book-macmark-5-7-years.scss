@@ -1,0 +1,16 @@
+
+
+// array of colors
+$macmark-5-7-years-colors: ("macal-6622" #fcfdf9), ("macal-6623" #181817), ("macal-9801-04" #e75e00), ("macal-9809-00" #ffbd00), ("macal-9809-06" #ffe500), ("macal-9829-00" #f6f7fa), ("macal-9829-01" #ecce9a), ("macal-9839-07" #5ab6de), ("macal-9839-10" #009ad2), ("macal-9839-11" #005497), ("macal-9839-12" #0f3474), ("macal-9839-13" #633a95), ("macal-9839-19" #121f33), ("macal-9839-20" #128abf), ("macal-9839-22" #0068b4), ("macal-9849-00" #00502b), ("macal-9849-10" #00763e), ("macal-9849-11" #00955b), ("macal-9849-12" #43a200), ("macal-9849-13" #87d126), ("macal-9849-15" #00a498), ("macal-9859-00" #ad0c19), ("macal-9859-04" #c32517), ("macal-9859-05" #641928), ("macal-9859-08" #f590c0), ("macal-9859-09" #be2367), ("macal-9859-10" #d7351c), ("macal-9859-11" #d7351c), ("macal-9869-00" #a1a3a3), ("macal-9879-00" #a89262), ("macal-9883-04" #432818), ("macal-9889-00" #0a0b0d), ("macal-9889-01" #414240), ("macal-9889-02" #616666), ("macal-9889-03" #989c96), ("macal-9828-00" #f7f6fc), ("macal-9888-00" #2e2f2f), ("macal-9809-09" #ffc900), ("macal-9809-10" #fea900), ("macal-9859-12" #9d000d), ("macal-9859-13" #7e1b21), ("macal-9849-18" #6ddac0), ("macal-9849-17" #009495), ("macal-9839-24" #0076b6), ("macal-9839-26" #00408b), ("macal-9839-23" #0d2c56), ("macal-9883-07" #7f4c23), ("macal-9883-06" #704421), ("macal-9889-04" #cecfcf), ("macal-9889-05" #474b4c);
+
+
+// grab a specific color based on key
+@function macmark-5-7-years( $color ) {
+    @each $item in $macmark-5-7-years-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

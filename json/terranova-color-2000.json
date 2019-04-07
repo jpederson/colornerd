@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Terranova T010",
+        "label": "terranova-t010",
+        "hex": "#ecede6"
+    },
+    {
+        "name": "Terranova T020",
+        "label": "terranova-t020",
+        "hex": "#e8e3db"
+    },
+    {
+        "name": "Terranova T030",
+        "label": "terranova-t030",
+        "hex": "#eeefdd"
+    },
+    {
+        "name": "Terranova T040",
+        "label": "terranova-t040",
+        "hex": "#eeefdb"
+    },
+    {
+        "name": "Terranova T050",
+        "label": "terranova-t050",
+        "hex": "#edf0c4"
+    },
+    {
+        "name": "Terranova T060",
+        "label": "terranova-t060",
+        "hex": "#e9e8a2"
+    },
+    {
+        "name": "Terranova T070",
+        "label": "terranova-t070",
+        "hex": "#ebe786"
+    },
+    {
+        "name": "Terranova T080",
+        "label": "terranova-t080",
+        "hex": "#ece67b"
+    },
+    {
+        "name": "Terranova T090",
+        "label": "terranova-t090",
+        "hex": "#ede377"
+    },
+    {
+        "name": "Terranova T100",
+        "label": "terranova-t100",
+        "hex": "#ebece5"
+    },
+    {
+        "name": "Terranova T110",
+        "label": "terranova-t110",
+        "hex": "#eeeada"
+    },
+    {
+        "name": "Terranova T120",
+        "label": "terranova-t120",
+        "hex": "#f4ebd5"
+    },
+    {
+        "name": "Terranova T130",
+        "label": "terranova-t130",
+        "hex": "#eedcba"
+    },
+    {
+        "name": "Terranova T140",
+        "label": "terranova-t140",
+        "hex": "#f0d4a4"
+    },
+    {
+        "name": "Terranova T150",
+        "label": "terranova-t150",
+        "hex": "#e7c48e"
+    },
+    {
+        "name": "Terranova T160",
+        "label": "terranova-t160",
+        "hex": "#deb476"
+    },
+    {
+        "name": "Terranova T170",
+        "label": "terranova-t170",
+        "hex": "#dbaf6c"
+    },
+    {
+        "name": "Terranova T180",
+        "label": "terranova-t180",
+        "hex": "#d2a25b"
+    },
+    {
+        "name": "Terranova T190",
+        "label": "terranova-t190",
+        "hex": "#d8ceb8"
+    },
+    {
+        "name": "Terranova T200",
+        "label": "terranova-t200",
+        "hex": "#ddccb0"
+    },
+    {
+        "name": "Terranova T210",
+        "label": "terranova-t210",
+        "hex": "#dbc7a6"
+    },
+    {
+        "name": "Terranova T220",
+        "label": "terranova-t220",
+        "hex": "#c9a986"
+    },
+    {
+        "name": "Terranova T230",
+        "label": "terranova-t230",
+        "hex": "#9e7c63"
+    },
+    {
+        "name": "Terranova T240",
+        "label": "terranova-t240",
+        "hex": "#a17f71"
+    },
+    {
+        "name": "Terranova T250",
+        "label": "terranova-t250",
+        "hex": "#efdebc"
+    },
+    {
+        "name": "Terranova T260",
+        "label": "terranova-t260",
+        "hex": "#e7d2aa"
+    },
+    {
+        "name": "Terranova T270",
+        "label": "terranova-t270",
+        "hex": "#e4c998"
+    },
+    {
+        "name": "Terranova T280",
+        "label": "terranova-t280",
+        "hex": "#e3bb80"
+    },
+    {
+        "name": "Terranova T290",
+        "label": "terranova-t290",
+        "hex": "#ddb282"
+    },
+    {
+        "name": "Terranova T300",
+        "label": "terranova-t300",
+        "hex": "#daaa81"
+    },
+    {
+        "name": "Terranova T310",
+        "label": "terranova-t310",
+        "hex": "#ca906d"
+    },
+    {
+        "name": "Terranova T320",
+        "label": "terranova-t320",
+        "hex": "#ead9d1"
+    },
+    {
+        "name": "Terranova T330",
+        "label": "terranova-t330",
+        "hex": "#e3c8c1"
+    },
+    {
+        "name": "Terranova T340",
+        "label": "terranova-t340",
+        "hex": "#dfb8b1"
+    },
+    {
+        "name": "Terranova T350",
+        "label": "terranova-t350",
+        "hex": "#d8a7a0"
+    },
+    {
+        "name": "Terranova T360",
+        "label": "terranova-t360",
+        "hex": "#ca8c86"
+    },
+    {
+        "name": "Terranova T370",
+        "label": "terranova-t370",
+        "hex": "#b4746e"
+    },
+    {
+        "name": "Terranova T380",
+        "label": "terranova-t380",
+        "hex": "#98554f"
+    },
+    {
+        "name": "Terranova T390",
+        "label": "terranova-t390",
+        "hex": "#f0ddd2"
+    },
+    {
+        "name": "Terranova T400",
+        "label": "terranova-t400",
+        "hex": "#dcc0b9"
+    },
+    {
+        "name": "Terranova T410",
+        "label": "terranova-t410",
+        "hex": "#c7a8a6"
+    },
+    {
+        "name": "Terranova T420",
+        "label": "terranova-t420",
+        "hex": "#d1c2c0"
+    },
+    {
+        "name": "Terranova T430",
+        "label": "terranova-t430",
+        "hex": "#c7b5b5"
+    },
+    {
+        "name": "Terranova T440",
+        "label": "terranova-t440",
+        "hex": "#baa7a7"
+    },
+    {
+        "name": "Terranova T450",
+        "label": "terranova-t450",
+        "hex": "#e8ebe6"
+    },
+    {
+        "name": "Terranova T460",
+        "label": "terranova-t460",
+        "hex": "#dce7e7"
+    },
+    {
+        "name": "Terranova T470",
+        "label": "terranova-t470",
+        "hex": "#cadce6"
+    },
+    {
+        "name": "Terranova T480",
+        "label": "terranova-t480",
+        "hex": "#c3dae6"
+    },
+    {
+        "name": "Terranova T490",
+        "label": "terranova-t490",
+        "hex": "#abc9e1"
+    },
+    {
+        "name": "Terranova T500",
+        "label": "terranova-t500",
+        "hex": "#9bc2e1"
+    },
+    {
+        "name": "Terranova T510",
+        "label": "terranova-t510",
+        "hex": "#8db8dd"
+    },
+    {
+        "name": "Terranova T520",
+        "label": "terranova-t520",
+        "hex": "#8ab5dc"
+    },
+    {
+        "name": "Terranova T530",
+        "label": "terranova-t530",
+        "hex": "#e1e8e4"
+    },
+    {
+        "name": "Terranova T540",
+        "label": "terranova-t540",
+        "hex": "#cce3e6"
+    },
+    {
+        "name": "Terranova T550",
+        "label": "terranova-t550",
+        "hex": "#b4d6e1"
+    },
+    {
+        "name": "Terranova T560",
+        "label": "terranova-t560",
+        "hex": "#96c5d8"
+    },
+    {
+        "name": "Terranova T570",
+        "label": "terranova-t570",
+        "hex": "#82bed9"
+    },
+    {
+        "name": "Terranova T580",
+        "label": "terranova-t580",
+        "hex": "#81bad2"
+    },
+    {
+        "name": "Terranova T590",
+        "label": "terranova-t590",
+        "hex": "#67accb"
+    },
+    {
+        "name": "Terranova T600",
+        "label": "terranova-t600",
+        "hex": "#e4e6db"
+    },
+    {
+        "name": "Terranova T610",
+        "label": "terranova-t610",
+        "hex": "#dee4d6"
+    },
+    {
+        "name": "Terranova T620",
+        "label": "terranova-t620",
+        "hex": "#d5dccc"
+    },
+    {
+        "name": "Terranova T630",
+        "label": "terranova-t630",
+        "hex": "#ccd8c5"
+    },
+    {
+        "name": "Terranova T640",
+        "label": "terranova-t640",
+        "hex": "#c1d0b9"
+    },
+    {
+        "name": "Terranova T650",
+        "label": "terranova-t650",
+        "hex": "#adbea3"
+    },
+    {
+        "name": "Terranova T660",
+        "label": "terranova-t660",
+        "hex": "#97af90"
+    },
+    {
+        "name": "Terranova T670",
+        "label": "terranova-t670",
+        "hex": "#758f70"
+    },
+    {
+        "name": "Terranova T680",
+        "label": "terranova-t680",
+        "hex": "#dededa"
+    },
+    {
+        "name": "Terranova T690",
+        "label": "terranova-t690",
+        "hex": "#d0d0ce"
+    },
+    {
+        "name": "Terranova T700",
+        "label": "terranova-t700",
+        "hex": "#babbbb"
+    },
+    {
+        "name": "Terranova T710",
+        "label": "terranova-t710",
+        "hex": "#acadae"
+    },
+    {
+        "name": "Terranova T720",
+        "label": "terranova-t720",
+        "hex": "#8d8f92"
+    },
+    {
+        "name": "Terranova T730",
+        "label": "terranova-t730",
+        "hex": "#797d81"
+    },
+    {
+        "name": "Terranova T740",
+        "label": "terranova-t740",
+        "hex": "#61656b"
+    },
+    {
+        "name": "Terranova T750",
+        "label": "terranova-t750",
+        "hex": "#a1a599"
+    },
+    {
+        "name": "Terranova T760",
+        "label": "terranova-t760",
+        "hex": "#8a9e9a"
+    },
+    {
+        "name": "Terranova T770",
+        "label": "terranova-t770",
+        "hex": "#bbb29d"
+    },
+    {
+        "name": "Terranova T780",
+        "label": "terranova-t780",
+        "hex": "#9d987e"
+    },
+    {
+        "name": "Terranova T790",
+        "label": "terranova-t790",
+        "hex": "#958c72"
+    },
+    {
+        "name": "Terranova T800",
+        "label": "terranova-t800",
+        "hex": "#95916a"
+    }
+]

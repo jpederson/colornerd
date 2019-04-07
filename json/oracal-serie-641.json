@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Oracal 010 weiss",
+        "label": "oracal-010-weiss",
+        "hex": "#e5eaef"
+    },
+    {
+        "name": "Oracal 020 goldgelb",
+        "label": "oracal-020-goldgelb",
+        "hex": "#f2a000"
+    },
+    {
+        "name": "Oracal 019 signalgelb",
+        "label": "oracal-019-signalgelb",
+        "hex": "#e7a100"
+    },
+    {
+        "name": "Oracal 021 gelb",
+        "label": "oracal-021-gelb",
+        "hex": "#febc00"
+    },
+    {
+        "name": "Oracal 022 shellgelb",
+        "label": "oracal-022-shellgelb",
+        "hex": "#ecc100"
+    },
+    {
+        "name": "Oracal 025 schwefelgelb",
+        "label": "oracal-025-schwefelgelb",
+        "hex": "#ebda00"
+    },
+    {
+        "name": "Oracal 030 dunkelrot",
+        "label": "oracal-030-dunkelrot",
+        "hex": "#821a1d"
+    },
+    {
+        "name": "Oracal 031 rot",
+        "label": "oracal-031-rot",
+        "hex": "#a80b18"
+    },
+    {
+        "name": "Oracal 032 hellrot",
+        "label": "oracal-032-hellrot",
+        "hex": "#bb1b0f"
+    },
+    {
+        "name": "Oracal 034 orange",
+        "label": "oracal-034-orange",
+        "hex": "#d24d1c"
+    },
+    {
+        "name": "Oracal 036 hellrotorange",
+        "label": "oracal-036-hellrotorange",
+        "hex": "#dd6513"
+    },
+    {
+        "name": "Oracal 035 pastellorange",
+        "label": "oracal-035-pastellorange",
+        "hex": "#f36702"
+    },
+    {
+        "name": "Oracal 040 violett",
+        "label": "oracal-040-violett",
+        "hex": "#5e336e"
+    },
+    {
+        "name": "Oracal 043 lavendel",
+        "label": "oracal-043-lavendel",
+        "hex": "#7b67a7"
+    },
+    {
+        "name": "Oracal 042 flieder ",
+        "label": "oracal-042-flieder",
+        "hex": "#b99ac0"
+    },
+    {
+        "name": "Oracal 041 pink",
+        "label": "oracal-041-pink",
+        "hex": "#bb3673"
+    },
+    {
+        "name": "Oracal 045 hellrosa",
+        "label": "oracal-045-hellrosa",
+        "hex": "#e688b8"
+    },
+    {
+        "name": "Oracal 050 dunkelblau",
+        "label": "oracal-050-dunkelblau",
+        "hex": "#273961"
+    },
+    {
+        "name": "Oracal 049 koenigsblau",
+        "label": "oracal-049-koenigsblau",
+        "hex": "#213779"
+    },
+    {
+        "name": "Oracal 086 brillantblau",
+        "label": "oracal-086-brillantblau",
+        "hex": "#2d44a6"
+    },
+    {
+        "name": "Oracal 051 enzianblau",
+        "label": "oracal-051-enzianblau",
+        "hex": "#005283"
+    },
+    {
+        "name": "Oracal 052 azurblau",
+        "label": "oracal-052-azurblau",
+        "hex": "#006fad"
+    },
+    {
+        "name": "Oracal 053 hellblau",
+        "label": "oracal-053-hellblau",
+        "hex": "#0094c2"
+    },
+    {
+        "name": "Oracal 056 lichtblau",
+        "label": "oracal-056-lichtblau",
+        "hex": "#4cabd1"
+    },
+    {
+        "name": "Oracal 066 tuerkisblau",
+        "label": "oracal-066-tuerkisblau",
+        "hex": "#008b89"
+    },
+    {
+        "name": "Oracal 054 tuerkis",
+        "label": "oracal-054-tuerkis",
+        "hex": "#00a394"
+    },
+    {
+        "name": "Oracal 055 mint",
+        "label": "oracal-055-mint",
+        "hex": "#6bd2b6"
+    },
+    {
+        "name": "Oracal 060 dunkelgruen",
+        "label": "oracal-060-dunkelgruen",
+        "hex": "#004029"
+    },
+    {
+        "name": "Oracal 061 gruen",
+        "label": "oracal-061-gruen",
+        "hex": "#007c4b"
+    },
+    {
+        "name": "Oracal 062 hellgruen  ",
+        "label": "oracal-062-hellgruen",
+        "hex": "#008835"
+    },
+    {
+        "name": "Oracal 064 gelbgruen",
+        "label": "oracal-064-gelbgruen",
+        "hex": "#3f9300"
+    },
+    {
+        "name": "Oracal 063 lindgruen",
+        "label": "oracal-063-lindgruen",
+        "hex": "#72a427"
+    },
+    {
+        "name": "Oracal 070 schwarz ",
+        "label": "oracal-070-schwarz",
+        "hex": "#0d0e10"
+    },
+    {
+        "name": "Oracal 073 dunkelgrau",
+        "label": "oracal-073-dunkelgrau",
+        "hex": "#4a4b4b"
+    },
+    {
+        "name": "Oracal 071 grau",
+        "label": "oracal-071-grau",
+        "hex": "#767d7c"
+    },
+    {
+        "name": "Oracal 074 mittelgrau ",
+        "label": "oracal-074-mittelgrau",
+        "hex": "#8d918d"
+    },
+    {
+        "name": "Oracal 072 hellgrau",
+        "label": "oracal-072-hellgrau",
+        "hex": "#c2c4c3"
+    },
+    {
+        "name": "Oracal 080 braun",
+        "label": "oracal-080-braun",
+        "hex": "#412e1f"
+    },
+    {
+        "name": "Oracal 083 haselnussbraun",
+        "label": "oracal-083-haselnussbraun",
+        "hex": "#a75520"
+    },
+    {
+        "name": "Oracal 081 hellbraun",
+        "label": "oracal-081-hellbraun",
+        "hex": "#a5845a"
+    },
+    {
+        "name": "Oracal 082 beige",
+        "label": "oracal-082-beige",
+        "hex": "#cfbd9d"
+    },
+    {
+        "name": "Oracal 090 silbergrau",
+        "label": "oracal-090-silbergrau",
+        "hex": "#8c8e8e"
+    },
+    {
+        "name": "Oracal 091 gold ",
+        "label": "oracal-091-gold",
+        "hex": "#957e46"
+    },
+    {
+        "name": "Oracal 092 kupfer",
+        "label": "oracal-092-kupfer",
+        "hex": "#93602f"
+    }
+]

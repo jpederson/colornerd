@@ -1,0 +1,10 @@
+
+
+// set our color array
+capalac-metallic-pearl-colors = ("silber-ca-ral-9006-glanzend" #a6a8a7) ("silber-ca-ral-9006-seidenmatt" #a9aba8) ("gold-glanzend" #bc9a25) ("kupfer-glanzend" #ac7d58) ("ral-1035-perlbeige" #938772) ("ral-1036-perlgold" #8f7651) ("ral-2013-perlorange" #823b1e) ("ral-3032-perlrubinrot" #762f33) ("ral-3033-perlrosa" #a0312b) ("ral-4011-perlviolett" #766684) ("ral-4012-perlbrombeer" #626174) ("ral-5025-perlenzian" #305e70) ("ral-5026-perlnachtblau" #1e2d50) ("ral-6035-perlgrun" #26572f) ("ral-6036-perlopalgrun" #0b594b) ("ral-7048-perlmausgrau" #787061) ("ral-8029-perlkupfer" #7d3d28) ("ral-9022-perlhellgrau" #9c9b93) ("ral-9023-perldunkelgrau" #7a7b78)
+
+
+// grab a specific color based on key
+capalac-metallic-pearl( color )
+  return item[1] if item[0] == color for item in capalac-metallic-pearl-colors
+

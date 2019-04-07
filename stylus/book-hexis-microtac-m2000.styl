@@ -1,0 +1,10 @@
+
+
+// set our color array
+hexis-microtac-m2000-colors = ("mg-2116" #fab500) ("mg-2123" #e5a300) ("mg-2165" #ea6700) ("mg-2red" #be2515) ("mg-2186" #a91621) ("mg-2201" #8b2326) ("mg-2220" #b43268) ("mg-2280" #00336e) ("mg-2rfx" #3047a4) ("mg-2293" #00599b) ("mg-2299" #0094ca) ("mg-2320" #00908c) ("mg-2340" #00763f) ("mg-2357" #083f27) ("mg-2368" #409e04) ("mg-2431" #575c5c) ("mg-2461" #e3c594) ("mg-2476" #51301f) ("mg-2505" #58151c) ("mg-2829" #ebedee) ("mg-2889" #111316) ("mg-2899" #deddde) ("mm-2116" #ecb31c) ("mm-2123" #f3b020) ("mm-2165" #e97134) ("mm-2red" #c7413a) ("mm-2186" #b23a3d) ("mm-2201" #953b3d) ("mm-2280" #354f87) ("mm-2rfx" #4354a7) ("mm-2293" #1467a3) ("mm-2299" #0098cc) ("mm-2340" #007852) ("mm-2357" #3f584a) ("mm-2431" #636667) ("mm-2829" #ecedee) ("mm-2889" #333335) ("mm-2899" #dededf)
+
+
+// grab a specific color based on key
+hexis-microtac-m2000( color )
+  return item[1] if item[0] == color for item in hexis-microtac-m2000-colors
+

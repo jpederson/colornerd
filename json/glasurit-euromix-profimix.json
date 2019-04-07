@@ -1,0 +1,1752 @@
+[
+    {
+        "name": "Glasurit 100",
+        "label": "glasurit-100",
+        "hex": "#ede7ce"
+    },
+    {
+        "name": "Glasurit 101",
+        "label": "glasurit-101",
+        "hex": "#d6ceb8"
+    },
+    {
+        "name": "Glasurit 102",
+        "label": "glasurit-102",
+        "hex": "#eedebd"
+    },
+    {
+        "name": "Glasurit 103",
+        "label": "glasurit-103",
+        "hex": "#f1e1ba"
+    },
+    {
+        "name": "Glasurit 104",
+        "label": "glasurit-104",
+        "hex": "#eee1c7"
+    },
+    {
+        "name": "Glasurit 105",
+        "label": "glasurit-105",
+        "hex": "#e9d5bc"
+    },
+    {
+        "name": "Glasurit 106",
+        "label": "glasurit-106",
+        "hex": "#eddfbd"
+    },
+    {
+        "name": "Glasurit 107",
+        "label": "glasurit-107",
+        "hex": "#e7cda5"
+    },
+    {
+        "name": "Glasurit 108",
+        "label": "glasurit-108",
+        "hex": "#f4d19a"
+    },
+    {
+        "name": "Glasurit 109",
+        "label": "glasurit-109",
+        "hex": "#e8cfa8"
+    },
+    {
+        "name": "Glasurit 110",
+        "label": "glasurit-110",
+        "hex": "#e5c89f"
+    },
+    {
+        "name": "Glasurit 111",
+        "label": "glasurit-111",
+        "hex": "#e1c196"
+    },
+    {
+        "name": "Glasurit 112",
+        "label": "glasurit-112",
+        "hex": "#dab885"
+    },
+    {
+        "name": "Glasurit 113",
+        "label": "glasurit-113",
+        "hex": "#cbaa7e"
+    },
+    {
+        "name": "Glasurit 114",
+        "label": "glasurit-114",
+        "hex": "#b69766"
+    },
+    {
+        "name": "Glasurit 115",
+        "label": "glasurit-115",
+        "hex": "#9f8356"
+    },
+    {
+        "name": "Glasurit 116",
+        "label": "glasurit-116",
+        "hex": "#b38e5e"
+    },
+    {
+        "name": "Glasurit 117",
+        "label": "glasurit-117",
+        "hex": "#a17d4d"
+    },
+    {
+        "name": "Glasurit 118",
+        "label": "glasurit-118",
+        "hex": "#f2c884"
+    },
+    {
+        "name": "Glasurit 119",
+        "label": "glasurit-119",
+        "hex": "#e1b77b"
+    },
+    {
+        "name": "Glasurit 120",
+        "label": "glasurit-120",
+        "hex": "#f1c877"
+    },
+    {
+        "name": "Glasurit 121",
+        "label": "glasurit-121",
+        "hex": "#ddb263"
+    },
+    {
+        "name": "Glasurit 122",
+        "label": "glasurit-122",
+        "hex": "#ebb85d"
+    },
+    {
+        "name": "Glasurit 123",
+        "label": "glasurit-123",
+        "hex": "#f3b851"
+    },
+    {
+        "name": "Glasurit 124",
+        "label": "glasurit-124",
+        "hex": "#e7b856"
+    },
+    {
+        "name": "Glasurit 125",
+        "label": "glasurit-125",
+        "hex": "#d2a552"
+    },
+    {
+        "name": "Glasurit 126",
+        "label": "glasurit-126",
+        "hex": "#e1ae48"
+    },
+    {
+        "name": "Glasurit 127",
+        "label": "glasurit-127",
+        "hex": "#cf993f"
+    },
+    {
+        "name": "Glasurit 128",
+        "label": "glasurit-128",
+        "hex": "#c08e39"
+    },
+    {
+        "name": "Glasurit 129",
+        "label": "glasurit-129",
+        "hex": "#c28f33"
+    },
+    {
+        "name": "Glasurit 130",
+        "label": "glasurit-130",
+        "hex": "#d9a538"
+    },
+    {
+        "name": "Glasurit 131",
+        "label": "glasurit-131",
+        "hex": "#ca9624"
+    },
+    {
+        "name": "Glasurit 132",
+        "label": "glasurit-132",
+        "hex": "#e5a943"
+    },
+    {
+        "name": "Glasurit 133",
+        "label": "glasurit-133",
+        "hex": "#dc9f34"
+    },
+    {
+        "name": "Glasurit 134",
+        "label": "glasurit-134",
+        "hex": "#da9c3d"
+    },
+    {
+        "name": "Glasurit 135",
+        "label": "glasurit-135",
+        "hex": "#d19433"
+    },
+    {
+        "name": "Glasurit 136",
+        "label": "glasurit-136",
+        "hex": "#edaa00"
+    },
+    {
+        "name": "Glasurit 137",
+        "label": "glasurit-137",
+        "hex": "#e79d20"
+    },
+    {
+        "name": "Glasurit 138",
+        "label": "glasurit-138",
+        "hex": "#bc8536"
+    },
+    {
+        "name": "Glasurit 139",
+        "label": "glasurit-139",
+        "hex": "#b57f4c"
+    },
+    {
+        "name": "Glasurit 140",
+        "label": "glasurit-140",
+        "hex": "#b27634"
+    },
+    {
+        "name": "Glasurit 141",
+        "label": "glasurit-141",
+        "hex": "#ad7531"
+    },
+    {
+        "name": "Glasurit 142",
+        "label": "glasurit-142",
+        "hex": "#e8bd05"
+    },
+    {
+        "name": "Glasurit 143",
+        "label": "glasurit-143",
+        "hex": "#cba422"
+    },
+    {
+        "name": "Glasurit 144",
+        "label": "glasurit-144",
+        "hex": "#fad14f"
+    },
+    {
+        "name": "Glasurit 145",
+        "label": "glasurit-145",
+        "hex": "#f5c34a"
+    },
+    {
+        "name": "Glasurit 146",
+        "label": "glasurit-146",
+        "hex": "#f6dd88"
+    },
+    {
+        "name": "Glasurit 147",
+        "label": "glasurit-147",
+        "hex": "#f5d66f"
+    },
+    {
+        "name": "Glasurit 148",
+        "label": "glasurit-148",
+        "hex": "#d9bd6f"
+    },
+    {
+        "name": "Glasurit 149",
+        "label": "glasurit-149",
+        "hex": "#caaf68"
+    },
+    {
+        "name": "Glasurit 150",
+        "label": "glasurit-150",
+        "hex": "#d8c773"
+    },
+    {
+        "name": "Glasurit 151",
+        "label": "glasurit-151",
+        "hex": "#c5aa56"
+    },
+    {
+        "name": "Glasurit 152",
+        "label": "glasurit-152",
+        "hex": "#f3e6b6"
+    },
+    {
+        "name": "Glasurit 153",
+        "label": "glasurit-153",
+        "hex": "#ecd59f"
+    },
+    {
+        "name": "Glasurit 154",
+        "label": "glasurit-154",
+        "hex": "#f9e3a0"
+    },
+    {
+        "name": "Glasurit 155",
+        "label": "glasurit-155",
+        "hex": "#e0c481"
+    },
+    {
+        "name": "Glasurit 156",
+        "label": "glasurit-156",
+        "hex": "#c7b07e"
+    },
+    {
+        "name": "Glasurit 157",
+        "label": "glasurit-157",
+        "hex": "#b99d6a"
+    },
+    {
+        "name": "Glasurit 158",
+        "label": "glasurit-158",
+        "hex": "#ebe0ae"
+    },
+    {
+        "name": "Glasurit 159",
+        "label": "glasurit-159",
+        "hex": "#dbd3b0"
+    },
+    {
+        "name": "Glasurit 160",
+        "label": "glasurit-160",
+        "hex": "#dfcba1"
+    },
+    {
+        "name": "Glasurit 161",
+        "label": "glasurit-161",
+        "hex": "#c9b887"
+    },
+    {
+        "name": "Glasurit 162",
+        "label": "glasurit-162",
+        "hex": "#b5a472"
+    },
+    {
+        "name": "Glasurit 163",
+        "label": "glasurit-163",
+        "hex": "#9f9061"
+    },
+    {
+        "name": "Glasurit 164",
+        "label": "glasurit-164",
+        "hex": "#d9ca8a"
+    },
+    {
+        "name": "Glasurit 165",
+        "label": "glasurit-165",
+        "hex": "#adac86"
+    },
+    {
+        "name": "Glasurit 166",
+        "label": "glasurit-166",
+        "hex": "#aea688"
+    },
+    {
+        "name": "Glasurit 167",
+        "label": "glasurit-167",
+        "hex": "#7c745b"
+    },
+    {
+        "name": "Glasurit 168",
+        "label": "glasurit-168",
+        "hex": "#474130"
+    },
+    {
+        "name": "Glasurit 169",
+        "label": "glasurit-169",
+        "hex": "#5c4d36"
+    },
+    {
+        "name": "Glasurit 170",
+        "label": "glasurit-170",
+        "hex": "#8a7654"
+    },
+    {
+        "name": "Glasurit 171",
+        "label": "glasurit-171",
+        "hex": "#75644a"
+    },
+    {
+        "name": "Glasurit 172",
+        "label": "glasurit-172",
+        "hex": "#69573e"
+    },
+    {
+        "name": "Glasurit 173",
+        "label": "glasurit-173",
+        "hex": "#6e573a"
+    },
+    {
+        "name": "Glasurit 174",
+        "label": "glasurit-174",
+        "hex": "#836e53"
+    },
+    {
+        "name": "Glasurit 175",
+        "label": "glasurit-175",
+        "hex": "#735f47"
+    },
+    {
+        "name": "Glasurit 176",
+        "label": "glasurit-176",
+        "hex": "#9f8d70"
+    },
+    {
+        "name": "Glasurit 177",
+        "label": "glasurit-177",
+        "hex": "#8e7a5c"
+    },
+    {
+        "name": "Glasurit 178",
+        "label": "glasurit-178",
+        "hex": "#c3ab85"
+    },
+    {
+        "name": "Glasurit 179",
+        "label": "glasurit-179",
+        "hex": "#b4a285"
+    },
+    {
+        "name": "Glasurit 180",
+        "label": "glasurit-180",
+        "hex": "#ae906c"
+    },
+    {
+        "name": "Glasurit 181",
+        "label": "glasurit-181",
+        "hex": "#997d58"
+    },
+    {
+        "name": "Glasurit 182",
+        "label": "glasurit-182",
+        "hex": "#a18a61"
+    },
+    {
+        "name": "Glasurit 183",
+        "label": "glasurit-183",
+        "hex": "#8b6e48"
+    },
+    {
+        "name": "Glasurit 184",
+        "label": "glasurit-184",
+        "hex": "#8a6f46"
+    },
+    {
+        "name": "Glasurit 185",
+        "label": "glasurit-185",
+        "hex": "#81673d"
+    },
+    {
+        "name": "Glasurit 186",
+        "label": "glasurit-186",
+        "hex": "#765e37"
+    },
+    {
+        "name": "Glasurit 187",
+        "label": "glasurit-187",
+        "hex": "#755b3a"
+    },
+    {
+        "name": "Glasurit 188",
+        "label": "glasurit-188",
+        "hex": "#826438"
+    },
+    {
+        "name": "Glasurit 189",
+        "label": "glasurit-189",
+        "hex": "#806543"
+    },
+    {
+        "name": "Glasurit 190",
+        "label": "glasurit-190",
+        "hex": "#936e42"
+    },
+    {
+        "name": "Glasurit 191",
+        "label": "glasurit-191",
+        "hex": "#896739"
+    },
+    {
+        "name": "Glasurit 192",
+        "label": "glasurit-192",
+        "hex": "#977b50"
+    },
+    {
+        "name": "Glasurit 193",
+        "label": "glasurit-193",
+        "hex": "#95663c"
+    },
+    {
+        "name": "Glasurit 194",
+        "label": "glasurit-194",
+        "hex": "#684b34"
+    },
+    {
+        "name": "Glasurit 195",
+        "label": "glasurit-195",
+        "hex": "#674c3b"
+    },
+    {
+        "name": "Glasurit 196",
+        "label": "glasurit-196",
+        "hex": "#64483b"
+    },
+    {
+        "name": "Glasurit 197",
+        "label": "glasurit-197",
+        "hex": "#60493d"
+    },
+    {
+        "name": "Glasurit 198",
+        "label": "glasurit-198",
+        "hex": "#86674f"
+    },
+    {
+        "name": "Glasurit 199",
+        "label": "glasurit-199",
+        "hex": "#765741"
+    },
+    {
+        "name": "Glasurit 200",
+        "label": "glasurit-200",
+        "hex": "#957863"
+    },
+    {
+        "name": "Glasurit 201",
+        "label": "glasurit-201",
+        "hex": "#755944"
+    },
+    {
+        "name": "Glasurit 202",
+        "label": "glasurit-202",
+        "hex": "#69594d"
+    },
+    {
+        "name": "Glasurit 203",
+        "label": "glasurit-203",
+        "hex": "#605043"
+    },
+    {
+        "name": "Glasurit 204",
+        "label": "glasurit-204",
+        "hex": "#8c7a65"
+    },
+    {
+        "name": "Glasurit 205",
+        "label": "glasurit-205",
+        "hex": "#736557"
+    },
+    {
+        "name": "Glasurit 206",
+        "label": "glasurit-206",
+        "hex": "#8c7663"
+    },
+    {
+        "name": "Glasurit 207",
+        "label": "glasurit-207",
+        "hex": "#745f4f"
+    },
+    {
+        "name": "Glasurit 208",
+        "label": "glasurit-208",
+        "hex": "#c7ae90"
+    },
+    {
+        "name": "Glasurit 209",
+        "label": "glasurit-209",
+        "hex": "#ad937c"
+    },
+    {
+        "name": "Glasurit 210",
+        "label": "glasurit-210",
+        "hex": "#c8ae94"
+    },
+    {
+        "name": "Glasurit 211",
+        "label": "glasurit-211",
+        "hex": "#ab937a"
+    },
+    {
+        "name": "Glasurit 212",
+        "label": "glasurit-212",
+        "hex": "#c7b192"
+    },
+    {
+        "name": "Glasurit 213",
+        "label": "glasurit-213",
+        "hex": "#a6937a"
+    },
+    {
+        "name": "Glasurit 214",
+        "label": "glasurit-214",
+        "hex": "#ddc3a2"
+    },
+    {
+        "name": "Glasurit 215",
+        "label": "glasurit-215",
+        "hex": "#eac4a4"
+    },
+    {
+        "name": "Glasurit 216",
+        "label": "glasurit-216",
+        "hex": "#cac0ad"
+    },
+    {
+        "name": "Glasurit 217",
+        "label": "glasurit-217",
+        "hex": "#9d9180"
+    },
+    {
+        "name": "Glasurit 218",
+        "label": "glasurit-218",
+        "hex": "#efe1cf"
+    },
+    {
+        "name": "Glasurit 219",
+        "label": "glasurit-219",
+        "hex": "#ded1bd"
+    },
+    {
+        "name": "Glasurit 220",
+        "label": "glasurit-220",
+        "hex": "#eee0cf"
+    },
+    {
+        "name": "Glasurit 221",
+        "label": "glasurit-221",
+        "hex": "#f0d9c2"
+    },
+    {
+        "name": "Glasurit 222",
+        "label": "glasurit-222",
+        "hex": "#f6ceae"
+    },
+    {
+        "name": "Glasurit 223",
+        "label": "glasurit-223",
+        "hex": "#eec99f"
+    },
+    {
+        "name": "Glasurit 224",
+        "label": "glasurit-224",
+        "hex": "#edb88a"
+    },
+    {
+        "name": "Glasurit 225",
+        "label": "glasurit-225",
+        "hex": "#e9ab7e"
+    },
+    {
+        "name": "Glasurit 226",
+        "label": "glasurit-226",
+        "hex": "#e99f6c"
+    },
+    {
+        "name": "Glasurit 227",
+        "label": "glasurit-227",
+        "hex": "#e19f78"
+    },
+    {
+        "name": "Glasurit 228",
+        "label": "glasurit-228",
+        "hex": "#f19c60"
+    },
+    {
+        "name": "Glasurit 229",
+        "label": "glasurit-229",
+        "hex": "#ee925a"
+    },
+    {
+        "name": "Glasurit 230",
+        "label": "glasurit-230",
+        "hex": "#d68861"
+    },
+    {
+        "name": "Glasurit 231",
+        "label": "glasurit-231",
+        "hex": "#cb754e"
+    },
+    {
+        "name": "Glasurit 232",
+        "label": "glasurit-232",
+        "hex": "#b96640"
+    },
+    {
+        "name": "Glasurit 233",
+        "label": "glasurit-233",
+        "hex": "#a85a37"
+    },
+    {
+        "name": "Glasurit 234",
+        "label": "glasurit-234",
+        "hex": "#a75435"
+    },
+    {
+        "name": "Glasurit 235",
+        "label": "glasurit-235",
+        "hex": "#a94e36"
+    },
+    {
+        "name": "Glasurit 236",
+        "label": "glasurit-236",
+        "hex": "#954031"
+    },
+    {
+        "name": "Glasurit 237",
+        "label": "glasurit-237",
+        "hex": "#773936"
+    },
+    {
+        "name": "Glasurit 238",
+        "label": "glasurit-238",
+        "hex": "#653432"
+    },
+    {
+        "name": "Glasurit 239",
+        "label": "glasurit-239",
+        "hex": "#463034"
+    },
+    {
+        "name": "Glasurit 240",
+        "label": "glasurit-240",
+        "hex": "#56373b"
+    },
+    {
+        "name": "Glasurit 241",
+        "label": "glasurit-241",
+        "hex": "#442c2d"
+    },
+    {
+        "name": "Glasurit 242",
+        "label": "glasurit-242",
+        "hex": "#b98e7e"
+    },
+    {
+        "name": "Glasurit 243",
+        "label": "glasurit-243",
+        "hex": "#a77667"
+    },
+    {
+        "name": "Glasurit 244",
+        "label": "glasurit-244",
+        "hex": "#caa59e"
+    },
+    {
+        "name": "Glasurit 245",
+        "label": "glasurit-245",
+        "hex": "#c9a297"
+    },
+    {
+        "name": "Glasurit 246",
+        "label": "glasurit-246",
+        "hex": "#e4c4b7"
+    },
+    {
+        "name": "Glasurit 247",
+        "label": "glasurit-247",
+        "hex": "#dbb7ac"
+    },
+    {
+        "name": "Glasurit 248",
+        "label": "glasurit-248",
+        "hex": "#f0b89b"
+    },
+    {
+        "name": "Glasurit 249",
+        "label": "glasurit-249",
+        "hex": "#d7b6a0"
+    },
+    {
+        "name": "Glasurit 250",
+        "label": "glasurit-250",
+        "hex": "#ecae8f"
+    },
+    {
+        "name": "Glasurit 251",
+        "label": "glasurit-251",
+        "hex": "#f0ae9d"
+    },
+    {
+        "name": "Glasurit 252",
+        "label": "glasurit-252",
+        "hex": "#f19984"
+    },
+    {
+        "name": "Glasurit 253",
+        "label": "glasurit-253",
+        "hex": "#e88e75"
+    },
+    {
+        "name": "Glasurit 254",
+        "label": "glasurit-254",
+        "hex": "#e77b5c"
+    },
+    {
+        "name": "Glasurit 255",
+        "label": "glasurit-255",
+        "hex": "#db6b4c"
+    },
+    {
+        "name": "Glasurit 256",
+        "label": "glasurit-256",
+        "hex": "#dc5c41"
+    },
+    {
+        "name": "Glasurit 257",
+        "label": "glasurit-257",
+        "hex": "#b5352c"
+    },
+    {
+        "name": "Glasurit 258",
+        "label": "glasurit-258",
+        "hex": "#cc462b"
+    },
+    {
+        "name": "Glasurit 259",
+        "label": "glasurit-259",
+        "hex": "#bf4031"
+    },
+    {
+        "name": "Glasurit 260",
+        "label": "glasurit-260",
+        "hex": "#cb5327"
+    },
+    {
+        "name": "Glasurit 261",
+        "label": "glasurit-261",
+        "hex": "#c84924"
+    },
+    {
+        "name": "Glasurit 262",
+        "label": "glasurit-262",
+        "hex": "#de6223"
+    },
+    {
+        "name": "Glasurit 263",
+        "label": "glasurit-263",
+        "hex": "#cb512a"
+    },
+    {
+        "name": "Glasurit 264",
+        "label": "glasurit-264",
+        "hex": "#de6e22"
+    },
+    {
+        "name": "Glasurit 265",
+        "label": "glasurit-265",
+        "hex": "#d16924"
+    },
+    {
+        "name": "Glasurit 266",
+        "label": "glasurit-266",
+        "hex": "#ee7e1e"
+    },
+    {
+        "name": "Glasurit 267",
+        "label": "glasurit-267",
+        "hex": "#ed731e"
+    },
+    {
+        "name": "Glasurit 268",
+        "label": "glasurit-268",
+        "hex": "#ed880c"
+    },
+    {
+        "name": "Glasurit 269",
+        "label": "glasurit-269",
+        "hex": "#e48114"
+    },
+    {
+        "name": "Glasurit 270",
+        "label": "glasurit-270",
+        "hex": "#f59b24"
+    },
+    {
+        "name": "Glasurit 271",
+        "label": "glasurit-271",
+        "hex": "#f28c05"
+    },
+    {
+        "name": "Glasurit 272",
+        "label": "glasurit-272",
+        "hex": "#f4bd71"
+    },
+    {
+        "name": "Glasurit 273",
+        "label": "glasurit-273",
+        "hex": "#eea554"
+    },
+    {
+        "name": "Glasurit 274",
+        "label": "glasurit-274",
+        "hex": "#895631"
+    },
+    {
+        "name": "Glasurit 275",
+        "label": "glasurit-275",
+        "hex": "#784837"
+    },
+    {
+        "name": "Glasurit 276",
+        "label": "glasurit-276",
+        "hex": "#483730"
+    },
+    {
+        "name": "Glasurit 277",
+        "label": "glasurit-277",
+        "hex": "#453b37"
+    },
+    {
+        "name": "Glasurit 278",
+        "label": "glasurit-278",
+        "hex": "#81383b"
+    },
+    {
+        "name": "Glasurit 279",
+        "label": "glasurit-279",
+        "hex": "#743337"
+    },
+    {
+        "name": "Glasurit 280",
+        "label": "glasurit-280",
+        "hex": "#992530"
+    },
+    {
+        "name": "Glasurit 281",
+        "label": "glasurit-281",
+        "hex": "#8a3034"
+    },
+    {
+        "name": "Glasurit 282",
+        "label": "glasurit-282",
+        "hex": "#a73941"
+    },
+    {
+        "name": "Glasurit 283",
+        "label": "glasurit-283",
+        "hex": "#7b2a32"
+    },
+    {
+        "name": "Glasurit 284",
+        "label": "glasurit-284",
+        "hex": "#ce696e"
+    },
+    {
+        "name": "Glasurit 285",
+        "label": "glasurit-285",
+        "hex": "#c24f57"
+    },
+    {
+        "name": "Glasurit 286",
+        "label": "glasurit-286",
+        "hex": "#b33d48"
+    },
+    {
+        "name": "Glasurit 287",
+        "label": "glasurit-287",
+        "hex": "#8e2d40"
+    },
+    {
+        "name": "Glasurit 288",
+        "label": "glasurit-288",
+        "hex": "#ba4e6d"
+    },
+    {
+        "name": "Glasurit 289",
+        "label": "glasurit-289",
+        "hex": "#a83b57"
+    },
+    {
+        "name": "Glasurit 290",
+        "label": "glasurit-290",
+        "hex": "#4c393d"
+    },
+    {
+        "name": "Glasurit 291",
+        "label": "glasurit-291",
+        "hex": "#403735"
+    },
+    {
+        "name": "Glasurit 292",
+        "label": "glasurit-292",
+        "hex": "#714759"
+    },
+    {
+        "name": "Glasurit 293",
+        "label": "glasurit-293",
+        "hex": "#5f3d47"
+    },
+    {
+        "name": "Glasurit 294",
+        "label": "glasurit-294",
+        "hex": "#a87a8b"
+    },
+    {
+        "name": "Glasurit 295",
+        "label": "glasurit-295",
+        "hex": "#885a6c"
+    },
+    {
+        "name": "Glasurit 296",
+        "label": "glasurit-296",
+        "hex": "#aa9bac"
+    },
+    {
+        "name": "Glasurit 297",
+        "label": "glasurit-297",
+        "hex": "#a49fc9"
+    },
+    {
+        "name": "Glasurit 298",
+        "label": "glasurit-298",
+        "hex": "#e2d9d5"
+    },
+    {
+        "name": "Glasurit 299",
+        "label": "glasurit-299",
+        "hex": "#ccc4cf"
+    },
+    {
+        "name": "Glasurit 300",
+        "label": "glasurit-300",
+        "hex": "#70659c"
+    },
+    {
+        "name": "Glasurit 301",
+        "label": "glasurit-301",
+        "hex": "#635584"
+    },
+    {
+        "name": "Glasurit 302",
+        "label": "glasurit-302",
+        "hex": "#796789"
+    },
+    {
+        "name": "Glasurit 303",
+        "label": "glasurit-303",
+        "hex": "#5e506e"
+    },
+    {
+        "name": "Glasurit 304",
+        "label": "glasurit-304",
+        "hex": "#4d445c"
+    },
+    {
+        "name": "Glasurit 305",
+        "label": "glasurit-305",
+        "hex": "#3c3246"
+    },
+    {
+        "name": "Glasurit 306",
+        "label": "glasurit-306",
+        "hex": "#363244"
+    },
+    {
+        "name": "Glasurit 307",
+        "label": "glasurit-307",
+        "hex": "#37333a"
+    },
+    {
+        "name": "Glasurit 308",
+        "label": "glasurit-308",
+        "hex": "#282c3e"
+    },
+    {
+        "name": "Glasurit 309",
+        "label": "glasurit-309",
+        "hex": "#262b3a"
+    },
+    {
+        "name": "Glasurit 310",
+        "label": "glasurit-310",
+        "hex": "#233b5d"
+    },
+    {
+        "name": "Glasurit 311",
+        "label": "glasurit-311",
+        "hex": "#2b3551"
+    },
+    {
+        "name": "Glasurit 312",
+        "label": "glasurit-312",
+        "hex": "#283651"
+    },
+    {
+        "name": "Glasurit 313",
+        "label": "glasurit-313",
+        "hex": "#293b59"
+    },
+    {
+        "name": "Glasurit 314",
+        "label": "glasurit-314",
+        "hex": "#2f486b"
+    },
+    {
+        "name": "Glasurit 315",
+        "label": "glasurit-315",
+        "hex": "#284267"
+    },
+    {
+        "name": "Glasurit 316",
+        "label": "glasurit-316",
+        "hex": "#436a8e"
+    },
+    {
+        "name": "Glasurit 317",
+        "label": "glasurit-317",
+        "hex": "#3c587b"
+    },
+    {
+        "name": "Glasurit 318",
+        "label": "glasurit-318",
+        "hex": "#5d89a8"
+    },
+    {
+        "name": "Glasurit 319",
+        "label": "glasurit-319",
+        "hex": "#51707d"
+    },
+    {
+        "name": "Glasurit 320",
+        "label": "glasurit-320",
+        "hex": "#354f63"
+    },
+    {
+        "name": "Glasurit 321",
+        "label": "glasurit-321",
+        "hex": "#384958"
+    },
+    {
+        "name": "Glasurit 322",
+        "label": "glasurit-322",
+        "hex": "#305b77"
+    },
+    {
+        "name": "Glasurit 323",
+        "label": "glasurit-323",
+        "hex": "#2b353d"
+    },
+    {
+        "name": "Glasurit 324",
+        "label": "glasurit-324",
+        "hex": "#00517b"
+    },
+    {
+        "name": "Glasurit 325",
+        "label": "glasurit-325",
+        "hex": "#244c6a"
+    },
+    {
+        "name": "Glasurit 326",
+        "label": "glasurit-326",
+        "hex": "#00658f"
+    },
+    {
+        "name": "Glasurit 327",
+        "label": "glasurit-327",
+        "hex": "#0e5f95"
+    },
+    {
+        "name": "Glasurit 328",
+        "label": "glasurit-328",
+        "hex": "#007fa8"
+    },
+    {
+        "name": "Glasurit 329",
+        "label": "glasurit-329",
+        "hex": "#247ea1"
+    },
+    {
+        "name": "Glasurit 330",
+        "label": "glasurit-330",
+        "hex": "#2baacd"
+    },
+    {
+        "name": "Glasurit 331",
+        "label": "glasurit-331",
+        "hex": "#0a9dc8"
+    },
+    {
+        "name": "Glasurit 332",
+        "label": "glasurit-332",
+        "hex": "#56b8d5"
+    },
+    {
+        "name": "Glasurit 333",
+        "label": "glasurit-333",
+        "hex": "#1793ae"
+    },
+    {
+        "name": "Glasurit 334",
+        "label": "glasurit-334",
+        "hex": "#94cfd8"
+    },
+    {
+        "name": "Glasurit 335",
+        "label": "glasurit-335",
+        "hex": "#7ec2d2"
+    },
+    {
+        "name": "Glasurit 336",
+        "label": "glasurit-336",
+        "hex": "#cbd1c8"
+    },
+    {
+        "name": "Glasurit 337",
+        "label": "glasurit-337",
+        "hex": "#a5bfbe"
+    },
+    {
+        "name": "Glasurit 338",
+        "label": "glasurit-338",
+        "hex": "#1d9aa7"
+    },
+    {
+        "name": "Glasurit 339",
+        "label": "glasurit-339",
+        "hex": "#008a93"
+    },
+    {
+        "name": "Glasurit 340",
+        "label": "glasurit-340",
+        "hex": "#64c4c7"
+    },
+    {
+        "name": "Glasurit 341",
+        "label": "glasurit-341",
+        "hex": "#33a7b3"
+    },
+    {
+        "name": "Glasurit 342",
+        "label": "glasurit-342",
+        "hex": "#00717d"
+    },
+    {
+        "name": "Glasurit 343",
+        "label": "glasurit-343",
+        "hex": "#21535f"
+    },
+    {
+        "name": "Glasurit 344",
+        "label": "glasurit-344",
+        "hex": "#006166"
+    },
+    {
+        "name": "Glasurit 345",
+        "label": "glasurit-345",
+        "hex": "#045e5f"
+    },
+    {
+        "name": "Glasurit 346",
+        "label": "glasurit-346",
+        "hex": "#008889"
+    },
+    {
+        "name": "Glasurit 347",
+        "label": "glasurit-347",
+        "hex": "#007a7e"
+    },
+    {
+        "name": "Glasurit 348",
+        "label": "glasurit-348",
+        "hex": "#27999a"
+    },
+    {
+        "name": "Glasurit 349",
+        "label": "glasurit-349",
+        "hex": "#008c8b"
+    },
+    {
+        "name": "Glasurit 350",
+        "label": "glasurit-350",
+        "hex": "#55b2a7"
+    },
+    {
+        "name": "Glasurit 351",
+        "label": "glasurit-351",
+        "hex": "#2b9f9c"
+    },
+    {
+        "name": "Glasurit 352",
+        "label": "glasurit-352",
+        "hex": "#a4d2c6"
+    },
+    {
+        "name": "Glasurit 353",
+        "label": "glasurit-353",
+        "hex": "#6fb8ac"
+    },
+    {
+        "name": "Glasurit 354",
+        "label": "glasurit-354",
+        "hex": "#b0e2d3"
+    },
+    {
+        "name": "Glasurit 355",
+        "label": "glasurit-355",
+        "hex": "#71d3bc"
+    },
+    {
+        "name": "Glasurit 356",
+        "label": "glasurit-356",
+        "hex": "#45beab"
+    },
+    {
+        "name": "Glasurit 357",
+        "label": "glasurit-357",
+        "hex": "#26b79c"
+    },
+    {
+        "name": "Glasurit 358",
+        "label": "glasurit-358",
+        "hex": "#284844"
+    },
+    {
+        "name": "Glasurit 359",
+        "label": "glasurit-359",
+        "hex": "#194046"
+    },
+    {
+        "name": "Glasurit 360",
+        "label": "glasurit-360",
+        "hex": "#35483d"
+    },
+    {
+        "name": "Glasurit 361",
+        "label": "glasurit-361",
+        "hex": "#2a3b36"
+    },
+    {
+        "name": "Glasurit 362",
+        "label": "glasurit-362",
+        "hex": "#2d5343"
+    },
+    {
+        "name": "Glasurit 363",
+        "label": "glasurit-363",
+        "hex": "#344a3a"
+    },
+    {
+        "name": "Glasurit 364",
+        "label": "glasurit-364",
+        "hex": "#006953"
+    },
+    {
+        "name": "Glasurit 365",
+        "label": "glasurit-365",
+        "hex": "#1e423c"
+    },
+    {
+        "name": "Glasurit 366",
+        "label": "glasurit-366",
+        "hex": "#419c76"
+    },
+    {
+        "name": "Glasurit 367",
+        "label": "glasurit-367",
+        "hex": "#008757"
+    },
+    {
+        "name": "Glasurit 368",
+        "label": "glasurit-368",
+        "hex": "#75b173"
+    },
+    {
+        "name": "Glasurit 369",
+        "label": "glasurit-369",
+        "hex": "#2a9763"
+    },
+    {
+        "name": "Glasurit 370",
+        "label": "glasurit-370",
+        "hex": "#8bc38d"
+    },
+    {
+        "name": "Glasurit 371",
+        "label": "glasurit-371",
+        "hex": "#7cbe82"
+    },
+    {
+        "name": "Glasurit 372",
+        "label": "glasurit-372",
+        "hex": "#d2dfbc"
+    },
+    {
+        "name": "Glasurit 373",
+        "label": "glasurit-373",
+        "hex": "#add1a5"
+    },
+    {
+        "name": "Glasurit 374",
+        "label": "glasurit-374",
+        "hex": "#bfd0b9"
+    },
+    {
+        "name": "Glasurit 375",
+        "label": "glasurit-375",
+        "hex": "#a8bca1"
+    },
+    {
+        "name": "Glasurit 376",
+        "label": "glasurit-376",
+        "hex": "#829578"
+    },
+    {
+        "name": "Glasurit 377",
+        "label": "glasurit-377",
+        "hex": "#485544"
+    },
+    {
+        "name": "Glasurit 378",
+        "label": "glasurit-378",
+        "hex": "#79905c"
+    },
+    {
+        "name": "Glasurit 379",
+        "label": "glasurit-379",
+        "hex": "#567054"
+    },
+    {
+        "name": "Glasurit 380",
+        "label": "glasurit-380",
+        "hex": "#8a9d70"
+    },
+    {
+        "name": "Glasurit 381",
+        "label": "glasurit-381",
+        "hex": "#617844"
+    },
+    {
+        "name": "Glasurit 382",
+        "label": "glasurit-382",
+        "hex": "#55643f"
+    },
+    {
+        "name": "Glasurit 383",
+        "label": "glasurit-383",
+        "hex": "#576d3f"
+    },
+    {
+        "name": "Glasurit 384",
+        "label": "glasurit-384",
+        "hex": "#3b593c"
+    },
+    {
+        "name": "Glasurit 385",
+        "label": "glasurit-385",
+        "hex": "#36693a"
+    },
+    {
+        "name": "Glasurit 386",
+        "label": "glasurit-386",
+        "hex": "#156f45"
+    },
+    {
+        "name": "Glasurit 387",
+        "label": "glasurit-387",
+        "hex": "#175c39"
+    },
+    {
+        "name": "Glasurit 388",
+        "label": "glasurit-388",
+        "hex": "#35743d"
+    },
+    {
+        "name": "Glasurit 389",
+        "label": "glasurit-389",
+        "hex": "#1d7744"
+    },
+    {
+        "name": "Glasurit 390",
+        "label": "glasurit-390",
+        "hex": "#41793b"
+    },
+    {
+        "name": "Glasurit 391",
+        "label": "glasurit-391",
+        "hex": "#46733d"
+    },
+    {
+        "name": "Glasurit 392",
+        "label": "glasurit-392",
+        "hex": "#697936"
+    },
+    {
+        "name": "Glasurit 393",
+        "label": "glasurit-393",
+        "hex": "#527533"
+    },
+    {
+        "name": "Glasurit 394",
+        "label": "glasurit-394",
+        "hex": "#568d2b"
+    },
+    {
+        "name": "Glasurit 395",
+        "label": "glasurit-395",
+        "hex": "#759c34"
+    },
+    {
+        "name": "Glasurit 396",
+        "label": "glasurit-396",
+        "hex": "#a0b13b"
+    },
+    {
+        "name": "Glasurit 397",
+        "label": "glasurit-397",
+        "hex": "#8bac3d"
+    },
+    {
+        "name": "Glasurit 398",
+        "label": "glasurit-398",
+        "hex": "#cac244"
+    },
+    {
+        "name": "Glasurit 399",
+        "label": "glasurit-399",
+        "hex": "#ab9e4c"
+    },
+    {
+        "name": "Glasurit 400",
+        "label": "glasurit-400",
+        "hex": "#dfbd3d"
+    },
+    {
+        "name": "Glasurit 401",
+        "label": "glasurit-401",
+        "hex": "#d1b935"
+    },
+    {
+        "name": "Glasurit 402",
+        "label": "glasurit-402",
+        "hex": "#af9b3a"
+    },
+    {
+        "name": "Glasurit 403",
+        "label": "glasurit-403",
+        "hex": "#a4852e"
+    },
+    {
+        "name": "Glasurit 404",
+        "label": "glasurit-404",
+        "hex": "#a1892b"
+    },
+    {
+        "name": "Glasurit 405",
+        "label": "glasurit-405",
+        "hex": "#8e7e2e"
+    },
+    {
+        "name": "Glasurit 406",
+        "label": "glasurit-406",
+        "hex": "#8c8048"
+    },
+    {
+        "name": "Glasurit 407",
+        "label": "glasurit-407",
+        "hex": "#7f743a"
+    },
+    {
+        "name": "Glasurit 408",
+        "label": "glasurit-408",
+        "hex": "#b2a559"
+    },
+    {
+        "name": "Glasurit 409",
+        "label": "glasurit-409",
+        "hex": "#6f642a"
+    },
+    {
+        "name": "Glasurit 410",
+        "label": "glasurit-410",
+        "hex": "#9e8f37"
+    },
+    {
+        "name": "Glasurit 411",
+        "label": "glasurit-411",
+        "hex": "#8e8620"
+    },
+    {
+        "name": "Glasurit 412",
+        "label": "glasurit-412",
+        "hex": "#99941d"
+    },
+    {
+        "name": "Glasurit 413",
+        "label": "glasurit-413",
+        "hex": "#aca31c"
+    },
+    {
+        "name": "Glasurit 414",
+        "label": "glasurit-414",
+        "hex": "#6d6a2d"
+    },
+    {
+        "name": "Glasurit 415",
+        "label": "glasurit-415",
+        "hex": "#5b6032"
+    },
+    {
+        "name": "Glasurit 416",
+        "label": "glasurit-416",
+        "hex": "#747c29"
+    },
+    {
+        "name": "Glasurit 417",
+        "label": "glasurit-417",
+        "hex": "#707730"
+    },
+    {
+        "name": "Glasurit 418",
+        "label": "glasurit-418",
+        "hex": "#899942"
+    },
+    {
+        "name": "Glasurit 419",
+        "label": "glasurit-419",
+        "hex": "#798432"
+    },
+    {
+        "name": "Glasurit 420",
+        "label": "glasurit-420",
+        "hex": "#919351"
+    },
+    {
+        "name": "Glasurit 421",
+        "label": "glasurit-421",
+        "hex": "#8a8d40"
+    },
+    {
+        "name": "Glasurit 422",
+        "label": "glasurit-422",
+        "hex": "#a7b161"
+    },
+    {
+        "name": "Glasurit 423",
+        "label": "glasurit-423",
+        "hex": "#97a055"
+    },
+    {
+        "name": "Glasurit 424",
+        "label": "glasurit-424",
+        "hex": "#c6ca93"
+    },
+    {
+        "name": "Glasurit 425",
+        "label": "glasurit-425",
+        "hex": "#c3c285"
+    },
+    {
+        "name": "Glasurit 426",
+        "label": "glasurit-426",
+        "hex": "#b6bf79"
+    },
+    {
+        "name": "Glasurit 427",
+        "label": "glasurit-427",
+        "hex": "#b2bd75"
+    },
+    {
+        "name": "Glasurit 428",
+        "label": "glasurit-428",
+        "hex": "#91956b"
+    },
+    {
+        "name": "Glasurit 429",
+        "label": "glasurit-429",
+        "hex": "#99a065"
+    },
+    {
+        "name": "Glasurit 430",
+        "label": "glasurit-430",
+        "hex": "#435a55"
+    },
+    {
+        "name": "Glasurit 431",
+        "label": "glasurit-431",
+        "hex": "#4e4f42"
+    },
+    {
+        "name": "Glasurit 432",
+        "label": "glasurit-432",
+        "hex": "#3e4445"
+    },
+    {
+        "name": "Glasurit 433",
+        "label": "glasurit-433",
+        "hex": "#46463e"
+    },
+    {
+        "name": "Glasurit 434",
+        "label": "glasurit-434",
+        "hex": "#484a47"
+    },
+    {
+        "name": "Glasurit 435",
+        "label": "glasurit-435",
+        "hex": "#4a4545"
+    },
+    {
+        "name": "Glasurit 436",
+        "label": "glasurit-436",
+        "hex": "#4b4641"
+    },
+    {
+        "name": "Glasurit 437",
+        "label": "glasurit-437",
+        "hex": "#333133"
+    },
+    {
+        "name": "Glasurit 438",
+        "label": "glasurit-438",
+        "hex": "#8c9384"
+    },
+    {
+        "name": "Glasurit 439",
+        "label": "glasurit-439",
+        "hex": "#6d706b"
+    },
+    {
+        "name": "Glasurit 440",
+        "label": "glasurit-440",
+        "hex": "#585c5f"
+    },
+    {
+        "name": "Glasurit 441",
+        "label": "glasurit-441",
+        "hex": "#484a4e"
+    },
+    {
+        "name": "Glasurit 442",
+        "label": "glasurit-442",
+        "hex": "#777a7b"
+    },
+    {
+        "name": "Glasurit 443",
+        "label": "glasurit-443",
+        "hex": "#666a6d"
+    },
+    {
+        "name": "Glasurit 444",
+        "label": "glasurit-444",
+        "hex": "#adb3ae"
+    },
+    {
+        "name": "Glasurit 445",
+        "label": "glasurit-445",
+        "hex": "#9c9d97"
+    },
+    {
+        "name": "Glasurit 446",
+        "label": "glasurit-446",
+        "hex": "#d0cfc3"
+    },
+    {
+        "name": "Glasurit 447",
+        "label": "glasurit-447",
+        "hex": "#b9b9ae"
+    },
+    {
+        "name": "Glasurit 448",
+        "label": "glasurit-448",
+        "hex": "#e1e6ce"
+    },
+    {
+        "name": "Glasurit 449",
+        "label": "glasurit-449",
+        "hex": "#d7d5c7"
+    }
+]

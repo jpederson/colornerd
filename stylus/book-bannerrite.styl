@@ -1,0 +1,10 @@
+
+
+// set our color array
+bannerrite-colors = ("hellblau" #73cde3) ("gelb" #efdc56) ("rot" #b13944) ("weiss" #f5f5f7) ("blau" #364d79) ("gruen" #2ba366) ("pink-fluoreszierend" #ff3ea8) ("schwarz" #3e3e41) ("pv20" #fafaf3)
+
+
+// grab a specific color based on key
+bannerrite( color )
+  return item[1] if item[0] == color for item in bannerrite-colors
+

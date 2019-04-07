@@ -1,0 +1,16 @@
+
+
+// array of colors
+$lgchem-lk-2000-series-colors: ("lk-2018" #ff7e38), ("lk-2038" #eda67b), ("lk-2234" #6d2e21), ("lk-2012" #a91a28), ("lk-2013" #ae1e23), ("lk-2102" #b62c1c), ("lk-2203" #fea100), ("lk-2034" #ffbc00), ("lk-2313" #ffcc00), ("lk-2035" #eece00), ("lk-2042" #005439), ("lk-2045" #008836), ("lk-2044" #008f55), ("lk-2054" #00a091), ("lk-2512" #00b0af), ("lk-2068" #00aed6), ("lk-2513" #0087b1), ("lk-2067" #007bb1), ("lk-2064" #2657ac), ("lk-2066" #2c559f), ("lk-2505" #2c3893), ("lk-2062" #242e77), ("lk-2063" #232e69), ("lk-2092" #74508d), ("lk-2091" #7f1230), ("lk-2099" #f1f1f4), ("lk-2075" #9da0a3), ("lk-2074" #737574), ("lk-2073" #535455), ("lk-2072" #101215);
+
+
+// grab a specific color based on key
+@function lgchem-lk-2000-series( $color ) {
+    @each $item in $lgchem-lk-2000-series-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

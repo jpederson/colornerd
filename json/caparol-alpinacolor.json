@@ -1,0 +1,1172 @@
+[
+    {
+        "name": "Caparol Amazonas-0",
+        "label": "amazonas-0",
+        "hex": "#666f48"
+    },
+    {
+        "name": "Caparol Amazonas-11",
+        "label": "amazonas-11",
+        "hex": "#758055"
+    },
+    {
+        "name": "Caparol Amazonas-12",
+        "label": "amazonas-12",
+        "hex": "#8a9563"
+    },
+    {
+        "name": "Caparol Amazonas-13",
+        "label": "amazonas-13",
+        "hex": "#a8b384"
+    },
+    {
+        "name": "Caparol Amazonas-14",
+        "label": "amazonas-14",
+        "hex": "#b8c299"
+    },
+    {
+        "name": "Caparol Amazonas-15",
+        "label": "amazonas-15",
+        "hex": "#cad2ae"
+    },
+    {
+        "name": "Caparol Amazonas-16",
+        "label": "amazonas-16",
+        "hex": "#d4ddc1"
+    },
+    {
+        "name": "Caparol Amazonas-17",
+        "label": "amazonas-17",
+        "hex": "#dde1cc"
+    },
+    {
+        "name": "Caparol Amazonas-18",
+        "label": "amazonas-18",
+        "hex": "#e6e8d7"
+    },
+    {
+        "name": "Caparol Aprikose-0",
+        "label": "aprikose-0",
+        "hex": "#ce7936"
+    },
+    {
+        "name": "Caparol Aprikose-11",
+        "label": "aprikose-11",
+        "hex": "#db843b"
+    },
+    {
+        "name": "Caparol Aprikose-12",
+        "label": "aprikose-12",
+        "hex": "#e89644"
+    },
+    {
+        "name": "Caparol Aprikose-13",
+        "label": "aprikose-13",
+        "hex": "#eeae5f"
+    },
+    {
+        "name": "Caparol Aprikose-14",
+        "label": "aprikose-14",
+        "hex": "#f2be7c"
+    },
+    {
+        "name": "Caparol Aprikose-15",
+        "label": "aprikose-15",
+        "hex": "#f3cc96"
+    },
+    {
+        "name": "Caparol Aprikose-16",
+        "label": "aprikose-16",
+        "hex": "#f4d7aa"
+    },
+    {
+        "name": "Caparol Aprikose-17",
+        "label": "aprikose-17",
+        "hex": "#f6dfbb"
+    },
+    {
+        "name": "Caparol Aprikose-18",
+        "label": "aprikose-18",
+        "hex": "#f3e4c9"
+    },
+    {
+        "name": "Caparol Basalt-0",
+        "label": "basalt-0",
+        "hex": "#524f4f"
+    },
+    {
+        "name": "Caparol Basalt-11",
+        "label": "basalt-11",
+        "hex": "#6b686a"
+    },
+    {
+        "name": "Caparol Basalt-12",
+        "label": "basalt-12",
+        "hex": "#868283"
+    },
+    {
+        "name": "Caparol Basalt-13",
+        "label": "basalt-13",
+        "hex": "#a4a3a1"
+    },
+    {
+        "name": "Caparol Basalt-14",
+        "label": "basalt-14",
+        "hex": "#b7b9b7"
+    },
+    {
+        "name": "Caparol Basalt-15",
+        "label": "basalt-15",
+        "hex": "#cbc8c5"
+    },
+    {
+        "name": "Caparol Basalt-16",
+        "label": "basalt-16",
+        "hex": "#d4d3d0"
+    },
+    {
+        "name": "Caparol Basalt-17",
+        "label": "basalt-17",
+        "hex": "#dedcd6"
+    },
+    {
+        "name": "Caparol Basalt-18",
+        "label": "basalt-18",
+        "hex": "#e6e3dc"
+    },
+    {
+        "name": "Caparol Bison-0",
+        "label": "bison-0",
+        "hex": "#665547"
+    },
+    {
+        "name": "Caparol Bison-11",
+        "label": "bison-11",
+        "hex": "#786552"
+    },
+    {
+        "name": "Caparol Bison-12",
+        "label": "bison-12",
+        "hex": "#907c64"
+    },
+    {
+        "name": "Caparol Bison-13",
+        "label": "bison-13",
+        "hex": "#b19d85"
+    },
+    {
+        "name": "Caparol Bison-14",
+        "label": "bison-14",
+        "hex": "#c1b099"
+    },
+    {
+        "name": "Caparol Bison-15",
+        "label": "bison-15",
+        "hex": "#d0c1ae"
+    },
+    {
+        "name": "Caparol Bison-16",
+        "label": "bison-16",
+        "hex": "#dcd1c2"
+    },
+    {
+        "name": "Caparol Bison-17",
+        "label": "bison-17",
+        "hex": "#e5dccf"
+    },
+    {
+        "name": "Caparol Bison-18",
+        "label": "bison-18",
+        "hex": "#e9e3d7"
+    },
+    {
+        "name": "Caparol Cognac-0",
+        "label": "cognac-0",
+        "hex": "#b3763e"
+    },
+    {
+        "name": "Caparol Cognac-11",
+        "label": "cognac-11",
+        "hex": "#ca8a49"
+    },
+    {
+        "name": "Caparol Cognac-12",
+        "label": "cognac-12",
+        "hex": "#dea25c"
+    },
+    {
+        "name": "Caparol Cognac-13",
+        "label": "cognac-13",
+        "hex": "#eebc79"
+    },
+    {
+        "name": "Caparol Cognac-14",
+        "label": "cognac-14",
+        "hex": "#efc892"
+    },
+    {
+        "name": "Caparol Cognac-15",
+        "label": "cognac-15",
+        "hex": "#f1d3aa"
+    },
+    {
+        "name": "Caparol Cognac-16",
+        "label": "cognac-16",
+        "hex": "#f3ddb9"
+    },
+    {
+        "name": "Caparol Cognac-17",
+        "label": "cognac-17",
+        "hex": "#f3e3c8"
+    },
+    {
+        "name": "Caparol Cognac-18",
+        "label": "cognac-18",
+        "hex": "#f5e9d4"
+    },
+    {
+        "name": "Caparol Gobi-0",
+        "label": "gobi-0",
+        "hex": "#bf8935"
+    },
+    {
+        "name": "Caparol Gobi-11",
+        "label": "gobi-11",
+        "hex": "#cf9841"
+    },
+    {
+        "name": "Caparol Gobi-12",
+        "label": "gobi-12",
+        "hex": "#dca84b"
+    },
+    {
+        "name": "Caparol Gobi-13",
+        "label": "gobi-13",
+        "hex": "#ecc16f"
+    },
+    {
+        "name": "Caparol Gobi-14",
+        "label": "gobi-14",
+        "hex": "#f1ce8b"
+    },
+    {
+        "name": "Caparol Gobi-15",
+        "label": "gobi-15",
+        "hex": "#f2d9a3"
+    },
+    {
+        "name": "Caparol Gobi-16",
+        "label": "gobi-16",
+        "hex": "#f5e0b6"
+    },
+    {
+        "name": "Caparol Gobi-17",
+        "label": "gobi-17",
+        "hex": "#f2e3c2"
+    },
+    {
+        "name": "Caparol Gobi-18",
+        "label": "gobi-18",
+        "hex": "#f2e9d2"
+    },
+    {
+        "name": "Caparol Granat-0",
+        "label": "granat-0",
+        "hex": "#8b5346"
+    },
+    {
+        "name": "Caparol Granat-11",
+        "label": "granat-11",
+        "hex": "#9c6154"
+    },
+    {
+        "name": "Caparol Granat-12",
+        "label": "granat-12",
+        "hex": "#ae7364"
+    },
+    {
+        "name": "Caparol Granat-13",
+        "label": "granat-13",
+        "hex": "#ca9587"
+    },
+    {
+        "name": "Caparol Granat-14",
+        "label": "granat-14",
+        "hex": "#d9aea1"
+    },
+    {
+        "name": "Caparol Granat-15",
+        "label": "granat-15",
+        "hex": "#e2beb0"
+    },
+    {
+        "name": "Caparol Granat-16",
+        "label": "granat-16",
+        "hex": "#eacfc1"
+    },
+    {
+        "name": "Caparol Granat-17",
+        "label": "granat-17",
+        "hex": "#eed8ce"
+    },
+    {
+        "name": "Caparol Granat-18",
+        "label": "granat-18",
+        "hex": "#f1e1d7"
+    },
+    {
+        "name": "Caparol Havanna-0",
+        "label": "havanna-0",
+        "hex": "#7e6044"
+    },
+    {
+        "name": "Caparol Havanna-11",
+        "label": "havanna-11",
+        "hex": "#8e6f50"
+    },
+    {
+        "name": "Caparol Havanna-12",
+        "label": "havanna-12",
+        "hex": "#a4805a"
+    },
+    {
+        "name": "Caparol Havanna-13",
+        "label": "havanna-13",
+        "hex": "#c09f7c"
+    },
+    {
+        "name": "Caparol Havanna-14",
+        "label": "havanna-14",
+        "hex": "#d1b393"
+    },
+    {
+        "name": "Caparol Havanna-15",
+        "label": "havanna-15",
+        "hex": "#d9c1a7"
+    },
+    {
+        "name": "Caparol Havanna-16",
+        "label": "havanna-16",
+        "hex": "#e5d1b9"
+    },
+    {
+        "name": "Caparol Havanna-17",
+        "label": "havanna-17",
+        "hex": "#eadac7"
+    },
+    {
+        "name": "Caparol Havanna-18",
+        "label": "havanna-18",
+        "hex": "#eee0d2"
+    },
+    {
+        "name": "Caparol Iris-0",
+        "label": "iris-0",
+        "hex": "#4a6575"
+    },
+    {
+        "name": "Caparol Iris-11",
+        "label": "iris-11",
+        "hex": "#55798d"
+    },
+    {
+        "name": "Caparol Iris-12",
+        "label": "iris-12",
+        "hex": "#678fa5"
+    },
+    {
+        "name": "Caparol Iris-13",
+        "label": "iris-13",
+        "hex": "#84acbe"
+    },
+    {
+        "name": "Caparol Iris-14",
+        "label": "iris-14",
+        "hex": "#9bbcca"
+    },
+    {
+        "name": "Caparol Iris-15",
+        "label": "iris-15",
+        "hex": "#b1ccd6"
+    },
+    {
+        "name": "Caparol Iris-16",
+        "label": "iris-16",
+        "hex": "#c2d5dc"
+    },
+    {
+        "name": "Caparol Iris-17",
+        "label": "iris-17",
+        "hex": "#d1dedf"
+    },
+    {
+        "name": "Caparol Iris-18",
+        "label": "iris-18",
+        "hex": "#dce4e2"
+    },
+    {
+        "name": "Caparol Island-0",
+        "label": "island-0",
+        "hex": "#676a53"
+    },
+    {
+        "name": "Caparol Island-11",
+        "label": "island-11",
+        "hex": "#7a7d63"
+    },
+    {
+        "name": "Caparol Island-12",
+        "label": "island-12",
+        "hex": "#949578"
+    },
+    {
+        "name": "Caparol Island-13",
+        "label": "island-13",
+        "hex": "#b2b196"
+    },
+    {
+        "name": "Caparol Island-14",
+        "label": "island-14",
+        "hex": "#c3c4ad"
+    },
+    {
+        "name": "Caparol Island-15",
+        "label": "island-15",
+        "hex": "#d0d1bd"
+    },
+    {
+        "name": "Caparol Island-16",
+        "label": "island-16",
+        "hex": "#dbdaca"
+    },
+    {
+        "name": "Caparol Island-17",
+        "label": "island-17",
+        "hex": "#e2e2d5"
+    },
+    {
+        "name": "Caparol Island-18",
+        "label": "island-18",
+        "hex": "#e9e6d9"
+    },
+    {
+        "name": "Caparol Lava-0",
+        "label": "lava-0",
+        "hex": "#625848"
+    },
+    {
+        "name": "Caparol Lava-11",
+        "label": "lava-11",
+        "hex": "#776c58"
+    },
+    {
+        "name": "Caparol Lava-12",
+        "label": "lava-12",
+        "hex": "#93856d"
+    },
+    {
+        "name": "Caparol Lava-13",
+        "label": "lava-13",
+        "hex": "#b1a38c"
+    },
+    {
+        "name": "Caparol Lava-14",
+        "label": "lava-14",
+        "hex": "#c4b9a3"
+    },
+    {
+        "name": "Caparol Lava-15",
+        "label": "lava-15",
+        "hex": "#d4cab9"
+    },
+    {
+        "name": "Caparol Lava-16",
+        "label": "lava-16",
+        "hex": "#e0d7c7"
+    },
+    {
+        "name": "Caparol Lava-17",
+        "label": "lava-17",
+        "hex": "#e6dfd2"
+    },
+    {
+        "name": "Caparol Lava-18",
+        "label": "lava-18",
+        "hex": "#ebe5d9"
+    },
+    {
+        "name": "Caparol Mais-0",
+        "label": "mais-0",
+        "hex": "#eaa531"
+    },
+    {
+        "name": "Caparol Mais-11",
+        "label": "mais-11",
+        "hex": "#f1b340"
+    },
+    {
+        "name": "Caparol Mais-12",
+        "label": "mais-12",
+        "hex": "#f5c257"
+    },
+    {
+        "name": "Caparol Mais-13",
+        "label": "mais-13",
+        "hex": "#f7d071"
+    },
+    {
+        "name": "Caparol Mais-14",
+        "label": "mais-14",
+        "hex": "#f6da8d"
+    },
+    {
+        "name": "Caparol Mais-15",
+        "label": "mais-15",
+        "hex": "#f6e2a7"
+    },
+    {
+        "name": "Caparol Mais-16",
+        "label": "mais-16",
+        "hex": "#f7e7b9"
+    },
+    {
+        "name": "Caparol Mais-17",
+        "label": "mais-17",
+        "hex": "#f6ecc8"
+    },
+    {
+        "name": "Caparol Mais-18",
+        "label": "mais-18",
+        "hex": "#f4ebd0"
+    },
+    {
+        "name": "Caparol Mallaga-0",
+        "label": "mallaga-0",
+        "hex": "#875c46"
+    },
+    {
+        "name": "Caparol Mallaga-11",
+        "label": "mallaga-11",
+        "hex": "#9b6f57"
+    },
+    {
+        "name": "Caparol Mallaga-12",
+        "label": "mallaga-12",
+        "hex": "#b08569"
+    },
+    {
+        "name": "Caparol Mallaga-13",
+        "label": "mallaga-13",
+        "hex": "#caa58a"
+    },
+    {
+        "name": "Caparol Mallaga-14",
+        "label": "mallaga-14",
+        "hex": "#d5b49c"
+    },
+    {
+        "name": "Caparol Mallaga-15",
+        "label": "mallaga-15",
+        "hex": "#e4cab6"
+    },
+    {
+        "name": "Caparol Mallaga-16",
+        "label": "mallaga-16",
+        "hex": "#e9d5c5"
+    },
+    {
+        "name": "Caparol Mallaga-17",
+        "label": "mallaga-17",
+        "hex": "#edddcf"
+    },
+    {
+        "name": "Caparol Mallaga-18",
+        "label": "mallaga-18",
+        "hex": "#f0e3d6"
+    },
+    {
+        "name": "Caparol Mandarin-0",
+        "label": "mandarin-0",
+        "hex": "#de9237"
+    },
+    {
+        "name": "Caparol Mandarin-11",
+        "label": "mandarin-11",
+        "hex": "#e79f3f"
+    },
+    {
+        "name": "Caparol Mandarin-12",
+        "label": "mandarin-12",
+        "hex": "#edad50"
+    },
+    {
+        "name": "Caparol Mandarin-13",
+        "label": "mandarin-13",
+        "hex": "#f0c06d"
+    },
+    {
+        "name": "Caparol Mandarin-14",
+        "label": "mandarin-14",
+        "hex": "#f6cf8c"
+    },
+    {
+        "name": "Caparol Mandarin-15",
+        "label": "mandarin-15",
+        "hex": "#f6dba3"
+    },
+    {
+        "name": "Caparol Mandarin-16",
+        "label": "mandarin-16",
+        "hex": "#f5e1b8"
+    },
+    {
+        "name": "Caparol Mandarin-17",
+        "label": "mandarin-17",
+        "hex": "#f4e7c6"
+    },
+    {
+        "name": "Caparol Mandarin-18",
+        "label": "mandarin-18",
+        "hex": "#f4e9d0"
+    },
+    {
+        "name": "Caparol Maroc-0",
+        "label": "maroc-0",
+        "hex": "#8e6845"
+    },
+    {
+        "name": "Caparol Maroc-11",
+        "label": "maroc-11",
+        "hex": "#a67c50"
+    },
+    {
+        "name": "Caparol Maroc-12",
+        "label": "maroc-12",
+        "hex": "#bc8f5f"
+    },
+    {
+        "name": "Caparol Maroc-13",
+        "label": "maroc-13",
+        "hex": "#d5ae7f"
+    },
+    {
+        "name": "Caparol Maroc-14",
+        "label": "maroc-14",
+        "hex": "#debe94"
+    },
+    {
+        "name": "Caparol Maroc-15",
+        "label": "maroc-15",
+        "hex": "#e6ccad"
+    },
+    {
+        "name": "Caparol Maroc-16",
+        "label": "maroc-16",
+        "hex": "#ecd7bc"
+    },
+    {
+        "name": "Caparol Maroc-17",
+        "label": "maroc-17",
+        "hex": "#eee1cb"
+    },
+    {
+        "name": "Caparol Maroc-18",
+        "label": "maroc-18",
+        "hex": "#eee5d3"
+    },
+    {
+        "name": "Caparol Marone-0",
+        "label": "marone-0",
+        "hex": "#725341"
+    },
+    {
+        "name": "Caparol Marone-11",
+        "label": "marone-11",
+        "hex": "#8a6850"
+    },
+    {
+        "name": "Caparol Marone-12",
+        "label": "marone-12",
+        "hex": "#9e7b61"
+    },
+    {
+        "name": "Caparol Marone-13",
+        "label": "marone-13",
+        "hex": "#bb9a7d"
+    },
+    {
+        "name": "Caparol Marone-14",
+        "label": "marone-14",
+        "hex": "#ccb097"
+    },
+    {
+        "name": "Caparol Marone-15",
+        "label": "marone-15",
+        "hex": "#d8bfaa"
+    },
+    {
+        "name": "Caparol Marone-16",
+        "label": "marone-16",
+        "hex": "#e3cebd"
+    },
+    {
+        "name": "Caparol Marone-17",
+        "label": "marone-17",
+        "hex": "#e9daca"
+    },
+    {
+        "name": "Caparol Marone-18",
+        "label": "marone-18",
+        "hex": "#e8ded2"
+    },
+    {
+        "name": "Caparol Mistral-0",
+        "label": "mistral-0",
+        "hex": "#9f763f"
+    },
+    {
+        "name": "Caparol Mistral-11",
+        "label": "mistral-11",
+        "hex": "#b2884d"
+    },
+    {
+        "name": "Caparol Mistral-12",
+        "label": "mistral-12",
+        "hex": "#cca15f"
+    },
+    {
+        "name": "Caparol Mistral-13",
+        "label": "mistral-13",
+        "hex": "#dfba7f"
+    },
+    {
+        "name": "Caparol Mistral-14",
+        "label": "mistral-14",
+        "hex": "#e6c897"
+    },
+    {
+        "name": "Caparol Mistral-15",
+        "label": "mistral-15",
+        "hex": "#ebd4ac"
+    },
+    {
+        "name": "Caparol Mistral-16",
+        "label": "mistral-16",
+        "hex": "#f1dec0"
+    },
+    {
+        "name": "Caparol Mistral-17",
+        "label": "mistral-17",
+        "hex": "#f0e1c9"
+    },
+    {
+        "name": "Caparol Mistral-18",
+        "label": "mistral-18",
+        "hex": "#f1e7d3"
+    },
+    {
+        "name": "Caparol Nutria-0",
+        "label": "nutria-0",
+        "hex": "#6d5746"
+    },
+    {
+        "name": "Caparol Nutria-11",
+        "label": "nutria-11",
+        "hex": "#806a57"
+    },
+    {
+        "name": "Caparol Nutria-12",
+        "label": "nutria-12",
+        "hex": "#977c65"
+    },
+    {
+        "name": "Caparol Nutria-13",
+        "label": "nutria-13",
+        "hex": "#b69c83"
+    },
+    {
+        "name": "Caparol Nutria-14",
+        "label": "nutria-14",
+        "hex": "#c6b29c"
+    },
+    {
+        "name": "Caparol Nutria-15",
+        "label": "nutria-15",
+        "hex": "#d4c1ae"
+    },
+    {
+        "name": "Caparol Nutria-16",
+        "label": "nutria-16",
+        "hex": "#dfd0bf"
+    },
+    {
+        "name": "Caparol Nutria-17",
+        "label": "nutria-17",
+        "hex": "#e7dacd"
+    },
+    {
+        "name": "Caparol Nutria-18",
+        "label": "nutria-18",
+        "hex": "#ebe1d6"
+    },
+    {
+        "name": "Caparol Olive-0",
+        "label": "olive-0",
+        "hex": "#857b46"
+    },
+    {
+        "name": "Caparol Olive-11",
+        "label": "olive-11",
+        "hex": "#978a4d"
+    },
+    {
+        "name": "Caparol Olive-12",
+        "label": "olive-12",
+        "hex": "#ad9f5e"
+    },
+    {
+        "name": "Caparol Olive-13",
+        "label": "olive-13",
+        "hex": "#c6b87b"
+    },
+    {
+        "name": "Caparol Olive-14",
+        "label": "olive-14",
+        "hex": "#d2c796"
+    },
+    {
+        "name": "Caparol Olive-15",
+        "label": "olive-15",
+        "hex": "#dbd2aa"
+    },
+    {
+        "name": "Caparol Olive-16",
+        "label": "olive-16",
+        "hex": "#e5ddbb"
+    },
+    {
+        "name": "Caparol Olive-17",
+        "label": "olive-17",
+        "hex": "#e9e2c8"
+    },
+    {
+        "name": "Caparol Olive-18",
+        "label": "olive-18",
+        "hex": "#ece6d3"
+    },
+    {
+        "name": "Caparol Palma-0",
+        "label": "palma-0",
+        "hex": "#6e6748"
+    },
+    {
+        "name": "Caparol Palma-11",
+        "label": "palma-11",
+        "hex": "#7f7752"
+    },
+    {
+        "name": "Caparol Palma-12",
+        "label": "palma-12",
+        "hex": "#978b60"
+    },
+    {
+        "name": "Caparol Palma-13",
+        "label": "palma-13",
+        "hex": "#b6a97c"
+    },
+    {
+        "name": "Caparol Palma-14",
+        "label": "palma-14",
+        "hex": "#c7bd95"
+    },
+    {
+        "name": "Caparol Palma-15",
+        "label": "palma-15",
+        "hex": "#d5cdac"
+    },
+    {
+        "name": "Caparol Palma-16",
+        "label": "palma-16",
+        "hex": "#ddd6bb"
+    },
+    {
+        "name": "Caparol Palma-17",
+        "label": "palma-17",
+        "hex": "#e6e0ca"
+    },
+    {
+        "name": "Caparol Palma-18",
+        "label": "palma-18",
+        "hex": "#ece6d3"
+    },
+    {
+        "name": "Caparol Schiefer-0",
+        "label": "schiefer-0",
+        "hex": "#54514b"
+    },
+    {
+        "name": "Caparol Schiefer-11",
+        "label": "schiefer-11",
+        "hex": "#5d5950"
+    },
+    {
+        "name": "Caparol Schiefer-12",
+        "label": "schiefer-12",
+        "hex": "#726e64"
+    },
+    {
+        "name": "Caparol Schiefer-13",
+        "label": "schiefer-13",
+        "hex": "#918d82"
+    },
+    {
+        "name": "Caparol Schiefer-14",
+        "label": "schiefer-14",
+        "hex": "#a7a297"
+    },
+    {
+        "name": "Caparol Schiefer-15",
+        "label": "schiefer-15",
+        "hex": "#bcb7ac"
+    },
+    {
+        "name": "Caparol Schiefer-16",
+        "label": "schiefer-16",
+        "hex": "#cbc7be"
+    },
+    {
+        "name": "Caparol Schiefer-17",
+        "label": "schiefer-17",
+        "hex": "#d6d3cc"
+    },
+    {
+        "name": "Caparol Schiefer-18",
+        "label": "schiefer-18",
+        "hex": "#dcdad3"
+    },
+    {
+        "name": "Caparol Schilf-0",
+        "label": "schilf-0",
+        "hex": "#a89148"
+    },
+    {
+        "name": "Caparol Schilf-11",
+        "label": "schilf-11",
+        "hex": "#b49c4f"
+    },
+    {
+        "name": "Caparol Schilf-12",
+        "label": "schilf-12",
+        "hex": "#c4b167"
+    },
+    {
+        "name": "Caparol Schilf-13",
+        "label": "schilf-13",
+        "hex": "#d7c384"
+    },
+    {
+        "name": "Caparol Schilf-14",
+        "label": "schilf-14",
+        "hex": "#e1d098"
+    },
+    {
+        "name": "Caparol Schilf-15",
+        "label": "schilf-15",
+        "hex": "#e4d9ad"
+    },
+    {
+        "name": "Caparol Schilf-16",
+        "label": "schilf-16",
+        "hex": "#ebe2c2"
+    },
+    {
+        "name": "Caparol Schilf-17",
+        "label": "schilf-17",
+        "hex": "#ede7cd"
+    },
+    {
+        "name": "Caparol Schilf-18",
+        "label": "schilf-18",
+        "hex": "#f0e9d2"
+    },
+    {
+        "name": "Caparol Siam-0",
+        "label": "siam-0",
+        "hex": "#5e4e45"
+    },
+    {
+        "name": "Caparol Siam-11",
+        "label": "siam-11",
+        "hex": "#76655b"
+    },
+    {
+        "name": "Caparol Siam-12",
+        "label": "siam-12",
+        "hex": "#8e7c71"
+    },
+    {
+        "name": "Caparol Siam-13",
+        "label": "siam-13",
+        "hex": "#ae9d91"
+    },
+    {
+        "name": "Caparol Siam-14",
+        "label": "siam-14",
+        "hex": "#c2b3a7"
+    },
+    {
+        "name": "Caparol Siam-15",
+        "label": "siam-15",
+        "hex": "#cfc3b8"
+    },
+    {
+        "name": "Caparol Siam-16",
+        "label": "siam-16",
+        "hex": "#dcd2c9"
+    },
+    {
+        "name": "Caparol Siam-17",
+        "label": "siam-17",
+        "hex": "#e4dbd1"
+    },
+    {
+        "name": "Caparol Siam-18",
+        "label": "siam-18",
+        "hex": "#e7dfd6"
+    },
+    {
+        "name": "Caparol Taiga-0",
+        "label": "taiga-0",
+        "hex": "#796848"
+    },
+    {
+        "name": "Caparol Taiga-11",
+        "label": "taiga-11",
+        "hex": "#8d7954"
+    },
+    {
+        "name": "Caparol Taiga-12",
+        "label": "taiga-12",
+        "hex": "#a28d63"
+    },
+    {
+        "name": "Caparol Taiga-13",
+        "label": "taiga-13",
+        "hex": "#bfaa81"
+    },
+    {
+        "name": "Caparol Taiga-14",
+        "label": "taiga-14",
+        "hex": "#cebd98"
+    },
+    {
+        "name": "Caparol Taiga-15",
+        "label": "taiga-15",
+        "hex": "#dccbab"
+    },
+    {
+        "name": "Caparol Taiga-16",
+        "label": "taiga-16",
+        "hex": "#e5d7be"
+    },
+    {
+        "name": "Caparol Taiga-17",
+        "label": "taiga-17",
+        "hex": "#e6ddc9"
+    },
+    {
+        "name": "Caparol Taiga-18",
+        "label": "taiga-18",
+        "hex": "#ede5d5"
+    },
+    {
+        "name": "Caparol Terra-0",
+        "label": "terra-0",
+        "hex": "#966444"
+    },
+    {
+        "name": "Caparol Terra-11",
+        "label": "terra-11",
+        "hex": "#a77450"
+    },
+    {
+        "name": "Caparol Terra-12",
+        "label": "terra-12",
+        "hex": "#bf8a5f"
+    },
+    {
+        "name": "Caparol Terra-13",
+        "label": "terra-13",
+        "hex": "#d3a57b"
+    },
+    {
+        "name": "Caparol Terra-14",
+        "label": "terra-14",
+        "hex": "#e0ba96"
+    },
+    {
+        "name": "Caparol Terra-15",
+        "label": "terra-15",
+        "hex": "#e8c8aa"
+    },
+    {
+        "name": "Caparol Terra-16",
+        "label": "terra-16",
+        "hex": "#edd4bd"
+    },
+    {
+        "name": "Caparol Terra-17",
+        "label": "terra-17",
+        "hex": "#f3ddc3"
+    },
+    {
+        "name": "Caparol Terra-18",
+        "label": "terra-18",
+        "hex": "#f3e3d0"
+    },
+    {
+        "name": "Caparol Tibet-0",
+        "label": "tibet-0",
+        "hex": "#626f6d"
+    },
+    {
+        "name": "Caparol Tibet-11",
+        "label": "tibet-11",
+        "hex": "#70807f"
+    },
+    {
+        "name": "Caparol Tibet-12",
+        "label": "tibet-12",
+        "hex": "#849290"
+    },
+    {
+        "name": "Caparol Tibet-13",
+        "label": "tibet-13",
+        "hex": "#a3adab"
+    },
+    {
+        "name": "Caparol Tibet-14",
+        "label": "tibet-14",
+        "hex": "#b5bfbc"
+    },
+    {
+        "name": "Caparol Tibet-15",
+        "label": "tibet-15",
+        "hex": "#c6cdcb"
+    },
+    {
+        "name": "Caparol Tibet-16",
+        "label": "tibet-16",
+        "hex": "#d3d8d3"
+    },
+    {
+        "name": "Caparol Tibet-17",
+        "label": "tibet-17",
+        "hex": "#e0e2dc"
+    },
+    {
+        "name": "Caparol Tibet-18",
+        "label": "tibet-18",
+        "hex": "#e5e6de"
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "name": "Caparol 251 Reinweiss",
+        "label": "251-reinweiss",
+        "hex": "#f4f3e9"
+    },
+    {
+        "name": "Caparol 252 Elfenbein",
+        "label": "252-elfenbein",
+        "hex": "#f5e8d0"
+    },
+    {
+        "name": "Caparol 253 Grauweiss",
+        "label": "253-grauweiss",
+        "hex": "#d7d5ca"
+    },
+    {
+        "name": "Caparol 254 Lichtgrau",
+        "label": "254-lichtgrau",
+        "hex": "#c8c9c5"
+    },
+    {
+        "name": "Caparol 255 Silbergrau",
+        "label": "255-silbergrau",
+        "hex": "#919a9d"
+    },
+    {
+        "name": "Caparol 256 Verkehrsgelb",
+        "label": "256-verkehrsgelb",
+        "hex": "#dea41d"
+    },
+    {
+        "name": "Caparol 257 Ocker",
+        "label": "257-ocker",
+        "hex": "#be822d"
+    },
+    {
+        "name": "Caparol 258 Gelborange",
+        "label": "258-gelborange",
+        "hex": "#d27121"
+    },
+    {
+        "name": "Caparol 259 Feuerrot",
+        "label": "259-feuerrot",
+        "hex": "#99352e"
+    },
+    {
+        "name": "Caparol 260 Oxidrot",
+        "label": "260-oxidrot",
+        "hex": "#6b372f"
+    },
+    {
+        "name": "Caparol 261 Lehmbraun",
+        "label": "261-lehmbraun",
+        "hex": "#7f5234"
+    },
+    {
+        "name": "Caparol 262 Nussbraun",
+        "label": "262-nussbraun",
+        "hex": "#5d4132"
+    },
+    {
+        "name": "Caparol 263 Schokobraun",
+        "label": "263-schokobraun",
+        "hex": "#473630"
+    },
+    {
+        "name": "Caparol 264 Umbra",
+        "label": "264-umbra",
+        "hex": "#4a4737"
+    },
+    {
+        "name": "Caparol 265 Smaragdgruen",
+        "label": "265-smaragdgruen",
+        "hex": "#366b39"
+    },
+    {
+        "name": "Caparol 266 Moosgruen",
+        "label": "266-moosgruen",
+        "hex": "#22463a"
+    },
+    {
+        "name": "Caparol 267 Enzianblau",
+        "label": "267-enzianblau",
+        "hex": "#105483"
+    },
+    {
+        "name": "Caparol 268 Tiefschwarz",
+        "label": "268-tiefschwarz",
+        "hex": "#232527"
+    },
+    {
+        "name": "Caparol 269",
+        "label": "269",
+        "hex": "#392f2b"
+    },
+    {
+        "name": "Caparol 270",
+        "label": "270",
+        "hex": "#2a3840"
+    },
+    {
+        "name": "Caparol 271",
+        "label": "271",
+        "hex": "#2f3340"
+    },
+    {
+        "name": "Caparol 272",
+        "label": "272",
+        "hex": "#3b90b9"
+    },
+    {
+        "name": "Caparol 273",
+        "label": "273",
+        "hex": "#d9d9cf"
+    },
+    {
+        "name": "Caparol 274",
+        "label": "274",
+        "hex": "#ccd0cb"
+    },
+    {
+        "name": "Caparol 275",
+        "label": "275",
+        "hex": "#65676a"
+    },
+    {
+        "name": "Caparol 276",
+        "label": "276",
+        "hex": "#1f4a4f"
+    },
+    {
+        "name": "Caparol 277",
+        "label": "277",
+        "hex": "#16524b"
+    },
+    {
+        "name": "Caparol 278",
+        "label": "278",
+        "hex": "#20563c"
+    },
+    {
+        "name": "Caparol 279",
+        "label": "279",
+        "hex": "#5d7c38"
+    },
+    {
+        "name": "Caparol 280",
+        "label": "280",
+        "hex": "#375038"
+    },
+    {
+        "name": "Caparol 281",
+        "label": "281",
+        "hex": "#565b3a"
+    },
+    {
+        "name": "Caparol 282",
+        "label": "282",
+        "hex": "#353f34"
+    },
+    {
+        "name": "Caparol 283",
+        "label": "283",
+        "hex": "#6d6539"
+    },
+    {
+        "name": "Caparol 284",
+        "label": "284",
+        "hex": "#928d77"
+    },
+    {
+        "name": "Caparol 285",
+        "label": "285",
+        "hex": "#ecc562"
+    },
+    {
+        "name": "Caparol 286",
+        "label": "286",
+        "hex": "#c79026"
+    },
+    {
+        "name": "Caparol 287",
+        "label": "287",
+        "hex": "#996d34"
+    },
+    {
+        "name": "Caparol 288",
+        "label": "288",
+        "hex": "#6c533b"
+    },
+    {
+        "name": "Caparol 289",
+        "label": "289",
+        "hex": "#463c30"
+    },
+    {
+        "name": "Caparol 290",
+        "label": "290",
+        "hex": "#5c4434"
+    },
+    {
+        "name": "Caparol 291",
+        "label": "291",
+        "hex": "#684732"
+    },
+    {
+        "name": "Caparol 292",
+        "label": "292",
+        "hex": "#8c5136"
+    },
+    {
+        "name": "Caparol 293",
+        "label": "293",
+        "hex": "#703e30"
+    },
+    {
+        "name": "Caparol 294",
+        "label": "294",
+        "hex": "#965b2d"
+    },
+    {
+        "name": "Caparol 295",
+        "label": "295",
+        "hex": "#c2782c"
+    },
+    {
+        "name": "Caparol 296",
+        "label": "296",
+        "hex": "#a24833"
+    },
+    {
+        "name": "Caparol 297",
+        "label": "297",
+        "hex": "#753429"
+    },
+    {
+        "name": "Caparol 298",
+        "label": "298",
+        "hex": "#5b382f"
+    },
+    {
+        "name": "Caparol Resedagruen",
+        "label": "resedagruen",
+        "hex": "#9a9f7f"
+    },
+    {
+        "name": "Caparol Rotbraun",
+        "label": "rotbraun",
+        "hex": "#8b4d3e"
+    },
+    {
+        "name": "Caparol Weiss",
+        "label": "weiss",
+        "hex": "#eae7db"
+    }
+]

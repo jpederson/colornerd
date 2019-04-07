@@ -1,0 +1,10 @@
+
+
+// set our color array
+volvox-colors = ("volvox-art-noveau-41" #f5e5d7) ("volvox-art-noveau-42" #e7dedb) ("volvox-art-noveau-43" #afb664) ("volvox-art-noveau-44" #8dd3c2) ("volvox-art-noveau-45" #968089) ("volvox-baltic-sea-07" #a2b28f) ("volvox-baltic-sea-09" #9ec0cc) ("volvox-baltic-sea-15" #f6e397) ("volvox-baltic-sea-37" #dec7ab) ("volvox-baltic-sea-01" #f3eddb) ("volvox-childhood-dream-36" #f5ead9) ("volvox-childhood-dream-03" #e1cdaf) ("volvox-childhood-dream-38" #ffc685) ("volvox-childhood-dream-39" #d87f6d) ("volvox-childhood-dream-16" #8497af) ("volvox-dynamic-energy-13" #af5f5e) ("volvox-dynamic-energy-40" #ffb249) ("volvox-dynamic-energy-12" #94825c) ("volvox-dynamic-energy-08" #c09d80) ("volvox-dynamic-energy-11" #f4e8cd) ("volvox-etheric-power-04" #d6dce5) ("volvox-etheric-power-05" #dfd5e0) ("volvox-etheric-power-10" #a79ea3) ("volvox-etheric-power-02" #d5e4d8) ("volvox-etheric-power-06" #e6e3d4) ("volvox-natur-kollektion-17" #f1ede4) ("volvox-natur-kollektion-23" #ebe5d7) ("volvox-natur-kollektion-18" #d9b276) ("volvox-natur-kollektion-24" #e3c38f) ("volvox-natur-kollektion-46" #e8d0a6) ("volvox-natur-kollektion-19" #d19d6c) ("volvox-natur-kollektion-25" #ddb285) ("volvox-natur-kollektion-47" #e4c299) ("volvox-natur-kollektion-20" #b46f52) ("volvox-natur-kollektion-26" #c98867) ("volvox-natur-kollektion-48" #d89f7e) ("volvox-natur-kollektion-21" #847d76) ("volvox-natur-kollektion-27" #a7a095) ("volvox-natur-kollektion-49" #b6b0a5) ("volvox-natur-kollektion-22" #d2c9ab) ("volvox-natur-kollektion-28" #ded6bd) ("volvox-natur-kollektion-50" #e5ddc9)
+
+
+// grab a specific color based on key
+volvox( color )
+  return item[1] if item[0] == color for item in volvox-colors
+

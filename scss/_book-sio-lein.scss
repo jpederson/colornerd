@@ -1,0 +1,16 @@
+
+
+// array of colors
+$sio-lein-colors: ("sio-lein-9002-b-9000" #f2f0e7), ("sio-lein-1623-b-9000" #f4e3bf), ("sio-lein-1622-b-9000" #e6ddc7), ("sio-lein-1003-b-9000" #dbc696), ("sio-lein-1018-b-9000" #f0ca2f), ("sio-lein-1021-b-9000" #ecb400), ("sio-lein-1024-b-9000" #efa700), ("sio-lein-1053-b-9000" #e7a700), ("sio-lein-1648-b-9000" #ddd595), ("sio-lein-3021-b-9000" #e66913), ("sio-lein-3056-b-9000" #df560b), ("sio-lein-3002-b-9000" #b72a24), ("sio-lein-3015-b-9000" #991c21), ("sio-lein-3041-b-9000" #441e30), ("sio-lein-3057-b-9000" #46213a), ("sio-lein-5003-b-9000" #3389b6), ("sio-lein-5029-b-9000" #007bb4), ("sio-lein-5020-b-9000" #124180), ("sio-lein-5007-b-9000" #103f75), ("sio-lein-5063-b-9000" #1d3974), ("sio-lein-5031-b-9000" #004a7b), ("sio-lein-5004-b-9000" #202e53), ("sio-lein-6027-b-9000" #5c9936), ("sio-lein-6002-b-9000" #346936), ("sio-lein-6001-b-9000" #005d4a), ("sio-lein-6028-b-9000" #0f412e), ("sio-lein-8020-b-9000" #442e27), ("sio-lein-7500-b-9000" #a9abaa), ("sio-lein-7999-b-9000" #0d0e11), ("sio-lein-7002-b-9000" #c2c5be), ("sio-lein-7003-b-9000" #adafad), ("sio-lein-7060-b-9000" #9e9f99), ("sio-lein-7001-b-9000" #a7a69f), ("sio-lein-7164-b-9000" #b8b4a1), ("sio-lein-7024-b-9000" #78797a), ("sio-lein-9002-b-6000" #f7f5e3), ("sio-lein-1623-b-6000" #fbe8bc), ("sio-lein-1622-b-6000" #ece3c6), ("sio-lein-1003-b-6000" #e1ca95), ("sio-lein-1018-b-6000" #f6ce28), ("sio-lein-1021-b-6000" #f2b800), ("sio-lein-1024-b-6000" #f5a900), ("sio-lein-1053-b-6000" #efac00), ("sio-lein-1648-b-6000" #e3d992), ("sio-lein-3021-b-6000" #ea6a0d), ("sio-lein-3056-b-6000" #e5560c), ("sio-lein-3002-b-6000" #b82318), ("sio-lein-3015-b-6000" #9c0e15), ("sio-lein-3041-b-6000" #441a2c), ("sio-lein-3057-b-6000" #461d37), ("sio-lein-5003-b-6000" #2d8bb3), ("sio-lein-5020-b-6000" #0f4280), ("sio-lein-5063-b-6000" #1f3a73), ("sio-lein-5031-b-6000" #004a7b), ("sio-lein-5004-b-6000" #1d2b50), ("sio-lein-6027-b-6000" #5b9b32), ("sio-lein-6002-b-6000" #336a32), ("sio-lein-6001-b-6000" #005e4a), ("sio-lein-6028-b-6000" #08402b), ("sio-lein-8020-b-6000" #452d24), ("sio-lein-7500-b-6000" #b5b8b8), ("sio-lein-7999-b-6000" #101113), ("sio-lein-7132-b-6000" #e0decb), ("sio-lein-7002-b-6000" #c9ccbf), ("sio-lein-7003-b-6000" #b0b2ad), ("sio-lein-7001-b-6000" #aaa99d), ("sio-lein-7024-b-6000" #787977);
+
+
+// grab a specific color based on key
+@function sio-lein( $color ) {
+    @each $item in $sio-lein-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

@@ -1,0 +1,16 @@
+
+
+// array of colors
+$brillux-kunstharzputz-colors: ("1201" #ce9d40), ("1221" #e9be6a), ("1232" #e1c98a), ("1241" #efd295), ("1252" #e6d5a5), ("1271" #ebe1be), ("3200" #b3784f), ("3230" #e0aa7c), ("3260" #e7caa8), ("6200" #94874f), ("6202" #948564), ("6220" #b7aa72), ("6232" #c4b596), ("6250" #ded4af), ("6262" #ded6bf), ("6270" #e7e1c4), ("7250" #bebeb4), ("7270" #d8d7cb), ("8201" #796b5d), ("8202" #9d8466), ("8204" #55453f), ("8221" #a29581), ("8222" #baa282), ("8251" #d0c4b1), ("8252" #d8c8ac), ("8271" #ded7c7), ("8272" #e7deca);
+
+
+// grab a specific color based on key
+@function brillux-kunstharzputz( $color ) {
+    @each $item in $brillux-kunstharzputz-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

@@ -1,0 +1,367 @@
+[
+    {
+        "name": "filmstarex D-CU 154 Schwefelgelb",
+        "label": "filmstarex-d-cu-154-schwefelgelb",
+        "hex": "#f5ea45"
+    },
+    {
+        "name": "filmstarex D-CU 104 Gelb",
+        "label": "filmstarex-d-cu-104-gelb",
+        "hex": "#fbc100"
+    },
+    {
+        "name": "filmstarex D-CU 144 Dunkelgelb",
+        "label": "filmstarex-d-cu-144-dunkelgelb",
+        "hex": "#feb500"
+    },
+    {
+        "name": "filmstarex D-CU 124 Goldgelb",
+        "label": "filmstarex-d-cu-124-goldgelb",
+        "hex": "#ea9200"
+    },
+    {
+        "name": "filmstarex D-CU 138 Orangebraun",
+        "label": "filmstarex-d-cu-138-orangebraun",
+        "hex": "#e08d35"
+    },
+    {
+        "name": "filmstarex D-CU 128 Hellorange",
+        "label": "filmstarex-d-cu-128-hellorange",
+        "hex": "#fd7200"
+    },
+    {
+        "name": "filmstarex D-CU 108 Orange",
+        "label": "filmstarex-d-cu-108-orange",
+        "hex": "#e35501"
+    },
+    {
+        "name": "filmstarex D-CU 141 Zinnoberrot",
+        "label": "filmstarex-d-cu-141-zinnoberrot",
+        "hex": "#d94004"
+    },
+    {
+        "name": "filmstarex D-CU 101 Rot",
+        "label": "filmstarex-d-cu-101-rot",
+        "hex": "#c22218"
+    },
+    {
+        "name": "filmstarex D-CU 151 Glutrot",
+        "label": "filmstarex-d-cu-151-glutrot",
+        "hex": "#ae1c1f"
+    },
+    {
+        "name": "filmstarex D-CU 110 Dunkelrot",
+        "label": "filmstarex-d-cu-110-dunkelrot",
+        "hex": "#a2211c"
+    },
+    {
+        "name": "filmstarex D-CU 120 Bordeaux",
+        "label": "filmstarex-d-cu-120-bordeaux",
+        "hex": "#641836"
+    },
+    {
+        "name": "filmstarex D-CU 148 Hellrosa",
+        "label": "filmstarex-d-cu-148-hellrosa",
+        "hex": "#f8b6c9"
+    },
+    {
+        "name": "filmstarex D-CU 155 Erikarot",
+        "label": "filmstarex-d-cu-155-erikarot",
+        "hex": "#d76d96"
+    },
+    {
+        "name": "filmstarex D-CU 118 Flieder",
+        "label": "filmstarex-d-cu-118-flieder",
+        "hex": "#b42e6e"
+    },
+    {
+        "name": "filmstarex D-CU 158 Blaulila",
+        "label": "filmstarex-d-cu-158-blaulila",
+        "hex": "#9181b2"
+    },
+    {
+        "name": "filmstarex D-CU 159 Violett",
+        "label": "filmstarex-d-cu-159-violett",
+        "hex": "#753077"
+    },
+    {
+        "name": "filmstarex D-CU 126 Gelbgruen",
+        "label": "filmstarex-d-cu-126-gelbgruen",
+        "hex": "#d2df2d"
+    },
+    {
+        "name": "filmstarex D-CU 106 Hellgruen",
+        "label": "filmstarex-d-cu-106-hellgruen",
+        "hex": "#6bb722"
+    },
+    {
+        "name": "filmstarex D-CU 142 Brillantgruen",
+        "label": "filmstarex-d-cu-142-brillantgruen",
+        "hex": "#00ac3d"
+    },
+    {
+        "name": "filmstarex D-CU 102 Gruen",
+        "label": "filmstarex-d-cu-102-gruen",
+        "hex": "#008b52"
+    },
+    {
+        "name": "filmstarex D-CU 146 Tuerkisgruen",
+        "label": "filmstarex-d-cu-146-tuerkisgruen",
+        "hex": "#007349"
+    },
+    {
+        "name": "filmstarex D-CU 122 Grasgruen",
+        "label": "filmstarex-d-cu-122-grasgruen",
+        "hex": "#487433"
+    },
+    {
+        "name": "filmstarex D-CU 152 Tuerkisgruen",
+        "label": "filmstarex-d-cu-152-tuerkisgruen",
+        "hex": "#20785c"
+    },
+    {
+        "name": "filmstarex D-CU 136 Laubgruen",
+        "label": "filmstarex-d-cu-136-laubgruen",
+        "hex": "#00602f"
+    },
+    {
+        "name": "filmstarex D-CU 111 Dunkelgruen",
+        "label": "filmstarex-d-cu-111-dunkelgruen",
+        "hex": "#04432f"
+    },
+    {
+        "name": "filmstarex D-CU 107 Hellblau",
+        "label": "filmstarex-d-cu-107-hellblau",
+        "hex": "#23a4d0"
+    },
+    {
+        "name": "filmstarex D-CU 150 Prozessblau",
+        "label": "filmstarex-d-cu-150-prozessblau",
+        "hex": "#00a4d8"
+    },
+    {
+        "name": "filmstarex D-CU 156 Tuerkisblau",
+        "label": "filmstarex-d-cu-156-tuerkisblau",
+        "hex": "#0095a1"
+    },
+    {
+        "name": "filmstarex D-CU 127 Himmelblau",
+        "label": "filmstarex-d-cu-127-himmelblau",
+        "hex": "#007bb3"
+    },
+    {
+        "name": "filmstarex D-CU 103 Blau",
+        "label": "filmstarex-d-cu-103-blau",
+        "hex": "#006ab7"
+    },
+    {
+        "name": "filmstarex D-CU 153 Enzianblau",
+        "label": "filmstarex-d-cu-153-enzianblau",
+        "hex": "#005480"
+    },
+    {
+        "name": "filmstarex D-CU 157 Nachtblau",
+        "label": "filmstarex-d-cu-157-nachtblau",
+        "hex": "#3c3b60"
+    },
+    {
+        "name": "filmstarex D-CU 112 Dunkelblau",
+        "label": "filmstarex-d-cu-112-dunkelblau",
+        "hex": "#002c5d"
+    },
+    {
+        "name": "filmstarex D-CU 132 Elfenbein",
+        "label": "filmstarex-d-cu-132-elfenbein",
+        "hex": "#f0e1be"
+    },
+    {
+        "name": "filmstarex D-CU 145 Dunkelbeige",
+        "label": "filmstarex-d-cu-145-dunkelbeige",
+        "hex": "#cfb99d"
+    },
+    {
+        "name": "filmstarex D-CU 125 Beige",
+        "label": "filmstarex-d-cu-125-beige",
+        "hex": "#e6c39f"
+    },
+    {
+        "name": "filmstarex D-CU 131 Hellbraun",
+        "label": "filmstarex-d-cu-131-hellbraun",
+        "hex": "#915a2d"
+    },
+    {
+        "name": "filmstarex D-CU 114 Braun",
+        "label": "filmstarex-d-cu-114-braun",
+        "hex": "#613e2b"
+    },
+    {
+        "name": "filmstarex D-CU 143 Nussbraun",
+        "label": "filmstarex-d-cu-143-nussbraun",
+        "hex": "#53382b"
+    },
+    {
+        "name": "filmstarex D-CU 130 Mahagoni",
+        "label": "filmstarex-d-cu-130-mahagoni",
+        "hex": "#543121"
+    },
+    {
+        "name": "filmstarex D-CU 140 Schokobraun",
+        "label": "filmstarex-d-cu-140-schokobraun",
+        "hex": "#312321"
+    },
+    {
+        "name": "filmstarex D-CU 116 Weiss",
+        "label": "filmstarex-d-cu-116-weiss",
+        "hex": "#f9fbf9"
+    },
+    {
+        "name": "filmstarex D-CU 149 Hellgrau",
+        "label": "filmstarex-d-cu-149-hellgrau",
+        "hex": "#c0c3bd"
+    },
+    {
+        "name": "filmstarex D-CU 109 Grau",
+        "label": "filmstarex-d-cu-109-grau",
+        "hex": "#949791"
+    },
+    {
+        "name": "filmstarex D-CU 119 Dunkelgrau",
+        "label": "filmstarex-d-cu-119-dunkelgrau",
+        "hex": "#5b6162"
+    },
+    {
+        "name": "filmstarex D-CU 115 Schwarz",
+        "label": "filmstarex-d-cu-115-schwarz",
+        "hex": "#0d0f11"
+    },
+    {
+        "name": "filmstarex M 1180",
+        "label": "filmstarex-m-1180",
+        "hex": "#f9faf8"
+    },
+    {
+        "name": "filmstarex M 1181",
+        "label": "filmstarex-m-1181",
+        "hex": "#2a2b2c"
+    },
+    {
+        "name": "filmstarex D-CL 1254",
+        "label": "filmstarex-d-cl-1254",
+        "hex": "#f1cf38"
+    },
+    {
+        "name": "filmstarex D-CL 1204",
+        "label": "filmstarex-d-cl-1204",
+        "hex": "#ecb600"
+    },
+    {
+        "name": "filmstarex D-CL 1244",
+        "label": "filmstarex-d-cl-1244",
+        "hex": "#e19f01"
+    },
+    {
+        "name": "filmstarex D-CL 1208",
+        "label": "filmstarex-d-cl-1208",
+        "hex": "#d05b20"
+    },
+    {
+        "name": "filmstarex D-CL 1251",
+        "label": "filmstarex-d-cl-1251",
+        "hex": "#ba3128"
+    },
+    {
+        "name": "filmstarex D-CL 1210",
+        "label": "filmstarex-d-cl-1210",
+        "hex": "#8d342d"
+    },
+    {
+        "name": "filmstarex D-CL 1220",
+        "label": "filmstarex-d-cl-1220",
+        "hex": "#6b2840"
+    },
+    {
+        "name": "filmstarex D-CL 1255",
+        "label": "filmstarex-d-cl-1255",
+        "hex": "#b46792"
+    },
+    {
+        "name": "filmstarex D-CL 1226",
+        "label": "filmstarex-d-cl-1226",
+        "hex": "#5d9f3e"
+    },
+    {
+        "name": "filmstarex D-CL 1222",
+        "label": "filmstarex-d-cl-1222",
+        "hex": "#008b57"
+    },
+    {
+        "name": "filmstarex D-CL 1236",
+        "label": "filmstarex-d-cl-1236",
+        "hex": "#00713b"
+    },
+    {
+        "name": "filmstarex D-CL 1211",
+        "label": "filmstarex-d-cl-1211",
+        "hex": "#1a4645"
+    },
+    {
+        "name": "filmstarex D-CL 1268",
+        "label": "filmstarex-d-cl-1268",
+        "hex": "#007b7c"
+    },
+    {
+        "name": "filmstarex D-CL 1227",
+        "label": "filmstarex-d-cl-1227",
+        "hex": "#86c7ce"
+    },
+    {
+        "name": "filmstarex D-CL 1207",
+        "label": "filmstarex-d-cl-1207",
+        "hex": "#368db8"
+    },
+    {
+        "name": "filmstarex D-CL 1253",
+        "label": "filmstarex-d-cl-1253",
+        "hex": "#045b86"
+    },
+    {
+        "name": "filmstarex D-CL 1212",
+        "label": "filmstarex-d-cl-1212",
+        "hex": "#2a3c7b"
+    },
+    {
+        "name": "filmstarex D-CL 1233",
+        "label": "filmstarex-d-cl-1233",
+        "hex": "#382b8a"
+    },
+    {
+        "name": "filmstarex D-CL 1257",
+        "label": "filmstarex-d-cl-1257",
+        "hex": "#2f3262"
+    },
+    {
+        "name": "filmstarex D-CL 1237",
+        "label": "filmstarex-d-cl-1237",
+        "hex": "#491f5d"
+    },
+    {
+        "name": "filmstarex D-CL 1230",
+        "label": "filmstarex-d-cl-1230",
+        "hex": "#4f2f25"
+    },
+    {
+        "name": "filmstarex D-CL 1209",
+        "label": "filmstarex-d-cl-1209",
+        "hex": "#969899"
+    },
+    {
+        "name": "filmstarex D-CL 1216",
+        "label": "filmstarex-d-cl-1216",
+        "hex": "#fafcf9"
+    },
+    {
+        "name": "filmstarex D-CL 1215",
+        "label": "filmstarex-d-cl-1215",
+        "hex": "#28292a"
+    }
+]

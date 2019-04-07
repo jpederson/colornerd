@@ -1,0 +1,16 @@
+
+
+// array of colors
+$brillux-mineralputz-colors: ("0095" #edede5), ("9042" #dbb380), ("9044" #e4c499), ("9046" #e7d2b4), ("9048" #eee2d2), ("9050" #efe8dc), ("9061" #b2af85), ("9064" #bab78d), ("9066" #cbcaaa), ("9068" #d6d6c0), ("9069" #e5e3d4), ("9082" #beb39b), ("9084" #d1c6b1), ("9086" #dcd3c2), ("9088" #e6dfd3), ("9090" #ede6dc), ("9112" #c2ac97), ("9114" #cebba9), ("9116" #d8c7b7), ("9118" #e2d6c8), ("9120" #e7dfd7), ("9152" #e2bf9e), ("9154" #ecd3b9), ("9156" #e9d6c1), ("9158" #efe3d4), ("9160" #f0e9dd), ("9162" #e2b39a), ("9164" #e8c7b4), ("9166" #eed5c2), ("9168" #ecd9cd), ("9170" #f5e8dd), ("9172" #be988a), ("9174" #ccac9e), ("9176" #dacac2), ("9178" #efe2dc), ("9180" #f3e9e1), ("9202" #c6bcaf), ("9204" #ccc4ba), ("9206" #d9d3ca), ("9208" #dddad1), ("9210" #ede9e1), ("9233" #adada8), ("9235" #bebdb6), ("9237" #d4d4cd), ("9239" #e1e0d9), ("9252" #b8ccda), ("9254" #c4d3de), ("9256" #d5e1e8), ("9258" #d7e1e3), ("9260" #dfe5e2), ("9912" #e1cfa4), ("9914" #e6d5ae), ("9916" #ebddbc), ("9918" #efe5cf), ("9920" #ede8db);
+
+
+// grab a specific color based on key
+@function brillux-mineralputz( $color ) {
+    @each $item in $brillux-mineralputz-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

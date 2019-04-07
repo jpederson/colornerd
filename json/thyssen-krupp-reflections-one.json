@@ -1,0 +1,502 @@
+[
+    {
+        "name": "ReflectionsOne solid 4",
+        "label": "solid-4",
+        "hex": "#868e96"
+    },
+    {
+        "name": "ReflectionsOne solid 5",
+        "label": "solid-5",
+        "hex": "#767d86"
+    },
+    {
+        "name": "ReflectionsOne solid 6",
+        "label": "solid-6",
+        "hex": "#5f656d"
+    },
+    {
+        "name": "ReflectionsOne solid 7",
+        "label": "solid-7",
+        "hex": "#4b5056"
+    },
+    {
+        "name": "ReflectionsOne solid 8",
+        "label": "solid-8",
+        "hex": "#383a3d"
+    },
+    {
+        "name": "ReflectionsOne pure 2",
+        "label": "pure-2",
+        "hex": "#b3c3cf"
+    },
+    {
+        "name": "ReflectionsOne pure 3",
+        "label": "pure-3",
+        "hex": "#9dafbc"
+    },
+    {
+        "name": "ReflectionsOne pure 4",
+        "label": "pure-4",
+        "hex": "#8395a5"
+    },
+    {
+        "name": "ReflectionsOne pure 5",
+        "label": "pure-5",
+        "hex": "#6e7f8f"
+    },
+    {
+        "name": "ReflectionsOne pure 6",
+        "label": "pure-6",
+        "hex": "#616e7d"
+    },
+    {
+        "name": "ReflectionsOne pure 7",
+        "label": "pure-7",
+        "hex": "#56616d"
+    },
+    {
+        "name": "ReflectionsOne fresh 3",
+        "label": "fresh-3",
+        "hex": "#89accf"
+    },
+    {
+        "name": "ReflectionsOne fresh 4",
+        "label": "fresh-4",
+        "hex": "#739abf"
+    },
+    {
+        "name": "ReflectionsOne fresh 5",
+        "label": "fresh-5",
+        "hex": "#618bb1"
+    },
+    {
+        "name": "ReflectionsOne fresh 6",
+        "label": "fresh-6",
+        "hex": "#4a759e"
+    },
+    {
+        "name": "ReflectionsOne fresh 7",
+        "label": "fresh-7",
+        "hex": "#3f6386"
+    },
+    {
+        "name": "ReflectionsOne endless 2",
+        "label": "endless-2",
+        "hex": "#a3c7da"
+    },
+    {
+        "name": "ReflectionsOne endless 3",
+        "label": "endless-3",
+        "hex": "#89aec6"
+    },
+    {
+        "name": "ReflectionsOne endless 4",
+        "label": "endless-4",
+        "hex": "#77a1bc"
+    },
+    {
+        "name": "ReflectionsOne endless 5",
+        "label": "endless-5",
+        "hex": "#628eaa"
+    },
+    {
+        "name": "ReflectionsOne endless 6",
+        "label": "endless-6",
+        "hex": "#58809b"
+    },
+    {
+        "name": "ReflectionsOne endless 7",
+        "label": "endless-7",
+        "hex": "#4f718a"
+    },
+    {
+        "name": "ReflectionsOne cool 3",
+        "label": "cool-3",
+        "hex": "#90b6c2"
+    },
+    {
+        "name": "ReflectionsOne cool 4",
+        "label": "cool-4",
+        "hex": "#729eab"
+    },
+    {
+        "name": "ReflectionsOne cool 5",
+        "label": "cool-5",
+        "hex": "#5e8b97"
+    },
+    {
+        "name": "ReflectionsOne dynamic 3",
+        "label": "dynamic-3",
+        "hex": "#8cb397"
+    },
+    {
+        "name": "ReflectionsOne dynamic 4",
+        "label": "dynamic-4",
+        "hex": "#769e80"
+    },
+    {
+        "name": "ReflectionsOne dynamic 5",
+        "label": "dynamic-5",
+        "hex": "#5d866d"
+    },
+    {
+        "name": "ReflectionsOne hope 2",
+        "label": "hope-2",
+        "hex": "#b0caa2"
+    },
+    {
+        "name": "ReflectionsOne hope 3",
+        "label": "hope-3",
+        "hex": "#92ae85"
+    },
+    {
+        "name": "ReflectionsOne hope 4",
+        "label": "hope-4",
+        "hex": "#7d9572"
+    },
+    {
+        "name": "ReflectionsOne hope 5",
+        "label": "hope-5",
+        "hex": "#6a8360"
+    },
+    {
+        "name": "ReflectionsOne hope 6",
+        "label": "hope-6",
+        "hex": "#5b734f"
+    },
+    {
+        "name": "ReflectionsOne relax 4",
+        "label": "relax-4",
+        "hex": "#8f9561"
+    },
+    {
+        "name": "ReflectionsOne relax 5",
+        "label": "relax-5",
+        "hex": "#878c5a"
+    },
+    {
+        "name": "ReflectionsOne relax 6",
+        "label": "relax-6",
+        "hex": "#777d54"
+    },
+    {
+        "name": "ReflectionsOne relax 7",
+        "label": "relax-7",
+        "hex": "#676d4d"
+    },
+    {
+        "name": "ReflectionsOne relax 8",
+        "label": "relax-8",
+        "hex": "#5b624d"
+    },
+    {
+        "name": "ReflectionsOne glad 2",
+        "label": "glad-2",
+        "hex": "#9eb269"
+    },
+    {
+        "name": "ReflectionsOne glad 3",
+        "label": "glad-3",
+        "hex": "#8fa05d"
+    },
+    {
+        "name": "ReflectionsOne glad 4",
+        "label": "glad-4",
+        "hex": "#7e9053"
+    },
+    {
+        "name": "ReflectionsOne glad 5",
+        "label": "glad-5",
+        "hex": "#75854d"
+    },
+    {
+        "name": "ReflectionsOne glad 6",
+        "label": "glad-6",
+        "hex": "#657849"
+    },
+    {
+        "name": "ReflectionsOne glad 7",
+        "label": "glad-7",
+        "hex": "#5b6a46"
+    },
+    {
+        "name": "ReflectionsOne glad 8",
+        "label": "glad-8",
+        "hex": "#545f46"
+    },
+    {
+        "name": "ReflectionsOne calm 3",
+        "label": "calm-3",
+        "hex": "#92a08c"
+    },
+    {
+        "name": "ReflectionsOne calm 4",
+        "label": "calm-4",
+        "hex": "#84917b"
+    },
+    {
+        "name": "ReflectionsOne calm 5",
+        "label": "calm-5",
+        "hex": "#707d6b"
+    },
+    {
+        "name": "ReflectionsOne calm 6",
+        "label": "calm-6",
+        "hex": "#5f6e5f"
+    },
+    {
+        "name": "ReflectionsOne calm 7",
+        "label": "calm-7",
+        "hex": "#576457"
+    },
+    {
+        "name": "ReflectionsOne calm 8",
+        "label": "calm-8",
+        "hex": "#4f5b50"
+    },
+    {
+        "name": "ReflectionsOne modest 2",
+        "label": "modest-2",
+        "hex": "#9fb0a2"
+    },
+    {
+        "name": "ReflectionsOne modest 3",
+        "label": "modest-3",
+        "hex": "#8b9f91"
+    },
+    {
+        "name": "ReflectionsOne modest 4",
+        "label": "modest-4",
+        "hex": "#7b8b7f"
+    },
+    {
+        "name": "ReflectionsOne modest 5",
+        "label": "modest-5",
+        "hex": "#6a786d"
+    },
+    {
+        "name": "ReflectionsOne proud 4",
+        "label": "proud-4",
+        "hex": "#999b95"
+    },
+    {
+        "name": "ReflectionsOne proud 5",
+        "label": "proud-5",
+        "hex": "#858680"
+    },
+    {
+        "name": "ReflectionsOne proud 6",
+        "label": "proud-6",
+        "hex": "#787a74"
+    },
+    {
+        "name": "ReflectionsOne proud 7",
+        "label": "proud-7",
+        "hex": "#6a6b65"
+    },
+    {
+        "name": "ReflectionsOne eternal 1",
+        "label": "eternal-1",
+        "hex": "#d8d8ce"
+    },
+    {
+        "name": "ReflectionsOne eternal 2",
+        "label": "eternal-2",
+        "hex": "#c4c0bb"
+    },
+    {
+        "name": "ReflectionsOne eternal 3",
+        "label": "eternal-3",
+        "hex": "#b1aea9"
+    },
+    {
+        "name": "ReflectionsOne eternal 4",
+        "label": "eternal-4",
+        "hex": "#9b9893"
+    },
+    {
+        "name": "ReflectionsOne eternal 5",
+        "label": "eternal-5",
+        "hex": "#84817f"
+    },
+    {
+        "name": "ReflectionsOne eternal 6",
+        "label": "eternal-6",
+        "hex": "#716f6d"
+    },
+    {
+        "name": "ReflectionsOne eternal 7",
+        "label": "eternal-7",
+        "hex": "#636261"
+    },
+    {
+        "name": "ReflectionsOne fair 4",
+        "label": "fair-4",
+        "hex": "#9b9387"
+    },
+    {
+        "name": "ReflectionsOne fair 5",
+        "label": "fair-5",
+        "hex": "#847e73"
+    },
+    {
+        "name": "ReflectionsOne fair 6",
+        "label": "fair-6",
+        "hex": "#6f6960"
+    },
+    {
+        "name": "ReflectionsOne cosy 3",
+        "label": "cosy-3",
+        "hex": "#c4b29b"
+    },
+    {
+        "name": "ReflectionsOne cosy 4",
+        "label": "cosy-4",
+        "hex": "#b5a48c"
+    },
+    {
+        "name": "ReflectionsOne cosy 5",
+        "label": "cosy-5",
+        "hex": "#9f8f77"
+    },
+    {
+        "name": "ReflectionsOne cosy 6",
+        "label": "cosy-6",
+        "hex": "#8d7b62"
+    },
+    {
+        "name": "ReflectionsOne cosy 7",
+        "label": "cosy-7",
+        "hex": "#7a6b55"
+    },
+    {
+        "name": "ReflectionsOne soft 2",
+        "label": "soft-2",
+        "hex": "#e5c58c"
+    },
+    {
+        "name": "ReflectionsOne soft 3",
+        "label": "soft-3",
+        "hex": "#d2b47b"
+    },
+    {
+        "name": "ReflectionsOne soft 4",
+        "label": "soft-4",
+        "hex": "#bd9d6a"
+    },
+    {
+        "name": "ReflectionsOne soft 5",
+        "label": "soft-5",
+        "hex": "#ae8f5d"
+    },
+    {
+        "name": "ReflectionsOne warm 5",
+        "label": "warm-5",
+        "hex": "#ab8861"
+    },
+    {
+        "name": "ReflectionsOne warm 6",
+        "label": "warm-6",
+        "hex": "#9c7753"
+    },
+    {
+        "name": "ReflectionsOne warm 7",
+        "label": "warm-7",
+        "hex": "#876a53"
+    },
+    {
+        "name": "ReflectionsOne near 4",
+        "label": "near-4",
+        "hex": "#b69189"
+    },
+    {
+        "name": "ReflectionsOne near 5",
+        "label": "near-5",
+        "hex": "#a58079"
+    },
+    {
+        "name": "ReflectionsOne near 6",
+        "label": "near-6",
+        "hex": "#956f6a"
+    },
+    {
+        "name": "ReflectionsOne near 7",
+        "label": "near-7",
+        "hex": "#7d5d58"
+    },
+    {
+        "name": "ReflectionsOne tempt 4",
+        "label": "tempt-4",
+        "hex": "#ab8b90"
+    },
+    {
+        "name": "ReflectionsOne tempt 5",
+        "label": "tempt-5",
+        "hex": "#98797e"
+    },
+    {
+        "name": "ReflectionsOne tempt 6",
+        "label": "tempt-6",
+        "hex": "#84666b"
+    },
+    {
+        "name": "ReflectionsOne tempt 7",
+        "label": "tempt-7",
+        "hex": "#715357"
+    },
+    {
+        "name": "ReflectionsOne tempt 8",
+        "label": "tempt-8",
+        "hex": "#63494d"
+    },
+    {
+        "name": "ReflectionsOne gentle 3",
+        "label": "gentle-3",
+        "hex": "#b09f9f"
+    },
+    {
+        "name": "ReflectionsOne gentle 4",
+        "label": "gentle-4",
+        "hex": "#9f8f91"
+    },
+    {
+        "name": "ReflectionsOne gentle 5",
+        "label": "gentle-5",
+        "hex": "#8a7a7c"
+    },
+    {
+        "name": "ReflectionsOne gentle 6",
+        "label": "gentle-6",
+        "hex": "#756669"
+    },
+    {
+        "name": "ReflectionsOne gentle 7",
+        "label": "gentle-7",
+        "hex": "#6c5e61"
+    },
+    {
+        "name": "ReflectionsOne secret 2",
+        "label": "secret-2",
+        "hex": "#bdb8b8"
+    },
+    {
+        "name": "ReflectionsOne secret 3",
+        "label": "secret-3",
+        "hex": "#a49f9f"
+    },
+    {
+        "name": "ReflectionsOne secret 4",
+        "label": "secret-4",
+        "hex": "#888385"
+    },
+    {
+        "name": "ReflectionsOne secret 5",
+        "label": "secret-5",
+        "hex": "#736d6f"
+    },
+    {
+        "name": "ReflectionsOne secret 6",
+        "label": "secret-6",
+        "hex": "#5e5b5e"
+    }
+]

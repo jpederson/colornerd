@@ -1,0 +1,16 @@
+
+
+// array of colors
+$fema-raumtrend-colors: ("fema-zitrone-0" #f3df81), ("fema-zitrone-2" #f2e395), ("fema-zitrone-4" #f3eaad), ("fema-zitrone-6" #f2f0c9), ("fema-zitrone-8" #f3efd2), ("fema-birne-0" #f3c85f), ("fema-birne-2" #f6d375), ("fema-birne-4" #f6de8e), ("fema-birne-6" #f3e7b2), ("fema-birne-8" #f2ebc3), ("fema-orange-0" #f4a545), ("fema-orange-2" #f6b355), ("fema-orange-4" #f6c36f), ("fema-orange-6" #f4d796), ("fema-orange-8" #f8e3b0), ("fema-apricot-0" #de8b66), ("fema-apricot-2" #e79e7a), ("fema-apricot-4" #eeb08e), ("fema-apricot-6" #f5c9ad), ("fema-apricot-8" #f6d9c4), ("fema-mango-0" #bc7974), ("fema-mango-2" #c98984), ("fema-mango-4" #d7a19d), ("fema-mango-6" #e7c2bd), ("fema-mango-8" #edd0cb), ("fema-kirsche-0" #c96464), ("fema-kirsche-2" #d57676), ("fema-kirsche-4" #e29090), ("fema-kirsche-6" #ecb4b2), ("fema-kirsche-8" #f2d1cf), ("fema-pflaume-0" #a28ca7), ("fema-pflaume-2" #b5a1b8), ("fema-pflaume-4" #c9b8ca), ("fema-pflaume-6" #dcd1db), ("fema-pflaume-8" #e6dfe3), ("fema-flieder-0" #88a0d0), ("fema-flieder-2" #a0b5da), ("fema-flieder-4" #b9c8e3), ("fema-flieder-6" #ced9e7), ("fema-flieder-8" #dfe5e9), ("fema-iris-0" #61b4d1), ("fema-iris-2" #79bfd9), ("fema-iris-4" #97cde1), ("fema-iris-6" #bcdee8), ("fema-iris-8" #cee4e9), ("fema-ozean-0" #63afbb), ("fema-ozean-2" #78bcc6), ("fema-ozean-4" #93cbd3), ("fema-ozean-6" #badde2), ("fema-ozean-8" #cbe3e5), ("fema-minze-0" #62c2ae), ("fema-minze-2" #74cbb8), ("fema-minze-4" #98dbca), ("fema-minze-6" #b7e3d8), ("fema-minze-8" #ceeae1), ("fema-apfel-0" #8ba85e), ("fema-apfel-2" #9db771), ("fema-apfel-4" #b4c88b), ("fema-apfel-6" #d1dcad), ("fema-apfel-8" #dbe4c1);
+
+
+// grab a specific color based on key
+@function fema-raumtrend( $color ) {
+    @each $item in $fema-raumtrend-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

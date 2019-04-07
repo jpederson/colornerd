@@ -1,0 +1,16 @@
+
+
+// array of colors
+$caparol-capacryl-colors: ("251-reinweiss" #f4f3e9), ("252-elfenbein" #f5e8d0), ("253-grauweiss" #d7d5ca), ("254-lichtgrau" #c8c9c5), ("255-silbergrau" #919a9d), ("256-verkehrsgelb" #dea41d), ("257-ocker" #be822d), ("258-gelborange" #d27121), ("259-feuerrot" #99352e), ("260-oxidrot" #6b372f), ("261-lehmbraun" #7f5234), ("262-nussbraun" #5d4132), ("263-schokobraun" #473630), ("264-umbra" #4a4737), ("265-smaragdgruen" #366b39), ("266-moosgruen" #22463a), ("267-enzianblau" #105483), ("268-tiefschwarz" #232527), ("269" #392f2b), ("270" #2a3840), ("271" #2f3340), ("272" #3b90b9), ("273" #d9d9cf), ("274" #ccd0cb), ("275" #65676a), ("276" #1f4a4f), ("277" #16524b), ("278" #20563c), ("279" #5d7c38), ("280" #375038), ("281" #565b3a), ("282" #353f34), ("283" #6d6539), ("284" #928d77), ("285" #ecc562), ("286" #c79026), ("287" #996d34), ("288" #6c533b), ("289" #463c30), ("290" #5c4434), ("291" #684732), ("292" #8c5136), ("293" #703e30), ("294" #965b2d), ("295" #c2782c), ("296" #a24833), ("297" #753429), ("298" #5b382f), ("resedagruen" #9a9f7f), ("rotbraun" #8b4d3e), ("weiss" #eae7db);
+
+
+// grab a specific color based on key
+@function caparol-capacryl( $color ) {
+    @each $item in $caparol-capacryl-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+

@@ -1,0 +1,912 @@
+[
+    {
+        "name": "sto Silikat 14010",
+        "label": "sto-silikat-14010",
+        "hex": "#eeca74"
+    },
+    {
+        "name": "sto Silikat 14011",
+        "label": "sto-silikat-14011",
+        "hex": "#f1d17e"
+    },
+    {
+        "name": "sto Silikat 14012",
+        "label": "sto-silikat-14012",
+        "hex": "#f5db92"
+    },
+    {
+        "name": "sto Silikat 14013",
+        "label": "sto-silikat-14013",
+        "hex": "#efdb9f"
+    },
+    {
+        "name": "sto Silikat 14014",
+        "label": "sto-silikat-14014",
+        "hex": "#f5e7b9"
+    },
+    {
+        "name": "sto Silikat 14015",
+        "label": "sto-silikat-14015",
+        "hex": "#f3eac2"
+    },
+    {
+        "name": "sto Silikat 14016",
+        "label": "sto-silikat-14016",
+        "hex": "#ede8d0"
+    },
+    {
+        "name": "sto Silikat 14020",
+        "label": "sto-silikat-14020",
+        "hex": "#dda751"
+    },
+    {
+        "name": "sto Silikat 14021",
+        "label": "sto-silikat-14021",
+        "hex": "#e3b259"
+    },
+    {
+        "name": "sto Silikat 14022",
+        "label": "sto-silikat-14022",
+        "hex": "#ebc070"
+    },
+    {
+        "name": "sto Silikat 14023",
+        "label": "sto-silikat-14023",
+        "hex": "#f0ce88"
+    },
+    {
+        "name": "sto Silikat 14024",
+        "label": "sto-silikat-14024",
+        "hex": "#f2d79e"
+    },
+    {
+        "name": "sto Silikat 14025",
+        "label": "sto-silikat-14025",
+        "hex": "#f3e1b0"
+    },
+    {
+        "name": "sto Silikat 14026",
+        "label": "sto-silikat-14026",
+        "hex": "#f2e8c9"
+    },
+    {
+        "name": "sto Silikat 14030",
+        "label": "sto-silikat-14030",
+        "hex": "#cf9e57"
+    },
+    {
+        "name": "sto Silikat 14031",
+        "label": "sto-silikat-14031",
+        "hex": "#d8a964"
+    },
+    {
+        "name": "sto Silikat 14032",
+        "label": "sto-silikat-14032",
+        "hex": "#e4ba7c"
+    },
+    {
+        "name": "sto Silikat 14033",
+        "label": "sto-silikat-14033",
+        "hex": "#ebc891"
+    },
+    {
+        "name": "sto Silikat 14034",
+        "label": "sto-silikat-14034",
+        "hex": "#eed1a3"
+    },
+    {
+        "name": "sto Silikat 14035",
+        "label": "sto-silikat-14035",
+        "hex": "#eed9b5"
+    },
+    {
+        "name": "sto Silikat 14036",
+        "label": "sto-silikat-14036",
+        "hex": "#f1e7ce"
+    },
+    {
+        "name": "sto Silikat 14040",
+        "label": "sto-silikat-14040",
+        "hex": "#a57c4d"
+    },
+    {
+        "name": "sto Silikat 14041",
+        "label": "sto-silikat-14041",
+        "hex": "#b38a58"
+    },
+    {
+        "name": "sto Silikat 14042",
+        "label": "sto-silikat-14042",
+        "hex": "#cba678"
+    },
+    {
+        "name": "sto Silikat 14043",
+        "label": "sto-silikat-14043",
+        "hex": "#d3b487"
+    },
+    {
+        "name": "sto Silikat 14044",
+        "label": "sto-silikat-14044",
+        "hex": "#dfc5a0"
+    },
+    {
+        "name": "sto Silikat 14045",
+        "label": "sto-silikat-14045",
+        "hex": "#e3d1b0"
+    },
+    {
+        "name": "sto Silikat 14046",
+        "label": "sto-silikat-14046",
+        "hex": "#ebe2ce"
+    },
+    {
+        "name": "sto Silikat 14050",
+        "label": "sto-silikat-14050",
+        "hex": "#88634f"
+    },
+    {
+        "name": "sto Silikat 14051",
+        "label": "sto-silikat-14051",
+        "hex": "#99735e"
+    },
+    {
+        "name": "sto Silikat 14052",
+        "label": "sto-silikat-14052",
+        "hex": "#b28e7a"
+    },
+    {
+        "name": "sto Silikat 14053",
+        "label": "sto-silikat-14053",
+        "hex": "#c2a18c"
+    },
+    {
+        "name": "sto Silikat 14054",
+        "label": "sto-silikat-14054",
+        "hex": "#d3b8a6"
+    },
+    {
+        "name": "sto Silikat 14055",
+        "label": "sto-silikat-14055",
+        "hex": "#d8c3b4"
+    },
+    {
+        "name": "sto Silikat 14056",
+        "label": "sto-silikat-14056",
+        "hex": "#e4d8cb"
+    },
+    {
+        "name": "sto Silikat 14060",
+        "label": "sto-silikat-14060",
+        "hex": "#9a5f4d"
+    },
+    {
+        "name": "sto Silikat 14061",
+        "label": "sto-silikat-14061",
+        "hex": "#ac715f"
+    },
+    {
+        "name": "sto Silikat 14062",
+        "label": "sto-silikat-14062",
+        "hex": "#be8a75"
+    },
+    {
+        "name": "sto Silikat 14063",
+        "label": "sto-silikat-14063",
+        "hex": "#cb9e8b"
+    },
+    {
+        "name": "sto Silikat 14064",
+        "label": "sto-silikat-14064",
+        "hex": "#d6b09f"
+    },
+    {
+        "name": "sto Silikat 14065",
+        "label": "sto-silikat-14065",
+        "hex": "#e0c2b3"
+    },
+    {
+        "name": "sto Silikat 14066",
+        "label": "sto-silikat-14066",
+        "hex": "#e6d7c9"
+    },
+    {
+        "name": "sto Silikat 14070",
+        "label": "sto-silikat-14070",
+        "hex": "#9c5a4a"
+    },
+    {
+        "name": "sto Silikat 14071",
+        "label": "sto-silikat-14071",
+        "hex": "#a86554"
+    },
+    {
+        "name": "sto Silikat 14072",
+        "label": "sto-silikat-14072",
+        "hex": "#be7f6f"
+    },
+    {
+        "name": "sto Silikat 14073",
+        "label": "sto-silikat-14073",
+        "hex": "#cd9282"
+    },
+    {
+        "name": "sto Silikat 14074",
+        "label": "sto-silikat-14074",
+        "hex": "#d5a497"
+    },
+    {
+        "name": "sto Silikat 14075",
+        "label": "sto-silikat-14075",
+        "hex": "#e0b8ab"
+    },
+    {
+        "name": "sto Silikat 14076",
+        "label": "sto-silikat-14076",
+        "hex": "#e8d2c7"
+    },
+    {
+        "name": "sto Silikat 14080",
+        "label": "sto-silikat-14080",
+        "hex": "#85554a"
+    },
+    {
+        "name": "sto Silikat 14081",
+        "label": "sto-silikat-14081",
+        "hex": "#97685d"
+    },
+    {
+        "name": "sto Silikat 14082",
+        "label": "sto-silikat-14082",
+        "hex": "#ac8277"
+    },
+    {
+        "name": "sto Silikat 14083",
+        "label": "sto-silikat-14083",
+        "hex": "#bf9a8e"
+    },
+    {
+        "name": "sto Silikat 14084",
+        "label": "sto-silikat-14084",
+        "hex": "#ccada3"
+    },
+    {
+        "name": "sto Silikat 14085",
+        "label": "sto-silikat-14085",
+        "hex": "#d6bdb5"
+    },
+    {
+        "name": "sto Silikat 14086",
+        "label": "sto-silikat-14086",
+        "hex": "#e3d5cd"
+    },
+    {
+        "name": "sto Silikat 14090",
+        "label": "sto-silikat-14090",
+        "hex": "#7c534a"
+    },
+    {
+        "name": "sto Silikat 14091",
+        "label": "sto-silikat-14091",
+        "hex": "#865f57"
+    },
+    {
+        "name": "sto Silikat 14092",
+        "label": "sto-silikat-14092",
+        "hex": "#a17d74"
+    },
+    {
+        "name": "sto Silikat 14093",
+        "label": "sto-silikat-14093",
+        "hex": "#b08f86"
+    },
+    {
+        "name": "sto Silikat 14094",
+        "label": "sto-silikat-14094",
+        "hex": "#baa19b"
+    },
+    {
+        "name": "sto Silikat 14095",
+        "label": "sto-silikat-14095",
+        "hex": "#c9b4ae"
+    },
+    {
+        "name": "sto Silikat 14096",
+        "label": "sto-silikat-14096",
+        "hex": "#d5ccc7"
+    },
+    {
+        "name": "sto Silikat 14100",
+        "label": "sto-silikat-14100",
+        "hex": "#6a4f4b"
+    },
+    {
+        "name": "sto Silikat 14101",
+        "label": "sto-silikat-14101",
+        "hex": "#785d5c"
+    },
+    {
+        "name": "sto Silikat 14102",
+        "label": "sto-silikat-14102",
+        "hex": "#8d7474"
+    },
+    {
+        "name": "sto Silikat 14103",
+        "label": "sto-silikat-14103",
+        "hex": "#9d8786"
+    },
+    {
+        "name": "sto Silikat 14104",
+        "label": "sto-silikat-14104",
+        "hex": "#b09d9d"
+    },
+    {
+        "name": "sto Silikat 14105",
+        "label": "sto-silikat-14105",
+        "hex": "#bfb1b0"
+    },
+    {
+        "name": "sto Silikat 14106",
+        "label": "sto-silikat-14106",
+        "hex": "#d1cac7"
+    },
+    {
+        "name": "sto Silikat 14110",
+        "label": "sto-silikat-14110",
+        "hex": "#5b4946"
+    },
+    {
+        "name": "sto Silikat 14111",
+        "label": "sto-silikat-14111",
+        "hex": "#6b5956"
+    },
+    {
+        "name": "sto Silikat 14112",
+        "label": "sto-silikat-14112",
+        "hex": "#7e6e6e"
+    },
+    {
+        "name": "sto Silikat 14113",
+        "label": "sto-silikat-14113",
+        "hex": "#907e7d"
+    },
+    {
+        "name": "sto Silikat 14114",
+        "label": "sto-silikat-14114",
+        "hex": "#a39696"
+    },
+    {
+        "name": "sto Silikat 14115",
+        "label": "sto-silikat-14115",
+        "hex": "#b4a9a7"
+    },
+    {
+        "name": "sto Silikat 14116",
+        "label": "sto-silikat-14116",
+        "hex": "#cbc5c2"
+    },
+    {
+        "name": "sto Silikat 14120",
+        "label": "sto-silikat-14120",
+        "hex": "#69584e"
+    },
+    {
+        "name": "sto Silikat 14121",
+        "label": "sto-silikat-14121",
+        "hex": "#766357"
+    },
+    {
+        "name": "sto Silikat 14122",
+        "label": "sto-silikat-14122",
+        "hex": "#8f7c6f"
+    },
+    {
+        "name": "sto Silikat 14123",
+        "label": "sto-silikat-14123",
+        "hex": "#a08f81"
+    },
+    {
+        "name": "sto Silikat 14124",
+        "label": "sto-silikat-14124",
+        "hex": "#b1a397"
+    },
+    {
+        "name": "sto Silikat 14125",
+        "label": "sto-silikat-14125",
+        "hex": "#c1b6aa"
+    },
+    {
+        "name": "sto Silikat 14126",
+        "label": "sto-silikat-14126",
+        "hex": "#d0ccc5"
+    },
+    {
+        "name": "sto Silikat 14130",
+        "label": "sto-silikat-14130",
+        "hex": "#62584c"
+    },
+    {
+        "name": "sto Silikat 14131",
+        "label": "sto-silikat-14131",
+        "hex": "#766a5d"
+    },
+    {
+        "name": "sto Silikat 14132",
+        "label": "sto-silikat-14132",
+        "hex": "#8c8173"
+    },
+    {
+        "name": "sto Silikat 14133",
+        "label": "sto-silikat-14133",
+        "hex": "#9b907e"
+    },
+    {
+        "name": "sto Silikat 14134",
+        "label": "sto-silikat-14134",
+        "hex": "#ada496"
+    },
+    {
+        "name": "sto Silikat 14135",
+        "label": "sto-silikat-14135",
+        "hex": "#bdb6a9"
+    },
+    {
+        "name": "sto Silikat 14136",
+        "label": "sto-silikat-14136",
+        "hex": "#cdcac1"
+    },
+    {
+        "name": "sto Silikat 14140",
+        "label": "sto-silikat-14140",
+        "hex": "#78634c"
+    },
+    {
+        "name": "sto Silikat 14141",
+        "label": "sto-silikat-14141",
+        "hex": "#857057"
+    },
+    {
+        "name": "sto Silikat 14142",
+        "label": "sto-silikat-14142",
+        "hex": "#a28d73"
+    },
+    {
+        "name": "sto Silikat 14143",
+        "label": "sto-silikat-14143",
+        "hex": "#b09c83"
+    },
+    {
+        "name": "sto Silikat 14144",
+        "label": "sto-silikat-14144",
+        "hex": "#baad97"
+    },
+    {
+        "name": "sto Silikat 14145",
+        "label": "sto-silikat-14145",
+        "hex": "#c9bfac"
+    },
+    {
+        "name": "sto Silikat 14146",
+        "label": "sto-silikat-14146",
+        "hex": "#d5d1c7"
+    },
+    {
+        "name": "sto Silikat 14150",
+        "label": "sto-silikat-14150",
+        "hex": "#585b50"
+    },
+    {
+        "name": "sto Silikat 14151",
+        "label": "sto-silikat-14151",
+        "hex": "#6a6b5f"
+    },
+    {
+        "name": "sto Silikat 14152",
+        "label": "sto-silikat-14152",
+        "hex": "#838579"
+    },
+    {
+        "name": "sto Silikat 14153",
+        "label": "sto-silikat-14153",
+        "hex": "#97998d"
+    },
+    {
+        "name": "sto Silikat 14154",
+        "label": "sto-silikat-14154",
+        "hex": "#a3a79b"
+    },
+    {
+        "name": "sto Silikat 14155",
+        "label": "sto-silikat-14155",
+        "hex": "#babcb2"
+    },
+    {
+        "name": "sto Silikat 14156",
+        "label": "sto-silikat-14156",
+        "hex": "#cacdc6"
+    },
+    {
+        "name": "sto Silikat 14160",
+        "label": "sto-silikat-14160",
+        "hex": "#7a795a"
+    },
+    {
+        "name": "sto Silikat 14161",
+        "label": "sto-silikat-14161",
+        "hex": "#8a8a6c"
+    },
+    {
+        "name": "sto Silikat 14162",
+        "label": "sto-silikat-14162",
+        "hex": "#a3a185"
+    },
+    {
+        "name": "sto Silikat 14163",
+        "label": "sto-silikat-14163",
+        "hex": "#b3b398"
+    },
+    {
+        "name": "sto Silikat 14164",
+        "label": "sto-silikat-14164",
+        "hex": "#c6c4ae"
+    },
+    {
+        "name": "sto Silikat 14165",
+        "label": "sto-silikat-14165",
+        "hex": "#cfcfbd"
+    },
+    {
+        "name": "sto Silikat 14166",
+        "label": "sto-silikat-14166",
+        "hex": "#dddecf"
+    },
+    {
+        "name": "sto Silikat 14170",
+        "label": "sto-silikat-14170",
+        "hex": "#708761"
+    },
+    {
+        "name": "sto Silikat 14171",
+        "label": "sto-silikat-14171",
+        "hex": "#7e906e"
+    },
+    {
+        "name": "sto Silikat 14172",
+        "label": "sto-silikat-14172",
+        "hex": "#99a88d"
+    },
+    {
+        "name": "sto Silikat 14173",
+        "label": "sto-silikat-14173",
+        "hex": "#a9b69e"
+    },
+    {
+        "name": "sto Silikat 14174",
+        "label": "sto-silikat-14174",
+        "hex": "#b9c4b3"
+    },
+    {
+        "name": "sto Silikat 14175",
+        "label": "sto-silikat-14175",
+        "hex": "#c5ccbe"
+    },
+    {
+        "name": "sto Silikat 14176",
+        "label": "sto-silikat-14176",
+        "hex": "#d1d4cd"
+    },
+    {
+        "name": "sto Silikat 14180",
+        "label": "sto-silikat-14180",
+        "hex": "#647c75"
+    },
+    {
+        "name": "sto Silikat 14181",
+        "label": "sto-silikat-14181",
+        "hex": "#69817a"
+    },
+    {
+        "name": "sto Silikat 14182",
+        "label": "sto-silikat-14182",
+        "hex": "#80968e"
+    },
+    {
+        "name": "sto Silikat 14183",
+        "label": "sto-silikat-14183",
+        "hex": "#8ea59e"
+    },
+    {
+        "name": "sto Silikat 14184",
+        "label": "sto-silikat-14184",
+        "hex": "#a9b6ae"
+    },
+    {
+        "name": "sto Silikat 14185",
+        "label": "sto-silikat-14185",
+        "hex": "#b2c3bd"
+    },
+    {
+        "name": "sto Silikat 14186",
+        "label": "sto-silikat-14186",
+        "hex": "#c8cecb"
+    },
+    {
+        "name": "sto Silikat 14190",
+        "label": "sto-silikat-14190",
+        "hex": "#517c8f"
+    },
+    {
+        "name": "sto Silikat 14191",
+        "label": "sto-silikat-14191",
+        "hex": "#5a8092"
+    },
+    {
+        "name": "sto Silikat 14192",
+        "label": "sto-silikat-14192",
+        "hex": "#6990a2"
+    },
+    {
+        "name": "sto Silikat 14193",
+        "label": "sto-silikat-14193",
+        "hex": "#7a9eb0"
+    },
+    {
+        "name": "sto Silikat 14194",
+        "label": "sto-silikat-14194",
+        "hex": "#8eaebc"
+    },
+    {
+        "name": "sto Silikat 14195",
+        "label": "sto-silikat-14195",
+        "hex": "#9eb7c2"
+    },
+    {
+        "name": "sto Silikat 14196",
+        "label": "sto-silikat-14196",
+        "hex": "#c5d0d2"
+    },
+    {
+        "name": "sto Silikat 14200",
+        "label": "sto-silikat-14200",
+        "hex": "#a1874f"
+    },
+    {
+        "name": "sto Silikat 14201",
+        "label": "sto-silikat-14201",
+        "hex": "#b1975c"
+    },
+    {
+        "name": "sto Silikat 14202",
+        "label": "sto-silikat-14202",
+        "hex": "#c8b078"
+    },
+    {
+        "name": "sto Silikat 14203",
+        "label": "sto-silikat-14203",
+        "hex": "#d3bf8c"
+    },
+    {
+        "name": "sto Silikat 14204",
+        "label": "sto-silikat-14204",
+        "hex": "#ddcda2"
+    },
+    {
+        "name": "sto Silikat 14205",
+        "label": "sto-silikat-14205",
+        "hex": "#e1d6b5"
+    },
+    {
+        "name": "sto Silikat 14206",
+        "label": "sto-silikat-14206",
+        "hex": "#e6e2cd"
+    },
+    {
+        "name": "sto Silikat 14210",
+        "label": "sto-silikat-14210",
+        "hex": "#4d5054"
+    },
+    {
+        "name": "sto Silikat 14211",
+        "label": "sto-silikat-14211",
+        "hex": "#525559"
+    },
+    {
+        "name": "sto Silikat 14212",
+        "label": "sto-silikat-14212",
+        "hex": "#666a70"
+    },
+    {
+        "name": "sto Silikat 14213",
+        "label": "sto-silikat-14213",
+        "hex": "#6d7276"
+    },
+    {
+        "name": "sto Silikat 14214",
+        "label": "sto-silikat-14214",
+        "hex": "#818589"
+    },
+    {
+        "name": "sto Silikat 14215",
+        "label": "sto-silikat-14215",
+        "hex": "#959a9f"
+    },
+    {
+        "name": "sto Silikat 14216",
+        "label": "sto-silikat-14216",
+        "hex": "#b0b3b4"
+    },
+    {
+        "name": "sto Silikat 14217",
+        "label": "sto-silikat-14217",
+        "hex": "#bfc2c2"
+    },
+    {
+        "name": "sto Silikat 14218",
+        "label": "sto-silikat-14218",
+        "hex": "#cdcfcc"
+    },
+    {
+        "name": "sto Silikat 14219",
+        "label": "sto-silikat-14219",
+        "hex": "#dcdeda"
+    },
+    {
+        "name": "sto Silikat 14220",
+        "label": "sto-silikat-14220",
+        "hex": "#57565a"
+    },
+    {
+        "name": "sto Silikat 14221",
+        "label": "sto-silikat-14221",
+        "hex": "#626165"
+    },
+    {
+        "name": "sto Silikat 14222",
+        "label": "sto-silikat-14222",
+        "hex": "#6c6b70"
+    },
+    {
+        "name": "sto Silikat 14223",
+        "label": "sto-silikat-14223",
+        "hex": "#7a797e"
+    },
+    {
+        "name": "sto Silikat 14224",
+        "label": "sto-silikat-14224",
+        "hex": "#8f8f95"
+    },
+    {
+        "name": "sto Silikat 14225",
+        "label": "sto-silikat-14225",
+        "hex": "#9f9fa3"
+    },
+    {
+        "name": "sto Silikat 14226",
+        "label": "sto-silikat-14226",
+        "hex": "#b8b8b9"
+    },
+    {
+        "name": "sto Silikat 14227",
+        "label": "sto-silikat-14227",
+        "hex": "#c9c9c9"
+    },
+    {
+        "name": "sto Silikat 14228",
+        "label": "sto-silikat-14228",
+        "hex": "#d5d5d4"
+    },
+    {
+        "name": "sto Silikat 14229",
+        "label": "sto-silikat-14229",
+        "hex": "#dfded9"
+    },
+    {
+        "name": "sto Silikat 2418 Lichtgelb",
+        "label": "sto-silikat-2418-lichtgelb",
+        "hex": "#ebe27a"
+    },
+    {
+        "name": "sto Silikat 2419 Goldgelb",
+        "label": "sto-silikat-2419-goldgelb",
+        "hex": "#e8a845"
+    },
+    {
+        "name": "sto Silikat 2420 Ocker",
+        "label": "sto-silikat-2420-ocker",
+        "hex": "#be8539"
+    },
+    {
+        "name": "sto Silikat 2421 Rostrot",
+        "label": "sto-silikat-2421-rostrot",
+        "hex": "#934b3b"
+    },
+    {
+        "name": "sto Silikat 2422 Ziegelrot",
+        "label": "sto-silikat-2422-ziegelrot",
+        "hex": "#85443a"
+    },
+    {
+        "name": "sto Silikat 2423 Kastanien",
+        "label": "sto-silikat-2423-kastanien",
+        "hex": "#725545"
+    },
+    {
+        "name": "sto Silikat 2424 Lichtblau",
+        "label": "sto-silikat-2424-lichtblau",
+        "hex": "#007496"
+    },
+    {
+        "name": "sto Silikat 2425 Laubgruen",
+        "label": "sto-silikat-2425-laubgruen",
+        "hex": "#5e7a56"
+    },
+    {
+        "name": "sto Silikat 2426 Umbra",
+        "label": "sto-silikat-2426-umbra",
+        "hex": "#5e5947"
+    },
+    {
+        "name": "sto Silikat 2427 Rotbraun",
+        "label": "sto-silikat-2427-rotbraun",
+        "hex": "#67453f"
+    },
+    {
+        "name": "sto Silikat 2428 Schwarz",
+        "label": "sto-silikat-2428-schwarz",
+        "hex": "#474646"
+    },
+    {
+        "name": "sto Silikat 2430 Lachsrot",
+        "label": "sto-silikat-2430-lachsrot",
+        "hex": "#aa5643"
+    },
+    {
+        "name": "sto Silikat 2431 Gelb",
+        "label": "sto-silikat-2431-gelb",
+        "hex": "#ece074"
+    },
+    {
+        "name": "sto Silikat 2432 Oxidgelb",
+        "label": "sto-silikat-2432-oxidgelb",
+        "hex": "#d5983e"
+    },
+    {
+        "name": "sto Silikat 2433 Orange",
+        "label": "sto-silikat-2433-orange",
+        "hex": "#b3573a"
+    },
+    {
+        "name": "sto Silikat 2434 Oxidrot",
+        "label": "sto-silikat-2434-oxidrot",
+        "hex": "#964e45"
+    },
+    {
+        "name": "sto Silikat 2435 Blau",
+        "label": "sto-silikat-2435-blau",
+        "hex": "#1f81a5"
+    },
+    {
+        "name": "sto Silikat 2436 Gruen",
+        "label": "sto-silikat-2436-gruen",
+        "hex": "#607b58"
+    },
+    {
+        "name": "sto Silikat 2437 Umbra",
+        "label": "sto-silikat-2437-umbra",
+        "hex": "#7c6f4e"
+    },
+    {
+        "name": "sto Silikat 2438 Schwarz",
+        "label": "sto-silikat-2438-schwarz",
+        "hex": "#4e4d4f"
+    },
+    {
+        "name": "sto Silikat 2439 Braun",
+        "label": "sto-silikat-2439-braun",
+        "hex": "#704b45"
+    },
+    {
+        "name": "sto Silikat 2440 Safrangelb",
+        "label": "sto-silikat-2440-safrangelb",
+        "hex": "#e8b660"
+    }
+]

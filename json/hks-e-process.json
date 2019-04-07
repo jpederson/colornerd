@@ -1,0 +1,432 @@
+[
+  {
+    "name": "HKS 01 E",
+    "label": "01-e",
+    "hex": "#ffec81"
+  },
+  {
+    "name": "HKS 02 E",
+    "label": "02-e",
+    "hex": "#ffea00"
+  },
+  {
+    "name": "HKS 03 E",
+    "label": "03-e",
+    "hex": "#ffed00"
+  },
+  {
+    "name": "HKS 04 E",
+    "label": "04-e",
+    "hex": "#ffe000"
+  },
+  {
+    "name": "HKS 05 E",
+    "label": "05-e",
+    "hex": "#ffd400"
+  },
+  {
+    "name": "HKS 06 E",
+    "label": "06-e",
+    "hex": "#fcba00"
+  },
+  {
+    "name": "HKS 07 E",
+    "label": "07-e",
+    "hex": "#f69e14"
+  },
+  {
+    "name": "HKS 08 E",
+    "label": "08-e",
+    "hex": "#f4941a"
+  },
+  {
+    "name": "HKS 10 E",
+    "label": "10-e",
+    "hex": "#ee7535"
+  },
+  {
+    "name": "HKS 11 E",
+    "label": "11-e",
+    "hex": "#f8bba5"
+  },
+  {
+    "name": "HKS 12 E",
+    "label": "12-e",
+    "hex": "#ed6a35"
+  },
+  {
+    "name": "HKS 13 E",
+    "label": "13-e",
+    "hex": "#e73c3e"
+  },
+  {
+    "name": "HKS 14 E",
+    "label": "14-e",
+    "hex": "#e84944"
+  },
+  {
+    "name": "HKS 15 E",
+    "label": "15-e",
+    "hex": "#e41843"
+  },
+  {
+    "name": "HKS 16 E",
+    "label": "16-e",
+    "hex": "#d5203c"
+  },
+  {
+    "name": "HKS 17 E",
+    "label": "17-e",
+    "hex": "#d51d4d"
+  },
+  {
+    "name": "HKS 18 E",
+    "label": "18-e",
+    "hex": "#be254e"
+  },
+  {
+    "name": "HKS 21 E",
+    "label": "21-e",
+    "hex": "#f29db1"
+  },
+  {
+    "name": "HKS 22 E",
+    "label": "22-e",
+    "hex": "#ea554c"
+  },
+  {
+    "name": "HKS 23 E",
+    "label": "23-e",
+    "hex": "#e52e41"
+  },
+  {
+    "name": "HKS 24 E",
+    "label": "24-e",
+    "hex": "#e7386f"
+  },
+  {
+    "name": "HKS 25 E",
+    "label": "25-e",
+    "hex": "#e4016e"
+  },
+  {
+    "name": "HKS 26 E",
+    "label": "26-e",
+    "hex": "#dc007d"
+  },
+  {
+    "name": "HKS 27 E",
+    "label": "27-e",
+    "hex": "#d8007d"
+  },
+  {
+    "name": "HKS 28 E",
+    "label": "28-e",
+    "hex": "#ce1866"
+  },
+  {
+    "name": "HKS 29 E",
+    "label": "29-e",
+    "hex": "#b03b89"
+  },
+  {
+    "name": "HKS 31 E",
+    "label": "31-e",
+    "hex": "#cc2883"
+  },
+  {
+    "name": "HKS 32 E",
+    "label": "32-e",
+    "hex": "#dc3589"
+  },
+  {
+    "name": "HKS 33 E",
+    "label": "33-e",
+    "hex": "#a73b8a"
+  },
+  {
+    "name": "HKS 34 E",
+    "label": "34-e",
+    "hex": "#8b5096"
+  },
+  {
+    "name": "HKS 35 E",
+    "label": "35-e",
+    "hex": "#5d569b"
+  },
+  {
+    "name": "HKS 36 E",
+    "label": "36-e",
+    "hex": "#6a4f96"
+  },
+  {
+    "name": "HKS 37 E",
+    "label": "37-e",
+    "hex": "#6b4890"
+  },
+  {
+    "name": "HKS 38 E",
+    "label": "38-e",
+    "hex": "#315f83"
+  },
+  {
+    "name": "HKS 39 E",
+    "label": "39-e",
+    "hex": "#008bca"
+  },
+  {
+    "name": "HKS 40 E",
+    "label": "40-e",
+    "hex": "#009ac9"
+  },
+  {
+    "name": "HKS 41 E",
+    "label": "41-e",
+    "hex": "#16598b"
+  },
+  {
+    "name": "HKS 42 E",
+    "label": "42-e",
+    "hex": "#0069b0"
+  },
+  {
+    "name": "HKS 43 E",
+    "label": "43-e",
+    "hex": "#0074ba"
+  },
+  {
+    "name": "HKS 44 E",
+    "label": "44-e",
+    "hex": "#008ccf"
+  },
+  {
+    "name": "HKS 45 E",
+    "label": "45-e",
+    "hex": "#0063aa"
+  },
+  {
+    "name": "HKS 46 E",
+    "label": "46-e",
+    "hex": "#0097c7"
+  },
+  {
+    "name": "HKS 47 E",
+    "label": "47-e",
+    "hex": "#00a0e1"
+  },
+  {
+    "name": "HKS 48 E",
+    "label": "48-e",
+    "hex": "#009fce"
+  },
+  {
+    "name": "HKS 49 E",
+    "label": "49-e",
+    "hex": "#009ac6"
+  },
+  {
+    "name": "HKS 50 E",
+    "label": "50-e",
+    "hex": "#82d1e9"
+  },
+  {
+    "name": "HKS 51 E",
+    "label": "51-e",
+    "hex": "#00a1b3"
+  },
+  {
+    "name": "HKS 52 E",
+    "label": "52-e",
+    "hex": "#009f99"
+  },
+  {
+    "name": "HKS 53 E",
+    "label": "53-e",
+    "hex": "#34b7a8"
+  },
+  {
+    "name": "HKS 54 E",
+    "label": "54-e",
+    "hex": "#00a577"
+  },
+  {
+    "name": "HKS 55 E",
+    "label": "55-e",
+    "hex": "#009876"
+  },
+  {
+    "name": "HKS 56 E",
+    "label": "56-e",
+    "hex": "#00867d"
+  },
+  {
+    "name": "HKS 57 E",
+    "label": "57-e",
+    "hex": "#00a46e"
+  },
+  {
+    "name": "HKS 58 E",
+    "label": "58-e",
+    "hex": "#008344"
+  },
+  {
+    "name": "HKS 59 E",
+    "label": "59-e",
+    "hex": "#009b99"
+  },
+  {
+    "name": "HKS 60 E",
+    "label": "60-e",
+    "hex": "#66b231"
+  },
+  {
+    "name": "HKS 61 E",
+    "label": "61-e",
+    "hex": "#008147"
+  },
+  {
+    "name": "HKS 62 E",
+    "label": "62-e",
+    "hex": "#b1ad56"
+  },
+  {
+    "name": "HKS 63 E",
+    "label": "63-e",
+    "hex": "#8cb326"
+  },
+  {
+    "name": "HKS 64 E",
+    "label": "64-e",
+    "hex": "#76b845"
+  },
+  {
+    "name": "HKS 65 E",
+    "label": "65-e",
+    "hex": "#87bd43"
+  },
+  {
+    "name": "HKS 66 E",
+    "label": "66-e",
+    "hex": "#a5c631"
+  },
+  {
+    "name": "HKS 67 E",
+    "label": "67-e",
+    "hex": "#b2cb2d"
+  },
+  {
+    "name": "HKS 68 E",
+    "label": "68-e",
+    "hex": "#f6dc00"
+  },
+  {
+    "name": "HKS 69 E",
+    "label": "69-e",
+    "hex": "#fae700"
+  },
+  {
+    "name": "HKS 71 E",
+    "label": "71-e",
+    "hex": "#fec64a"
+  },
+  {
+    "name": "HKS 72 E",
+    "label": "72-e",
+    "hex": "#fcba00"
+  },
+  {
+    "name": "HKS 73 E",
+    "label": "73-e",
+    "hex": "#e7a50c"
+  },
+  {
+    "name": "HKS 74 E",
+    "label": "74-e",
+    "hex": "#ca9217"
+  },
+  {
+    "name": "HKS 75 E",
+    "label": "75-e",
+    "hex": "#bf9f1f"
+  },
+  {
+    "name": "HKS 76 E",
+    "label": "76-e",
+    "hex": "#9f6823"
+  },
+  {
+    "name": "HKS 77 E",
+    "label": "77-e",
+    "hex": "#9c5639"
+  },
+  {
+    "name": "HKS 78 E",
+    "label": "78-e",
+    "hex": "#c56727"
+  },
+  {
+    "name": "HKS 81 E",
+    "label": "81-e",
+    "hex": "#f07f21"
+  },
+  {
+    "name": "HKS 82 E",
+    "label": "82-e",
+    "hex": "#dd6728"
+  },
+  {
+    "name": "HKS 83 E",
+    "label": "83-e",
+    "hex": "#c45e28"
+  },
+  {
+    "name": "HKS 84 E",
+    "label": "84-e",
+    "hex": "#a94628"
+  },
+  {
+    "name": "HKS 88 E",
+    "label": "88-e",
+    "hex": "#2d2c2b"
+  },
+  {
+    "name": "HKS 89 E",
+    "label": "89-e",
+    "hex": "#cfbfa1"
+  },
+  {
+    "name": "HKS 90 E",
+    "label": "90-e",
+    "hex": "#5d534f"
+  },
+  {
+    "name": "HKS 91 E",
+    "label": "91-e",
+    "hex": "#c0c8bc"
+  },
+  {
+    "name": "HKS 92 E",
+    "label": "92-e",
+    "hex": "#9ba39a"
+  },
+  {
+    "name": "HKS 93 E",
+    "label": "93-e",
+    "hex": "#75817d"
+  },
+  {
+    "name": "HKS 95 E",
+    "label": "95-e",
+    "hex": "#b6b8ac"
+  },
+  {
+    "name": "HKS 96 E",
+    "label": "96-e",
+    "hex": "#a8a899"
+  },
+  {
+    "name": "HKS 97 E",
+    "label": "97-e",
+    "hex": "#686e5f"
+  }
+]

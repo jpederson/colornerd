@@ -1,0 +1,10 @@
+
+
+// set our color array
+lgchem-vizuoncal-6800-translucent-colors = ("lc-6871" #f7f8f3) ("lc-6873" #888a88) ("lc-6875" #697178) ("lc-6877" #646262) ("lc-6880" #2d2e30) ("lc-6827" #6d4335) ("lc-6834" #e9daad) ("lc-6832" #e0d318) ("lc-6830" #faca00) ("lc-6833" #f8b900) ("lc-6831" #feac00) ("lc-6822" #f27d28) ("lc-6821" #e66628) ("lc-6823" #e2502d) ("lc-6815" #cf4532) ("lc-6813" #c03433) ("lc-6811" #ab2f36) ("lc-6812" #a7202b) ("lc-6819" #702a2f) ("lc-6820" #652d30) ("lc-6863" #e07c9c) ("lc-6867" #cd4062) ("lc-6818" #a12c63) ("lc-6854" #0081b2) ("lc-6855" #0075b4) ("lc-685a" #0059a0) ("lc-6859" #344e88) ("lc-6856" #323a78) ("lc-6857" #253c58) ("lc-6853" #3c327d) ("lc-6852" #4d266d) ("lc-6841" #009585) ("lc-6840" #008c82) ("lc-6847" #005d5b) ("lc-6842" #76a425) ("lc-6844" #1d6c23) ("lc-6848" #008b4e) ("lc-6849" #008452) ("lc-6843" #00612f) ("lc-684a" #00652d) ("lc-6846" #006242) ("lc-6845" #295437)
+
+
+// grab a specific color based on key
+lgchem-vizuoncal-6800-translucent( color )
+  return item[1] if item[0] == color for item in lgchem-vizuoncal-6800-translucent-colors
+

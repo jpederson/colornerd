@@ -1,0 +1,16 @@
+
+
+// array of colors
+$terranova-color-2000-colors: ("terranova-t010" #ecede6), ("terranova-t020" #e8e3db), ("terranova-t030" #eeefdd), ("terranova-t040" #eeefdb), ("terranova-t050" #edf0c4), ("terranova-t060" #e9e8a2), ("terranova-t070" #ebe786), ("terranova-t080" #ece67b), ("terranova-t090" #ede377), ("terranova-t100" #ebece5), ("terranova-t110" #eeeada), ("terranova-t120" #f4ebd5), ("terranova-t130" #eedcba), ("terranova-t140" #f0d4a4), ("terranova-t150" #e7c48e), ("terranova-t160" #deb476), ("terranova-t170" #dbaf6c), ("terranova-t180" #d2a25b), ("terranova-t190" #d8ceb8), ("terranova-t200" #ddccb0), ("terranova-t210" #dbc7a6), ("terranova-t220" #c9a986), ("terranova-t230" #9e7c63), ("terranova-t240" #a17f71), ("terranova-t250" #efdebc), ("terranova-t260" #e7d2aa), ("terranova-t270" #e4c998), ("terranova-t280" #e3bb80), ("terranova-t290" #ddb282), ("terranova-t300" #daaa81), ("terranova-t310" #ca906d), ("terranova-t320" #ead9d1), ("terranova-t330" #e3c8c1), ("terranova-t340" #dfb8b1), ("terranova-t350" #d8a7a0), ("terranova-t360" #ca8c86), ("terranova-t370" #b4746e), ("terranova-t380" #98554f), ("terranova-t390" #f0ddd2), ("terranova-t400" #dcc0b9), ("terranova-t410" #c7a8a6), ("terranova-t420" #d1c2c0), ("terranova-t430" #c7b5b5), ("terranova-t440" #baa7a7), ("terranova-t450" #e8ebe6), ("terranova-t460" #dce7e7), ("terranova-t470" #cadce6), ("terranova-t480" #c3dae6), ("terranova-t490" #abc9e1), ("terranova-t500" #9bc2e1), ("terranova-t510" #8db8dd), ("terranova-t520" #8ab5dc), ("terranova-t530" #e1e8e4), ("terranova-t540" #cce3e6), ("terranova-t550" #b4d6e1), ("terranova-t560" #96c5d8), ("terranova-t570" #82bed9), ("terranova-t580" #81bad2), ("terranova-t590" #67accb), ("terranova-t600" #e4e6db), ("terranova-t610" #dee4d6), ("terranova-t620" #d5dccc), ("terranova-t630" #ccd8c5), ("terranova-t640" #c1d0b9), ("terranova-t650" #adbea3), ("terranova-t660" #97af90), ("terranova-t670" #758f70), ("terranova-t680" #dededa), ("terranova-t690" #d0d0ce), ("terranova-t700" #babbbb), ("terranova-t710" #acadae), ("terranova-t720" #8d8f92), ("terranova-t730" #797d81), ("terranova-t740" #61656b), ("terranova-t750" #a1a599), ("terranova-t760" #8a9e9a), ("terranova-t770" #bbb29d), ("terranova-t780" #9d987e), ("terranova-t790" #958c72), ("terranova-t800" #95916a);
+
+
+// grab a specific color based on key
+@function terranova-color-2000( $color ) {
+    @each $item in $terranova-color-2000-colors {
+        @if ($color == nth($item, 1)) {
+            @return nth($item, 2);
+        }
+    }
+    @return false;
+}
+
