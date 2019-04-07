@@ -1,0 +1,7097 @@
+[
+  {
+    "hex": "#0a1b20",
+    "label": "MP33758",
+    "name": "Black Box"
+  },
+  {
+    "hex": "#0a1a20",
+    "label": "MP28560",
+    "name": "Black Chasm"
+  },
+  {
+    "hex": "#0a191e",
+    "label": "MP33764",
+    "name": "Black Indigo"
+  },
+  {
+    "hex": "#0b1013",
+    "label": "MP59647",
+    "name": "Black is Back"
+  },
+  {
+    "hex": "#0a1013",
+    "label": "MP32156",
+    "name": "Black Magic"
+  },
+  {
+    "hex": "#161f24",
+    "label": "MP25595",
+    "name": "Black Mamba"
+  },
+  {
+    "hex": "#091012",
+    "label": "MP33653",
+    "name": "Black Stallion"
+  },
+  {
+    "hex": "#191412",
+    "label": "MP30116",
+    "name": "Black Umber"
+  },
+  {
+    "hex": "#232220",
+    "label": "MP33759",
+    "name": "Blackguard"
+  },
+  {
+    "hex": "#1f1e1c",
+    "label": "MP33348",
+    "name": "Blackstone"
+  },
+  {
+    "hex": "#192021",
+    "label": "MP40821",
+    "name": "Draconia"
+  },
+  {
+    "hex": "#141f1f",
+    "label": "MP30914",
+    "name": "Ebony King"
+  },
+  {
+    "hex": "#1b1513",
+    "label": "MP31846",
+    "name": "Onyx"
+  },
+  {
+    "hex": "#161614",
+    "label": "MP33260",
+    "name": "Twilight Zone"
+  },
+  {
+    "hex": "#1e2223",
+    "label": "MP42359",
+    "name": "Vine Charcoal"
+  },
+  {
+    "hex": "#081111",
+    "label": "MP26309",
+    "name": "Wells Fargo Black"
+  },
+  {
+    "hex": "#624ba0",
+    "label": "MP22022",
+    "name": "Amethyst Met."
+  },
+  {
+    "hex": "#00354b",
+    "label": "MP22028",
+    "name": "Andromeda Blue Met."
+  },
+  {
+    "hex": "#488386",
+    "label": "MP21999",
+    "name": "Aquateal met."
+  },
+  {
+    "hex": "#86b7b3",
+    "label": "MP27145",
+    "name": "Aubertite Blue Met."
+  },
+  {
+    "hex": "#004e66",
+    "label": "MP25401",
+    "name": "Aura Blue Met."
+  },
+  {
+    "hex": "#3b4f8e",
+    "label": "MP41755",
+    "name": "Bally Blue Met."
+  },
+  {
+    "hex": "#130e29",
+    "label": "MP22005",
+    "name": "Black N Blue Met."
+  },
+  {
+    "hex": "#1c1027",
+    "label": "MP22021",
+    "name": "Blackberry Met."
+  },
+  {
+    "hex": "#131834",
+    "label": "MP22008",
+    "name": "Blue Abyss Met."
+  },
+  {
+    "hex": "#63a6ae",
+    "label": "MP22004",
+    "name": "Blue Jade Met."
+  },
+  {
+    "hex": "#00526d",
+    "label": "MP19843",
+    "name": "Breyer Blue Met."
+  },
+  {
+    "hex": "#c7cbd0",
+    "label": "MP22085",
+    "name": "Brina Blue Met."
+  },
+  {
+    "hex": "#003e55",
+    "label": "MP28161",
+    "name": "Cabochon Blue Met."
+  },
+  {
+    "hex": "#004157",
+    "label": "MP25405",
+    "name": "Carib Blue Met."
+  },
+  {
+    "hex": "#91b7c2",
+    "label": "MP32683",
+    "name": "Celestine Blue Met."
+  },
+  {
+    "hex": "#4b516c",
+    "label": "MP22031",
+    "name": "Cenere Blue Met."
+  },
+  {
+    "hex": "#273974",
+    "label": "MP25373",
+    "name": "Chakra Blue Met."
+  },
+  {
+    "hex": "#a4b0b1",
+    "label": "MP22088",
+    "name": "Champenoise Blue Met."
+  },
+  {
+    "hex": "#00425a",
+    "label": "MP22029",
+    "name": "China Blue Met."
+  },
+  {
+    "hex": "#9b8bdb",
+    "label": "MP22023",
+    "name": "Cuda Plum Met."
+  },
+  {
+    "hex": "#06283d",
+    "label": "MP22030",
+    "name": "Cygnus Blue Met."
+  },
+  {
+    "hex": "#012c3e",
+    "label": "MP22027",
+    "name": "Dark Matter Blue Met."
+  },
+  {
+    "hex": "#538d91",
+    "label": "MP26867",
+    "name": "Dark Sea Green Met."
+  },
+  {
+    "hex": "#003f52",
+    "label": "MP21997",
+    "name": "Deepwater Blue Met."
+  },
+  {
+    "hex": "#005b79",
+    "label": "MP21994",
+    "name": "Electric Blue Met."
+  },
+  {
+    "hex": "#004053",
+    "label": "MP25406",
+    "name": "Emerald Teal Met."
+  },
+  {
+    "hex": "#a0bdd2",
+    "label": "MP18124",
+    "name": "Faerie Blue Met."
+  },
+  {
+    "hex": "#aeacbe",
+    "label": "MP25362",
+    "name": "Floe Blue Met."
+  },
+  {
+    "hex": "#a29faf",
+    "label": "MP22078",
+    "name": "Gelee Blue Met."
+  },
+  {
+    "hex": "#95adb1",
+    "label": "MP22090",
+    "name": "Glacon Blue Met."
+  },
+  {
+    "hex": "#473485",
+    "label": "MP26171",
+    "name": "Groovy Blue Met."
+  },
+  {
+    "hex": "#6c87b9",
+    "label": "MP27858",
+    "name": "Humo Blue Met."
+  },
+  {
+    "hex": "#052c49",
+    "label": "MP21992",
+    "name": "Indigo Blue Met."
+  },
+  {
+    "hex": "#308a94",
+    "label": "MP25398",
+    "name": "Lauderdale Blue Met."
+  },
+  {
+    "hex": "#7f7d8d",
+    "label": "MP22010",
+    "name": "Lavender Blue Met."
+  },
+  {
+    "hex": "#003b4f",
+    "label": "MP22001",
+    "name": "Legend Blue Met."
+  },
+  {
+    "hex": "#004661",
+    "label": "MP21993",
+    "name": "Marine Blue Met."
+  },
+  {
+    "hex": "#004862",
+    "label": "MP34865",
+    "name": "Med. Gulf Blue Met."
+  },
+  {
+    "hex": "#0c243e",
+    "label": "MP21989",
+    "name": "Midnite Blue Met."
+  },
+  {
+    "hex": "#9992a7",
+    "label": "MP23002",
+    "name": "Mysteria Blue Met."
+  },
+  {
+    "hex": "#004f6a",
+    "label": "MP21990",
+    "name": "Newport Blue Met."
+  },
+  {
+    "hex": "#5f9497",
+    "label": "MP22000",
+    "name": "Pacific Blue Met."
+  },
+  {
+    "hex": "#125d73",
+    "label": "MP22003",
+    "name": "Panama Blue Met."
+  },
+  {
+    "hex": "#704a98",
+    "label": "MP26181",
+    "name": "Passione Blue Met."
+  },
+  {
+    "hex": "#849697",
+    "label": "MP22087",
+    "name": "Pastello Blue Met."
+  },
+  {
+    "hex": "#a896eb",
+    "label": "MP23003",
+    "name": "Pharaohs Blue Met."
+  },
+  {
+    "hex": "#8a7b90",
+    "label": "MP22026",
+    "name": "Phlox Blue Met."
+  },
+  {
+    "hex": "#56699b",
+    "label": "MP22009",
+    "name": "Regal Blue Met."
+  },
+  {
+    "hex": "#15183c",
+    "label": "MP17314",
+    "name": "Romanov Blue Met."
+  },
+  {
+    "hex": "#0e193c",
+    "label": "MP22024",
+    "name": "Royal Robe Met."
+  },
+  {
+    "hex": "#8e96a2",
+    "label": "MP23839",
+    "name": "Silver Blue Met."
+  },
+  {
+    "hex": "#66afaf",
+    "label": "MP27188",
+    "name": "Sleek Blue Met."
+  },
+  {
+    "hex": "#5d8d85",
+    "label": "MP23561",
+    "name": "Smooth Teal Met."
+  },
+  {
+    "hex": "#266986",
+    "label": "MP21991",
+    "name": "Tahiti Blue Met."
+  },
+  {
+    "hex": "#647eb9",
+    "label": "MP22007",
+    "name": "Tetra Blue Met."
+  },
+  {
+    "hex": "#6f4ba9",
+    "label": "MP22025",
+    "name": "Trillium Blue Met."
+  },
+  {
+    "hex": "#43518f",
+    "label": "MP22006",
+    "name": "Ultra Blue Met."
+  },
+  {
+    "hex": "#c7b8c4",
+    "label": "MP22083",
+    "name": "Violetta Frost Met."
+  },
+  {
+    "hex": "#c3b4c2",
+    "label": "MP25353",
+    "name": "Violette Blue Met."
+  },
+  {
+    "hex": "#464e8c",
+    "label": "MP11430",
+    "name": "Alhambra Mosaic Blue"
+  },
+  {
+    "hex": "#8cc0d5",
+    "label": "MP357",
+    "name": "Alpine Sky Blue"
+  },
+  {
+    "hex": "#283e77",
+    "label": "MP2171",
+    "name": "Ameritech Blue"
+  },
+  {
+    "hex": "#5b6e89",
+    "label": "MP959",
+    "name": "Amsterdam Blue"
+  },
+  {
+    "hex": "#5b6890",
+    "label": "MP2643",
+    "name": "Amulet Blue"
+  },
+  {
+    "hex": "#006081",
+    "label": "MP12026",
+    "name": "Anas Teal"
+  },
+  {
+    "hex": "#1d1a44",
+    "label": "MP4526",
+    "name": "Anil Blue"
+  },
+  {
+    "hex": "#6b6a74",
+    "label": "MP3362",
+    "name": "Antwerp Blue"
+  },
+  {
+    "hex": "#6b898c",
+    "label": "MP3559",
+    "name": "Aquagris"
+  },
+  {
+    "hex": "#0084b6",
+    "label": "MP1063",
+    "name": "Aquarious Blue"
+  },
+  {
+    "hex": "#006d95",
+    "label": "MP2370",
+    "name": "Aquavert"
+  },
+  {
+    "hex": "#4d6c7f",
+    "label": "MP6163",
+    "name": "Arles In Blue"
+  },
+  {
+    "hex": "#6c6a7c",
+    "label": "MP5480",
+    "name": "Asgard Wall"
+  },
+  {
+    "hex": "#7cbac9",
+    "label": "MP8975",
+    "name": "Auckland Azure"
+  },
+  {
+    "hex": "#1e1a42",
+    "label": "MP906",
+    "name": "Azulado"
+  },
+  {
+    "hex": "#96a5d8",
+    "label": "MP3427",
+    "name": "Azureno"
+  },
+  {
+    "hex": "#d5d2e7",
+    "label": "MP970",
+    "name": "Azurine"
+  },
+  {
+    "hex": "#a3bbdb",
+    "label": "MP344",
+    "name": "Baby Boy Blue"
+  },
+  {
+    "hex": "#5b4d65",
+    "label": "MP5037",
+    "name": "Babylon Blue"
+  },
+  {
+    "hex": "#aecfd4",
+    "label": "MP8972",
+    "name": "Baffin Blue"
+  },
+  {
+    "hex": "#00709b",
+    "label": "MP946",
+    "name": "Balinese Atoll"
+  },
+  {
+    "hex": "#a5bfd2",
+    "label": "MP7797",
+    "name": "Bambino Blue"
+  },
+  {
+    "hex": "#7facb0",
+    "label": "MP7965",
+    "name": "Bayville Blue"
+  },
+  {
+    "hex": "#303759",
+    "label": "MP13702",
+    "name": "Beale Street Blues"
+  },
+  {
+    "hex": "#7385a1",
+    "label": "MP2356",
+    "name": "Beethoven Blue"
+  },
+  {
+    "hex": "#27588b",
+    "label": "MP359",
+    "name": "Belize Blue"
+  },
+  {
+    "hex": "#c6cfd8",
+    "label": "MP955",
+    "name": "Bering Straits Sky"
+  },
+  {
+    "hex": "#a8c3c9",
+    "label": "MP5783",
+    "name": "Berries"
+  },
+  {
+    "hex": "#1d1a44",
+    "label": "MP2103",
+    "name": "Blue Abyss"
+  },
+  {
+    "hex": "#797b89",
+    "label": "MP4510",
+    "name": "Blue And Grey"
+  },
+  {
+    "hex": "#2e4672",
+    "label": "MP14188",
+    "name": "Blue Bangle"
+  },
+  {
+    "hex": "#272362",
+    "label": "MP11976",
+    "name": "Blue Bike"
+  },
+  {
+    "hex": "#004f6f",
+    "label": "MP4105",
+    "name": "Blue Bottom"
+  },
+  {
+    "hex": "#41576b",
+    "label": "MP4518",
+    "name": "Blue Brigantine"
+  },
+  {
+    "hex": "#c0ccd5",
+    "label": "MP5878",
+    "name": "Blue Chic"
+  },
+  {
+    "hex": "#455c84",
+    "label": "MP9460",
+    "name": "Blue Collar"
+  },
+  {
+    "hex": "#356b92",
+    "label": "MP4348",
+    "name": "Blue Dandy"
+  },
+  {
+    "hex": "#7e7e90",
+    "label": "MP7292",
+    "name": "Blue Eyed Mary"
+  },
+  {
+    "hex": "#93939b",
+    "label": "MP3341",
+    "name": "Blue Fang"
+  },
+  {
+    "hex": "#446b91",
+    "label": "MP1992",
+    "name": "Blue Flag"
+  },
+  {
+    "hex": "#5f6585",
+    "label": "MP11988",
+    "name": "Blue Frit"
+  },
+  {
+    "hex": "#374f75",
+    "label": "MP2098",
+    "name": "Blue Funk"
+  },
+  {
+    "hex": "#2c0060",
+    "label": "MP340",
+    "name": "Blue Glass"
+  },
+  {
+    "hex": "#00618f",
+    "label": "MP13728",
+    "name": "Blue Hawaii"
+  },
+  {
+    "hex": "#5e6881",
+    "label": "MP6059",
+    "name": "Blue Lead"
+  },
+  {
+    "hex": "#4875a2",
+    "label": "MP2625",
+    "name": "Blue Lightening"
+  },
+  {
+    "hex": "#7993b3",
+    "label": "MP7455",
+    "name": "Blue Nose"
+  },
+  {
+    "hex": "#37327d",
+    "label": "MP9130",
+    "name": "Blue On Violet"
+  },
+  {
+    "hex": "#4f6f8b",
+    "label": "MP4520",
+    "name": "Blue Period"
+  },
+  {
+    "hex": "#37324e",
+    "label": "MP14112",
+    "name": "Blue Polo"
+  },
+  {
+    "hex": "#140043",
+    "label": "MP5080",
+    "name": "Blue Ribbon"
+  },
+  {
+    "hex": "#98bfc9",
+    "label": "MP6984",
+    "name": "Blue Specter"
+  },
+  {
+    "hex": "#4c7286",
+    "label": "MP5488",
+    "name": "Blue Truth"
+  },
+  {
+    "hex": "#667490",
+    "label": "MP8065",
+    "name": "Blue Valley"
+  },
+  {
+    "hex": "#ebede5",
+    "label": "MP7922",
+    "name": "Blue Veil"
+  },
+  {
+    "hex": "#3a415b",
+    "label": "MP9971",
+    "name": "Blue Wonder"
+  },
+  {
+    "hex": "#00668d",
+    "label": "MP5040",
+    "name": "Blues News"
+  },
+  {
+    "hex": "#938f9e",
+    "label": "MP721",
+    "name": "Blurple Haze"
+  },
+  {
+    "hex": "#73c2cf",
+    "label": "MP1816",
+    "name": "Bobby Blue"
+  },
+  {
+    "hex": "#bebdd3",
+    "label": "MP6785",
+    "name": "Brewster Blue"
+  },
+  {
+    "hex": "#6c6290",
+    "label": "MP2844",
+    "name": "Brezo Blue"
+  },
+  {
+    "hex": "#37547e",
+    "label": "MP4832",
+    "name": "Brindisi Blue"
+  },
+  {
+    "hex": "#2e6972",
+    "label": "MP2641",
+    "name": "Brittany Blue"
+  },
+  {
+    "hex": "#38728a",
+    "label": "MP9963",
+    "name": "Bushmans Bluey"
+  },
+  {
+    "hex": "#bac3eb",
+    "label": "MP894",
+    "name": "Calm Blue"
+  },
+  {
+    "hex": "#50a5c9",
+    "label": "MP2896",
+    "name": "Camille Blue"
+  },
+  {
+    "hex": "#626389",
+    "label": "MP4435",
+    "name": "Candy Blue"
+  },
+  {
+    "hex": "#507189",
+    "label": "MP5149",
+    "name": "Captain Blue"
+  },
+  {
+    "hex": "#74aec7",
+    "label": "MP6783",
+    "name": "Castaway Blue"
+  },
+  {
+    "hex": "#ddf4f5",
+    "label": "MP6855",
+    "name": "Celeste"
+  },
+  {
+    "hex": "#aed6d8",
+    "label": "MP7837",
+    "name": "Cerulean"
+  },
+  {
+    "hex": "#25467c",
+    "label": "MP8426",
+    "name": "Ceylon Sapphire"
+  },
+  {
+    "hex": "#49a1bc",
+    "label": "MP4721",
+    "name": "Ciel Bleu"
+  },
+  {
+    "hex": "#005a78",
+    "label": "MP11713",
+    "name": "Cloister"
+  },
+  {
+    "hex": "#5a6d87",
+    "label": "MP11611",
+    "name": "Coal Blue"
+  },
+  {
+    "hex": "#b7d4d8",
+    "label": "MP67",
+    "name": "Commelina Blue"
+  },
+  {
+    "hex": "#2d3d6f",
+    "label": "MP2110",
+    "name": "Cook Islands Blue"
+  },
+  {
+    "hex": "#56a3b4",
+    "label": "MP2514",
+    "name": "Copenhagen"
+  },
+  {
+    "hex": "#87a1b3",
+    "label": "MP958",
+    "name": "Copenhagen Blue"
+  },
+  {
+    "hex": "#7084a9",
+    "label": "MP965",
+    "name": "Cornwall Blue"
+  },
+  {
+    "hex": "#9abed0",
+    "label": "MP2965",
+    "name": "Countrified Blue"
+  },
+  {
+    "hex": "#1e0d4f",
+    "label": "MP8072",
+    "name": "Cruiseliner Blue"
+  },
+  {
+    "hex": "#1e185c",
+    "label": "MP2169",
+    "name": "Cuernavaca Blue"
+  },
+  {
+    "hex": "#437a87",
+    "label": "MP5517",
+    "name": "Cypress Bayou"
+  },
+  {
+    "hex": "#312c4f",
+    "label": "MP2306",
+    "name": "Czech Flag Blue"
+  },
+  {
+    "hex": "#8ab1c6",
+    "label": "MP5753",
+    "name": "Daisy Blue"
+  },
+  {
+    "hex": "#3e425e",
+    "label": "MP3758",
+    "name": "Dansk Blue"
+  },
+  {
+    "hex": "#1b3056",
+    "label": "MP75",
+    "name": "Dark Colonial Blue"
+  },
+  {
+    "hex": "#b0d2d5",
+    "label": "MP1731",
+    "name": "Debonair"
+  },
+  {
+    "hex": "#c3ced3",
+    "label": "MP745",
+    "name": "Deepsea Spray"
+  },
+  {
+    "hex": "#5c76af",
+    "label": "MP973",
+    "name": "Diner Door Blue"
+  },
+  {
+    "hex": "#5f6173",
+    "label": "MP5694",
+    "name": "Diplomat"
+  },
+  {
+    "hex": "#375079",
+    "label": "MP10273",
+    "name": "Djibouti Flag Blue"
+  },
+  {
+    "hex": "#30a3bc",
+    "label": "MP7932",
+    "name": "Dream I Can Fly"
+  },
+  {
+    "hex": "#466271",
+    "label": "MP9468",
+    "name": "Dun Blue"
+  },
+  {
+    "hex": "#8aa9c9",
+    "label": "MP5576",
+    "name": "Faience Blue"
+  },
+  {
+    "hex": "#3c3e58",
+    "label": "MP6135",
+    "name": "Far Nebula"
+  },
+  {
+    "hex": "#49828c",
+    "label": "MP5659",
+    "name": "Fiord Blue"
+  },
+  {
+    "hex": "#00577b",
+    "label": "MP12106",
+    "name": "Fordson Blue"
+  },
+  {
+    "hex": "#3c5475",
+    "label": "MP11183",
+    "name": "Franco Blue"
+  },
+  {
+    "hex": "#63749b",
+    "label": "MP7694",
+    "name": "Frescoe Sky"
+  },
+  {
+    "hex": "#b3b7c6",
+    "label": "MP5010",
+    "name": "Gray Dawn"
+  },
+  {
+    "hex": "#073165",
+    "label": "MP5157",
+    "name": "Grecian Blue"
+  },
+  {
+    "hex": "#c2bec0",
+    "label": "MP723",
+    "name": "Greyblue"
+  },
+  {
+    "hex": "#00597d",
+    "label": "MP375",
+    "name": "Guantanamo Teal"
+  },
+  {
+    "hex": "#004d73",
+    "label": "MP4036",
+    "name": "Hardees New Blue"
+  },
+  {
+    "hex": "#004d6e",
+    "label": "MP10180",
+    "name": "Highway Blue"
+  },
+  {
+    "hex": "#32749b",
+    "label": "MP4900",
+    "name": "Hong Kong Blue"
+  },
+  {
+    "hex": "#dcd8ef",
+    "label": "MP886",
+    "name": "Ice Cave Blue"
+  },
+  {
+    "hex": "#97d4d9",
+    "label": "MP949",
+    "name": "Ice Palace"
+  },
+  {
+    "hex": "#bce1f4",
+    "label": "MP349",
+    "name": "Iceberg Blue"
+  },
+  {
+    "hex": "#1c0043",
+    "label": "MP341",
+    "name": "Im So Blue"
+  },
+  {
+    "hex": "#39456d",
+    "label": "MP10147",
+    "name": "Impulse"
+  },
+  {
+    "hex": "#797884",
+    "label": "MP7081",
+    "name": "In The Twilight"
+  },
+  {
+    "hex": "#0f1e5f",
+    "label": "MP10261",
+    "name": "Indanthrone Blue"
+  },
+  {
+    "hex": "#4b5570",
+    "label": "MP12446",
+    "name": "Indian Teal"
+  },
+  {
+    "hex": "#383e5d",
+    "label": "MP3597",
+    "name": "Indiglo"
+  },
+  {
+    "hex": "#1e0043",
+    "label": "MP11285",
+    "name": "Inkspot"
+  },
+  {
+    "hex": "#294160",
+    "label": "MP4979",
+    "name": "Innsbruck Blue"
+  },
+  {
+    "hex": "#1d7c96",
+    "label": "MP8064",
+    "name": "Into The Blue"
+  },
+  {
+    "hex": "#90b0bd",
+    "label": "MP6198",
+    "name": "Jacque Blue"
+  },
+  {
+    "hex": "#2b616c",
+    "label": "MP3571",
+    "name": "Jade Blue"
+  },
+  {
+    "hex": "#649ca8",
+    "label": "MP742",
+    "name": "Jaded Blue"
+  },
+  {
+    "hex": "#c1d0e0",
+    "label": "MP7490",
+    "name": "Jet Stream"
+  },
+  {
+    "hex": "#729897",
+    "label": "MP8705",
+    "name": "Jumping Juniper"
+  },
+  {
+    "hex": "#465178",
+    "label": "MP2750",
+    "name": "Labatt Blue"
+  },
+  {
+    "hex": "#ced7e4",
+    "label": "MP969",
+    "name": "Laid Back Blue"
+  },
+  {
+    "hex": "#7ecbce",
+    "label": "MP2392",
+    "name": "Lake Placid"
+  },
+  {
+    "hex": "#4d7c98",
+    "label": "MP8066",
+    "name": "Lapp Lake"
+  },
+  {
+    "hex": "#3b545c",
+    "label": "MP2783",
+    "name": "Las Palmas Blue"
+  },
+  {
+    "hex": "#617a9b",
+    "label": "MP7529",
+    "name": "Lazy Sunday"
+  },
+  {
+    "hex": "#bde1db",
+    "label": "MP1715",
+    "name": "Light Sky"
+  },
+  {
+    "hex": "#2e4b91",
+    "label": "MP64",
+    "name": "Macaw Blue"
+  },
+  {
+    "hex": "#3498a3",
+    "label": "MP7895",
+    "name": "Meridian Blue"
+  },
+  {
+    "hex": "#33518f",
+    "label": "MP10452",
+    "name": "Mid Blue"
+  },
+  {
+    "hex": "#4b3b5b",
+    "label": "MP2320",
+    "name": "Midnight Blue"
+  },
+  {
+    "hex": "#506677",
+    "label": "MP8069",
+    "name": "Midnight In Nome"
+  },
+  {
+    "hex": "#004b69",
+    "label": "MP6161",
+    "name": "Ming Vase"
+  },
+  {
+    "hex": "#c0e7eb",
+    "label": "MP12682",
+    "name": "Miramar"
+  },
+  {
+    "hex": "#4b6887",
+    "label": "MP3342",
+    "name": "Mojave Aster"
+  },
+  {
+    "hex": "#005b81",
+    "label": "MP17",
+    "name": "Monserrat Blue"
+  },
+  {
+    "hex": "#5d7985",
+    "label": "MP7031",
+    "name": "Mozart Blue"
+  },
+  {
+    "hex": "#5f5f85",
+    "label": "MP6175",
+    "name": "Nantucket"
+  },
+  {
+    "hex": "#394577",
+    "label": "MP2598",
+    "name": "Napoleon Blue"
+  },
+  {
+    "hex": "#207893",
+    "label": "MP10230",
+    "name": "Navajo Turquoise"
+  },
+  {
+    "hex": "#b0c4d6",
+    "label": "MP7880",
+    "name": "New Borns Eyes"
+  },
+  {
+    "hex": "#3b3850",
+    "label": "MP6678",
+    "name": "Night Mission"
+  },
+  {
+    "hex": "#004869",
+    "label": "MP8201",
+    "name": "North Sea Blue"
+  },
+  {
+    "hex": "#2a5594",
+    "label": "MP3547",
+    "name": "Ocho Rios Blue"
+  },
+  {
+    "hex": "#2f4f99",
+    "label": "MP13999",
+    "name": "Oh So Blue"
+  },
+  {
+    "hex": "#59777d",
+    "label": "MP11818",
+    "name": "Oldham Blue"
+  },
+  {
+    "hex": "#466baa",
+    "label": "MP7327",
+    "name": "Paddington Blue"
+  },
+  {
+    "hex": "#dde7ff",
+    "label": "MP893",
+    "name": "Pale Delphinium"
+  },
+  {
+    "hex": "#62546d",
+    "label": "MP10596",
+    "name": "Pasha Blue"
+  },
+  {
+    "hex": "#a7b7ec",
+    "label": "MP11589",
+    "name": "Pastel Smalt Blue"
+  },
+  {
+    "hex": "#44668b",
+    "label": "MP6046",
+    "name": "Pastoral Blue"
+  },
+  {
+    "hex": "#486a80",
+    "label": "MP12008",
+    "name": "Patrician Blue"
+  },
+  {
+    "hex": "#295b67",
+    "label": "MP8339",
+    "name": "Peter O Teal"
+  },
+  {
+    "hex": "#005a7c",
+    "label": "MP6126",
+    "name": "Plumage"
+  },
+  {
+    "hex": "#0088c5",
+    "label": "MP9133",
+    "name": "Process Cyan U"
+  },
+  {
+    "hex": "#194982",
+    "label": "MP11584",
+    "name": "Puget Sound Blue"
+  },
+  {
+    "hex": "#4e1461",
+    "label": "MP12013",
+    "name": "Purple Orchid"
+  },
+  {
+    "hex": "#785186",
+    "label": "MP2112",
+    "name": "Purple Print"
+  },
+  {
+    "hex": "#857f8e",
+    "label": "MP7461",
+    "name": "Queens Wreath"
+  },
+  {
+    "hex": "#201a44",
+    "label": "MP1060",
+    "name": "Reflex Blue C 2X"
+  },
+  {
+    "hex": "#181e53",
+    "label": "MP2758",
+    "name": "Regalia Blue"
+  },
+  {
+    "hex": "#57959c",
+    "label": "MP7279",
+    "name": "Rendezvous Bay"
+  },
+  {
+    "hex": "#2a5962",
+    "label": "MP741",
+    "name": "River Teal Blue"
+  },
+  {
+    "hex": "#004f6e",
+    "label": "MP11862",
+    "name": "Road House Blues"
+  },
+  {
+    "hex": "#78cbd7",
+    "label": "MP950",
+    "name": "Roman Bath Blue"
+  },
+  {
+    "hex": "#3e5d73",
+    "label": "MP13704",
+    "name": "Rotterdam Blue"
+  },
+  {
+    "hex": "#4e1469",
+    "label": "MP2016",
+    "name": "Royal Purple"
+  },
+  {
+    "hex": "#1652a6",
+    "label": "MP2160",
+    "name": "Sailboat Blue"
+  },
+  {
+    "hex": "#60acb5",
+    "label": "MP7336",
+    "name": "Santa Clara"
+  },
+  {
+    "hex": "#596e91",
+    "label": "MP5264",
+    "name": "Scuro Blue"
+  },
+  {
+    "hex": "#71909c",
+    "label": "MP7030",
+    "name": "Sea Reflections"
+  },
+  {
+    "hex": "#dce5e4",
+    "label": "MP2983",
+    "name": "Skylight"
+  },
+  {
+    "hex": "#007cb3",
+    "label": "MP13912",
+    "name": "Soda Can Blue"
+  },
+  {
+    "hex": "#43455c",
+    "label": "MP10505",
+    "name": "South China Sea"
+  },
+  {
+    "hex": "#327473",
+    "label": "MP6186",
+    "name": "St. Louis Blues"
+  },
+  {
+    "hex": "#d1f8f5",
+    "label": "MP356",
+    "name": "St. Maarten Blue"
+  },
+  {
+    "hex": "#d2d5dc",
+    "label": "MP962",
+    "name": "Staid Blue"
+  },
+  {
+    "hex": "#d9e1e4",
+    "label": "MP6062",
+    "name": "Starshine Blue"
+  },
+  {
+    "hex": "#1f0d4f",
+    "label": "MP25133",
+    "name": "Steamboat Blue"
+  },
+  {
+    "hex": "#2e6972",
+    "label": "MP6679",
+    "name": "Teal Edge"
+  },
+  {
+    "hex": "#608e94",
+    "label": "MP11829",
+    "name": "Teal Plastic"
+  },
+  {
+    "hex": "#62b8c0",
+    "label": "MP8713",
+    "name": "Thalassa"
+  },
+  {
+    "hex": "#374463",
+    "label": "MP8973",
+    "name": "Tintoretto Blue"
+  },
+  {
+    "hex": "#1f6e94",
+    "label": "MP10359",
+    "name": "Tonal Blue"
+  },
+  {
+    "hex": "#28396a",
+    "label": "MP13750",
+    "name": "Toray Blue"
+  },
+  {
+    "hex": "#747a8d",
+    "label": "MP10098",
+    "name": "Touch Of Dutch"
+  },
+  {
+    "hex": "#4b688f",
+    "label": "MP4654",
+    "name": "Tralee Blue"
+  },
+  {
+    "hex": "#152c69",
+    "label": "MP14019",
+    "name": "Tres Blue"
+  },
+  {
+    "hex": "#536575",
+    "label": "MP7440",
+    "name": "Van Deusen Blue"
+  },
+  {
+    "hex": "#16143d",
+    "label": "MP13740",
+    "name": "Vans Blue Money"
+  },
+  {
+    "hex": "#005779",
+    "label": "MP11703",
+    "name": "Vanuatu Blue"
+  },
+  {
+    "hex": "#8dcccf",
+    "label": "MP943",
+    "name": "Venetian Tile Blue"
+  },
+  {
+    "hex": "#313558",
+    "label": "MP10259",
+    "name": "Very Blue"
+  },
+  {
+    "hex": "#3c3254",
+    "label": "MP1989",
+    "name": "Victory Navy Blue"
+  },
+  {
+    "hex": "#9bccd4",
+    "label": "MP4840",
+    "name": "Vienna Lake"
+  },
+  {
+    "hex": "#8c92c5",
+    "label": "MP13836",
+    "name": "Vinca Blue"
+  },
+  {
+    "hex": "#7e767b",
+    "label": "MP11225",
+    "name": "Violet Kohl"
+  },
+  {
+    "hex": "#8ec7d9",
+    "label": "MP907",
+    "name": "VW Bug Blue"
+  },
+  {
+    "hex": "#6f86a2",
+    "label": "MP2774",
+    "name": "Waloon Blue"
+  },
+  {
+    "hex": "#b7dfde",
+    "label": "MP948",
+    "name": "Whitewashed Blue"
+  },
+  {
+    "hex": "#43949d",
+    "label": "MP7535",
+    "name": "Wilmington Spruce"
+  },
+  {
+    "hex": "#4e2d7d",
+    "label": "MP9431",
+    "name": "Working Blue"
+  },
+  {
+    "hex": "#777d96",
+    "label": "MP7477",
+    "name": "Yin Yang"
+  },
+  {
+    "hex": "#855c4e",
+    "label": "MP11569",
+    "name": "Alcazar Brown"
+  },
+  {
+    "hex": "#533f42",
+    "label": "MP2250",
+    "name": "Alton Brown"
+  },
+  {
+    "hex": "#4c2f30",
+    "label": "MP13338",
+    "name": "Anodized Black"
+  },
+  {
+    "hex": "#b79882",
+    "label": "MP6720",
+    "name": "Antler"
+  },
+  {
+    "hex": "#7d583e",
+    "label": "MP2833",
+    "name": "Arabica Bean"
+  },
+  {
+    "hex": "#b69667",
+    "label": "MP7646",
+    "name": "Baked Cumin"
+  },
+  {
+    "hex": "#836452",
+    "label": "MP7050",
+    "name": "Bear Creek"
+  },
+  {
+    "hex": "#978067",
+    "label": "MP6666",
+    "name": "Beaver Creek"
+  },
+  {
+    "hex": "#bda890",
+    "label": "MP12813",
+    "name": "Beige Frame"
+  },
+  {
+    "hex": "#9b8067",
+    "label": "MP7621",
+    "name": "Beigewood"
+  },
+  {
+    "hex": "#391e1f",
+    "label": "MP12808",
+    "name": "Bellaire Brown"
+  },
+  {
+    "hex": "#8a553c",
+    "label": "MP11559",
+    "name": "Brogan Brown"
+  },
+  {
+    "hex": "#4e3232",
+    "label": "MP555",
+    "name": "Brown Bear"
+  },
+  {
+    "hex": "#784d2f",
+    "label": "MP158",
+    "name": "Brown Betty"
+  },
+  {
+    "hex": "#6e3820",
+    "label": "MP13306",
+    "name": "Brown Bomber"
+  },
+  {
+    "hex": "#956f54",
+    "label": "MP4991",
+    "name": "Brown County"
+  },
+  {
+    "hex": "#55322e",
+    "label": "MP13799",
+    "name": "Brown Ebony"
+  },
+  {
+    "hex": "#5f4141",
+    "label": "MP1077",
+    "name": "Brown Shoe"
+  },
+  {
+    "hex": "#83675e",
+    "label": "MP13377",
+    "name": "Brownian Motion"
+  },
+  {
+    "hex": "#b4a290",
+    "label": "MP6390",
+    "name": "Camino"
+  },
+  {
+    "hex": "#c1a47e",
+    "label": "MP10441",
+    "name": "Capilano Bridge"
+  },
+  {
+    "hex": "#5a3d3d",
+    "label": "MP7458",
+    "name": "Cast Bronze"
+  },
+  {
+    "hex": "#8b6044",
+    "label": "MP2808",
+    "name": "Cattail Brown"
+  },
+  {
+    "hex": "#5a3d3d",
+    "label": "MP13335",
+    "name": "Chocolat Noir"
+  },
+  {
+    "hex": "#73544c",
+    "label": "MP10161",
+    "name": "Chocolate Bliss"
+  },
+  {
+    "hex": "#471600",
+    "label": "MP11705",
+    "name": "Chocolate Thunder"
+  },
+  {
+    "hex": "#564141",
+    "label": "MP554",
+    "name": "Choconut"
+  },
+  {
+    "hex": "#b39a7e",
+    "label": "MP12860",
+    "name": "Chukker Brown"
+  },
+  {
+    "hex": "#aa9784",
+    "label": "MP11949",
+    "name": "Clay Ball"
+  },
+  {
+    "hex": "#ab9784",
+    "label": "MP12385",
+    "name": "Clay Beige"
+  },
+  {
+    "hex": "#5d2e27",
+    "label": "MP857",
+    "name": "Cocoa Crispy"
+  },
+  {
+    "hex": "#9f7f69",
+    "label": "MP3181",
+    "name": "Craft Brown"
+  },
+  {
+    "hex": "#442929",
+    "label": "MP11194",
+    "name": "Dark Horse"
+  },
+  {
+    "hex": "#442929",
+    "label": "MP12213",
+    "name": "Dark Roast"
+  },
+  {
+    "hex": "#431906",
+    "label": "MP3364",
+    "name": "Dopplebock"
+  },
+  {
+    "hex": "#503434",
+    "label": "MP4418",
+    "name": "Doric Brown"
+  },
+  {
+    "hex": "#4f2414",
+    "label": "MP6063",
+    "name": "Fudge Brownie"
+  },
+  {
+    "hex": "#9c7f59",
+    "label": "MP3337",
+    "name": "Grey Gelding"
+  },
+  {
+    "hex": "#cfc4b1",
+    "label": "MP11315",
+    "name": "Greytan"
+  },
+  {
+    "hex": "#814830",
+    "label": "MP13200",
+    "name": "James Brown"
+  },
+  {
+    "hex": "#975b42",
+    "label": "MP5239",
+    "name": "Madrone"
+  },
+  {
+    "hex": "#643624",
+    "label": "MP655",
+    "name": "Mahogany Leather"
+  },
+  {
+    "hex": "#774633",
+    "label": "MP12994",
+    "name": "Malva Mauve"
+  },
+  {
+    "hex": "#af845a",
+    "label": "MP9189",
+    "name": "Mocha Latte"
+  },
+  {
+    "hex": "#8e614a",
+    "label": "MP607",
+    "name": "Modena Mud"
+  },
+  {
+    "hex": "#6c3b1e",
+    "label": "MP8137",
+    "name": "Nutella"
+  },
+  {
+    "hex": "#4c2f30",
+    "label": "MP4836",
+    "name": "Obsidian"
+  },
+  {
+    "hex": "#563225",
+    "label": "MP2804",
+    "name": "Orso Brown"
+  },
+  {
+    "hex": "#886251",
+    "label": "MP2779",
+    "name": "Plantation Brown"
+  },
+  {
+    "hex": "#7d6461",
+    "label": "MP6179",
+    "name": "Pumpernickle"
+  },
+  {
+    "hex": "#9f684b",
+    "label": "MP608",
+    "name": "Raw Brown"
+  },
+  {
+    "hex": "#42190d",
+    "label": "MP10217",
+    "name": "Rich Brown"
+  },
+  {
+    "hex": "#877363",
+    "label": "MP13262",
+    "name": "Ruddock Brown"
+  },
+  {
+    "hex": "#612c16",
+    "label": "MP12184",
+    "name": "SIS Brown"
+  },
+  {
+    "hex": "#9d7a61",
+    "label": "MP6031",
+    "name": "Smoked Hickory"
+  },
+  {
+    "hex": "#705b3e",
+    "label": "MP3078",
+    "name": "Spanish Moss"
+  },
+  {
+    "hex": "#6a3a28",
+    "label": "MP6645",
+    "name": "Spiced Brown"
+  },
+  {
+    "hex": "#806452",
+    "label": "MP14148",
+    "name": "Stonebark"
+  },
+  {
+    "hex": "#c6ac87",
+    "label": "MP12567",
+    "name": "Tantara"
+  },
+  {
+    "hex": "#a9815e",
+    "label": "MP6952",
+    "name": "Teddy Bear"
+  },
+  {
+    "hex": "#a57d62",
+    "label": "MP4427",
+    "name": "Terminal Tan"
+  },
+  {
+    "hex": "#b09168",
+    "label": "MP2949",
+    "name": "Town Brown"
+  },
+  {
+    "hex": "#774b26",
+    "label": "MP11721",
+    "name": "Unbriel"
+  },
+  {
+    "hex": "#6e5657",
+    "label": "MP12718",
+    "name": "Unicor Brown"
+  },
+  {
+    "hex": "#6d4a3e",
+    "label": "MP5132",
+    "name": "Valrhona Cocoa"
+  },
+  {
+    "hex": "#ae906c",
+    "label": "MP3265",
+    "name": "Yearling"
+  },
+  {
+    "hex": "#b9b199",
+    "label": "MP20086",
+    "name": "Alabaster Met."
+  },
+  {
+    "hex": "#ac9c7c",
+    "label": "MP20146",
+    "name": "Alpha Bronze Met."
+  },
+  {
+    "hex": "#766566",
+    "label": "MP20308",
+    "name": "Ancient Bronze Met."
+  },
+  {
+    "hex": "#a79f8e",
+    "label": "MP20140",
+    "name": "Anodized Aluminum Met."
+  },
+  {
+    "hex": "#836d65",
+    "label": "MP20161",
+    "name": "Art Deco Bronze Met."
+  },
+  {
+    "hex": "#766566",
+    "label": "MP20183",
+    "name": "Auguste Bronze Met."
+  },
+  {
+    "hex": "#83746f",
+    "label": "MP20144",
+    "name": "Bank Bronze Met."
+  },
+  {
+    "hex": "#857069",
+    "label": "MP20185",
+    "name": "Bell Metal Bronze Met."
+  },
+  {
+    "hex": "#a19a88",
+    "label": "MP36581",
+    "name": "Bronze Doro Met."
+  },
+  {
+    "hex": "#795b42",
+    "label": "MP20156",
+    "name": "Bronze Metal Met."
+  },
+  {
+    "hex": "#ae9a8c",
+    "label": "MP20084",
+    "name": "Bronzeglow Met."
+  },
+  {
+    "hex": "#63452f",
+    "label": "MP20157",
+    "name": "Castell Bronze Met."
+  },
+  {
+    "hex": "#aba18f",
+    "label": "MP20090",
+    "name": "Champagne Brut Met."
+  },
+  {
+    "hex": "#8f867d",
+    "label": "MP56301",
+    "name": "Charon Grey Met."
+  },
+  {
+    "hex": "#666362",
+    "label": "MP28072",
+    "name": "Cingular Grey Met."
+  },
+  {
+    "hex": "#6c584f",
+    "label": "MP20189",
+    "name": "Corinthian Bronze Met."
+  },
+  {
+    "hex": "#595553",
+    "label": "MP20303",
+    "name": "Dark Bronze Met."
+  },
+  {
+    "hex": "#5a4d50",
+    "label": "MP20307",
+    "name": "Doric Bronze Met."
+  },
+  {
+    "hex": "#625150",
+    "label": "MP20190",
+    "name": "Duronodic 313 Met."
+  },
+  {
+    "hex": "#968674",
+    "label": "MP20147",
+    "name": "Duronodic Bronze Met."
+  },
+  {
+    "hex": "#b5a698",
+    "label": "MP29237",
+    "name": "Elston Brown Met."
+  },
+  {
+    "hex": "#6f595a",
+    "label": "MP20181",
+    "name": "Equus Bronze Met."
+  },
+  {
+    "hex": "#957d62",
+    "label": "MP20159",
+    "name": "Etruscan Bronze Met."
+  },
+  {
+    "hex": "#b5a698",
+    "label": "MP20046",
+    "name": "Frosty Nickel Met."
+  },
+  {
+    "hex": "#7b665d",
+    "label": "MP20305",
+    "name": "Grecian Bronze Met."
+  },
+  {
+    "hex": "#a19887",
+    "label": "MP30835",
+    "name": "Grey Taupe Met."
+  },
+  {
+    "hex": "#afa590",
+    "label": "MP54906",
+    "name": "Gris Bronze Met"
+  },
+  {
+    "hex": "#7a736e",
+    "label": "MP51681",
+    "name": "Gustave Grey Met."
+  },
+  {
+    "hex": "#624d4e",
+    "label": "MP20160",
+    "name": "Hermes Bronze Met."
+  },
+  {
+    "hex": "#baac9e",
+    "label": "MP20062",
+    "name": "Ivory Met."
+  },
+  {
+    "hex": "#af9e89",
+    "label": "MP20149",
+    "name": "Leaded Bronze Met."
+  },
+  {
+    "hex": "#c9bfa7",
+    "label": "MP20060",
+    "name": "Light Taupe Met."
+  },
+  {
+    "hex": "#d0c2ac",
+    "label": "MP28919",
+    "name": "Marrone Met."
+  },
+  {
+    "hex": "#7c665c",
+    "label": "MP20191",
+    "name": "Minoan Bronze Met."
+  },
+  {
+    "hex": "#b6af9c",
+    "label": "MP20044",
+    "name": "Mist Grey Met."
+  },
+  {
+    "hex": "#b3a29d",
+    "label": "MP20031",
+    "name": "Misty Heather Met."
+  },
+  {
+    "hex": "#a39783",
+    "label": "MP11663",
+    "name": "Mt. Sinai Bronze"
+  },
+  {
+    "hex": "#80655c",
+    "label": "MP20162",
+    "name": "Nouveau Bronze Met."
+  },
+  {
+    "hex": "#b09a80",
+    "label": "MP20138",
+    "name": "Old Gold Met."
+  },
+  {
+    "hex": "#b7b0a2",
+    "label": "MP27916",
+    "name": "Pale Bronze Met."
+  },
+  {
+    "hex": "#312222",
+    "label": "MP20306",
+    "name": "Patinated Bronze Met."
+  },
+  {
+    "hex": "#c7bda3",
+    "label": "MP20082",
+    "name": "Pearl Silver Met."
+  },
+  {
+    "hex": "#a19192",
+    "label": "MP20087",
+    "name": "Pewter Tankard Met."
+  },
+  {
+    "hex": "#6a554d",
+    "label": "MP20304",
+    "name": "Phosphor Bronze Met."
+  },
+  {
+    "hex": "#c1b7aa",
+    "label": "MP20083",
+    "name": "Platinum Met."
+  },
+  {
+    "hex": "#bbb2aa",
+    "label": "MP20037",
+    "name": "Pumice Met."
+  },
+  {
+    "hex": "#653c2d",
+    "label": "MP20153",
+    "name": "Remington Bronze Met."
+  },
+  {
+    "hex": "#7b6566",
+    "label": "MP20182",
+    "name": "Russell Bronze Met."
+  },
+  {
+    "hex": "#c8b99b",
+    "label": "MP20051",
+    "name": "Sandalwood Met."
+  },
+  {
+    "hex": "#9f8e7a",
+    "label": "MP20148",
+    "name": "Shadow Bronze Met."
+  },
+  {
+    "hex": "#7b665f",
+    "label": "MP20184",
+    "name": "Sparkle Bronze Met."
+  },
+  {
+    "hex": "#85655c",
+    "label": "MP20158",
+    "name": "Statuary Bronze Met."
+  },
+  {
+    "hex": "#c6b79d",
+    "label": "MP20145",
+    "name": "Taunton Taupe Met."
+  },
+  {
+    "hex": "#aea58e",
+    "label": "MP20088",
+    "name": "Touch Of Taupe Met."
+  },
+  {
+    "hex": "#93897e",
+    "label": "MP20186",
+    "name": "Warm Gray Met."
+  },
+  {
+    "hex": "#775b4a",
+    "label": "MP20155",
+    "name": "Weathered Bronze Met."
+  },
+  {
+    "hex": "#b2a796",
+    "label": "MP20085",
+    "name": "Yuma Tan Met."
+  },
+  {
+    "hex": "#005886",
+    "label": "MP28073",
+    "name": "American Blue"
+  },
+  {
+    "hex": "#693e82",
+    "label": "MP25542",
+    "name": "Amethyst Violet"
+  },
+  {
+    "hex": "#25161d",
+    "label": "MP41335SP",
+    "name": "Anodic Black"
+  },
+  {
+    "hex": "#ee9a70",
+    "label": "MP29496",
+    "name": "Apricot"
+  },
+  {
+    "hex": "#c6694b",
+    "label": "MP46402SP",
+    "name": "Aztec Copper"
+  },
+  {
+    "hex": "#d99c52",
+    "label": "MP46401SP",
+    "name": "Aztec Gold"
+  },
+  {
+    "hex": "#8e9cc2",
+    "label": "MP45612",
+    "name": "Baby Blue Metallic"
+  },
+  {
+    "hex": "#005f4b",
+    "label": "MP27540",
+    "name": "Balsam Green Metallic"
+  },
+  {
+    "hex": "#387472",
+    "label": "MP25771",
+    "name": "Bayou Blue"
+  },
+  {
+    "hex": "#355284",
+    "label": "MP25808",
+    "name": "Bicycle Blue"
+  },
+  {
+    "hex": "#798fa1",
+    "label": "MP56851",
+    "name": "Blue Smoke"
+  },
+  {
+    "hex": "#0d3765",
+    "label": "MP55697",
+    "name": "Bluest Blue"
+  },
+  {
+    "hex": "#373552",
+    "label": "MP55795",
+    "name": "Bluetooth"
+  },
+  {
+    "hex": "#f9efd1",
+    "label": "MP25833",
+    "name": "Bone White"
+  },
+  {
+    "hex": "#e67215",
+    "label": "MP23906",
+    "name": "Bright Orange"
+  },
+  {
+    "hex": "#f0dbaa",
+    "label": "MP46400SP",
+    "name": "Brilliant Gold"
+  },
+  {
+    "hex": "#bbbbbf",
+    "label": "MP41342SP",
+    "name": "Brushed Aluminum"
+  },
+  {
+    "hex": "#64052b",
+    "label": "MP42215SP",
+    "name": "Burgundy Maroon"
+  },
+  {
+    "hex": "#79413f",
+    "label": "MP19757",
+    "name": "Burgundy Metallic"
+  },
+  {
+    "hex": "#9c877c",
+    "label": "MP12257",
+    "name": "Cabot Trail"
+  },
+  {
+    "hex": "#fce5b6",
+    "label": "MP25900",
+    "name": "Canterbury Cream"
+  },
+  {
+    "hex": "#001e6d",
+    "label": "MP42219SP",
+    "name": "Capri Blue"
+  },
+  {
+    "hex": "#b11e60",
+    "label": "MP26452",
+    "name": "Cerise Lipstick"
+  },
+  {
+    "hex": "#a59e8e",
+    "label": "MP16771",
+    "name": "Champagne Grey Metallic"
+  },
+  {
+    "hex": "#f1d655",
+    "label": "MP25026",
+    "name": "Chartreuse Yellow"
+  },
+  {
+    "hex": "#95a195",
+    "label": "MP25836",
+    "name": "Cicada Grey"
+  },
+  {
+    "hex": "#f9e160",
+    "label": "MP29545",
+    "name": "Citron Glace"
+  },
+  {
+    "hex": "#f8c300",
+    "label": "MP10211",
+    "name": "Citrus Yellow"
+  },
+  {
+    "hex": "#8f786e",
+    "label": "MP25839",
+    "name": "Clay Basket Brown"
+  },
+  {
+    "hex": "#b7b1a3",
+    "label": "MP55840",
+    "name": "Cool Gray"
+  },
+  {
+    "hex": "#ad5e4a",
+    "label": "MP46253SP",
+    "name": "Copper"
+  },
+  {
+    "hex": "#ff825e",
+    "label": "MP29214",
+    "name": "Coral"
+  },
+  {
+    "hex": "#2e8268",
+    "label": "MP24502",
+    "name": "Country Club Green"
+  },
+  {
+    "hex": "#703231",
+    "label": "MP23446",
+    "name": "Country Red"
+  },
+  {
+    "hex": "#db2925",
+    "label": "MP23966",
+    "name": "Crimson Red"
+  },
+  {
+    "hex": "#5a504c",
+    "label": "MP41313SP",
+    "name": "Dark Bronze"
+  },
+  {
+    "hex": "#004546",
+    "label": "MP24510",
+    "name": "Deep Green"
+  },
+  {
+    "hex": "#551a4d",
+    "label": "MP25550",
+    "name": "Deep Purple"
+  },
+  {
+    "hex": "#979182",
+    "label": "MP25849",
+    "name": "Durango Grey"
+  },
+  {
+    "hex": "#4183ba",
+    "label": "MP24100",
+    "name": "Electrical Blue"
+  },
+  {
+    "hex": "#006923",
+    "label": "MP42259SP",
+    "name": "Federal Green"
+  },
+  {
+    "hex": "#62b973",
+    "label": "MP30043",
+    "name": "Fern Green Metallic"
+  },
+  {
+    "hex": "#e9811a",
+    "label": "MP29633",
+    "name": "Fiesta Orange"
+  },
+  {
+    "hex": "#da251d",
+    "label": "MP24069",
+    "name": "Fire Red"
+  },
+  {
+    "hex": "#9d5849",
+    "label": "MP23647",
+    "name": "Fire Weed Red"
+  },
+  {
+    "hex": "#1a6755",
+    "label": "MP55690",
+    "name": "Forest Green"
+  },
+  {
+    "hex": "#1f1a17",
+    "label": "MPSOA929SP",
+    "name": "Gloss Black"
+  },
+  {
+    "hex": "#fbfdf9",
+    "label": "MP6422SP",
+    "name": "Gloss Hi-Hide White"
+  },
+  {
+    "hex": "#956e8a",
+    "label": "MP25867",
+    "name": "Graceful Grape"
+  },
+  {
+    "hex": "#8cb452",
+    "label": "MP28434",
+    "name": "Granny Smith"
+  },
+  {
+    "hex": "#6a1b4e",
+    "label": "MP29705",
+    "name": "Grape Jello"
+  },
+  {
+    "hex": "#468a5e",
+    "label": "MP25066",
+    "name": "Green Jewel"
+  },
+  {
+    "hex": "#00537d",
+    "label": "MP24661",
+    "name": "Hapsburg Blue Metallic"
+  },
+  {
+    "hex": "#fcd600",
+    "label": "MP29464",
+    "name": "Jonquil Yellow"
+  },
+  {
+    "hex": "#419547",
+    "label": "MP25899",
+    "name": "Kryptonite Green"
+  },
+  {
+    "hex": "#d3d8d8",
+    "label": "MP43348",
+    "name": "Lake George"
+  },
+  {
+    "hex": "#7e7694",
+    "label": "MP25854",
+    "name": "Lily Morada"
+  },
+  {
+    "hex": "#4ca2a8",
+    "label": "MP24340",
+    "name": "Mardi Gras Teal"
+  },
+  {
+    "hex": "#375688",
+    "label": "MP29320",
+    "name": "Marina Blue"
+  },
+  {
+    "hex": "#c3cdd5",
+    "label": "MP20498",
+    "name": "Mediterranean Sky"
+  },
+  {
+    "hex": "#88705a",
+    "label": "MP41312SP",
+    "name": "Medium Bronze"
+  },
+  {
+    "hex": "#9c213d",
+    "label": "MP42214SP",
+    "name": "Mexicali Red"
+  },
+  {
+    "hex": "#004447",
+    "label": "MP55396",
+    "name": "Moonlit Pond"
+  },
+  {
+    "hex": "#a7b0a4",
+    "label": "MP42868",
+    "name": "Moss Green Metallic"
+  },
+  {
+    "hex": "#e1aa00",
+    "label": "MP28153",
+    "name": "Mustard"
+  },
+  {
+    "hex": "#772347",
+    "label": "MP29732",
+    "name": "Napa Merlot"
+  },
+  {
+    "hex": "#fffff6",
+    "label": "MPSOA202SP",
+    "name": "Natural White"
+  },
+  {
+    "hex": "#eb811b",
+    "label": "MP29653",
+    "name": "Navel Orange"
+  },
+  {
+    "hex": "#686e7e",
+    "label": "MP23708",
+    "name": "North Sea Blue"
+  },
+  {
+    "hex": "#684d3c",
+    "label": "MP41314SP",
+    "name": "Old Copper"
+  },
+  {
+    "hex": "#7e416b",
+    "label": "MP21843",
+    "name": "Old Orchid Metallic"
+  },
+  {
+    "hex": "#ea4d24",
+    "label": "MP56966",
+    "name": "Orange County"
+  },
+  {
+    "hex": "#e35f13",
+    "label": "MP28239",
+    "name": "Orange Flare"
+  },
+  {
+    "hex": "#958775",
+    "label": "MP41279",
+    "name": "Pale Bronze Metallic"
+  },
+  {
+    "hex": "#ffb15a",
+    "label": "MP26406",
+    "name": "Pastel Orange"
+  },
+  {
+    "hex": "#d37463",
+    "label": "MP58094",
+    "name": "Peach Blossom"
+  },
+  {
+    "hex": "#c2382a",
+    "label": "MP58765",
+    "name": "Persimmon"
+  },
+  {
+    "hex": "#575b0f",
+    "label": "MP56060",
+    "name": "Prickly Pear"
+  },
+  {
+    "hex": "#807f87",
+    "label": "MP48108SP",
+    "name": "Proseco Blue Steel"
+  },
+  {
+    "hex": "#b0a692",
+    "label": "MP48103SP",
+    "name": "Proseco Brass Alloy"
+  },
+  {
+    "hex": "#b39e93",
+    "label": "MP48105SP",
+    "name": "Proseco Bronze Hint"
+  },
+  {
+    "hex": "#aba296",
+    "label": "MP48101SP",
+    "name": "Proseco Gold Standard"
+  },
+  {
+    "hex": "#afa28d",
+    "label": "MP48107SP",
+    "name": "Proseco Golden Glow"
+  },
+  {
+    "hex": "#999087",
+    "label": "MP48104SP ",
+    "name": "Proseco Polished Pewter"
+  },
+  {
+    "hex": "#b6ada3",
+    "label": "MP48102SP",
+    "name": "Proseco Silver Rose"
+  },
+  {
+    "hex": "#be2446",
+    "label": "MP24846",
+    "name": "Rally Red"
+  },
+  {
+    "hex": "#8b2348",
+    "label": "MP19759",
+    "name": "Raspberry Metallic"
+  },
+  {
+    "hex": "#4a2b22",
+    "label": "MP10217",
+    "name": "Rich Brown"
+  },
+  {
+    "hex": "#872650",
+    "label": "MP25248",
+    "name": "Rose Magenta"
+  },
+  {
+    "hex": "#c6a99e",
+    "label": "MP47128",
+    "name": "Rose Quartz Metallic"
+  },
+  {
+    "hex": "#072946",
+    "label": "MP50184",
+    "name": "Royal Blue Metallic"
+  },
+  {
+    "hex": "#4a4267",
+    "label": "MP25956",
+    "name": "Royal Purple"
+  },
+  {
+    "hex": "#f2ae99",
+    "label": "MP25616",
+    "name": "Salmon"
+  },
+  {
+    "hex": "#c18a73",
+    "label": "MP22823",
+    "name": "Savannah Clay"
+  },
+  {
+    "hex": "#5e5793",
+    "label": "MP30493",
+    "name": "Scandinavian Blue"
+  },
+  {
+    "hex": "#be2241",
+    "label": "MP42212SP",
+    "name": "Scarlet Red"
+  },
+  {
+    "hex": "#e9a400",
+    "label": "MP55149",
+    "name": "Schoolbus Yellow"
+  },
+  {
+    "hex": "#4db187",
+    "label": "MP58098",
+    "name": "Sea Green"
+  },
+  {
+    "hex": "#2c2825",
+    "label": "MP41306SP",
+    "name": "Signal Jet Black"
+  },
+  {
+    "hex": "#c0c1c3",
+    "label": "MP33172",
+    "name": "Silver Surfer Metallic"
+  },
+  {
+    "hex": "#a5a8a4",
+    "label": "MP34412",
+    "name": "Smoke Screen"
+  },
+  {
+    "hex": "#fcf8e2",
+    "label": "MP55685",
+    "name": "Snowflake"
+  },
+  {
+    "hex": "#689850",
+    "label": "MP26749",
+    "name": "Spring Green"
+  },
+  {
+    "hex": "#666568",
+    "label": "MP32195",
+    "name": "Staid Gray Metallic"
+  },
+  {
+    "hex": "#003b4f",
+    "label": "MP25837",
+    "name": "Stormy Blue"
+  },
+  {
+    "hex": "#f7bc00",
+    "label": "MP42218SP",
+    "name": "Sundance Yellow"
+  },
+  {
+    "hex": "#dbd2b8",
+    "label": "MP55753",
+    "name": "Sunrise Silver Metallic"
+  },
+  {
+    "hex": "#471f55",
+    "label": "MP25834",
+    "name": "Taco Bell Violet 2"
+  },
+  {
+    "hex": "#de411a",
+    "label": "MP26434",
+    "name": "Tangerine"
+  },
+  {
+    "hex": "#eacb98",
+    "label": "MP25829",
+    "name": "Taos Sand Beige"
+  },
+  {
+    "hex": "#71b8a8",
+    "label": "MP29439",
+    "name": "Tropic Turquoise"
+  },
+  {
+    "hex": "#d2a24a",
+    "label": "MP46258SP",
+    "name": "Tucson Gold"
+  },
+  {
+    "hex": "#8a8584",
+    "label": "MP28448",
+    "name": "Umbra Grey Metallic"
+  },
+  {
+    "hex": "#886ba2",
+    "label": "MP25502",
+    "name": "Very Violet"
+  },
+  {
+    "hex": "#f9b800",
+    "label": "MP28240",
+    "name": "Yellow Corn"
+  },
+  {
+    "hex": "#f1e459",
+    "label": "MP25890",
+    "name": "Yellow Petal"
+  },
+  {
+    "hex": "#77685d",
+    "label": "MP41031",
+    "name": "Adonis Bronze Met."
+  },
+  {
+    "hex": "#9b6451",
+    "label": "MP21939",
+    "name": "Airain Bronze Met."
+  },
+  {
+    "hex": "#77574f",
+    "label": "MP46305",
+    "name": "Anchor Bronze Met."
+  },
+  {
+    "hex": "#9b7e6a",
+    "label": "MP40689",
+    "name": "Antique Bronze Mica"
+  },
+  {
+    "hex": "#a36941",
+    "label": "MP43017",
+    "name": "Auric Copper Met."
+  },
+  {
+    "hex": "#7c604a",
+    "label": "MP45523",
+    "name": "Bank 1 Plaza Bronze Met."
+  },
+  {
+    "hex": "#6b3929",
+    "label": "MP43777",
+    "name": "Beaten Bronze Met."
+  },
+  {
+    "hex": "#3d2c29",
+    "label": "MP41690",
+    "name": "Black Bronze Met."
+  },
+  {
+    "hex": "#a08b72",
+    "label": "MP47127",
+    "name": "Blended Bronze Met."
+  },
+  {
+    "hex": "#644d49",
+    "label": "MP46540",
+    "name": "Brazed Bronze Met."
+  },
+  {
+    "hex": "#9c8c72",
+    "label": "MP45031",
+    "name": "Briny Bronze Met."
+  },
+  {
+    "hex": "#a3635c",
+    "label": "MP38641",
+    "name": "Bullet Bronze Met."
+  },
+  {
+    "hex": "#823e3c",
+    "label": "MP38076",
+    "name": "Cabo Bronze Met."
+  },
+  {
+    "hex": "#604c44",
+    "label": "MP25647",
+    "name": "Chemic Bronze Met."
+  },
+  {
+    "hex": "#533334",
+    "label": "MP56334",
+    "name": "Choco Bronze Met."
+  },
+  {
+    "hex": "#884b43",
+    "label": "MP41376",
+    "name": "Cinnamon Copper Met."
+  },
+  {
+    "hex": "#a26a45",
+    "label": "MP15838",
+    "name": "Classic Copper Met."
+  },
+  {
+    "hex": "#b77f58",
+    "label": "MP47606",
+    "name": "Classy Copper Met."
+  },
+  {
+    "hex": "#a26a41",
+    "label": "MP46534",
+    "name": "Cobre Copper Met."
+  },
+  {
+    "hex": "#a26e4a",
+    "label": "MP48868",
+    "name": "Copper Alloy Met."
+  },
+  {
+    "hex": "#9d5936",
+    "label": "MP46066",
+    "name": "Copper Lining Met."
+  },
+  {
+    "hex": "#aa6549",
+    "label": "MP47875",
+    "name": "Crescent Copper Met."
+  },
+  {
+    "hex": "#ab6545",
+    "label": "MP48656",
+    "name": "Eave Copper Met."
+  },
+  {
+    "hex": "#643d2d",
+    "label": "MP18439",
+    "name": "Ebon Bronze Met."
+  },
+  {
+    "hex": "#967962",
+    "label": "MP42607",
+    "name": "Greenward Bronze Met."
+  },
+  {
+    "hex": "#ae5a44",
+    "label": "MP21956",
+    "name": "Hammered Copper Met."
+  },
+  {
+    "hex": "#9b745c",
+    "label": "MP49025",
+    "name": "Leonardo Bronze Met."
+  },
+  {
+    "hex": "#c28254",
+    "label": "MP21958",
+    "name": "Light Copper Met."
+  },
+  {
+    "hex": "#665251",
+    "label": "MP41416",
+    "name": "Mere Bronze Met."
+  },
+  {
+    "hex": "#554f48",
+    "label": "MP41887",
+    "name": "Minos Bronze Met."
+  },
+  {
+    "hex": "#716961",
+    "label": "MP52048",
+    "name": "Neo Bronze Met."
+  },
+  {
+    "hex": "#a16a48",
+    "label": "MP43770",
+    "name": "Olden Copper Met."
+  },
+  {
+    "hex": "#c07b56",
+    "label": "MP21957",
+    "name": "Rich Copper Met."
+  },
+  {
+    "hex": "#d79e73",
+    "label": "MP27546",
+    "name": "Roman Gold Met."
+  },
+  {
+    "hex": "#a06a4d",
+    "label": "MP21940",
+    "name": "Rosso Gold Met."
+  },
+  {
+    "hex": "#ba846e",
+    "label": "MP40684",
+    "name": "Rosy Copper Met."
+  },
+  {
+    "hex": "#bd805e",
+    "label": "MP21941",
+    "name": "Rouge Gold Met."
+  },
+  {
+    "hex": "#604c44",
+    "label": "MP40366",
+    "name": "Scott Bronze Met."
+  },
+  {
+    "hex": "#be8c75",
+    "label": "MP40495",
+    "name": "Soft Copper Met."
+  },
+  {
+    "hex": "#998b85",
+    "label": "MP46765",
+    "name": "Temple Bronze Met."
+  },
+  {
+    "hex": "#c9b69f",
+    "label": "MP41254",
+    "name": "Touch O Bronze Met."
+  },
+  {
+    "hex": "#b97254",
+    "label": "MP52234",
+    "name": "Warm Copper Met."
+  },
+  {
+    "hex": "#bca370",
+    "label": "MP21109",
+    "name": "Barbary Gold Met."
+  },
+  {
+    "hex": "#815e48",
+    "label": "MP23920",
+    "name": "Bronzegold Met."
+  },
+  {
+    "hex": "#cea071",
+    "label": "MP21961",
+    "name": "Byzantine Gold Met."
+  },
+  {
+    "hex": "#8c5d48",
+    "label": "MP48860",
+    "name": "Chestnut Gold Met."
+  },
+  {
+    "hex": "#b7a34b",
+    "label": "MP21248",
+    "name": "Coppergold Met."
+  },
+  {
+    "hex": "#b78759",
+    "label": "MP20505",
+    "name": "Cuprous Gold Met."
+  },
+  {
+    "hex": "#906442",
+    "label": "MP25466",
+    "name": "Desert Gold Met."
+  },
+  {
+    "hex": "#a1876e",
+    "label": "MP20358",
+    "name": "Desert Sand Met."
+  },
+  {
+    "hex": "#b78f5f",
+    "label": "MP20508",
+    "name": "Dorado Gold Met."
+  },
+  {
+    "hex": "#6c544a",
+    "label": "MP45519",
+    "name": "Ebony Gold Met."
+  },
+  {
+    "hex": "#b78759",
+    "label": "MP25618",
+    "name": "Flaxen Gold Met."
+  },
+  {
+    "hex": "#c2b17c",
+    "label": "MP21107",
+    "name": "Fools Gold Met."
+  },
+  {
+    "hex": "#c3a474",
+    "label": "MP20509",
+    "name": "Forty-Niner Gold Met."
+  },
+  {
+    "hex": "#8f6a54",
+    "label": "MP22827",
+    "name": "Fused Gold Met."
+  },
+  {
+    "hex": "#96634f",
+    "label": "MP44200",
+    "name": "Ginger Gold Met."
+  },
+  {
+    "hex": "#7c715f",
+    "label": "MP20561",
+    "name": "Glazed Gold Met."
+  },
+  {
+    "hex": "#aa9364",
+    "label": "MP21111",
+    "name": "Gold Alloy Met."
+  },
+  {
+    "hex": "#92784c",
+    "label": "MP21246",
+    "name": "Gold Bond Met."
+  },
+  {
+    "hex": "#bbaa71",
+    "label": "MP21108",
+    "name": "Gold Chain Met."
+  },
+  {
+    "hex": "#c6a36f",
+    "label": "MP28535",
+    "name": "Gold Dust Met."
+  },
+  {
+    "hex": "#bdac7d",
+    "label": "MP20354",
+    "name": "Gold Foil Met."
+  },
+  {
+    "hex": "#c5a76c",
+    "label": "MP38113",
+    "name": "Gold Metal Met."
+  },
+  {
+    "hex": "#ccaf59",
+    "label": "MP46394",
+    "name": "Golden Brass Pearl"
+  },
+  {
+    "hex": "#8c7868",
+    "label": "MP20356",
+    "name": "Golden Bronze Met."
+  },
+  {
+    "hex": "#716843",
+    "label": "MP42080",
+    "name": "Golden Clay Met."
+  },
+  {
+    "hex": "#b0a484",
+    "label": "MP48223",
+    "name": "Golden Fern Met."
+  },
+  {
+    "hex": "#b38c68",
+    "label": "MP26048",
+    "name": "Golden Shadow Met."
+  },
+  {
+    "hex": "#8b6852",
+    "label": "MP46321",
+    "name": "Golden Umber Met."
+  },
+  {
+    "hex": "#a2947b",
+    "label": "MP35175",
+    "name": "Golden Vert Met."
+  },
+  {
+    "hex": "#a4875b",
+    "label": "MP21247",
+    "name": "Guinea Gold Met."
+  },
+  {
+    "hex": "#a38458",
+    "label": "MP21110",
+    "name": "Heather Gold Met."
+  },
+  {
+    "hex": "#8b6852",
+    "label": "MP49153",
+    "name": "Henna Gold Met."
+  },
+  {
+    "hex": "#f7eab9",
+    "label": "MP47787",
+    "name": "Hint of Gold Pearl"
+  },
+  {
+    "hex": "#ac794d",
+    "label": "MP25255",
+    "name": "Honeyed Gold Met."
+  },
+  {
+    "hex": "#c4a376",
+    "label": "MP20503",
+    "name": "Inca Gold Met."
+  },
+  {
+    "hex": "#af9d77",
+    "label": "MP20359",
+    "name": "Las Vegas Gold Met."
+  },
+  {
+    "hex": "#d2b680",
+    "label": "MP21250",
+    "name": "Moneta Gold Met."
+  },
+  {
+    "hex": "#b09776",
+    "label": "MP20353",
+    "name": "Noble Gold Met."
+  },
+  {
+    "hex": "#96634f",
+    "label": "MP51325",
+    "name": "Nutty Gold Met."
+  },
+  {
+    "hex": "#a4977a",
+    "label": "MP31592",
+    "name": "Olive Gold Met."
+  },
+  {
+    "hex": "#bd8553",
+    "label": "MP21960",
+    "name": "Orange Gold Met."
+  },
+  {
+    "hex": "#b9ae8a",
+    "label": "MP21106",
+    "name": "Pale Green Gold Met."
+  },
+  {
+    "hex": "#c29858",
+    "label": "MP21962",
+    "name": "Plaque Gold Met."
+  },
+  {
+    "hex": "#c1a577",
+    "label": "MP30584",
+    "name": "Powder Gold Met."
+  },
+  {
+    "hex": "#d1a152",
+    "label": "MP46399",
+    "name": "Royal Gold Pearl"
+  },
+  {
+    "hex": "#c2ac7e",
+    "label": "MP20504",
+    "name": "Saturn Gold Met."
+  },
+  {
+    "hex": "#66504a",
+    "label": "MP50639",
+    "name": "Seared Gold Met."
+  },
+  {
+    "hex": "#c9ae81",
+    "label": "MP14571",
+    "name": "Shimmer Gold Met."
+  },
+  {
+    "hex": "#c89f67",
+    "label": "MP21249",
+    "name": "Similoro Gold Met."
+  },
+  {
+    "hex": "#987c62",
+    "label": "MP53227",
+    "name": "Sonora Gold Met."
+  },
+  {
+    "hex": "#a3875e",
+    "label": "MP26659",
+    "name": "Sparkle Gold Met."
+  },
+  {
+    "hex": "#bea972",
+    "label": "MP18672",
+    "name": "Sungold Firemist Met."
+  },
+  {
+    "hex": "#b38156",
+    "label": "MP26264",
+    "name": "Tawny Gold Met."
+  },
+  {
+    "hex": "#9f6f4e",
+    "label": "MP21607",
+    "name": "Titian Gold Met."
+  },
+  {
+    "hex": "#a28769",
+    "label": "MP46490",
+    "name": "Venerable Gold Met."
+  },
+  {
+    "hex": "#bca27d",
+    "label": "MP20352",
+    "name": "Victorian Gold Met."
+  },
+  {
+    "hex": "#d0b060",
+    "label": "MP41844",
+    "name": "Yellow Gold Pearl"
+  },
+  {
+    "hex": "#9d9337",
+    "label": "MP33129",
+    "name": "Abruzzo Green Met."
+  },
+  {
+    "hex": "#569069",
+    "label": "MP34941",
+    "name": "Andradite Green Met."
+  },
+  {
+    "hex": "#4b8d7d",
+    "label": "MP29499",
+    "name": "Antilles Green Met."
+  },
+  {
+    "hex": "#3f6353",
+    "label": "MP34365",
+    "name": "April Green Met."
+  },
+  {
+    "hex": "#3a5a59",
+    "label": "MP23423",
+    "name": "Augusta Green Met."
+  },
+  {
+    "hex": "#88aa2f",
+    "label": "MP43443",
+    "name": "Bruni Green Met."
+  },
+  {
+    "hex": "#4a8983",
+    "label": "MP23421",
+    "name": "Cana Green Met."
+  },
+  {
+    "hex": "#4b4d46",
+    "label": "MP37553",
+    "name": "Cannon Green Met."
+  },
+  {
+    "hex": "#434523",
+    "label": "MP23416",
+    "name": "Carbone Green Met."
+  },
+  {
+    "hex": "#699c77",
+    "label": "MP23395",
+    "name": "Catmint Green Met."
+  },
+  {
+    "hex": "#b1c4b7",
+    "label": "MP30226",
+    "name": "Chilly Green Met."
+  },
+  {
+    "hex": "#51514b",
+    "label": "MP23430",
+    "name": "Classic Green Bronze Met."
+  },
+  {
+    "hex": "#6d847b",
+    "label": "MP25807",
+    "name": "Cold Sea Green Met."
+  },
+  {
+    "hex": "#686748",
+    "label": "MP42232",
+    "name": "Column Green Met."
+  },
+  {
+    "hex": "#77736d",
+    "label": "MP23431",
+    "name": "Dark Olive Green Met."
+  },
+  {
+    "hex": "#3f7162",
+    "label": "MP23408",
+    "name": "Dolomite Green Met."
+  },
+  {
+    "hex": "#91a755",
+    "label": "MP38477",
+    "name": "Dore Green Met."
+  },
+  {
+    "hex": "#809561",
+    "label": "MP35003",
+    "name": "Duckweed Green Met."
+  },
+  {
+    "hex": "#434532",
+    "label": "MP23415",
+    "name": "Ebony Green Met."
+  },
+  {
+    "hex": "#928a5d",
+    "label": "MP42233",
+    "name": "Envy Green Met."
+  },
+  {
+    "hex": "#143541",
+    "label": "MP23420",
+    "name": "Esmerelda Green Met."
+  },
+  {
+    "hex": "#b5c4c1",
+    "label": "MP23434",
+    "name": "Frosty Jade Green Met."
+  },
+  {
+    "hex": "#a2afa3",
+    "label": "MP23432",
+    "name": "Frosty Sea Green Met."
+  },
+  {
+    "hex": "#93b488",
+    "label": "MP27231",
+    "name": "Gelid Green Met."
+  },
+  {
+    "hex": "#4fa88b",
+    "label": "MP38837",
+    "name": "Glinty Green Met."
+  },
+  {
+    "hex": "#355a47",
+    "label": "MP31526",
+    "name": "Green Steel Met."
+  },
+  {
+    "hex": "#5ba08f",
+    "label": "MP23406",
+    "name": "Green Velvet Met."
+  },
+  {
+    "hex": "#007870",
+    "label": "MP47705",
+    "name": "Guadaloupe Green Met."
+  },
+  {
+    "hex": "#686d51",
+    "label": "MP40749",
+    "name": "Ivy Green Met."
+  },
+  {
+    "hex": "#57715d",
+    "label": "MP53254",
+    "name": "Kamchatka Green Met."
+  },
+  {
+    "hex": "#6e6f55",
+    "label": "MP42085",
+    "name": "Kelp Green Met."
+  },
+  {
+    "hex": "#467d5d",
+    "label": "MP23394",
+    "name": "Kobold Green Met."
+  },
+  {
+    "hex": "#5db29d",
+    "label": "MP23409",
+    "name": "Kuyaba Green Met."
+  },
+  {
+    "hex": "#afbeb1",
+    "label": "MP23433",
+    "name": "Light Nebula Green Met."
+  },
+  {
+    "hex": "#afc3b8",
+    "label": "MP23435",
+    "name": "Light Sage Green Met."
+  },
+  {
+    "hex": "#61825f",
+    "label": "MP37552",
+    "name": "Lux Green Met."
+  },
+  {
+    "hex": "#2d6a65",
+    "label": "MP23424",
+    "name": "Malachite Green Met."
+  },
+  {
+    "hex": "#457161",
+    "label": "MP23405",
+    "name": "Mean Joe Green Met."
+  },
+  {
+    "hex": "#818c82",
+    "label": "MP23417",
+    "name": "Metal Olive Met."
+  },
+  {
+    "hex": "#90b58d",
+    "label": "MP27234",
+    "name": "Mint Green Met."
+  },
+  {
+    "hex": "#99b1a3",
+    "label": "MP22694",
+    "name": "Moro Green Met."
+  },
+  {
+    "hex": "#737b48",
+    "label": "MP43440",
+    "name": "New Growth Green Met."
+  },
+  {
+    "hex": "#499a80",
+    "label": "MP36394",
+    "name": "Nippy Green Met."
+  },
+  {
+    "hex": "#a9a175",
+    "label": "MP23891",
+    "name": "Olive Mist Met."
+  },
+  {
+    "hex": "#66a588",
+    "label": "MP23398",
+    "name": "Parsley Green Met."
+  },
+  {
+    "hex": "#6cb2aa",
+    "label": "MP30395",
+    "name": "Patine Green Met."
+  },
+  {
+    "hex": "#86865d",
+    "label": "MP42083",
+    "name": "Puebla Green Met."
+  },
+  {
+    "hex": "#38534c",
+    "label": "MP23407",
+    "name": "Rally Green Met."
+  },
+  {
+    "hex": "#5d6246",
+    "label": "MP49209",
+    "name": "Romagna Green Met."
+  },
+  {
+    "hex": "#8b8f61",
+    "label": "MP37855",
+    "name": "Saturated Green Met."
+  },
+  {
+    "hex": "#acc5bc",
+    "label": "MP23436",
+    "name": "Seasprite Green Met."
+  },
+  {
+    "hex": "#2f5e47",
+    "label": "MP23393",
+    "name": "Selva Green Met."
+  },
+  {
+    "hex": "#3c4443",
+    "label": "MP23411",
+    "name": "Seven Seas Green Met."
+  },
+  {
+    "hex": "#8d8a68",
+    "label": "MP27564",
+    "name": "Soft Olive Met."
+  },
+  {
+    "hex": "#748f83",
+    "label": "MP23413",
+    "name": "Steel Jade Met."
+  },
+  {
+    "hex": "#374e4c",
+    "label": "MP23412",
+    "name": "Tamarack Green Met."
+  },
+  {
+    "hex": "#00022d",
+    "label": "MP23422",
+    "name": "Tijeras Teal Met."
+  },
+  {
+    "hex": "#3f5938",
+    "label": "MP38332",
+    "name": "Veld Green Met."
+  },
+  {
+    "hex": "#03726d",
+    "label": "MP51137",
+    "name": "Vivid Teal Met."
+  },
+  {
+    "hex": "#3c5b54",
+    "label": "MP23404",
+    "name": "XKE Green Met."
+  },
+  {
+    "hex": "#4c7d7e",
+    "label": "MP15263",
+    "name": "Acqua Di Mare"
+  },
+  {
+    "hex": "#466552",
+    "label": "MP14353",
+    "name": "Adirondack Green"
+  },
+  {
+    "hex": "#545c46",
+    "label": "MP10688",
+    "name": "Aegean Green"
+  },
+  {
+    "hex": "#908e22",
+    "label": "MP817",
+    "name": "Alga Green"
+  },
+  {
+    "hex": "#446466",
+    "label": "MP15236",
+    "name": "Allegreto Teal"
+  },
+  {
+    "hex": "#2e5d56",
+    "label": "MP5137",
+    "name": "Alpine Green"
+  },
+  {
+    "hex": "#5d6f64",
+    "label": "MP13568",
+    "name": "Amana Green"
+  },
+  {
+    "hex": "#29766f",
+    "label": "MP14305",
+    "name": "Amazon Parrothead"
+  },
+  {
+    "hex": "#14735c",
+    "label": "MP8474",
+    "name": "Andes Emerald"
+  },
+  {
+    "hex": "#5e9d48",
+    "label": "MP13427",
+    "name": "Anole Green"
+  },
+  {
+    "hex": "#335056",
+    "label": "MP16303",
+    "name": "Antique Bottle Green"
+  },
+  {
+    "hex": "#29928d",
+    "label": "MP14879",
+    "name": "Aqua Riva"
+  },
+  {
+    "hex": "#1e615b",
+    "label": "MP11560",
+    "name": "Aquarious Green"
+  },
+  {
+    "hex": "#3e5752",
+    "label": "MP14110",
+    "name": "Aran Islands Green"
+  },
+  {
+    "hex": "#7b8c89",
+    "label": "MP15901",
+    "name": "Ardosia Slate"
+  },
+  {
+    "hex": "#545341",
+    "label": "MP809",
+    "name": "Army Cot Green"
+  },
+  {
+    "hex": "#2e4c46",
+    "label": "MP14461",
+    "name": "Aston Martin Green"
+  },
+  {
+    "hex": "#b7b592",
+    "label": "MP14690",
+    "name": "Bahia Mar Green"
+  },
+  {
+    "hex": "#4b5b52",
+    "label": "MP16140",
+    "name": "Balsamico"
+  },
+  {
+    "hex": "#7e7d5f",
+    "label": "MP15287",
+    "name": "Bay Laurel"
+  },
+  {
+    "hex": "#4d594f",
+    "label": "MP22112",
+    "name": "Baytown Green"
+  },
+  {
+    "hex": "#4a9385",
+    "label": "MP14544",
+    "name": "Beaufort Seaspray"
+  },
+  {
+    "hex": "#79debf",
+    "label": "MP439",
+    "name": "Beryl"
+  },
+  {
+    "hex": "#879484",
+    "label": "MP14694",
+    "name": "Big River"
+  },
+  {
+    "hex": "#d3d463",
+    "label": "MP1509",
+    "name": "Bitter Lime"
+  },
+  {
+    "hex": "#3c4737",
+    "label": "MP15686",
+    "name": "Black On Green"
+  },
+  {
+    "hex": "#335056",
+    "label": "MP16233",
+    "name": "Bleu Mer"
+  },
+  {
+    "hex": "#6daa96",
+    "label": "MP13463",
+    "name": "Blue Grass"
+  },
+  {
+    "hex": "#3b5553",
+    "label": "MP10833",
+    "name": "Brae Loch Green"
+  },
+  {
+    "hex": "#2a7165",
+    "label": "MP3275",
+    "name": "Brazil Emerald"
+  },
+  {
+    "hex": "#316948",
+    "label": "MP16333",
+    "name": "British Railways Green"
+  },
+  {
+    "hex": "#38453a",
+    "label": "MP16081",
+    "name": "Bronx Zoo Green"
+  },
+  {
+    "hex": "#4b5f41",
+    "label": "MP14460",
+    "name": "Camo Green"
+  },
+  {
+    "hex": "#415c5f",
+    "label": "MP14167",
+    "name": "Cape Breton Green"
+  },
+  {
+    "hex": "#434b44",
+    "label": "MP16141",
+    "name": "Catalan Forest"
+  },
+  {
+    "hex": "#007067",
+    "label": "MP4952",
+    "name": "Cavern Pool"
+  },
+  {
+    "hex": "#3f5e46",
+    "label": "MP9000",
+    "name": "Cedar Bough"
+  },
+  {
+    "hex": "#92881a",
+    "label": "MP500",
+    "name": "Cedar Sap"
+  },
+  {
+    "hex": "#899e8c",
+    "label": "MP11406",
+    "name": "Chalkos Green"
+  },
+  {
+    "hex": "#cbcc5b",
+    "label": "MP1510",
+    "name": "Chartreuse Liqueur"
+  },
+  {
+    "hex": "#006f6b",
+    "label": "MP14335",
+    "name": "Christchurch Teal"
+  },
+  {
+    "hex": "#294842",
+    "label": "MP14935",
+    "name": "Chrysocolla Green"
+  },
+  {
+    "hex": "#b9c660",
+    "label": "MP491",
+    "name": "Citronella"
+  },
+  {
+    "hex": "#536d68",
+    "label": "MP13461",
+    "name": "Cladonia Green"
+  },
+  {
+    "hex": "#bdbc80",
+    "label": "MP14762",
+    "name": "Clintonite Green"
+  },
+  {
+    "hex": "#455f50",
+    "label": "MP14301",
+    "name": "Cloud Forest"
+  },
+  {
+    "hex": "#72795f",
+    "label": "MP14743",
+    "name": "Clubhouse Canvas"
+  },
+  {
+    "hex": "#325e5f",
+    "label": "MP5168",
+    "name": "Colorado Spruce"
+  },
+  {
+    "hex": "#778b7a",
+    "label": "MP11625",
+    "name": "Copper Sulphate"
+  },
+  {
+    "hex": "#395855",
+    "label": "MP11816",
+    "name": "Cornus Green"
+  },
+  {
+    "hex": "#386668",
+    "label": "MP13067",
+    "name": "Craneville Green"
+  },
+  {
+    "hex": "#9ab946",
+    "label": "MP11399",
+    "name": "Crayon Green"
+  },
+  {
+    "hex": "#a9a171",
+    "label": "MP812",
+    "name": "Crock Pot Green"
+  },
+  {
+    "hex": "#bde6d3",
+    "label": "MP13471",
+    "name": "Cuprous Green"
+  },
+  {
+    "hex": "#1e8159",
+    "label": "MP13543",
+    "name": "Curacao Green"
+  },
+  {
+    "hex": "#abad99",
+    "label": "MP11006",
+    "name": "Cushion Moss"
+  },
+  {
+    "hex": "#a9a38c",
+    "label": "MP11171",
+    "name": "Cypress Green"
+  },
+  {
+    "hex": "#405658",
+    "label": "MP13397",
+    "name": "Dabbler Teal"
+  },
+  {
+    "hex": "#393d2b",
+    "label": "MP10641",
+    "name": "Dark Forest Green"
+  },
+  {
+    "hex": "#334732",
+    "label": "MP10381",
+    "name": "Deep Forest"
+  },
+  {
+    "hex": "#495b5a",
+    "label": "MP15790",
+    "name": "Delaware Teal"
+  },
+  {
+    "hex": "#273421",
+    "label": "MP12435",
+    "name": "Depth Of Green"
+  },
+  {
+    "hex": "#867f2e",
+    "label": "MP1625",
+    "name": "Desert Palm"
+  },
+  {
+    "hex": "#4d5a52",
+    "label": "MP15726",
+    "name": "Desperse Green"
+  },
+  {
+    "hex": "#208d5c",
+    "label": "MP13539",
+    "name": "Dominican Green"
+  },
+  {
+    "hex": "#277e55",
+    "label": "MP14092",
+    "name": "Donegal Green"
+  },
+  {
+    "hex": "#636436",
+    "label": "MP795",
+    "name": "Dufflebag Green"
+  },
+  {
+    "hex": "#737a64",
+    "label": "MP14164",
+    "name": "Earl Green"
+  },
+  {
+    "hex": "#128a69",
+    "label": "MP1669",
+    "name": "Emerald Sea"
+  },
+  {
+    "hex": "#56b884",
+    "label": "MP1675",
+    "name": "Erin Isle"
+  },
+  {
+    "hex": "#21a499",
+    "label": "MP14684",
+    "name": "Erte Teal"
+  },
+  {
+    "hex": "#686c34",
+    "label": "MP479",
+    "name": "Extra Virgin"
+  },
+  {
+    "hex": "#4e7148",
+    "label": "MP11360",
+    "name": "Farmleigh Green"
+  },
+  {
+    "hex": "#216146",
+    "label": "MP10454",
+    "name": "Field O Green"
+  },
+  {
+    "hex": "#5b7869",
+    "label": "MP13496",
+    "name": "Finnegan Green"
+  },
+  {
+    "hex": "#577970",
+    "label": "MP13420",
+    "name": "Finnish Fir"
+  },
+  {
+    "hex": "#61a592",
+    "label": "MP11688",
+    "name": "Fitzgerald"
+  },
+  {
+    "hex": "#455c52",
+    "label": "MP13404",
+    "name": "Floresta Green"
+  },
+  {
+    "hex": "#4e7258",
+    "label": "MP6369",
+    "name": "Forest"
+  },
+  {
+    "hex": "#38533c",
+    "label": "MP10455",
+    "name": "Forest Green"
+  },
+  {
+    "hex": "#527048",
+    "label": "MP22118",
+    "name": "Foret Parc Green"
+  },
+  {
+    "hex": "#4b6665",
+    "label": "MP15540",
+    "name": "Fraser Fir"
+  },
+  {
+    "hex": "#64735d",
+    "label": "MP11532",
+    "name": "Freshfields"
+  },
+  {
+    "hex": "#1d432d",
+    "label": "MP10493",
+    "name": "Gabon Green"
+  },
+  {
+    "hex": "#464a47",
+    "label": "MP15718",
+    "name": "Gaeta Olive"
+  },
+  {
+    "hex": "#22644d",
+    "label": "MP10503",
+    "name": "Galway Green"
+  },
+  {
+    "hex": "#4f6c60",
+    "label": "MP13013",
+    "name": "Gamut Green"
+  },
+  {
+    "hex": "#315f5a",
+    "label": "MP4535",
+    "name": "Garment Green"
+  },
+  {
+    "hex": "#555246",
+    "label": "MP12734",
+    "name": "Garrison"
+  },
+  {
+    "hex": "#4b6361",
+    "label": "MP15380",
+    "name": "Garrone Green"
+  },
+  {
+    "hex": "#519c4b",
+    "label": "MP469",
+    "name": "Gecko Green"
+  },
+  {
+    "hex": "#246f5c",
+    "label": "MP2987",
+    "name": "Givenchy Green"
+  },
+  {
+    "hex": "#29614d",
+    "label": "MP10141",
+    "name": "Glade Green"
+  },
+  {
+    "hex": "#516442",
+    "label": "MP14007",
+    "name": "Glasgow Green"
+  },
+  {
+    "hex": "#b3ae5d",
+    "label": "MP11447",
+    "name": "Gold Lichen"
+  },
+  {
+    "hex": "#958f59",
+    "label": "MP9010",
+    "name": "Golden Green"
+  },
+  {
+    "hex": "#747f72",
+    "label": "MP15787",
+    "name": "Golden Sage"
+  },
+  {
+    "hex": "#4a5f4f",
+    "label": "MP16005",
+    "name": "Goose Bay Green"
+  },
+  {
+    "hex": "#5f6350",
+    "label": "MP16211",
+    "name": "Gordal Olive"
+  },
+  {
+    "hex": "#8f8c76",
+    "label": "MP12511",
+    "name": "Gordo Avocado"
+  },
+  {
+    "hex": "#467877",
+    "label": "MP11228",
+    "name": "Great Falls"
+  },
+  {
+    "hex": "#bae18d",
+    "label": "MP1542",
+    "name": "Green Cheer"
+  },
+  {
+    "hex": "#475e5c",
+    "label": "MP15460",
+    "name": "Green Cove"
+  },
+  {
+    "hex": "#3b5254",
+    "label": "MP11742",
+    "name": "Green Door"
+  },
+  {
+    "hex": "#325656",
+    "label": "MP5096",
+    "name": "Green Felt"
+  },
+  {
+    "hex": "#446953",
+    "label": "MP2782",
+    "name": "Green Frog"
+  },
+  {
+    "hex": "#3d4a3e",
+    "label": "MP10818",
+    "name": "Green Gate"
+  },
+  {
+    "hex": "#a9b28b",
+    "label": "MP9009",
+    "name": "Green Ghost"
+  },
+  {
+    "hex": "#00a58c",
+    "label": "MP421",
+    "name": "Green Goddess"
+  },
+  {
+    "hex": "#87984b",
+    "label": "MP56",
+    "name": "Green Herb"
+  },
+  {
+    "hex": "#5d9055",
+    "label": "MP1538",
+    "name": "Green Hornet"
+  },
+  {
+    "hex": "#8f8545",
+    "label": "MP9141",
+    "name": "Green Khaki"
+  },
+  {
+    "hex": "#5e7d4b",
+    "label": "MP14746",
+    "name": "Green Lantern"
+  },
+  {
+    "hex": "#708678",
+    "label": "MP15669",
+    "name": "Green Mix"
+  },
+  {
+    "hex": "#8d7b41",
+    "label": "MP1086",
+    "name": "Green Ore"
+  },
+  {
+    "hex": "#435350",
+    "label": "MP15584",
+    "name": "Green Palace"
+  },
+  {
+    "hex": "#30865c",
+    "label": "MP13540",
+    "name": "Green Party"
+  },
+  {
+    "hex": "#0d9d89",
+    "label": "MP14885",
+    "name": "Green Phase"
+  },
+  {
+    "hex": "#b6cfc1",
+    "label": "MP13485",
+    "name": "Green Plaza"
+  },
+  {
+    "hex": "#6b8b3c",
+    "label": "MP10245",
+    "name": "Green Racer"
+  },
+  {
+    "hex": "#387c57",
+    "label": "MP39",
+    "name": "Green Ribbon"
+  },
+  {
+    "hex": "#a29666",
+    "label": "MP12260",
+    "name": "Green River"
+  },
+  {
+    "hex": "#ccdf52",
+    "label": "MP497",
+    "name": "Green Sauce With Lemon"
+  },
+  {
+    "hex": "#819f93",
+    "label": "MP13544",
+    "name": "Green Shade"
+  },
+  {
+    "hex": "#f1ec78",
+    "label": "MP1507",
+    "name": "Green Spirit"
+  },
+  {
+    "hex": "#66644b",
+    "label": "MP12414",
+    "name": "Green Tarp"
+  },
+  {
+    "hex": "#898b6d",
+    "label": "MP12341",
+    "name": "Green Tent"
+  },
+  {
+    "hex": "#375649",
+    "label": "MP15904",
+    "name": "Green Trolley"
+  },
+  {
+    "hex": "#278d56",
+    "label": "MP13552",
+    "name": "Green Vireo"
+  },
+  {
+    "hex": "#779459",
+    "label": "MP13531",
+    "name": "Green Waders"
+  },
+  {
+    "hex": "#91b6aa",
+    "label": "MP13831",
+    "name": "Greenfoam"
+  },
+  {
+    "hex": "#b3cc9a",
+    "label": "MP9900",
+    "name": "Greenhorn"
+  },
+  {
+    "hex": "#b0d471",
+    "label": "MP482",
+    "name": "Greenie Greenie"
+  },
+  {
+    "hex": "#8f8638",
+    "label": "MP493",
+    "name": "Greenstone"
+  },
+  {
+    "hex": "#159c6d",
+    "label": "MP448",
+    "name": "Greenward"
+  },
+  {
+    "hex": "#39605f",
+    "label": "MP15739",
+    "name": "Greenway"
+  },
+  {
+    "hex": "#396b6e",
+    "label": "MP15254",
+    "name": "Grenbleu"
+  },
+  {
+    "hex": "#657874",
+    "label": "MP14471",
+    "name": "Grigio Rock"
+  },
+  {
+    "hex": "#d7d639",
+    "label": "MP13317",
+    "name": "Grunen Green"
+  },
+  {
+    "hex": "#316467",
+    "label": "MP16231",
+    "name": "Guatemala Green"
+  },
+  {
+    "hex": "#716c30",
+    "label": "MP816",
+    "name": "Haas Green"
+  },
+  {
+    "hex": "#648886",
+    "label": "MP14681",
+    "name": "Haworthia Green"
+  },
+  {
+    "hex": "#8aa18d",
+    "label": "MP12719",
+    "name": "Hawthorne Leaf Green"
+  },
+  {
+    "hex": "#49826b",
+    "label": "MP16122",
+    "name": "Herb Blend"
+  },
+  {
+    "hex": "#74735f",
+    "label": "MP13216",
+    "name": "Herbivore"
+  },
+  {
+    "hex": "#56927f",
+    "label": "MP7522",
+    "name": "Highlands Green"
+  },
+  {
+    "hex": "#3a605b",
+    "label": "MP14334",
+    "name": "Hogsmeade Green"
+  },
+  {
+    "hex": "#3c524c",
+    "label": "MP14551",
+    "name": "Horta Green"
+  },
+  {
+    "hex": "#9da348",
+    "label": "MP1515",
+    "name": "Howie Green"
+  },
+  {
+    "hex": "#46504f",
+    "label": "MP14835",
+    "name": "IBM Dark Green"
+  },
+  {
+    "hex": "#81d6c0",
+    "label": "MP418",
+    "name": "Ionian Sea"
+  },
+  {
+    "hex": "#3e896f",
+    "label": "MP10322",
+    "name": "Irish Pub Green"
+  },
+  {
+    "hex": "#62beab",
+    "label": "MP2706",
+    "name": "Island Cay"
+  },
+  {
+    "hex": "#62c7b1",
+    "label": "MP419",
+    "name": "Jamaica Me Happy"
+  },
+  {
+    "hex": "#3e5a58",
+    "label": "MP15714",
+    "name": "Jewelweed Leaf"
+  },
+  {
+    "hex": "#696a1a",
+    "label": "MP486",
+    "name": "Kalamata"
+  },
+  {
+    "hex": "#3e5758",
+    "label": "MP14212",
+    "name": "Kenai Teal"
+  },
+  {
+    "hex": "#8faa96",
+    "label": "MP14282",
+    "name": "Kennicott Patina"
+  },
+  {
+    "hex": "#5d746d",
+    "label": "MP16223",
+    "name": "Kentdale Slate"
+  },
+  {
+    "hex": "#a9eed3",
+    "label": "MP445",
+    "name": "Kilkenny Mist"
+  },
+  {
+    "hex": "#3d4f3c",
+    "label": "MP13508",
+    "name": "Kilt Green"
+  },
+  {
+    "hex": "#375a43",
+    "label": "MP11126",
+    "name": "Lambeau Green"
+  },
+  {
+    "hex": "#77a948",
+    "label": "MP11856",
+    "name": "Laser Lime"
+  },
+  {
+    "hex": "#678788",
+    "label": "MP16327",
+    "name": "Lavagna Green"
+  },
+  {
+    "hex": "#f2e9bc",
+    "label": "MP1505",
+    "name": "Leaf Scent"
+  },
+  {
+    "hex": "#eaeb6c",
+    "label": "MP494",
+    "name": "Lemon Pudding"
+  },
+  {
+    "hex": "#668b81",
+    "label": "MP14954",
+    "name": "Lexington Green"
+  },
+  {
+    "hex": "#a1a947",
+    "label": "MP818",
+    "name": "Lime Fizz"
+  },
+  {
+    "hex": "#8ac363",
+    "label": "MP468",
+    "name": "Lime Lollipop"
+  },
+  {
+    "hex": "#dbe99f",
+    "label": "MP1522",
+    "name": "Lime Mist"
+  },
+  {
+    "hex": "#66673f",
+    "label": "MP12444",
+    "name": "Lime Peel"
+  },
+  {
+    "hex": "#cee090",
+    "label": "MP1523",
+    "name": "Lime Sorbet"
+  },
+  {
+    "hex": "#d5e456",
+    "label": "MP488",
+    "name": "Limeade"
+  },
+  {
+    "hex": "#aab446",
+    "label": "MP1514",
+    "name": "Limette"
+  },
+  {
+    "hex": "#6db66e",
+    "label": "MP9570",
+    "name": "Limonada"
+  },
+  {
+    "hex": "#8abb42",
+    "label": "MP483",
+    "name": "Limonlima"
+  },
+  {
+    "hex": "#92c68b",
+    "label": "MP9003",
+    "name": "Limony Froth"
+  },
+  {
+    "hex": "#3f5b4c",
+    "label": "MP14936",
+    "name": "Long Green"
+  },
+  {
+    "hex": "#008479",
+    "label": "MP14688",
+    "name": "Los Cabos Teal"
+  },
+  {
+    "hex": "#374c37",
+    "label": "MP13056",
+    "name": "Luxor Green"
+  },
+  {
+    "hex": "#91997d",
+    "label": "MP12259",
+    "name": "Main Street"
+  },
+  {
+    "hex": "#375148",
+    "label": "MP15181",
+    "name": "Mansion Green"
+  },
+  {
+    "hex": "#365d44",
+    "label": "MP14424",
+    "name": "Manzanillo Green"
+  },
+  {
+    "hex": "#6b6d50",
+    "label": "MP15975",
+    "name": "Marinated Olive"
+  },
+  {
+    "hex": "#616a65",
+    "label": "MP13402",
+    "name": "Maritaca Green"
+  },
+  {
+    "hex": "#509340",
+    "label": "MP1068",
+    "name": "Marquee Green"
+  },
+  {
+    "hex": "#3ebca0",
+    "label": "MP12613",
+    "name": "Mediterranean Green"
+  },
+  {
+    "hex": "#4f7b67",
+    "label": "MP12574",
+    "name": "Melon Rind"
+  },
+  {
+    "hex": "#64967f",
+    "label": "MP13098",
+    "name": "Mentha Green"
+  },
+  {
+    "hex": "#445652",
+    "label": "MP14185",
+    "name": "Merrimack Green"
+  },
+  {
+    "hex": "#7acdb9",
+    "label": "MP425",
+    "name": "Milky Turquoise"
+  },
+  {
+    "hex": "#bde2d4",
+    "label": "MP397",
+    "name": "Mint Mist"
+  },
+  {
+    "hex": "#009675",
+    "label": "MP21205",
+    "name": "Minton Green"
+  },
+  {
+    "hex": "#576a62",
+    "label": "MP7250",
+    "name": "Mossy Pine"
+  },
+  {
+    "hex": "#386249",
+    "label": "MP14975",
+    "name": "Motorcycle Green"
+  },
+  {
+    "hex": "#646739",
+    "label": "MP803",
+    "name": "Mount Of Olive"
+  },
+  {
+    "hex": "#376663",
+    "label": "MP13422",
+    "name": "Nagano Pine"
+  },
+  {
+    "hex": "#4d6e47",
+    "label": "MP20008",
+    "name": "Natures Green"
+  },
+  {
+    "hex": "#007366",
+    "label": "MP13542",
+    "name": "Nephrite Jade"
+  },
+  {
+    "hex": "#51706d",
+    "label": "MP11261",
+    "name": "New Brunswick Green"
+  },
+  {
+    "hex": "#28c09f",
+    "label": "MP440",
+    "name": "New Fern Green"
+  },
+  {
+    "hex": "#404f3c",
+    "label": "MP13437",
+    "name": "New Racing Green"
+  },
+  {
+    "hex": "#5f776e",
+    "label": "MP6183",
+    "name": "New Zealand Forest"
+  },
+  {
+    "hex": "#79ad52",
+    "label": "MP13551",
+    "name": "Nick Green Slime"
+  },
+  {
+    "hex": "#41543c",
+    "label": "MP14961",
+    "name": "Nicolet Forest"
+  },
+  {
+    "hex": "#5f797b",
+    "label": "MP15212",
+    "name": "Nijo Castle Stone"
+  },
+  {
+    "hex": "#525941",
+    "label": "MP22129",
+    "name": "Noir Green"
+  },
+  {
+    "hex": "#415f5e",
+    "label": "MP14788",
+    "name": "Noreaster Green"
+  },
+  {
+    "hex": "#5c5646",
+    "label": "MP14770",
+    "name": "Nori Green"
+  },
+  {
+    "hex": "#537163",
+    "label": "MP15671",
+    "name": "Northland Copse"
+  },
+  {
+    "hex": "#44bba5",
+    "label": "MP426",
+    "name": "Old San Juan Jade"
+  },
+  {
+    "hex": "#575848",
+    "label": "MP15356",
+    "name": "Olea Green"
+  },
+  {
+    "hex": "#847661",
+    "label": "MP11083",
+    "name": "Olimbos Green"
+  },
+  {
+    "hex": "#76765e",
+    "label": "MP9910",
+    "name": "Olivaceous"
+  },
+  {
+    "hex": "#635328",
+    "label": "MP11007",
+    "name": "Olivary"
+  },
+  {
+    "hex": "#97983d",
+    "label": "MP492",
+    "name": "Olive Flower"
+  },
+  {
+    "hex": "#a9ab80",
+    "label": "MP805",
+    "name": "Olive Whip"
+  },
+  {
+    "hex": "#638943",
+    "label": "MP15184",
+    "name": "Ophios Green"
+  },
+  {
+    "hex": "#699b80",
+    "label": "MP13494",
+    "name": "Oxygreen"
+  },
+  {
+    "hex": "#e4f0b8",
+    "label": "MP1529",
+    "name": "Pale Citron"
+  },
+  {
+    "hex": "#97b1a2",
+    "label": "MP5885",
+    "name": "Palm Tint"
+  },
+  {
+    "hex": "#658373",
+    "label": "MP15582",
+    "name": "Palmer House Green"
+  },
+  {
+    "hex": "#617559",
+    "label": "MP12636",
+    "name": "Palta Green"
+  },
+  {
+    "hex": "#25703c",
+    "label": "MP11618",
+    "name": "Party Green"
+  },
+  {
+    "hex": "#89a18b",
+    "label": "MP13274",
+    "name": "Paten Green"
+  },
+  {
+    "hex": "#eae071",
+    "label": "MP1508",
+    "name": "Peel Green"
+  },
+  {
+    "hex": "#9c8f3e",
+    "label": "MP513",
+    "name": "Pepperoncini"
+  },
+  {
+    "hex": "#3bbfa6",
+    "label": "MP11709",
+    "name": "Perfect Gem"
+  },
+  {
+    "hex": "#9c935a",
+    "label": "MP825",
+    "name": "Pickled Pepper"
+  },
+  {
+    "hex": "#5c6655",
+    "label": "MP14819",
+    "name": "Pine Bluff"
+  },
+  {
+    "hex": "#56857b",
+    "label": "MP5140",
+    "name": "Pine Frost"
+  },
+  {
+    "hex": "#545c53",
+    "label": "MP11101",
+    "name": "Pinesap"
+  },
+  {
+    "hex": "#526a43",
+    "label": "MP14084",
+    "name": "Pineweed"
+  },
+  {
+    "hex": "#465555",
+    "label": "MP15379",
+    "name": "Pino Verde"
+  },
+  {
+    "hex": "#45604e",
+    "label": "MP13392",
+    "name": "Pinyon Green"
+  },
+  {
+    "hex": "#1a6663",
+    "label": "MP5508",
+    "name": "Piscine Green"
+  },
+  {
+    "hex": "#7bad48",
+    "label": "MP13525",
+    "name": "Play-Doh Green"
+  },
+  {
+    "hex": "#e1e563",
+    "label": "MP820",
+    "name": "Playground Green"
+  },
+  {
+    "hex": "#5fc08f",
+    "label": "MP454",
+    "name": "Plaza Verde"
+  },
+  {
+    "hex": "#3e625f",
+    "label": "MP15916",
+    "name": "Prince Edward Green"
+  },
+  {
+    "hex": "#5f8d77",
+    "label": "MP11809",
+    "name": "Pyromorphite Green"
+  },
+  {
+    "hex": "#008278",
+    "label": "MP14221",
+    "name": "Quetzal Teal"
+  },
+  {
+    "hex": "#1a7b60",
+    "label": "MP22384",
+    "name": "Rock Island Green"
+  },
+  {
+    "hex": "#c9d9c1",
+    "label": "MP14530",
+    "name": "Salvia Divinorum"
+  },
+  {
+    "hex": "#565e50",
+    "label": "MP11953",
+    "name": "San Diego Green"
+  },
+  {
+    "hex": "#a4e0d2",
+    "label": "MP1694",
+    "name": "Sea Teal"
+  },
+  {
+    "hex": "#817a35",
+    "label": "MP824",
+    "name": "Seerstone"
+  },
+  {
+    "hex": "#3c764b",
+    "label": "MP15336",
+    "name": "Serrano Green"
+  },
+  {
+    "hex": "#366854",
+    "label": "MP10577",
+    "name": "Seton Green"
+  },
+  {
+    "hex": "#878666",
+    "label": "MP804",
+    "name": "Seventies Avocado Stove"
+  },
+  {
+    "hex": "#9ec562",
+    "label": "MP1532",
+    "name": "Sharp Green"
+  },
+  {
+    "hex": "#9ed675",
+    "label": "MP1543",
+    "name": "Shocking Green"
+  },
+  {
+    "hex": "#4f665b",
+    "label": "MP13512",
+    "name": "Sligo Green"
+  },
+  {
+    "hex": "#c5bf3d",
+    "label": "MP505",
+    "name": "Sourgrass"
+  },
+  {
+    "hex": "#6d9d60",
+    "label": "MP15565",
+    "name": "Spicy Green"
+  },
+  {
+    "hex": "#849578",
+    "label": "MP13106",
+    "name": "Spruce Pine"
+  },
+  {
+    "hex": "#00837a",
+    "label": "MP14521",
+    "name": "St. Barts Bay"
+  },
+  {
+    "hex": "#91a99c",
+    "label": "MP13548",
+    "name": "St. Lawrence Green"
+  },
+  {
+    "hex": "#635341",
+    "label": "MP823",
+    "name": "Statue Bronze"
+  },
+  {
+    "hex": "#ccfbe6",
+    "label": "MP432",
+    "name": "Subtlest Green"
+  },
+  {
+    "hex": "#8c8a4c",
+    "label": "MP811",
+    "name": "Sulfurous Green"
+  },
+  {
+    "hex": "#00866e",
+    "label": "MP429",
+    "name": "Sumatra Forest"
+  },
+  {
+    "hex": "#a4cab0",
+    "label": "MP5931",
+    "name": "Summer"
+  },
+  {
+    "hex": "#347151",
+    "label": "MP11859",
+    "name": "Summer Lawn"
+  },
+  {
+    "hex": "#9fd7a3",
+    "label": "MP1662",
+    "name": "Sunlit Glade"
+  },
+  {
+    "hex": "#7d7f49",
+    "label": "MP14744",
+    "name": "Swamp Cypress"
+  },
+  {
+    "hex": "#e7db9f",
+    "label": "MP11959",
+    "name": "Sweet Olive"
+  },
+  {
+    "hex": "#8e968a",
+    "label": "MP12698",
+    "name": "Sycamore Stand"
+  },
+  {
+    "hex": "#4a6446",
+    "label": "MP15953",
+    "name": "Tackle Box Green"
+  },
+  {
+    "hex": "#8ba9a6",
+    "label": "MP14647",
+    "name": "Talcstone"
+  },
+  {
+    "hex": "#4c8682",
+    "label": "MP2862",
+    "name": "Taos Turquoise"
+  },
+  {
+    "hex": "#66948b",
+    "label": "MP4787",
+    "name": "Tarn Water"
+  },
+  {
+    "hex": "#424e4d",
+    "label": "MP10800",
+    "name": "Tartan Green"
+  },
+  {
+    "hex": "#2c6767",
+    "label": "MP2882",
+    "name": "Teal Feather"
+  },
+  {
+    "hex": "#366c6b",
+    "label": "MP14472",
+    "name": "Teal Glaze"
+  },
+  {
+    "hex": "#405f60",
+    "label": "MP14903",
+    "name": "Teal Pallas"
+  },
+  {
+    "hex": "#277063",
+    "label": "MP15752",
+    "name": "Teal We Meet Again"
+  },
+  {
+    "hex": "#3d605e",
+    "label": "MP15738",
+    "name": "Telluride Teal"
+  },
+  {
+    "hex": "#417c75",
+    "label": "MP16090",
+    "name": "Tempera Teal"
+  },
+  {
+    "hex": "#395a5b",
+    "label": "MP12136",
+    "name": "Terrapin Teal"
+  },
+  {
+    "hex": "#5d9e9a",
+    "label": "MP10498",
+    "name": "Thunderbird Teal"
+  },
+  {
+    "hex": "#778f79",
+    "label": "MP16007",
+    "name": "Thyme and Place"
+  },
+  {
+    "hex": "#444934",
+    "label": "MP14769",
+    "name": "Tin Soldier Green"
+  },
+  {
+    "hex": "#266d6c",
+    "label": "MP13399",
+    "name": "Tobago Teal"
+  },
+  {
+    "hex": "#69817c",
+    "label": "MP10535",
+    "name": "Toned Down Teal"
+  },
+  {
+    "hex": "#597966",
+    "label": "MP12635",
+    "name": "Treasury Green"
+  },
+  {
+    "hex": "#3e5454",
+    "label": "MP13434",
+    "name": "Tsavorite Green"
+  },
+  {
+    "hex": "#56824d",
+    "label": "MP14748",
+    "name": "Tucuman Parrot Green"
+  },
+  {
+    "hex": "#00947b",
+    "label": "MP428",
+    "name": "Turquoise Lament"
+  },
+  {
+    "hex": "#569d95",
+    "label": "MP14831",
+    "name": "Turquoise Necklace"
+  },
+  {
+    "hex": "#3c6b64",
+    "label": "MP15741",
+    "name": "Turquoise Tortoise"
+  },
+  {
+    "hex": "#96894b",
+    "label": "MP933",
+    "name": "Tuscan Hill Green"
+  },
+  {
+    "hex": "#6e694b",
+    "label": "MP12457",
+    "name": "Tuscan Olive"
+  },
+  {
+    "hex": "#2f6161",
+    "label": "MP13489",
+    "name": "Tutu Teal"
+  },
+  {
+    "hex": "#566460",
+    "label": "MP10416",
+    "name": "Twilight Forest"
+  },
+  {
+    "hex": "#466252",
+    "label": "MP14187",
+    "name": "Ulster Green"
+  },
+  {
+    "hex": "#4b5b52",
+    "label": "MP14963",
+    "name": "Ural Forest"
+  },
+  {
+    "hex": "#4f5a4f",
+    "label": "MP11372",
+    "name": "Urban Forest"
+  },
+  {
+    "hex": "#bbb33d",
+    "label": "MP506",
+    "name": "Veratrum"
+  },
+  {
+    "hex": "#495b52",
+    "label": "MP16317",
+    "name": "Verde Bosco"
+  },
+  {
+    "hex": "#b2b34b",
+    "label": "MP498",
+    "name": "Vert"
+  },
+  {
+    "hex": "#639492",
+    "label": "MP14151",
+    "name": "Vientiane Green"
+  },
+  {
+    "hex": "#576552",
+    "label": "MP15614",
+    "name": "Villandry Gardens"
+  },
+  {
+    "hex": "#8bd6a9",
+    "label": "MP461",
+    "name": "Viva Verde"
+  },
+  {
+    "hex": "#525742",
+    "label": "MP13549",
+    "name": "Walworth Green"
+  },
+  {
+    "hex": "#686958",
+    "label": "MP12120",
+    "name": "Warrior Green"
+  },
+  {
+    "hex": "#32514b",
+    "label": "MP14796",
+    "name": "Wealthy Green"
+  },
+  {
+    "hex": "#91793d",
+    "label": "MP1603",
+    "name": "Wild Olive"
+  },
+  {
+    "hex": "#a9dbb2",
+    "label": "MP459",
+    "name": "Wisp O Green"
+  },
+  {
+    "hex": "#6a7260",
+    "label": "MP9896",
+    "name": "Woodland Moss Green"
+  },
+  {
+    "hex": "#405453",
+    "label": "MP4503",
+    "name": "Woodland Night"
+  },
+  {
+    "hex": "#2b7878",
+    "label": "MP14689",
+    "name": "Zirconia Teal"
+  },
+  {
+    "hex": "#a8a5a2",
+    "label": "MP6388",
+    "name": "Battleship"
+  },
+  {
+    "hex": "#626062",
+    "label": "MP5765",
+    "name": "Bison Gray"
+  },
+  {
+    "hex": "#bbb5b4",
+    "label": "MP14128",
+    "name": "Causeway Stone"
+  },
+  {
+    "hex": "#837d78",
+    "label": "MP15661",
+    "name": "Compass"
+  },
+  {
+    "hex": "#898481",
+    "label": "MP10268",
+    "name": "Concrete Block"
+  },
+  {
+    "hex": "#959293",
+    "label": "MP11464",
+    "name": "Cosmopolitan Grey"
+  },
+  {
+    "hex": "#b0aba1",
+    "label": "MP3066",
+    "name": "Coy Grey"
+  },
+  {
+    "hex": "#a5a1a3",
+    "label": "MP6681",
+    "name": "Dapple Gray"
+  },
+  {
+    "hex": "#515558",
+    "label": "MP10269",
+    "name": "Dark Slate"
+  },
+  {
+    "hex": "#5e5c5b",
+    "label": "MP7102",
+    "name": "Deep River"
+  },
+  {
+    "hex": "#867f75",
+    "label": "MP5732",
+    "name": "Drake"
+  },
+  {
+    "hex": "#979495",
+    "label": "MP8747",
+    "name": "Drum Hill Gray"
+  },
+  {
+    "hex": "#9e9892",
+    "label": "MP12534",
+    "name": "Fogbank"
+  },
+  {
+    "hex": "#b5b6ac",
+    "label": "MP557",
+    "name": "Galena Grey"
+  },
+  {
+    "hex": "#f2f1e9",
+    "label": "MP2650",
+    "name": "Garbo Silver"
+  },
+  {
+    "hex": "#c2c3c3",
+    "label": "MP7596",
+    "name": "Gentle Gray"
+  },
+  {
+    "hex": "#979792",
+    "label": "MP7194",
+    "name": "Gibraltar Cliffs"
+  },
+  {
+    "hex": "#76706e",
+    "label": "MP10124",
+    "name": "Gloomy Gray"
+  },
+  {
+    "hex": "#c6c4ba",
+    "label": "MP8036",
+    "name": "Gray Bunny"
+  },
+  {
+    "hex": "#676768",
+    "label": "MP8521",
+    "name": "Gray Ledge"
+  },
+  {
+    "hex": "#8b8784",
+    "label": "MP9648",
+    "name": "Gray Matter"
+  },
+  {
+    "hex": "#999085",
+    "label": "MP14176",
+    "name": "Grayjay"
+  },
+  {
+    "hex": "#676567",
+    "label": "MP11163",
+    "name": "Graymore"
+  },
+  {
+    "hex": "#6c6765",
+    "label": "MP13795",
+    "name": "Graynola"
+  },
+  {
+    "hex": "#6e6a6a",
+    "label": "MP14141",
+    "name": "Grays Anatomy"
+  },
+  {
+    "hex": "#7c787b",
+    "label": "MP13901",
+    "name": "Grays Lake"
+  },
+  {
+    "hex": "#f1f1eb",
+    "label": "MP7273",
+    "name": "Graytint"
+  },
+  {
+    "hex": "#b7b3ab",
+    "label": "MP3340",
+    "name": "Grey Fog"
+  },
+  {
+    "hex": "#aba8a4",
+    "label": "MP544",
+    "name": "Grey Haven"
+  },
+  {
+    "hex": "#888783",
+    "label": "MP5252",
+    "name": "Grey Mare"
+  },
+  {
+    "hex": "#928983",
+    "label": "MP11292",
+    "name": "Grey Siding"
+  },
+  {
+    "hex": "#b1aeab",
+    "label": "MP7538",
+    "name": "Greybeard"
+  },
+  {
+    "hex": "#83827f",
+    "label": "MP13914",
+    "name": "Greyshank"
+  },
+  {
+    "hex": "#756f6a",
+    "label": "MP3849",
+    "name": "Inerte Grey"
+  },
+  {
+    "hex": "#888884",
+    "label": "MP2048",
+    "name": "Institute Gray"
+  },
+  {
+    "hex": "#6f6b68",
+    "label": "MP8029",
+    "name": "Iron Age"
+  },
+  {
+    "hex": "#958f8c",
+    "label": "MP10158",
+    "name": "Just Grey"
+  },
+  {
+    "hex": "#716f6e",
+    "label": "MP7567",
+    "name": "Kitty Gray"
+  },
+  {
+    "hex": "#7a7573",
+    "label": "MP10206",
+    "name": "Lead Pipe"
+  },
+  {
+    "hex": "#6b7983",
+    "label": "MP2249",
+    "name": "Legi Slate"
+  },
+  {
+    "hex": "#61605f",
+    "label": "MP561",
+    "name": "Lignite"
+  },
+  {
+    "hex": "#bebdba",
+    "label": "MP11317",
+    "name": "Low Level Cloud"
+  },
+  {
+    "hex": "#686868",
+    "label": "MP3730",
+    "name": "Metalshop Grey"
+  },
+  {
+    "hex": "#cecac0",
+    "label": "MP7425",
+    "name": "Metro Gray"
+  },
+  {
+    "hex": "#8a8176",
+    "label": "MP10277",
+    "name": "Modeling Clay"
+  },
+  {
+    "hex": "#949188",
+    "label": "MP12386",
+    "name": "Moscow Mule"
+  },
+  {
+    "hex": "#605e5f",
+    "label": "MP547",
+    "name": "Mudstone"
+  },
+  {
+    "hex": "#6a6869",
+    "label": "MP13915",
+    "name": "Neptunian Grey"
+  },
+  {
+    "hex": "#9c9690",
+    "label": "MP5295",
+    "name": "Neutral Grey"
+  },
+  {
+    "hex": "#9a9a98",
+    "label": "MP3076",
+    "name": "Neutro Grey"
+  },
+  {
+    "hex": "#848583",
+    "label": "MP5341",
+    "name": "Old Town"
+  },
+  {
+    "hex": "#727072",
+    "label": "MP11316",
+    "name": "Pahoehoe Gray"
+  },
+  {
+    "hex": "#cbc9ba",
+    "label": "MP7430",
+    "name": "Patagonia Glacier"
+  },
+  {
+    "hex": "#838185",
+    "label": "MP14054",
+    "name": "Pennsylvania Bluestone"
+  },
+  {
+    "hex": "#c4c2bd",
+    "label": "MP543",
+    "name": "Portland Cement"
+  },
+  {
+    "hex": "#6a686b",
+    "label": "MP12217",
+    "name": "Quebec Blue"
+  },
+  {
+    "hex": "#7e7d7e",
+    "label": "MP7054",
+    "name": "Shaker Gray"
+  },
+  {
+    "hex": "#6a6866",
+    "label": "MP12416",
+    "name": "Shipyard Grey"
+  },
+  {
+    "hex": "#9a9692",
+    "label": "MP8361",
+    "name": "Silverback"
+  },
+  {
+    "hex": "#6b696b",
+    "label": "MP5044",
+    "name": "Smoked Pearl"
+  },
+  {
+    "hex": "#767775",
+    "label": "MP4761",
+    "name": "Steel Wool"
+  },
+  {
+    "hex": "#c9c6c0",
+    "label": "MP7897",
+    "name": "Stonington Gray"
+  },
+  {
+    "hex": "#726d6a",
+    "label": "MP7026",
+    "name": "Stormy Sky"
+  },
+  {
+    "hex": "#9e9996",
+    "label": "MP7024",
+    "name": "Timber Wolf"
+  },
+  {
+    "hex": "#737172",
+    "label": "MP2916",
+    "name": "Tower Gray"
+  },
+  {
+    "hex": "#aaa598",
+    "label": "MP11938",
+    "name": "Toyota Light Grey"
+  },
+  {
+    "hex": "#80817f",
+    "label": "MP2225",
+    "name": "Traffic Grey"
+  },
+  {
+    "hex": "#6a6a67",
+    "label": "MP11490",
+    "name": "Vanadium Grey"
+  },
+  {
+    "hex": "#959290",
+    "label": "MP6668",
+    "name": "Vanderbilt Gray"
+  },
+  {
+    "hex": "#817d7b",
+    "label": "MP14170",
+    "name": "Zone Grey"
+  },
+  {
+    "hex": "#c6dfda",
+    "label": "MP3379",
+    "name": "Aquateen"
+  },
+  {
+    "hex": "#c0ccdc",
+    "label": "MP2897",
+    "name": "Ashley Blue"
+  },
+  {
+    "hex": "#f3c4b7",
+    "label": "MP1495",
+    "name": "Baby Girl"
+  },
+  {
+    "hex": "#fdedb8",
+    "label": "MP7502",
+    "name": "Beach Haven"
+  },
+  {
+    "hex": "#abd7d4",
+    "label": "MP7491",
+    "name": "Bikini Blue"
+  },
+  {
+    "hex": "#d1dce2",
+    "label": "MP6494",
+    "name": "Blue Marlin"
+  },
+  {
+    "hex": "#ade7e9",
+    "label": "MP3244",
+    "name": "Bluepoint"
+  },
+  {
+    "hex": "#d1dee2",
+    "label": "MP3252",
+    "name": "Casual Blue"
+  },
+  {
+    "hex": "#f9d692",
+    "label": "MP1451",
+    "name": "Cold Stone Cream"
+  },
+  {
+    "hex": "#f2fde4",
+    "label": "MP1549",
+    "name": "Creamy Cucumber"
+  },
+  {
+    "hex": "#ff8c7a",
+    "label": "MP1201",
+    "name": "Dawn Sun"
+  },
+  {
+    "hex": "#e5c2b8",
+    "label": "MP7957",
+    "name": "Dermatone"
+  },
+  {
+    "hex": "#ebebea",
+    "label": "MP3408",
+    "name": "Fleet White"
+  },
+  {
+    "hex": "#dbf9d7",
+    "label": "MP1661",
+    "name": "Frosted Mint"
+  },
+  {
+    "hex": "#f6d992",
+    "label": "MP7380",
+    "name": "Golden Lab"
+  },
+  {
+    "hex": "#65bdad",
+    "label": "MP9535",
+    "name": "Green Dream"
+  },
+  {
+    "hex": "#b69bba",
+    "label": "MP7785",
+    "name": "Heather Plum"
+  },
+  {
+    "hex": "#c7bfbf",
+    "label": "MP8456",
+    "name": "Lilac Grey"
+  },
+  {
+    "hex": "#e6d99d",
+    "label": "MP11958",
+    "name": "Lime Ice"
+  },
+  {
+    "hex": "#f7cc86",
+    "label": "MP8835",
+    "name": "Little Toot"
+  },
+  {
+    "hex": "#f2d0b5",
+    "label": "MP7489",
+    "name": "Marry Me"
+  },
+  {
+    "hex": "#6ec2b0",
+    "label": "MP7381",
+    "name": "Miami Teal"
+  },
+  {
+    "hex": "#c3e7dd",
+    "label": "MP12202",
+    "name": "Miami Waters"
+  },
+  {
+    "hex": "#c3b2bb",
+    "label": "MP12533",
+    "name": "Monet Lavender"
+  },
+  {
+    "hex": "#d9d7b7",
+    "label": "MP11759",
+    "name": "Mosaic Glass"
+  },
+  {
+    "hex": "#88cfb5",
+    "label": "MP10103",
+    "name": "Nephrite"
+  },
+  {
+    "hex": "#93bfb4",
+    "label": "MP3397",
+    "name": "Old Copper Roof"
+  },
+  {
+    "hex": "#f9e8b4",
+    "label": "MP3573",
+    "name": "Palomino Mane"
+  },
+  {
+    "hex": "#adc5d6",
+    "label": "MP12322",
+    "name": "Pastille Blue"
+  },
+  {
+    "hex": "#f2b281",
+    "label": "MP12409",
+    "name": "Peach Smoothie"
+  },
+  {
+    "hex": "#f5c29a",
+    "label": "MP187",
+    "name": "Peach Treat"
+  },
+  {
+    "hex": "#f9d9b0",
+    "label": "MP6944",
+    "name": "Peach Veil"
+  },
+  {
+    "hex": "#f8d4b6",
+    "label": "MP1220",
+    "name": "Peach Whisper"
+  },
+  {
+    "hex": "#ffa173",
+    "label": "MP181",
+    "name": "Peachy Pink"
+  },
+  {
+    "hex": "#f4b99f",
+    "label": "MP1203",
+    "name": "Persian Melon"
+  },
+  {
+    "hex": "#efac78",
+    "label": "MP8803",
+    "name": "Pueblo Rose"
+  },
+  {
+    "hex": "#909fc6",
+    "label": "MP12204",
+    "name": "Quiet Refuge"
+  },
+  {
+    "hex": "#b6e7da",
+    "label": "MP5742",
+    "name": "Sedum Green"
+  },
+  {
+    "hex": "#ffebd4",
+    "label": "MP10551",
+    "name": "Sheer Natural"
+  },
+  {
+    "hex": "#f2c9ba",
+    "label": "MP660",
+    "name": "Shy Pink"
+  },
+  {
+    "hex": "#7dbec1",
+    "label": "MP11249",
+    "name": "Sky Pilot"
+  },
+  {
+    "hex": "#a293a7",
+    "label": "MP11712",
+    "name": "Spiderwort"
+  },
+  {
+    "hex": "#f8d1a2",
+    "label": "MP1025",
+    "name": "Still Life Beige"
+  },
+  {
+    "hex": "#d2e5e9",
+    "label": "MP8334",
+    "name": "Tangled Up In Blue"
+  },
+  {
+    "hex": "#f1a874",
+    "label": "MP1226",
+    "name": "Tangy Glo"
+  },
+  {
+    "hex": "#f0c0a5",
+    "label": "MP6847",
+    "name": "Toasted Tan"
+  },
+  {
+    "hex": "#e6ced8",
+    "label": "MP7663",
+    "name": "Violet Mist"
+  },
+  {
+    "hex": "#e0d0d5",
+    "label": "MP7499",
+    "name": "Violet Water"
+  },
+  {
+    "hex": "#b1a3af",
+    "label": "MP5874",
+    "name": "Wilted Lilac"
+  },
+  {
+    "hex": "#bec6e4",
+    "label": "MP11896",
+    "name": "Zen Blue"
+  },
+  {
+    "hex": "#be9584",
+    "label": "MP23469-23560",
+    "name": "Copper Prl over Hot Oro"
+  },
+  {
+    "hex": "#ac4d46",
+    "label": "MP23467-23560",
+    "name": "Copper Prl over Scarlet Letter"
+  },
+  {
+    "hex": "#6d6a64",
+    "label": "MP23464-23560",
+    "name": "Copper Prl over Victoria Green"
+  },
+  {
+    "hex": "#7b475b",
+    "label": "MP23591-23351",
+    "name": "Crimson Prl over Black"
+  },
+  {
+    "hex": "#dee5d5",
+    "label": "MP23466-23551",
+    "name": "Crimson Prl over Eagle Feather"
+  },
+  {
+    "hex": "#c5afa9",
+    "label": "MP23469-23551",
+    "name": "Crimson Prl over Hot Oro"
+  },
+  {
+    "hex": "#b8b9ba",
+    "label": "MP23468-23551",
+    "name": "Crimson Prl over Hot Plata"
+  },
+  {
+    "hex": "#b45865",
+    "label": "MP23467-23551",
+    "name": "Crimson Prl over Scarlet Letter"
+  },
+  {
+    "hex": "#81afb4",
+    "label": "MP23464-23554",
+    "name": "Crimson Prl over Victoria Green"
+  },
+  {
+    "hex": "#d5d8ce",
+    "label": "MP23466",
+    "name": "Eagle Feather Basecoat"
+  },
+  {
+    "hex": "#676e72",
+    "label": "MP23591-23558",
+    "name": "Frost White Prl over Black"
+  },
+  {
+    "hex": "#e6efd6",
+    "label": "MP23466-23558",
+    "name": "Frost White Prl over Eagle Feather"
+  },
+  {
+    "hex": "#bfc1c1",
+    "label": "MP23468-23558",
+    "name": "Frost White Prl over Hot Plata"
+  },
+  {
+    "hex": "#af777e",
+    "label": "MP23467-23558",
+    "name": "Frost White Prl over Scarlet Letter"
+  },
+  {
+    "hex": "#eae6cc",
+    "label": "MP23466-23554",
+    "name": "Gold Dust Prl over Eagle Feather"
+  },
+  {
+    "hex": "#c0aa93",
+    "label": "MP23469-23554",
+    "name": "Gold Dust Prl over Hot Oro"
+  },
+  {
+    "hex": "#bfb8aa",
+    "label": "MP23468-23554",
+    "name": "Gold Dust Prl over Hot Plata"
+  },
+  {
+    "hex": "#7a927b",
+    "label": "MP23464-23554",
+    "name": "Gold Dust Prl over Victoria Green"
+  },
+  {
+    "hex": "#c0b0a7",
+    "label": "MP23469",
+    "name": "Hot Oro Basecoat"
+  },
+  {
+    "hex": "#bfc1c1",
+    "label": "MP23468",
+    "name": "Hot Plata Basecoat"
+  },
+  {
+    "hex": "#3a6d8e",
+    "label": "MP23591-23552",
+    "name": "Opal Blue Prl over Black"
+  },
+  {
+    "hex": "#e6e6d6",
+    "label": "MP23466-23552",
+    "name": "Opal Blue Prl over Eagle Feather"
+  },
+  {
+    "hex": "#beb3ba",
+    "label": "MP23469-23552",
+    "name": "Opal Blue Prl over Hot Oro"
+  },
+  {
+    "hex": "#a9b2b8",
+    "label": "MP23468-23552",
+    "name": "Opal Blue Prl over Hot Plata"
+  },
+  {
+    "hex": "#af648b",
+    "label": "MP23467-23552",
+    "name": "Opal Blue Prl over Scarlet Letter"
+  },
+  {
+    "hex": "#2d8ca5",
+    "label": "MP23464-23552",
+    "name": "Opal Blue Prl over Victoria Green"
+  },
+  {
+    "hex": "#69213a",
+    "label": "MP23591-23559",
+    "name": "Russet Prl over Black"
+  },
+  {
+    "hex": "#6e7a73",
+    "label": "MP2346423559",
+    "name": "Russet Prl over Victoria Green"
+  },
+  {
+    "hex": "#b12941",
+    "label": "MP23467",
+    "name": "Scarlet Letter Basecoat"
+  },
+  {
+    "hex": "#11797b",
+    "label": "MP23464",
+    "name": "Victoria Green Basecoat"
+  },
+  {
+    "hex": "#6d3e49",
+    "label": "MP25307",
+    "name": "Anasazi Red Met."
+  },
+  {
+    "hex": "#b1364b",
+    "label": "MP22341",
+    "name": "Arapaho Red Met."
+  },
+  {
+    "hex": "#b04469",
+    "label": "MP22298",
+    "name": "Blush Wine Met."
+  },
+  {
+    "hex": "#a06a60",
+    "label": "MP22351",
+    "name": "Brick Red Met."
+  },
+  {
+    "hex": "#68283d",
+    "label": "MP22340",
+    "name": "Bronce Red Met."
+  },
+  {
+    "hex": "#a0514f",
+    "label": "MP22346",
+    "name": "Bronze Red Met."
+  },
+  {
+    "hex": "#965638",
+    "label": "MP25296",
+    "name": "Browntone Met."
+  },
+  {
+    "hex": "#581a35",
+    "label": "MP34988",
+    "name": "Carmine Met."
+  },
+  {
+    "hex": "#a7364b",
+    "label": "MP22311",
+    "name": "Cereza Red Met."
+  },
+  {
+    "hex": "#af4c65",
+    "label": "MP22287",
+    "name": "Cherry Red Met."
+  },
+  {
+    "hex": "#c6709e",
+    "label": "MP22289",
+    "name": "Ciliegia Red Met."
+  },
+  {
+    "hex": "#9c213c",
+    "label": "MP22348",
+    "name": "Clay Red Met."
+  },
+  {
+    "hex": "#58173a",
+    "label": "MP22306",
+    "name": "Concord Grape Met."
+  },
+  {
+    "hex": "#521633",
+    "label": "MP46760",
+    "name": "Cote de Nuits Met."
+  },
+  {
+    "hex": "#aa6a60",
+    "label": "MP22353",
+    "name": "Cuivre Red Met."
+  },
+  {
+    "hex": "#6b213e",
+    "label": "MP22309",
+    "name": "Deep Rust Red Met."
+  },
+  {
+    "hex": "#c89b8c",
+    "label": "MP25281",
+    "name": "Faded Copper Met."
+  },
+  {
+    "hex": "#c24576",
+    "label": "MP25336",
+    "name": "Fortuna Red Met."
+  },
+  {
+    "hex": "#bb8f93",
+    "label": "MP22360",
+    "name": "Frosty Grape Met."
+  },
+  {
+    "hex": "#d3afb1",
+    "label": "MP22363",
+    "name": "Frosty Lavender Met."
+  },
+  {
+    "hex": "#ce5d8e",
+    "label": "MP22359",
+    "name": "Frosty Ruby Met."
+  },
+  {
+    "hex": "#b89288",
+    "label": "MP22358",
+    "name": "Frosty Rust Met."
+  },
+  {
+    "hex": "#c79b95",
+    "label": "MP22362",
+    "name": "Frosty Wine Met."
+  },
+  {
+    "hex": "#c2456d",
+    "label": "MP25338",
+    "name": "Heady Pink Met."
+  },
+  {
+    "hex": "#a7718e",
+    "label": "MP22305",
+    "name": "Light Iris Met."
+  },
+  {
+    "hex": "#e5a9a5",
+    "label": "MP22361",
+    "name": "Light Woodrose Met."
+  },
+  {
+    "hex": "#5e1a39",
+    "label": "MP25314",
+    "name": "Marin Red Met."
+  },
+  {
+    "hex": "#62183f",
+    "label": "MP22303",
+    "name": "Merlot Red Met."
+  },
+  {
+    "hex": "#cb87aa",
+    "label": "MP22295",
+    "name": "Mirtillo Red Met."
+  },
+  {
+    "hex": "#b96492",
+    "label": "MP25341",
+    "name": "Myst Pink Met."
+  },
+  {
+    "hex": "#ab654e",
+    "label": "MP47934",
+    "name": "New Bronze Met."
+  },
+  {
+    "hex": "#d298b2",
+    "label": "MP22296",
+    "name": "Orchidea Red Met."
+  },
+  {
+    "hex": "#ae2b00",
+    "label": "MP22342",
+    "name": "Pima Red Met."
+  },
+  {
+    "hex": "#691844",
+    "label": "MP22307",
+    "name": "Porpora Red Met."
+  },
+  {
+    "hex": "#5b1737",
+    "label": "MP22294",
+    "name": "Porto Red Met."
+  },
+  {
+    "hex": "#663540",
+    "label": "MP22350",
+    "name": "Rame Red Met."
+  },
+  {
+    "hex": "#bc506a",
+    "label": "MP19759",
+    "name": "Raspberry Met."
+  },
+  {
+    "hex": "#5f1b36",
+    "label": "MP47251",
+    "name": "Red Canyon Met."
+  },
+  {
+    "hex": "#ac5c45",
+    "label": "MP25295",
+    "name": "Red Creek Met."
+  },
+  {
+    "hex": "#a7363f",
+    "label": "MP22310",
+    "name": "Reserva Red Met."
+  },
+  {
+    "hex": "#dfc3b3",
+    "label": "MP22695",
+    "name": "Rosetaupe Met."
+  },
+  {
+    "hex": "#713349",
+    "label": "MP25321",
+    "name": "Roso Red Met."
+  },
+  {
+    "hex": "#bda899",
+    "label": "MP46109",
+    "name": "Rosy Glow Met."
+  },
+  {
+    "hex": "#6e1c43",
+    "label": "MP44249",
+    "name": "Sangiovese Red Met."
+  },
+  {
+    "hex": "#995647",
+    "label": "MP21609",
+    "name": "Sunset Bronze Met."
+  },
+  {
+    "hex": "#bf7c9f",
+    "label": "MP25340",
+    "name": "Sweet Pink Met."
+  },
+  {
+    "hex": "#672042",
+    "label": "MP25344",
+    "name": "Uva Red Met."
+  },
+  {
+    "hex": "#b378a3",
+    "label": "MP23308",
+    "name": "Violeta Met."
+  },
+  {
+    "hex": "#c8323c",
+    "label": "MP11124",
+    "name": "Alizarine Red"
+  },
+  {
+    "hex": "#926276",
+    "label": "MP8822",
+    "name": "Amerhyst"
+  },
+  {
+    "hex": "#59173a",
+    "label": "MP14731",
+    "name": "Amontillado"
+  },
+  {
+    "hex": "#f1ac8a",
+    "label": "MP1222",
+    "name": "Apricot Glaze"
+  },
+  {
+    "hex": "#f2aaac",
+    "label": "MP8900",
+    "name": "April Love"
+  },
+  {
+    "hex": "#ea743c",
+    "label": "MP1229",
+    "name": "Aranciata Orange"
+  },
+  {
+    "hex": "#d49c92",
+    "label": "MP1007",
+    "name": "Arizona Rose"
+  },
+  {
+    "hex": "#c35941",
+    "label": "MP177",
+    "name": "Autumn Oak Leaf"
+  },
+  {
+    "hex": "#7c0315",
+    "label": "MP11531",
+    "name": "Barbera Red"
+  },
+  {
+    "hex": "#5d0010",
+    "label": "MP12767",
+    "name": "Bardolino Vino"
+  },
+  {
+    "hex": "#5d0010",
+    "label": "MP16105",
+    "name": "Barolo"
+  },
+  {
+    "hex": "#662d44",
+    "label": "MP4766",
+    "name": "Beetroot"
+  },
+  {
+    "hex": "#862c57",
+    "label": "MP876",
+    "name": "Berry Berry"
+  },
+  {
+    "hex": "#aa2241",
+    "label": "MP233",
+    "name": "Berry Frappe"
+  },
+  {
+    "hex": "#b40032",
+    "label": "MP14833",
+    "name": "Black Princes Ruby"
+  },
+  {
+    "hex": "#bf3851",
+    "label": "MP11718",
+    "name": "Blazing Dark"
+  },
+  {
+    "hex": "#870000",
+    "label": "MP16091",
+    "name": "Blazon Red"
+  },
+  {
+    "hex": "#a80263",
+    "label": "MP4897",
+    "name": "Boticelli"
+  },
+  {
+    "hex": "#a57086",
+    "label": "MP8856",
+    "name": "Bouquet"
+  },
+  {
+    "hex": "#e5b3a8",
+    "label": "MP1006",
+    "name": "Brick Pink"
+  },
+  {
+    "hex": "#8c0000",
+    "label": "MP3646",
+    "name": "Burgundy Bash"
+  },
+  {
+    "hex": "#d39a82",
+    "label": "MP2728",
+    "name": "Butte Force Tan"
+  },
+  {
+    "hex": "#b93b3e",
+    "label": "MP10252",
+    "name": "Campbells Soup Red"
+  },
+  {
+    "hex": "#dc5a5a",
+    "label": "MP9270",
+    "name": "Candystriper"
+  },
+  {
+    "hex": "#e48b5d",
+    "label": "MP4349",
+    "name": "Canyon Coral"
+  },
+  {
+    "hex": "#ca96ac",
+    "label": "MP7424",
+    "name": "Caribbean Sunset"
+  },
+  {
+    "hex": "#b45144",
+    "label": "MP8698",
+    "name": "Carmolito"
+  },
+  {
+    "hex": "#a54c43",
+    "label": "MP4417",
+    "name": "Carnegie Brick"
+  },
+  {
+    "hex": "#f9d2c8",
+    "label": "MP1011",
+    "name": "Cartoon Fleshtone"
+  },
+  {
+    "hex": "#c36c4b",
+    "label": "MP9244",
+    "name": "Celosia Bloom"
+  },
+  {
+    "hex": "#e78d8e",
+    "label": "MP1740",
+    "name": "Charade Pink"
+  },
+  {
+    "hex": "#c35445",
+    "label": "MP6290",
+    "name": "Chili Powder"
+  },
+  {
+    "hex": "#d8414e",
+    "label": "MP6893",
+    "name": "Chinese Pagoda"
+  },
+  {
+    "hex": "#f04e40",
+    "label": "MP10843",
+    "name": "Chinese Red"
+  },
+  {
+    "hex": "#c86b6c",
+    "label": "MP7350",
+    "name": "Cinco De Mayo"
+  },
+  {
+    "hex": "#7e2642",
+    "label": "MP10658",
+    "name": "Claret Jug"
+  },
+  {
+    "hex": "#752332",
+    "label": "MP15967",
+    "name": "Colonial Red"
+  },
+  {
+    "hex": "#c31427",
+    "label": "MP15351",
+    "name": "Combine Red"
+  },
+  {
+    "hex": "#e8af8e",
+    "label": "MP10588",
+    "name": "Conch Shell"
+  },
+  {
+    "hex": "#e28e6b",
+    "label": "MP9214",
+    "name": "Copa Coral"
+  },
+  {
+    "hex": "#e27676",
+    "label": "MP859",
+    "name": "Coral Necklace"
+  },
+  {
+    "hex": "#813d48",
+    "label": "MP671",
+    "name": "Cordoba Red"
+  },
+  {
+    "hex": "#9a4643",
+    "label": "MP7693",
+    "name": "Country Redwood"
+  },
+  {
+    "hex": "#e88768",
+    "label": "MP5094",
+    "name": "Crabapple"
+  },
+  {
+    "hex": "#c4076e",
+    "label": "MP273",
+    "name": "Cranberry"
+  },
+  {
+    "hex": "#823d3f",
+    "label": "MP14402",
+    "name": "Dark Tatar Red"
+  },
+  {
+    "hex": "#800000",
+    "label": "MP1126",
+    "name": "Davies Crest Red"
+  },
+  {
+    "hex": "#d44c62",
+    "label": "MP4870",
+    "name": "Deep Cerise"
+  },
+  {
+    "hex": "#af5641",
+    "label": "MP5462",
+    "name": "Deep Russet"
+  },
+  {
+    "hex": "#e36c6c",
+    "label": "MP216",
+    "name": "Deepwater Coral"
+  },
+  {
+    "hex": "#d23746",
+    "label": "MP11387",
+    "name": "Dollar General Red"
+  },
+  {
+    "hex": "#c8644c",
+    "label": "MP4574",
+    "name": "Egyptian Rust"
+  },
+  {
+    "hex": "#9a3748",
+    "label": "MP14062",
+    "name": "Elderberry Wine"
+  },
+  {
+    "hex": "#aa5153",
+    "label": "MP4631",
+    "name": "Ember Red"
+  },
+  {
+    "hex": "#e4693d",
+    "label": "MP8528",
+    "name": "Engine Orange"
+  },
+  {
+    "hex": "#c3001e",
+    "label": "MP8514",
+    "name": "Enzo Red"
+  },
+  {
+    "hex": "#b16595",
+    "label": "MP14720",
+    "name": "Equestrian Purple"
+  },
+  {
+    "hex": "#da5d63",
+    "label": "MP860",
+    "name": "Escarlate"
+  },
+  {
+    "hex": "#b92223",
+    "label": "MP10256",
+    "name": "Esprit Red"
+  },
+  {
+    "hex": "#dcc4be",
+    "label": "MP688",
+    "name": "Essence Of Mauve"
+  },
+  {
+    "hex": "#ea8566",
+    "label": "MP7268",
+    "name": "Fan Coral"
+  },
+  {
+    "hex": "#c53e56",
+    "label": "MP12665",
+    "name": "Fashion Pink"
+  },
+  {
+    "hex": "#cd221e",
+    "label": "MP10338",
+    "name": "Fiesta Red"
+  },
+  {
+    "hex": "#ba635c",
+    "label": "MP8096",
+    "name": "Fire Coral"
+  },
+  {
+    "hex": "#fb0000",
+    "label": "MP15026",
+    "name": "Firebreathing Red"
+  },
+  {
+    "hex": "#b22223",
+    "label": "MP12019",
+    "name": "Flash Red"
+  },
+  {
+    "hex": "#b43b40",
+    "label": "MP8937",
+    "name": "Flexi-Flyer Red"
+  },
+  {
+    "hex": "#c53e56",
+    "label": "MP25001",
+    "name": "Floribunda Red"
+  },
+  {
+    "hex": "#800000",
+    "label": "MP12009",
+    "name": "Ford Tractor Red"
+  },
+  {
+    "hex": "#c86b5a",
+    "label": "MP9252",
+    "name": "Foxborough Brick"
+  },
+  {
+    "hex": "#b62e75",
+    "label": "MP11237",
+    "name": "French Magenta"
+  },
+  {
+    "hex": "#bd066a",
+    "label": "MP5122",
+    "name": "Fuschia Red"
+  },
+  {
+    "hex": "#6b2b42",
+    "label": "MP11798",
+    "name": "Giana Zinfandel"
+  },
+  {
+    "hex": "#9e075a",
+    "label": "MP13183",
+    "name": "Goji Berry"
+  },
+  {
+    "hex": "#781a4b",
+    "label": "MP878",
+    "name": "Grapejuice"
+  },
+  {
+    "hex": "#caa0af",
+    "label": "MP3382",
+    "name": "Grapesicle"
+  },
+  {
+    "hex": "#cd2222",
+    "label": "MP10844",
+    "name": "Gravely Tractor Red"
+  },
+  {
+    "hex": "#cd373c",
+    "label": "MP10254",
+    "name": "Gryffindor Red"
+  },
+  {
+    "hex": "#dd5952",
+    "label": "MP7163",
+    "name": "Habanero Pepper"
+  },
+  {
+    "hex": "#e58a62",
+    "label": "MP13310",
+    "name": "Hint Of Copper"
+  },
+  {
+    "hex": "#b22222",
+    "label": "MP10224",
+    "name": "Hotrod Red"
+  },
+  {
+    "hex": "#df7376",
+    "label": "MP1741",
+    "name": "Japonica"
+  },
+  {
+    "hex": "#da6a52",
+    "label": "MP7237",
+    "name": "Jupiter Glow"
+  },
+  {
+    "hex": "#e65732",
+    "label": "MP12601",
+    "name": "Kiwano Orange"
+  },
+  {
+    "hex": "#eb603f",
+    "label": "MP1049",
+    "name": "Kubota Orange"
+  },
+  {
+    "hex": "#9a535f",
+    "label": "MP10894",
+    "name": "Kurdistan"
+  },
+  {
+    "hex": "#de6b3d",
+    "label": "MP176",
+    "name": "Lift Truck Orange"
+  },
+  {
+    "hex": "#cf5d63",
+    "label": "MP11851",
+    "name": "Lip Gloss"
+  },
+  {
+    "hex": "#d32d6b",
+    "label": "MP9299",
+    "name": "Lorens Lip Gloss"
+  },
+  {
+    "hex": "#b40000",
+    "label": "MP16043",
+    "name": "Lucky Red"
+  },
+  {
+    "hex": "#dc663b",
+    "label": "MP855",
+    "name": "Machine Orange"
+  },
+  {
+    "hex": "#b42241",
+    "label": "MP870",
+    "name": "Magenta Magic"
+  },
+  {
+    "hex": "#bd2d7f",
+    "label": "MP285",
+    "name": "Magenta Sigh"
+  },
+  {
+    "hex": "#863c59",
+    "label": "MP15262",
+    "name": "Marsala Pansauce"
+  },
+  {
+    "hex": "#be0032",
+    "label": "MP14801",
+    "name": "Massey-Ferguson Red"
+  },
+  {
+    "hex": "#ed6d35",
+    "label": "MP190",
+    "name": "Matchbox Car Orange"
+  },
+  {
+    "hex": "#dc656d",
+    "label": "MP8744",
+    "name": "Maui Coral"
+  },
+  {
+    "hex": "#d5aaaa",
+    "label": "MP999",
+    "name": "Mauvetone"
+  },
+  {
+    "hex": "#a62e18",
+    "label": "MP12429",
+    "name": "Mehndi Red"
+  },
+  {
+    "hex": "#8b555f",
+    "label": "MP5180",
+    "name": "Melancholy Mauve"
+  },
+  {
+    "hex": "#ef9e6d",
+    "label": "MP1223",
+    "name": "Melody"
+  },
+  {
+    "hex": "#c07870",
+    "label": "MP3366",
+    "name": "Mesa Red"
+  },
+  {
+    "hex": "#ec8e73",
+    "label": "MP11850",
+    "name": "Meso Red"
+  },
+  {
+    "hex": "#e37449",
+    "label": "MP12876",
+    "name": "Midnight Sun"
+  },
+  {
+    "hex": "#d99b78",
+    "label": "MP11661",
+    "name": "Mineral Hill"
+  },
+  {
+    "hex": "#c86b51",
+    "label": "MP7856",
+    "name": "Minium Red"
+  },
+  {
+    "hex": "#e06d36",
+    "label": "MP170",
+    "name": "Moline Orange"
+  },
+  {
+    "hex": "#c89ba1",
+    "label": "MP993",
+    "name": "Motherwort Pink"
+  },
+  {
+    "hex": "#925d66",
+    "label": "MP4649",
+    "name": "Mountain Majesty"
+  },
+  {
+    "hex": "#884b77",
+    "label": "MP3563",
+    "name": "Murex Purple"
+  },
+  {
+    "hex": "#b1574f",
+    "label": "MP8843",
+    "name": "Native Copper"
+  },
+  {
+    "hex": "#a8055f",
+    "label": "MP274",
+    "name": "Oenophile"
+  },
+  {
+    "hex": "#d07a5a",
+    "label": "MP7869",
+    "name": "Orange County"
+  },
+  {
+    "hex": "#cf6034",
+    "label": "MP13189",
+    "name": "Orange Cowry"
+  },
+  {
+    "hex": "#d74b37",
+    "label": "MP205",
+    "name": "Orange Ember"
+  },
+  {
+    "hex": "#c35f3c",
+    "label": "MP10429",
+    "name": "Orange Nature"
+  },
+  {
+    "hex": "#e86e46",
+    "label": "MP4589",
+    "name": "Orange Revolution"
+  },
+  {
+    "hex": "#db7146",
+    "label": "MP9230",
+    "name": "Orange Rose"
+  },
+  {
+    "hex": "#ff7d4f",
+    "label": "MP1224",
+    "name": "Orange Supreme"
+  },
+  {
+    "hex": "#eb6037",
+    "label": "MP197",
+    "name": "Orange Tang"
+  },
+  {
+    "hex": "#c4a1af",
+    "label": "MP5136",
+    "name": "Orchid Bouquet"
+  },
+  {
+    "hex": "#7a1a4a",
+    "label": "MP12477",
+    "name": "Orchis Purple"
+  },
+  {
+    "hex": "#c4215d",
+    "label": "MP3415",
+    "name": "Pairie Rose"
+  },
+  {
+    "hex": "#dfbecb",
+    "label": "MP289",
+    "name": "Pale Peony"
+  },
+  {
+    "hex": "#a9598b",
+    "label": "MP292",
+    "name": "Palermo Purple"
+  },
+  {
+    "hex": "#e1524c",
+    "label": "MP8860",
+    "name": "Pandora"
+  },
+  {
+    "hex": "#7d5283",
+    "label": "MP5015",
+    "name": "Pansy"
+  },
+  {
+    "hex": "#e17659",
+    "label": "MP10908",
+    "name": "Passion Fruit"
+  },
+  {
+    "hex": "#d70000",
+    "label": "MP12565",
+    "name": "Pepsi Red"
+  },
+  {
+    "hex": "#f1ac7f",
+    "label": "MP1225",
+    "name": "Pesca Peach"
+  },
+  {
+    "hex": "#ed9aa0",
+    "label": "MP214",
+    "name": "Piglet Pink"
+  },
+  {
+    "hex": "#f05241",
+    "label": "MP7332",
+    "name": "Pinata"
+  },
+  {
+    "hex": "#d04b81",
+    "label": "MP7245",
+    "name": "Pink Corsage"
+  },
+  {
+    "hex": "#e8888a",
+    "label": "MP89",
+    "name": "Pink Panther"
+  },
+  {
+    "hex": "#f2aaa4",
+    "label": "MP228",
+    "name": "Pink Perfection"
+  },
+  {
+    "hex": "#e47257",
+    "label": "MP5718",
+    "name": "Pink Pompey"
+  },
+  {
+    "hex": "#f5bcb8",
+    "label": "MP865",
+    "name": "Pinking"
+  },
+  {
+    "hex": "#e17277",
+    "label": "MP244",
+    "name": "Pinkish"
+  },
+  {
+    "hex": "#f47d34",
+    "label": "MP853",
+    "name": "Plastic Pumpkin"
+  },
+  {
+    "hex": "#8d5467",
+    "label": "MP4400",
+    "name": "Plum Crazy"
+  },
+  {
+    "hex": "#6f4360",
+    "label": "MP4998",
+    "name": "Plum Kuchen"
+  },
+  {
+    "hex": "#c88f96",
+    "label": "MP5491",
+    "name": "Plumb Line"
+  },
+  {
+    "hex": "#a26c91",
+    "label": "MP9375",
+    "name": "Polly Purple"
+  },
+  {
+    "hex": "#f1a9a6",
+    "label": "MP249",
+    "name": "Porky Pink"
+  },
+  {
+    "hex": "#d94b91",
+    "label": "MP988",
+    "name": "Powerful Pink"
+  },
+  {
+    "hex": "#c8221e",
+    "label": "MP15025",
+    "name": "Prague Streetsign Red"
+  },
+  {
+    "hex": "#c9947f",
+    "label": "MP14440",
+    "name": "Pressed Rose Pink"
+  },
+  {
+    "hex": "#d95489",
+    "label": "MP16322",
+    "name": "Prestone Pink"
+  },
+  {
+    "hex": "#f4b9ae",
+    "label": "MP221",
+    "name": "Pretty In Pink"
+  },
+  {
+    "hex": "#b972a7",
+    "label": "MP291",
+    "name": "Princess Purple"
+  },
+  {
+    "hex": "#cd4c66",
+    "label": "MP12654",
+    "name": "Process Magenta U"
+  },
+  {
+    "hex": "#b37a81",
+    "label": "MP13360",
+    "name": "Pulga Puce"
+  },
+  {
+    "hex": "#875b8c",
+    "label": "MP14722",
+    "name": "Purple Gallinule"
+  },
+  {
+    "hex": "#b52d7e",
+    "label": "MP875",
+    "name": "Purple Robe"
+  },
+  {
+    "hex": "#aa739d",
+    "label": "MP9360",
+    "name": "Purpleleaf Sandcherry"
+  },
+  {
+    "hex": "#8b5d7d",
+    "label": "MP11309",
+    "name": "Purplestone"
+  },
+  {
+    "hex": "#d6323c",
+    "label": "MP15194",
+    "name": "Ramjet Red"
+  },
+  {
+    "hex": "#cd4137",
+    "label": "MP8131",
+    "name": "Rapid Red"
+  },
+  {
+    "hex": "#7a404e",
+    "label": "MP13969",
+    "name": "Raspberry Wine"
+  },
+  {
+    "hex": "#bf6365",
+    "label": "MP10540",
+    "name": "Red Butte"
+  },
+  {
+    "hex": "#d6323c",
+    "label": "MP10241",
+    "name": "Red Camaro"
+  },
+  {
+    "hex": "#ae0027",
+    "label": "MP15775",
+    "name": "Red Car Line"
+  },
+  {
+    "hex": "#cb6f4e",
+    "label": "MP10327",
+    "name": "Red Desert"
+  },
+  {
+    "hex": "#cd0000",
+    "label": "MP15024",
+    "name": "Red Dragon"
+  },
+  {
+    "hex": "#b9221e",
+    "label": "MP15394",
+    "name": "Red Ferrari"
+  },
+  {
+    "hex": "#a02813",
+    "label": "MP5083",
+    "name": "Red Ocher"
+  },
+  {
+    "hex": "#be2222",
+    "label": "MP15195",
+    "name": "Red Rage"
+  },
+  {
+    "hex": "#a54d49",
+    "label": "MP13362",
+    "name": "Redbone"
+  },
+  {
+    "hex": "#a24d49",
+    "label": "MP6569",
+    "name": "Redcliff"
+  },
+  {
+    "hex": "#ee4d9b",
+    "label": "MP1090",
+    "name": "Rhodamine Red C"
+  },
+  {
+    "hex": "#8c2d30",
+    "label": "MP13353",
+    "name": "Ripasso Red"
+  },
+  {
+    "hex": "#e0ae96",
+    "label": "MP5957",
+    "name": "Rosa"
+  },
+  {
+    "hex": "#dc8c97",
+    "label": "MP13361",
+    "name": "Rosa Moschata"
+  },
+  {
+    "hex": "#e47251",
+    "label": "MP11158",
+    "name": "Rosalita"
+  },
+  {
+    "hex": "#c64966",
+    "label": "MP15170",
+    "name": "Rose Essence"
+  },
+  {
+    "hex": "#da4646",
+    "label": "MP225",
+    "name": "Rose Petal"
+  },
+  {
+    "hex": "#cd066a",
+    "label": "MP5041",
+    "name": "Roseate Spoonbill"
+  },
+  {
+    "hex": "#bc7a85",
+    "label": "MP15762",
+    "name": "Rosie Ogrady"
+  },
+  {
+    "hex": "#b91427",
+    "label": "MP226",
+    "name": "Rossinni Red"
+  },
+  {
+    "hex": "#ba0662",
+    "label": "MP14926",
+    "name": "Ruby Dee"
+  },
+  {
+    "hex": "#cd0000",
+    "label": "MP3543",
+    "name": "Ruby Laser"
+  },
+  {
+    "hex": "#af584c",
+    "label": "MP4705",
+    "name": "Santa Ana Red"
+  },
+  {
+    "hex": "#cd221e",
+    "label": "MP12602",
+    "name": "Scarlata"
+  },
+  {
+    "hex": "#c72b53",
+    "label": "MP14776",
+    "name": "Scarlet Flower"
+  },
+  {
+    "hex": "#a95750",
+    "label": "MP7100",
+    "name": "Sedona Red"
+  },
+  {
+    "hex": "#d25048",
+    "label": "MP15348",
+    "name": "September Sun"
+  },
+  {
+    "hex": "#762f30",
+    "label": "MP3122",
+    "name": "Sequoia"
+  },
+  {
+    "hex": "#bd6162",
+    "label": "MP6362",
+    "name": "Serene"
+  },
+  {
+    "hex": "#e67359",
+    "label": "MP9215",
+    "name": "Singed Orange"
+  },
+  {
+    "hex": "#ae4e50",
+    "label": "MP15389",
+    "name": "Smoked Paprika"
+  },
+  {
+    "hex": "#5f183b",
+    "label": "MP8303",
+    "name": "Sonoma Shiraz"
+  },
+  {
+    "hex": "#c35941",
+    "label": "MP192",
+    "name": "Southern Clay"
+  },
+  {
+    "hex": "#b34f4a",
+    "label": "MP7298",
+    "name": "Spanish Red"
+  },
+  {
+    "hex": "#930000",
+    "label": "MP11936",
+    "name": "Split Second Red"
+  },
+  {
+    "hex": "#b95644",
+    "label": "MP3395",
+    "name": "Talavera Tile"
+  },
+  {
+    "hex": "#9a4246",
+    "label": "MP7276",
+    "name": "Tawny Port"
+  },
+  {
+    "hex": "#c31e1e",
+    "label": "MP15430",
+    "name": "Texas Scarlet"
+  },
+  {
+    "hex": "#af3c3a",
+    "label": "MP4534",
+    "name": "Tomato Spice"
+  },
+  {
+    "hex": "#781c1f",
+    "label": "MP15793",
+    "name": "Town &amp; Country Red"
+  },
+  {
+    "hex": "#af554f",
+    "label": "MP7792",
+    "name": "Tucson Red"
+  },
+  {
+    "hex": "#926597",
+    "label": "MP9382",
+    "name": "Tyrian Purple"
+  },
+  {
+    "hex": "#be3232",
+    "label": "MP7505",
+    "name": "Umbria Red"
+  },
+  {
+    "hex": "#a04854",
+    "label": "MP10747",
+    "name": "Velvet Rose"
+  },
+  {
+    "hex": "#bc9aab",
+    "label": "MP694",
+    "name": "Violet Fantasy"
+  },
+  {
+    "hex": "#a0639b",
+    "label": "MP9369",
+    "name": "Violet Femmes"
+  },
+  {
+    "hex": "#bc92a2",
+    "label": "MP686",
+    "name": "Violet Fog"
+  },
+  {
+    "hex": "#c9adb9",
+    "label": "MP295",
+    "name": "Violet Lace"
+  },
+  {
+    "hex": "#daafd2",
+    "label": "MP296",
+    "name": "Violet Vamp"
+  },
+  {
+    "hex": "#e8c1c6",
+    "label": "MP984",
+    "name": "Violet Wash"
+  },
+  {
+    "hex": "#e86457",
+    "label": "MP9250",
+    "name": "Warm Red U"
+  },
+  {
+    "hex": "#bd6162",
+    "label": "MP10113",
+    "name": "Watermelon Gelato"
+  },
+  {
+    "hex": "#9d5255",
+    "label": "MP16068",
+    "name": "Wine Sauce"
+  },
+  {
+    "hex": "#863f4d",
+    "label": "MP255",
+    "name": "Winetint"
+  },
+  {
+    "hex": "#c88d73",
+    "label": "MP5052",
+    "name": "Yaqui Trail"
+  },
+  {
+    "hex": "#fbddd2",
+    "label": "MP7221",
+    "name": "Yours Truly"
+  },
+  {
+    "hex": "#963c55",
+    "label": "MP13827",
+    "name": "Zinfandel"
+  },
+  {
+    "hex": "#a7a397",
+    "label": "MP19891",
+    "name": "Airstream Sparkle Met."
+  },
+  {
+    "hex": "#87817b",
+    "label": "MP46699",
+    "name": "Amalgam Grey Met."
+  },
+  {
+    "hex": "#8d877f",
+    "label": "MP31147",
+    "name": "Basalt Met."
+  },
+  {
+    "hex": "#797777",
+    "label": "MP23626",
+    "name": "Bessemer Grey Met."
+  },
+  {
+    "hex": "#3b4145",
+    "label": "MP19952",
+    "name": "Black Hole Met."
+  },
+  {
+    "hex": "#606062",
+    "label": "MP19970",
+    "name": "Blue Slate Met."
+  },
+  {
+    "hex": "#7e7a75",
+    "label": "MP54998",
+    "name": "BMW Sterling Grey Met."
+  },
+  {
+    "hex": "#837e79",
+    "label": "MP52215",
+    "name": "Boron Grey Met."
+  },
+  {
+    "hex": "#bdbaae",
+    "label": "MP18094",
+    "name": "Bright Silver Met."
+  },
+  {
+    "hex": "#d2cdbe",
+    "label": "MP18082",
+    "name": "Brightray Silver Met."
+  },
+  {
+    "hex": "#888783",
+    "label": "MP18146",
+    "name": "Cast Steel Met."
+  },
+  {
+    "hex": "#3b3f41",
+    "label": "MP19925",
+    "name": "Cessna Black Met."
+  }
+]
