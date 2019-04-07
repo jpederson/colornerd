@@ -20,7 +20,6 @@
     "grunt-contrib-uglify": "*",
     "grunt-shell": "*",
     "matchdep": "*",
-    "fastclick": "~1.0.2",
-    "jquery": "~1.11.1"
+    "fastclick": "~1.0.2"
   }
 }
