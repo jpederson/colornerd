@@ -1,35 +1,7 @@
 [
     {
-        "title": "3M",
-        "filename": "threem"
-    },
-    {
-        "title": "ANPA",
-        "filename": "anpa"
-    },
-    {
-        "title": "Al Jazeera",
-        "filename": "al-jazeera"
-    },
-    {
-        "title": "Alligator",
-        "filename": "alligator"
-    },
-    {
-        "title": "Alpina",
-        "filename": "alpina"
-    },
-    {
         "title": "Avery",
         "filename": "avery"
-    },
-    {
-        "title": "Baumit",
-        "filename": "baumit"
-    },
-    {
-        "title": "Baumann",
-        "filename": "baumann"
     },
     {
         "title": "Behr Paints",
@@ -46,10 +18,6 @@
     {
         "title": "Dunn Edwards",
         "filename": "dunn-edwards"
-    },
-    {
-        "title": "FasCal",
-        "filename": "fascal"
     },
     {
         "title": "HKS",
