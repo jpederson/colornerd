@@ -1,31 +1,49 @@
-<!doctype html>
+<!doctype html lang="en">
 <title>Colornerd - A Massive Color Library for Sass, Stylus, and LESS</title>
 <link href="demo.css" rel="stylesheet">
 <meta name="viewport" content="width=device-width">
 
-<div class="book-list">
-	<ul>
-		<li><a href="http://github.com/jpederson/colornerd" class="download">Download Colornerd</a></li>
-		<li><a class="book-usage-toggle">Usage Instructions</a></li>
-		<li class="label">- select a color book below -</li>
-		{{colors}}
-	</ul>
-</div>
 
-<div class="book-usage">
-	<div class="half">
-		<h4>Sass & Stylus Usage</h4>
-		<code><span class="function quiet">[book-name]</span>( "<span class="selected-color quiet">[color]</span>" )</code>
+<header>
+	<div class="book-list">
+		<h4>Browse a Book</h4>
+		<select class="book">
+			{{colors}}
+		</select>
 	</div>
-	<div class="half">
-		<h4>LESS Usage</h4>
-		<code>@<span class="function quiet">[book-name]</span>-<span class="selected-color quiet">[color]</span></code>
-	</div>
-</div>
 
-<div class="book-viewer">
-	<div class="introduction">
-		<h2>&laquo; select a color book from left &raquo;</h2>
+	<div class="color-selected">
+
+	</div>
+
+	<div class="book-usage">
+		<div class="forty">
+			<h4>Sass & Stylus Usage</h4>
+			<code><span class="function quiet">[book-name]</span>( "<span class="selected-color quiet">[color]</span>" )</code>
+		</div>
+		<div class="forty">
+			<h4>LESS Usage</h4>
+			<code>@<span class="function quiet">[book-name]</span>-<span class="selected-color quiet">[color]</span></code>
+		</div>
+		<div class="twenty">
+			<h4>Hex Code</h4>
+			<code><span class="hex quiet">#ffffff</span></code>
+		</div>
+	</div>
+
+
+</header>
+
+<div class="book-viewer"></div>
+
+<div class="disclaimer">
+	<div class="column powered">
+		<h4>Powered by</h4>
+		<code><a href="http://github.com/jpederson/colornerd" class="download">colornerd</a></code>
+	</div>
+	<div class="column fine">
+		<h4>Disclaimer</h4>
+		<small>All the colorbooks and color names are the property of their respective owners. This is <strong>not an official project</strong> for any vendor, and they are not liable for how you use it.</small>
 	</div>
 </div>
 

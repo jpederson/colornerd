@@ -1,14 +1,9 @@
 
 
-// some maths
-$usage_height_narrow: 220px;
-$usage_height_wide: 140px;
-
-$usage_left_768: 30%;
-$usage_left_1220: 20%;
+@import "../scss/_colornerd.scss";
 
 
-$green: #00a500;
+$green: avery( "879" );
 
 
 /// basic font stuffs
@@ -19,11 +14,10 @@ $green: #00a500;
 	font-weight: 300;
 }
 
-
-
 // clearfixin' mixin
 @mixin clearfix {
 	zoom: 1;
+	clear: both;
 
 	&:before, &:after { 
 		content: ""; 
@@ -32,12 +26,9 @@ $green: #00a500;
 
 	&:after { clear: both; }
 }
-
 .group {
 	@include clearfix;
 }
-
-
 
 // responsive mixin
 @mixin respond-to( $breakpoint ) {
@@ -52,180 +43,104 @@ body {
 	@include font;
 	transition: padding-top 500ms ease-in-out;
 	-webkit-transition: padding-top 500ms ease-in-out;
+	padding-top: 78px;
+}
+
+
+header {
+	@include clearfix;
+	position: fixed;
+	z-index: 100;
+	top: 0;
+	left: 0;
+	right: 0;
+	background: white;
+	padding: 20px;
+	border-bottom: 3px solid black;
 
 	@include respond-to( 768px ) {
-		padding-left: $usage_left_768;
-
-		&.with-usage {
-			padding-top: $usage_height_narrow;
-		}
+		padding: 10px 20px;
 	}
+}
+ 
+h4 {
+	font-size: .6em;
+	line-height: 1.2em;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	color: #999;
+	padding: 3px 0;
+	margin: 0;
+}
 
-	@include respond-to( 1024px ) {
-		&.with-usage {
-			padding-top: $usage_height_wide;
-		}
-	}
+code {
+	color: black;
+	font-size: 1.3em;
+	line-height: 2em;
 
-	@include respond-to( 1220px ) {
-		padding-left: $usage_left_1220;
+	a {
+		color: black;
 	}
 }
 
 
+.quiet {
+	color: #aaa;
+}
 
-// book list styles
+
 .book-list {
+	padding: 8px 0;
+
+	select {
+		@include font;
+		background: white;
+		border: 2px solid #444;
+		font-size: 1.1em;
+		line-height: 1.3em;
+		padding: 10px 0;
+		max-width: 100%;
+	}
+
 	@include respond-to( 768px ) {
-		position: fixed;
-		top: 0;
-		left: 0;
-		bottom: 0;
-		right: 70%;
-		overflow: auto;
-		border-right: 1px solid #eee;
-	}
-
-	@include respond-to( 1220px ) {
-		right: 80%;
-	}
-
-	ul {
-		padding: 0;
-		margin: 0;
-		list-style: none;
-	
-		li {
-			a {
-				display: block;
-				padding: 12px;
-				font-weight: 700;
-				color: #888;
-				border-bottom: 1px solid #eee;
-				cursor: pointer;
-				
-				// nix transitions on small screens
-				@include respond-to( 1025px ) {
-					transition: background-color 300ms ease-in-out, color 300ms, ease-in-out;
-					-webkit-transition: background-color 300ms ease-in-out, color 300ms, ease-in-out;
-				}
-
-				span {
-					font-weight: 300;
-					font-size: .85em;
-					opacity: .7;
-					display: block;
-				}
-
-				&:hover {
-					color: #eee;
-					background: #666;
-				}
-
-				&.book-usage-toggle {
-					display: none;
-
-					@include respond-to( 768px ) {
-						display: block;
-						background-color: #ddd;
-						color: #444;
-						font-size: 12px;
-						text-transform: uppercase;
-						text-align: center;
-					}
-				}
-
-				&.download {
-					background-color: #aaa;
-					color: white;
-					text-shadow: 1px 1px 0 darken( $green, 10% );
-					text-decoration: none;
-					text-transform: uppercase;
-					font-size: 16px;
-					padding: 20px;
-					text-align: center;
-					
-					@include respond-to( 1024px ) {
-						font-size: 18px;
-						transition: background-color 300ms ease-in-out, color 300ms, ease-in-out, text-shadow 300ms, ease-in-out;
-						-webkit-transition: background-color 300ms ease-in-out, color 300ms, ease-in-out, text-shadow 300ms, ease-in-out;
-					}
-
-					&:hover {
-						background: lighten( $green, 5% );
-						text-shadow: 2px 2px 20px darken( $green, 15% );
-					}
-				}
-			}
-
-			&.label {
-				color: #999;
-				font-size: 12px;
-				text-align: center;
-				padding: 6px;
-				border-bottom: 1px solid #eee;
-			}
-		}
+		float: left;
+		width: 25%;
 	}
 }
 
+
+.color-selected {
+	float: right;
+	margin: 8px 0;
+	height: 50px;
+	width: 50px;
+	border: 3px solid black;
+}
 
 
 // usage instruction styles
 .book-usage {
-	display: none;
-	transition: height 500ms ease-in-out;
-	
 	@include respond-to( 768px ) {
-		display: block;
-		position: fixed;
-		background: white;
-		top: 0;
-		right: 0;
-		left: $usage_left_768;
-		height: 0;
-		padding: 0 30px;
-		overflow: hidden;
-
-		&.visible {
-			height: $usage_height_narrow;
-		}
-
-		h4 {
-			padding: 0;
-			color: #aaa;
-			text-transform: uppercase;
-			font-size: 14px;
-			padding-top: 15px;
-		}
-
-		code {
-			color: $green;
-		}
-
-		.quiet {
-			color: #aaa;
-		}
-
-		.half {
-			text-align: center;
-		}
+		float: right;
+		width: 66%;
 	}
 
-	@include respond-to( 1024px ) {
+	.forty {
+		padding: 8px 0;
 		
-		&.visible {
-			height: $usage_height_wide;
-		}
-
-		.half {
+		@include respond-to( 768px ) {
 			float: left;
-			width: 50%;
+			width: 40%;
 		}
 	}
 
-	@include respond-to( 1220px ) {
-		left: $usage_left_1220;
+	.twenty {
+		padding: 8px 0;
+
+		@include respond-to( 768px ) {
+			float: left;
+			width: 20%;
+		}
 	}
 }
 
@@ -236,7 +151,7 @@ body {
 	min-height: 480px;
 
 	h4 {
-		background: pantone( "cool-gray-1-u" );
+		background: benjamin-moore( "AF-560" );
 		padding: 30px 30px 15px;
 		margin: 0;
 		font-weight: 700;
@@ -250,6 +165,7 @@ body {
 	text-align: center;
 	overflow: hidden;
 	cursor: pointer;
+	z-index: 0;
 
 	@include respond-to( 480px ) {
 		padding: 30px 0;
@@ -274,53 +190,73 @@ body {
 		width: 16.6666%;
 	}
 
-	@include respond-to( 1240px ) {
-		width: 14.2857%;
-	}
-
-	@include respond-to( 1440px ) {
-		width: 12.5%;
-	}
-
-	@include respond-to( 1680px ) {
-		width: 11.11%;
-	}
-
-
 	span {
+		display: inline-block;
 		white-space: nowrap;
 		font-size: 14px;
 		padding: 5px 10px;
-		background-color: rgba( 255, 255, 255, 0.8 );
-		padding: rgba( 0, 0, 0, 0.8 );
+		background-color: rgba( 255, 255, 255, 0.4 );
+		color: rgba( black, 0.6 );
 		box-shadow: 2px 2px 8px rgba( 0, 0, 0, 0.3 );
-	}
 
+		span {
+			background-color: transparent;
+			box-shadow: none;
+			display: block;
+			font-weight: bold;
+		}		
+	}
+	
+	&.selected {
+		box-shadow: inset 5px 5px 25px rgba( black, .2 );
+
+		span {
+			background-color: rgba( 255, 255, 255, 0.9 );
+			color: black;
+
+			span {
+				background-color: transparent;
+			}
+		}
+	}
 }
 
 
-.introduction {
+.disclaimer {
+	@include clearfix;
+	border-top: 3px solid black;
 	padding: 20px;
 
-	h2 {
-		color: #999;
-		font-size: 50px;
-		font-weight: 300;
+	.column {
+		padding: 6px 0;
+
+		@include respond-to( 768px ) {
+			float: left;
+
+			&.powered {
+				width: 30%;
+				margin-right: 5%;
+			}
+
+			&.fine {
+				width: 65%;
+			}
+		}
 	}
 
-	@include respond-to( 480px ) {
-		padding: 40px;
-	}
+	.powered {
+		code {
+			cursor: pointer;
+			a {
+				text-decoration: none;
+				font-size: 1.8em;
 
-	@include respond-to( 768px ) {
-		padding: 50px;
-	}
-
-	@include respond-to( 1024px ) {
-		padding: 50px 90px;
-	}
-
-	@include respond-to( 1220px ) {
-		padding: 50px 130px;
+				&:hover {
+					color: $green;
+				}
+			}
+		}
 	}
 }
+
+

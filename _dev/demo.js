@@ -45,38 +45,52 @@ var hide_usage = function(){
 // onload
 $(function(){
 
+	// a function to load a specific book
+	var loadBook = function( book ) {
+		$( '.book-viewer' ).load( 'book/'+book+'.html', function(){
+
+			window.scrollTo( 0, 0 );
+
+			// populate the function name and make it more prominent
+			$( '.function' ).html( book ).removeClass( 'quiet' );
+			$( '.selected-color' ).html( '[color]' ).addClass( 'quiet' );
+
+			// when they click a swatch
+			$( '.book-viewer .swatch' ).click(function(){
+
+				$('.swatch.selected').removeClass( 'selected' );
+				$(this).addClass( 'selected' );
+				$('.color-selected').css( 'background-color', $(this).css( 'background-color' ) );
+				$('.hex').html( $(this).data( 'hex' ) ).removeClass( 'quiet' );
+
+				// set the color code in the function and variable in usage instructions
+				$( '.selected-color' ).html( $(this).attr('rel') ).removeClass( 'quiet' );
+				show_usage();
+
+			});
+		});
+	};
+
+
 	// ajaxy stuffs go here.
-	$( '.book-list a' ).click(function(){
+	$( 'select.book' ).change(function(){
 
 		// store the book they clicked in variable
-		var book = $( this ).attr( 'rel' );
+		var book = $( this ).val();
 
 		// if it exists
 		if ( typeof book !== 'undefined' ) {
 
-			// load the book into the viewer div
-			$( '.book-viewer' ).load( 'book/'+book+'.html', function(){
-
-				// populate the function name and make it more prominent
-				$( '.function' ).html( book ).removeClass( 'quiet' );
-				$( '.selected-color' ).html( '[color]' ).addClass( 'quiet' );
-
-				// when they click a swatch
-				$( '.book-viewer .swatch' ).click(function(){
-
-					// set the color code in the function and variable in usage instructions
-					$( '.selected-color' ).html( $(this).html() ).removeClass( 'quiet' );
-					show_usage();
-
-				});
-			});
-
+			loadBook( book );
 		}
-
-
 	});
 
-	$( '.book-usage-toggle' ).click( toggle_usage );
+
+	// set default
+	var def = 'hks';
+	$('select.book').val( def );
+	loadBook( def );
 
 });
+
 

@@ -1,46 +1,64 @@
-<!doctype html>
+<!doctype html lang="en">
 <title>Colornerd - A Massive Color Library for Sass, Stylus, and LESS</title>
 <link href="demo.css" rel="stylesheet">
 <meta name="viewport" content="width=device-width">
 
-<div class="book-list">
-	<ul>
-		<li><a href="http://github.com/jpederson/colornerd" class="download">Download Colornerd</a></li>
-		<li><a class="book-usage-toggle">Usage Instructions</a></li>
-		<li class="label">- select a color book below -</li>
-		<li><a rel="avery">Avery <span>382 colors</span></a></li>
-<li><a rel="behr">Behr Paints <span>4699 colors</span></a></li>
-<li><a rel="benjamin-moore">Benjamin Moore <span>3919 colors</span></a></li>
-<li><a rel="dic">DIC <span>1280 colors</span></a></li>
-<li><a rel="dunn-edwards">Dunn Edwards <span>1696 colors</span></a></li>
-<li><a rel="hks">HKS <span>312 colors</span></a></li>
-<li><a rel="hl">Hallman Lindsay <span>1469 colors</span></a></li>
-<li><a rel="ikea">IKEA <span>200 colors</span></a></li>
-<li><a rel="kobra">Kobra <span>52 colors</span></a></li>
-<li><a rel="mpc">Matthews Paint Co. <span>1419 colors</span></a></li>
-<li><a rel="ppg">PPG Paints <span>2088 colors</span></a></li>
-<li><a rel="ral">RAL <span>213 colors</span></a></li>
-<li><a rel="sherwin-williams">Sherwin Williams <span>1526 colors</span></a></li>
-<li><a rel="toyo">TOYO <span>1050 colors</span></a></li>
-<li><a rel="trumatch">TRUMATCH <span>2092 colors</span></a></li>
-<li><a rel="vista">Vista <span>2785 colors</span></a></li>
-	</ul>
-</div>
 
-<div class="book-usage">
-	<div class="half">
-		<h4>Sass & Stylus Usage</h4>
-		<code><span class="function quiet">[book-name]</span>( "<span class="selected-color quiet">[color]</span>" )</code>
+<header>
+	<div class="book-list">
+		<h4>Browse a Book</h4>
+		<select class="book">
+			<option value="avery">Avery <span>(382 colors)</span></option>
+<option value="behr">Behr Paints <span>(4699 colors)</span></option>
+<option value="benjamin-moore">Benjamin Moore <span>(3919 colors)</span></option>
+<option value="dic">DIC <span>(1280 colors)</span></option>
+<option value="dunn-edwards">Dunn Edwards <span>(1696 colors)</span></option>
+<option value="hks">HKS <span>(312 colors)</span></option>
+<option value="hl">Hallman Lindsay <span>(1469 colors)</span></option>
+<option value="ikea">IKEA <span>(200 colors)</span></option>
+<option value="kobra">Kobra <span>(52 colors)</span></option>
+<option value="mpc">Matthews Paint Co. <span>(1419 colors)</span></option>
+<option value="ppg">PPG Paints <span>(2088 colors)</span></option>
+<option value="ral">RAL <span>(213 colors)</span></option>
+<option value="sherwin-williams">Sherwin Williams <span>(1526 colors)</span></option>
+<option value="toyo">TOYO <span>(1050 colors)</span></option>
+<option value="trumatch">TRUMATCH <span>(2092 colors)</span></option>
+<option value="vista">Vista <span>(2785 colors)</span></option>
+		</select>
 	</div>
-	<div class="half">
-		<h4>LESS Usage</h4>
-		<code>@<span class="function quiet">[book-name]</span>-<span class="selected-color quiet">[color]</span></code>
-	</div>
-</div>
 
-<div class="book-viewer">
-	<div class="introduction">
-		<h2>&laquo; select a color book from left &raquo;</h2>
+	<div class="color-selected">
+
+	</div>
+
+	<div class="book-usage">
+		<div class="forty">
+			<h4>Sass & Stylus Usage</h4>
+			<code><span class="function quiet">[book-name]</span>( "<span class="selected-color quiet">[color]</span>" )</code>
+		</div>
+		<div class="forty">
+			<h4>LESS Usage</h4>
+			<code>@<span class="function quiet">[book-name]</span>-<span class="selected-color quiet">[color]</span></code>
+		</div>
+		<div class="twenty">
+			<h4>Hex Code</h4>
+			<code><span class="hex quiet">#ffffff</span></code>
+		</div>
+	</div>
+
+
+</header>
+
+<div class="book-viewer"></div>
+
+<div class="disclaimer">
+	<div class="column powered">
+		<h4>Powered by</h4>
+		<code><a href="http://github.com/jpederson/colornerd" class="download">colornerd</a></code>
+	</div>
+	<div class="column fine">
+		<h4>Disclaimer</h4>
+		<small>All the colorbooks and color names are the property of their respective owners. This is <strong>not an official project</strong> for any vendor, and they are not liable for how you use it.</small>
 	</div>
 </div>
 

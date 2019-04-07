@@ -13,7 +13,9 @@ var files = JSON.parse( fs.readFileSync( dir_tpl+"books.json", "utf8" ) );
 var file_title = [];
 files.forEach(function( file_info ){
 	file_title[file_info.filename] = file_info.title;
+	console.log( file_info.default );
 });
+
 
 // open the book template files
 var tpl_stylus = fs.readFileSync( dir_tpl+"book.styl", "utf8" );
@@ -77,7 +79,7 @@ fs.readdir( dir, function( err, files ){
 		records.forEach(function( color ){
 
 			// push another line of html
-			records_html.push( '<div class="swatch" style="background-color: '+color.hex+';"><span>'+color.label+'</span></div>' );
+			records_html.push( '<div class="swatch" style="background-color: '+color.hex+';" rel="'+color.label+'" data-hex="'+color.hex+'"><span><span>'+color.name+'</span>'+color.label+'</span></div>' );
 			
 			// push another scss array value
 			records_scss.push( '("'+color.label+'" '+color.hex+')' );
@@ -101,7 +103,7 @@ fs.readdir( dir, function( err, files ){
 		files_stylus.push( "\n// " + file_title[filename] + '\n@import "book-'+filename+'.styl"' );
 
 		// stylus files
-		files_index.push( '<li><a rel="' + filename + '">' + file_title[filename] + ' <span>' + records.length + ' colors</span></a></li>' );
+		files_index.push( '<option value="' + filename + '">' + file_title[filename] + ' <span>(' + records.length + ' colors)</span></option>' );
 
 
 		// dump a color count for each book
