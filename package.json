@@ -1,6 +1,6 @@
 {
   "name": "colornerd",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Comprehensive library of color books from several color systems - implemented in Sass, LESS, Stylus, JSON, and CSV.",
   "scripts": {
     "test": "mocha"
