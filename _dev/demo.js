@@ -23,16 +23,6 @@ var toggle_usage = function(){
 };
 
 
-// show the usage instructions
-var show_usage = function(){
-	console.log( 'toggling it' );
-	if ( !usage.hasClass( 'visible' ) ) {
-		usage.addClass( 'visible' );
-		body.addClass( 'with-usage' );
-	}
-};
-
-
 // hide the usage instructions
 var hide_usage = function(){
 	if ( usage.hasClass( 'visible' ) ) {
@@ -65,7 +55,6 @@ $(function(){
 
 				// set the color code in the function and variable in usage instructions
 				$( '.selected-color' ).html( $(this).attr('rel') ).removeClass( 'quiet' );
-				show_usage();
 
 			});
 		});

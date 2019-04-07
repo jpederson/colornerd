@@ -172,7 +172,11 @@ fs.readdir( dir, function( err, files ){
 
 
 	// write out the LESS book file
-	fs.writeFileSync( 'index.html', tpl_index.replace( "{{colors}}", files_index.join("\n") ) );
+	fs.writeFileSync( 'index.html', tpl_index
+		.replace( "{{colors}}", files_index.join("\n") )
+		.replace( "{{count}}", total )
+		.replace( "{{count_files}}", files.length )
+	);
 	console.log(' > index.html created...');
 
 	console.log( "" );

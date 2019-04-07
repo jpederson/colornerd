@@ -43,7 +43,11 @@ body {
 	@include font;
 	transition: padding-top 500ms ease-in-out;
 	-webkit-transition: padding-top 500ms ease-in-out;
-	padding-top: 78px;
+	padding-top: 305px;
+
+	@include respond-to( 768px ) {
+		padding-top: 80px;
+	}
 }
 
 
@@ -100,6 +104,13 @@ code {
 		line-height: 1.3em;
 		padding: 10px 0;
 		max-width: 100%;
+
+		option {
+
+			span {
+				font-size: .6em;
+			}
+		}
 	}
 
 	@include respond-to( 768px ) {
@@ -115,12 +126,27 @@ code {
 	height: 50px;
 	width: 50px;
 	border: 3px solid black;
+
+	@include respond-to( 500px ) {
+		width: 80px;
+		height: 80px;
+	}
+
+	@include respond-to( 650px ) {
+		width: 120px;
+		height: 120px;
+	}
+
+	@include respond-to( 900px ) {
+		width: 50px;
+		height: 50px;
+	}
 }
 
 
 // usage instruction styles
 .book-usage {
-	@include respond-to( 768px ) {
+	@include respond-to( 900px ) {
 		float: right;
 		width: 66%;
 	}
@@ -128,7 +154,7 @@ code {
 	.forty {
 		padding: 8px 0;
 		
-		@include respond-to( 768px ) {
+		@include respond-to( 900px ) {
 			float: left;
 			width: 40%;
 		}
@@ -137,7 +163,7 @@ code {
 	.twenty {
 		padding: 8px 0;
 
-		@include respond-to( 768px ) {
+		@include respond-to( 900px ) {
 			float: left;
 			width: 20%;
 		}
@@ -175,7 +201,7 @@ code {
 
 	@include respond-to( 600px ) {
 		padding: 60px 0;
-		width: 33%;
+		width: 33.33%;
 	}
 
 	@include respond-to( 768px ) {
@@ -247,15 +273,24 @@ code {
 	.powered {
 		code {
 			cursor: pointer;
+
 			a {
 				text-decoration: none;
 				font-size: 1.8em;
+				cursor: pointer;
 
 				&:hover {
 					color: $green;
 				}
 			}
 		}
+	}
+
+	p.small {
+		font-size: .8em;
+		line-height: 1.2em;
+		padding: 4px 0 7px;
+		margin: 0;
 	}
 }
 
