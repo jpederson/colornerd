@@ -1,0 +1,1002 @@
+[
+  {
+    "hex": "#f8f1e6",
+    "label": "1",
+    "name": "IKEA001"
+  },
+  {
+    "hex": "#efe8e1",
+    "label": "2",
+    "name": "IKEA002"
+  },
+  {
+    "hex": "#f9f2ec",
+    "label": "3",
+    "name": "IKEA003"
+  },
+  {
+    "hex": "#f7f2eb",
+    "label": "4",
+    "name": "IKEA004"
+  },
+  {
+    "hex": "#ede8e0",
+    "label": "5",
+    "name": "IKEA005"
+  },
+  {
+    "hex": "#eee7dd",
+    "label": "6",
+    "name": "IKEA006"
+  },
+  {
+    "hex": "#f4f0e5",
+    "label": "7",
+    "name": "IKEA007"
+  },
+  {
+    "hex": "#efe4d3",
+    "label": "8",
+    "name": "IKEA008"
+  },
+  {
+    "hex": "#f8f3e9",
+    "label": "9",
+    "name": "IKEA009"
+  },
+  {
+    "hex": "#f3ecde",
+    "label": "10",
+    "name": "IKEA010"
+  },
+  {
+    "hex": "#f6f3e7",
+    "label": "11",
+    "name": "IKEA011"
+  },
+  {
+    "hex": "#eee7d3",
+    "label": "12",
+    "name": "IKEA012"
+  },
+  {
+    "hex": "#f4f2e5",
+    "label": "13",
+    "name": "IKEA013"
+  },
+  {
+    "hex": "#eeeada",
+    "label": "14",
+    "name": "IKEA014"
+  },
+  {
+    "hex": "#f8f7e9",
+    "label": "15-ikea-5",
+    "name": "IKEA015 IKEA5"
+  },
+  {
+    "hex": "#f4f2e9",
+    "label": "16",
+    "name": "IKEA016"
+  },
+  {
+    "hex": "#eef3e7",
+    "label": "17",
+    "name": "IKEA017"
+  },
+  {
+    "hex": "#eaeadf",
+    "label": "18",
+    "name": "IKEA018"
+  },
+  {
+    "hex": "#eff5f0",
+    "label": "19",
+    "name": "IKEA019"
+  },
+  {
+    "hex": "#ecf4ec",
+    "label": "20",
+    "name": "IKEA020"
+  },
+  {
+    "hex": "#bec675",
+    "label": "21",
+    "name": "IKEA021"
+  },
+  {
+    "hex": "#f2f1ee",
+    "label": "22-ikea-2",
+    "name": "IKEA022 IKEA2"
+  },
+  {
+    "hex": "#e4cbcb",
+    "label": "23",
+    "name": "IKEA023"
+  },
+  {
+    "hex": "#f7f0e7",
+    "label": "24",
+    "name": "IKEA024"
+  },
+  {
+    "hex": "#cbbeb1",
+    "label": "25",
+    "name": "IKEA025"
+  },
+  {
+    "hex": "#ebe0d9",
+    "label": "26",
+    "name": "IKEA026"
+  },
+  {
+    "hex": "#cc6653",
+    "label": "27",
+    "name": "IKEA027"
+  },
+  {
+    "hex": "#e7e1d8",
+    "label": "28",
+    "name": "IKEA028"
+  },
+  {
+    "hex": "#816f66",
+    "label": "29",
+    "name": "IKEA029"
+  },
+  {
+    "hex": "#f6f0e8",
+    "label": "30",
+    "name": "IKEA030"
+  },
+  {
+    "hex": "#f7e2dd",
+    "label": "31",
+    "name": "IKEA031"
+  },
+  {
+    "hex": "#edcdc7",
+    "label": "32",
+    "name": "IKEA032"
+  },
+  {
+    "hex": "#f4d9ce",
+    "label": "33",
+    "name": "IKEA033"
+  },
+  {
+    "hex": "#dcb8a8",
+    "label": "34",
+    "name": "IKEA034"
+  },
+  {
+    "hex": "#f8e9d3",
+    "label": "35",
+    "name": "IKEA035"
+  },
+  {
+    "hex": "#efcb9b",
+    "label": "36",
+    "name": "IKEA036"
+  },
+  {
+    "hex": "#fde5b0",
+    "label": "37",
+    "name": "IKEA037"
+  },
+  {
+    "hex": "#e6cdaa",
+    "label": "38",
+    "name": "IKEA038"
+  },
+  {
+    "hex": "#fbebbd",
+    "label": "39",
+    "name": "IKEA039"
+  },
+  {
+    "hex": "#f9df9c",
+    "label": "40",
+    "name": "IKEA040"
+  },
+  {
+    "hex": "#f9efd6",
+    "label": "41",
+    "name": "IKEA041"
+  },
+  {
+    "hex": "#d9cca6",
+    "label": "42",
+    "name": "IKEA042"
+  },
+  {
+    "hex": "#ebefbd",
+    "label": "43",
+    "name": "IKEA043"
+  },
+  {
+    "hex": "#b5d1ab",
+    "label": "44",
+    "name": "IKEA044"
+  },
+  {
+    "hex": "#bbe1d7",
+    "label": "45",
+    "name": "IKEA045"
+  },
+  {
+    "hex": "#c3dcc9",
+    "label": "46",
+    "name": "IKEA046"
+  },
+  {
+    "hex": "#dde9ed",
+    "label": "47",
+    "name": "IKEA047"
+  },
+  {
+    "hex": "#c2e4ea",
+    "label": "48",
+    "name": "IKEA048"
+  },
+  {
+    "hex": "#d2dcef",
+    "label": "49",
+    "name": "IKEA049"
+  },
+  {
+    "hex": "#c6d7e3",
+    "label": "50",
+    "name": "IKEA050"
+  },
+  {
+    "hex": "#e1e4e6",
+    "label": "51",
+    "name": "IKEA051"
+  },
+  {
+    "hex": "#b3c4d5",
+    "label": "52",
+    "name": "IKEA052"
+  },
+  {
+    "hex": "#e8dde2",
+    "label": "53",
+    "name": "IKEA053"
+  },
+  {
+    "hex": "#d2cbdd",
+    "label": "54",
+    "name": "IKEA054"
+  },
+  {
+    "hex": "#7e8177",
+    "label": "55",
+    "name": "IKEA055"
+  },
+  {
+    "hex": "#f7f8df",
+    "label": "56",
+    "name": "IKEA056"
+  },
+  {
+    "hex": "#e4e7e3",
+    "label": "57",
+    "name": "IKEA057"
+  },
+  {
+    "hex": "#f7e5d3",
+    "label": "58",
+    "name": "IKEA058"
+  },
+  {
+    "hex": "#b34c53",
+    "label": "59",
+    "name": "IKEA059"
+  },
+  {
+    "hex": "#d2dddb",
+    "label": "60",
+    "name": "IKEA060"
+  },
+  {
+    "hex": "#ecebaf",
+    "label": "61",
+    "name": "IKEA061"
+  },
+  {
+    "hex": "#dedfc3",
+    "label": "62",
+    "name": "IKEA062"
+  },
+  {
+    "hex": "#935e7c",
+    "label": "63",
+    "name": "IKEA063"
+  },
+  {
+    "hex": "#e7e3e9",
+    "label": "64",
+    "name": "IKEA064"
+  },
+  {
+    "hex": "#dfb5b0",
+    "label": "65",
+    "name": "IKEA065"
+  },
+  {
+    "hex": "#a85953",
+    "label": "66",
+    "name": "IKEA066"
+  },
+  {
+    "hex": "#f5c2ac",
+    "label": "67",
+    "name": "IKEA067"
+  },
+  {
+    "hex": "#e09673",
+    "label": "68",
+    "name": "IKEA068"
+  },
+  {
+    "hex": "#ffd28e",
+    "label": "69",
+    "name": "IKEA069"
+  },
+  {
+    "hex": "#f0b67e",
+    "label": "70",
+    "name": "IKEA070"
+  },
+  {
+    "hex": "#fbe6ce",
+    "label": "71",
+    "name": "IKEA071"
+  },
+  {
+    "hex": "#efcd96",
+    "label": "72",
+    "name": "IKEA072"
+  },
+  {
+    "hex": "#faee9f",
+    "label": "73",
+    "name": "IKEA073"
+  },
+  {
+    "hex": "#fadb89",
+    "label": "74",
+    "name": "IKEA074"
+  },
+  {
+    "hex": "#e2e38d",
+    "label": "75",
+    "name": "IKEA075"
+  },
+  {
+    "hex": "#c7c896",
+    "label": "76",
+    "name": "IKEA076"
+  },
+  {
+    "hex": "#d3dfc1",
+    "label": "77",
+    "name": "IKEA077"
+  },
+  {
+    "hex": "#9cad7f",
+    "label": "78",
+    "name": "IKEA078"
+  },
+  {
+    "hex": "#bae0cc",
+    "label": "79",
+    "name": "IKEA079"
+  },
+  {
+    "hex": "#96bb9f",
+    "label": "80",
+    "name": "IKEA080"
+  },
+  {
+    "hex": "#bfdad7",
+    "label": "81",
+    "name": "IKEA081"
+  },
+  {
+    "hex": "#729e9c",
+    "label": "82",
+    "name": "IKEA082"
+  },
+  {
+    "hex": "#b6dce6",
+    "label": "83",
+    "name": "IKEA083"
+  },
+  {
+    "hex": "#83aac1",
+    "label": "84",
+    "name": "IKEA084"
+  },
+  {
+    "hex": "#9fc1df",
+    "label": "85",
+    "name": "IKEA085"
+  },
+  {
+    "hex": "#748dac",
+    "label": "86",
+    "name": "IKEA086"
+  },
+  {
+    "hex": "#cab6c9",
+    "label": "87",
+    "name": "IKEA087"
+  },
+  {
+    "hex": "#8b859d",
+    "label": "88",
+    "name": "IKEA088"
+  },
+  {
+    "hex": "#6a443b",
+    "label": "89",
+    "name": "IKEA089"
+  },
+  {
+    "hex": "#cddcd0",
+    "label": "90",
+    "name": "IKEA090"
+  },
+  {
+    "hex": "#574c49",
+    "label": "91",
+    "name": "IKEA091"
+  },
+  {
+    "hex": "#f3dea9",
+    "label": "92",
+    "name": "IKEA092"
+  },
+  {
+    "hex": "#f4efe5",
+    "label": "93",
+    "name": "IKEA093"
+  },
+  {
+    "hex": "#d6dbb7",
+    "label": "94",
+    "name": "IKEA094"
+  },
+  {
+    "hex": "#726965",
+    "label": "95",
+    "name": "IKEA095"
+  },
+  {
+    "hex": "#cfd9e4",
+    "label": "96",
+    "name": "IKEA096"
+  },
+  {
+    "hex": "#006673",
+    "label": "97",
+    "name": "IKEA097"
+  },
+  {
+    "hex": "#e5e1bf",
+    "label": "98",
+    "name": "IKEA098"
+  },
+  {
+    "hex": "#e2a3b3",
+    "label": "99",
+    "name": "IKEA099"
+  },
+  {
+    "hex": "#b8516c",
+    "label": "100",
+    "name": "IKEA100"
+  },
+  {
+    "hex": "#d6a496",
+    "label": "101",
+    "name": "IKEA101"
+  },
+  {
+    "hex": "#7e3738",
+    "label": "102",
+    "name": "IKEA102"
+  },
+  {
+    "hex": "#cd746d",
+    "label": "103",
+    "name": "IKEA103"
+  },
+  {
+    "hex": "#9a3636",
+    "label": "104",
+    "name": "IKEA104"
+  },
+  {
+    "hex": "#c5714f",
+    "label": "105",
+    "name": "IKEA105"
+  },
+  {
+    "hex": "#864633",
+    "label": "106",
+    "name": "IKEA106"
+  },
+  {
+    "hex": "#ecd193",
+    "label": "107",
+    "name": "IKEA107"
+  },
+  {
+    "hex": "#d69c54",
+    "label": "108",
+    "name": "IKEA108"
+  },
+  {
+    "hex": "#f4d96c",
+    "label": "109",
+    "name": "IKEA109"
+  },
+  {
+    "hex": "#f4c472",
+    "label": "110",
+    "name": "IKEA110"
+  },
+  {
+    "hex": "#f7ee9c",
+    "label": "111",
+    "name": "IKEA111"
+  },
+  {
+    "hex": "#d3bd76",
+    "label": "112",
+    "name": "IKEA112"
+  },
+  {
+    "hex": "#e0dea6",
+    "label": "113",
+    "name": "IKEA113"
+  },
+  {
+    "hex": "#93ab67",
+    "label": "114",
+    "name": "IKEA114"
+  },
+  {
+    "hex": "#c1d0a6",
+    "label": "115",
+    "name": "IKEA115"
+  },
+  {
+    "hex": "#5e7a65",
+    "label": "116",
+    "name": "IKEA116"
+  },
+  {
+    "hex": "#a6cabf",
+    "label": "117",
+    "name": "IKEA117"
+  },
+  {
+    "hex": "#317983",
+    "label": "118",
+    "name": "IKEA118"
+  },
+  {
+    "hex": "#9bc2d8",
+    "label": "119",
+    "name": "IKEA119"
+  },
+  {
+    "hex": "#6c8ea3",
+    "label": "120",
+    "name": "IKEA120"
+  },
+  {
+    "hex": "#8896b3",
+    "label": "121",
+    "name": "IKEA121"
+  },
+  {
+    "hex": "#3a5170",
+    "label": "122",
+    "name": "IKEA122"
+  },
+  {
+    "hex": "#c5beb1",
+    "label": "123",
+    "name": "IKEA123"
+  },
+  {
+    "hex": "#ffb953",
+    "label": "124",
+    "name": "IKEA124"
+  },
+  {
+    "hex": "#eae3d3",
+    "label": "125",
+    "name": "IKEA125"
+  },
+  {
+    "hex": "#c6628c",
+    "label": "126",
+    "name": "IKEA126"
+  },
+  {
+    "hex": "#d0d4d8",
+    "label": "127",
+    "name": "IKEA127"
+  },
+  {
+    "hex": "#4a72b0",
+    "label": "128",
+    "name": "IKEA128"
+  },
+  {
+    "hex": "#f7f3e6",
+    "label": "129",
+    "name": "IKEA129"
+  },
+  {
+    "hex": "#9b2c2c",
+    "label": "130",
+    "name": "IKEA130"
+  },
+  {
+    "hex": "#e3ecde",
+    "label": "131",
+    "name": "IKEA131"
+  },
+  {
+    "hex": "#507a4f",
+    "label": "132",
+    "name": "IKEA132"
+  },
+  {
+    "hex": "#c2adab",
+    "label": "133",
+    "name": "IKEA133"
+  },
+  {
+    "hex": "#856a73",
+    "label": "134",
+    "name": "IKEA134"
+  },
+  {
+    "hex": "#decdc3",
+    "label": "135",
+    "name": "IKEA135"
+  },
+  {
+    "hex": "#b99f90",
+    "label": "136",
+    "name": "IKEA136"
+  },
+  {
+    "hex": "#b4a18f",
+    "label": "137",
+    "name": "IKEA137"
+  },
+  {
+    "hex": "#645850",
+    "label": "138",
+    "name": "IKEA138"
+  },
+  {
+    "hex": "#ebd9c3",
+    "label": "139",
+    "name": "IKEA139"
+  },
+  {
+    "hex": "#a58369",
+    "label": "140",
+    "name": "IKEA140"
+  },
+  {
+    "hex": "#e4decc",
+    "label": "141",
+    "name": "IKEA141"
+  },
+  {
+    "hex": "#c6b294",
+    "label": "142",
+    "name": "IKEA142"
+  },
+  {
+    "hex": "#d9c6ab",
+    "label": "143",
+    "name": "IKEA143"
+  },
+  {
+    "hex": "#d9b27d",
+    "label": "144",
+    "name": "IKEA144"
+  },
+  {
+    "hex": "#cfc7a2",
+    "label": "145",
+    "name": "IKEA145"
+  },
+  {
+    "hex": "#847763",
+    "label": "146",
+    "name": "IKEA146"
+  },
+  {
+    "hex": "#9d947b",
+    "label": "147",
+    "name": "IKEA147"
+  },
+  {
+    "hex": "#676450",
+    "label": "148",
+    "name": "IKEA148"
+  },
+  {
+    "hex": "#ccd0ba",
+    "label": "149",
+    "name": "IKEA149"
+  },
+  {
+    "hex": "#a7a58f",
+    "label": "150",
+    "name": "IKEA150"
+  },
+  {
+    "hex": "#ccd7ca",
+    "label": "151",
+    "name": "IKEA151"
+  },
+  {
+    "hex": "#494f50",
+    "label": "152",
+    "name": "IKEA152"
+  },
+  {
+    "hex": "#b1cbc9",
+    "label": "153",
+    "name": "IKEA153"
+  },
+  {
+    "hex": "#667480",
+    "label": "154",
+    "name": "IKEA154"
+  },
+  {
+    "hex": "#aab1b8",
+    "label": "155",
+    "name": "IKEA155"
+  },
+  {
+    "hex": "#676973",
+    "label": "156",
+    "name": "IKEA156"
+  },
+  {
+    "hex": "#b7975e",
+    "label": "157",
+    "name": "IKEA157"
+  },
+  {
+    "hex": "#7c9195",
+    "label": "158",
+    "name": "IKEA158"
+  },
+  {
+    "hex": "#ddcbcd",
+    "label": "159",
+    "name": "IKEA159"
+  },
+  {
+    "hex": "#4d3e45",
+    "label": "160",
+    "name": "IKEA160"
+  },
+  {
+    "hex": "#efe6c0",
+    "label": "161",
+    "name": "IKEA161"
+  },
+  {
+    "hex": "#7f6f63",
+    "label": "162",
+    "name": "IKEA162"
+  },
+  {
+    "hex": "#423a45",
+    "label": "163",
+    "name": "IKEA163"
+  },
+  {
+    "hex": "#abb7b9",
+    "label": "164",
+    "name": "IKEA164"
+  },
+  {
+    "hex": "#91d0c5",
+    "label": "165",
+    "name": "IKEA165"
+  },
+  {
+    "hex": "#d1baa5",
+    "label": "166",
+    "name": "IKEA166"
+  },
+  {
+    "hex": "#d7d2c5",
+    "label": "167",
+    "name": "IKEA167"
+  },
+  {
+    "hex": "#9e9893",
+    "label": "168",
+    "name": "IKEA168"
+  },
+  {
+    "hex": "#b7ae9d",
+    "label": "169",
+    "name": "IKEA169"
+  },
+  {
+    "hex": "#827672",
+    "label": "170",
+    "name": "IKEA170"
+  },
+  {
+    "hex": "#e0d3be",
+    "label": "171",
+    "name": "IKEA171"
+  },
+  {
+    "hex": "#6c645d",
+    "label": "172",
+    "name": "IKEA172"
+  },
+  {
+    "hex": "#d1c9b8",
+    "label": "173",
+    "name": "IKEA173"
+  },
+  {
+    "hex": "#afa08c",
+    "label": "174",
+    "name": "IKEA174"
+  },
+  {
+    "hex": "#dfd7c1",
+    "label": "175",
+    "name": "IKEA175"
+  },
+  {
+    "hex": "#9d978a",
+    "label": "176",
+    "name": "IKEA176"
+  },
+  {
+    "hex": "#d7cfba",
+    "label": "177",
+    "name": "IKEA177"
+  },
+  {
+    "hex": "#69645d",
+    "label": "178",
+    "name": "IKEA178"
+  },
+  {
+    "hex": "#b6bbad",
+    "label": "179",
+    "name": "IKEA179"
+  },
+  {
+    "hex": "#81857e",
+    "label": "180",
+    "name": "IKEA180"
+  },
+  {
+    "hex": "#b2bcb8",
+    "label": "181",
+    "name": "IKEA181"
+  },
+  {
+    "hex": "#9aa1a0",
+    "label": "182",
+    "name": "IKEA182"
+  },
+  {
+    "hex": "#cfd8d2",
+    "label": "183",
+    "name": "IKEA183"
+  },
+  {
+    "hex": "#788082",
+    "label": "184",
+    "name": "IKEA184"
+  },
+  {
+    "hex": "#7b7b79",
+    "label": "185",
+    "name": "IKEA185"
+  },
+  {
+    "hex": "#302f2f",
+    "label": "186",
+    "name": "IKEA186"
+  },
+  {
+    "hex": "#bebfb8",
+    "label": "187",
+    "name": "IKEA187"
+  },
+  {
+    "hex": "#646462",
+    "label": "188",
+    "name": "IKEA188"
+  },
+  {
+    "hex": "#dddfd3",
+    "label": "189",
+    "name": "IKEA189"
+  },
+  {
+    "hex": "#d3d9cd",
+    "label": "190",
+    "name": "IKEA190"
+  },
+  {
+    "hex": "#dbb651",
+    "label": "191",
+    "name": "IKEA191"
+  },
+  {
+    "hex": "#dacbb2",
+    "label": "192",
+    "name": "IKEA192"
+  },
+  {
+    "hex": "#ba5b3a",
+    "label": "193",
+    "name": "IKEA193"
+  },
+  {
+    "hex": "#9a9e95",
+    "label": "194",
+    "name": "IKEA194"
+  },
+  {
+    "hex": "#286a4c",
+    "label": "195",
+    "name": "IKEA195"
+  },
+  {
+    "hex": "#d3cab5",
+    "label": "196",
+    "name": "IKEA196"
+  },
+  {
+    "hex": "#473633",
+    "label": "197",
+    "name": "IKEA197"
+  },
+  {
+    "hex": "#89807a",
+    "label": "198",
+    "name": "IKEA198"
+  },
+  {
+    "hex": "#978a65",
+    "label": "199",
+    "name": "IKEA199"
+  },
+  {
+    "hex": "#ece0c9",
+    "label": "200",
+    "name": "IKEA200"
+  }
+]

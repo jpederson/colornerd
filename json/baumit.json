@@ -1,0 +1,2457 @@
+[
+  {
+    "hex": "#e9e5d5",
+    "label": "a121",
+    "name": "Baumit A121"
+  },
+  {
+    "hex": "#ecead3",
+    "label": "a123",
+    "name": "Baumit A123"
+  },
+  {
+    "hex": "#e9e8ce",
+    "label": "a124",
+    "name": "Baumit A124"
+  },
+  {
+    "hex": "#ecebc3",
+    "label": "a125",
+    "name": "Baumit A125"
+  },
+  {
+    "hex": "#eae6b2",
+    "label": "a127",
+    "name": "Baumit A127"
+  },
+  {
+    "hex": "#efe9d2",
+    "label": "a151",
+    "name": "Baumit A151"
+  },
+  {
+    "hex": "#efdfbd",
+    "label": "a152",
+    "name": "Baumit A152"
+  },
+  {
+    "hex": "#eedbb3",
+    "label": "a153",
+    "name": "Baumit A153"
+  },
+  {
+    "hex": "#edd4a5",
+    "label": "a154",
+    "name": "Baumit A154"
+  },
+  {
+    "hex": "#eac78e",
+    "label": "a155",
+    "name": "Baumit A155"
+  },
+  {
+    "hex": "#e3bc7a",
+    "label": "a157",
+    "name": "Baumit A157"
+  },
+  {
+    "hex": "#eee1cf",
+    "label": "a171",
+    "name": "Baumit A171"
+  },
+  {
+    "hex": "#ede0ce",
+    "label": "a172",
+    "name": "Baumit A172"
+  },
+  {
+    "hex": "#edd8bc",
+    "label": "a173",
+    "name": "Baumit A173"
+  },
+  {
+    "hex": "#e6c094",
+    "label": "a175",
+    "name": "Baumit A175"
+  },
+  {
+    "hex": "#dbb07e",
+    "label": "a177",
+    "name": "Baumit A177"
+  },
+  {
+    "hex": "#f1e2d1",
+    "label": "a181",
+    "name": "Baumit A181"
+  },
+  {
+    "hex": "#e9c9b3",
+    "label": "a183",
+    "name": "Baumit A183"
+  },
+  {
+    "hex": "#d8a383",
+    "label": "a185",
+    "name": "Baumit A185"
+  },
+  {
+    "hex": "#ebd8d1",
+    "label": "a191",
+    "name": "Baumit A191"
+  },
+  {
+    "hex": "#efd9da",
+    "label": "a192",
+    "name": "Baumit A192"
+  },
+  {
+    "hex": "#d7b9b8",
+    "label": "a193",
+    "name": "Baumit A193"
+  },
+  {
+    "hex": "#b28689",
+    "label": "a195",
+    "name": "Baumit A195"
+  },
+  {
+    "hex": "#d6cbc4",
+    "label": "a211",
+    "name": "Baumit A211"
+  },
+  {
+    "hex": "#cbb6b4",
+    "label": "a213",
+    "name": "Baumit A213"
+  },
+  {
+    "hex": "#a48e8d",
+    "label": "a215",
+    "name": "Baumit A215"
+  },
+  {
+    "hex": "#e5e9e3",
+    "label": "a251",
+    "name": "Baumit A251"
+  },
+  {
+    "hex": "#d6e2df",
+    "label": "a252",
+    "name": "Baumit A252"
+  },
+  {
+    "hex": "#ccdbdf",
+    "label": "a253",
+    "name": "Baumit A253"
+  },
+  {
+    "hex": "#adcce2",
+    "label": "a255",
+    "name": "Baumit A255"
+  },
+  {
+    "hex": "#8cb4db",
+    "label": "a257",
+    "name": "Baumit A257"
+  },
+  {
+    "hex": "#e3e4d6",
+    "label": "a261",
+    "name": "Baumit A261"
+  },
+  {
+    "hex": "#dee4d4",
+    "label": "a262",
+    "name": "Baumit A262"
+  },
+  {
+    "hex": "#ced7c6",
+    "label": "a263",
+    "name": "Baumit A263"
+  },
+  {
+    "hex": "#a7baa6",
+    "label": "a265",
+    "name": "Baumit A265"
+  },
+  {
+    "hex": "#95ab95",
+    "label": "a267",
+    "name": "Baumit A267"
+  },
+  {
+    "hex": "#e5d7c6",
+    "label": "a282",
+    "name": "Baumit A282"
+  },
+  {
+    "hex": "#c6aa91",
+    "label": "a284",
+    "name": "Baumit A284"
+  },
+  {
+    "hex": "#a98b73",
+    "label": "a286",
+    "name": "Baumit A286"
+  },
+  {
+    "hex": "#c0bfb4",
+    "label": "b151",
+    "name": "Baumit B151"
+  },
+  {
+    "hex": "#c6bca0",
+    "label": "b153",
+    "name": "Baumit B153"
+  },
+  {
+    "hex": "#c4b18a",
+    "label": "b155",
+    "name": "Baumit B155"
+  },
+  {
+    "hex": "#c9a973",
+    "label": "b157",
+    "name": "Baumit B157"
+  },
+  {
+    "hex": "#776665",
+    "label": "b238",
+    "name": "Baumit B238"
+  },
+  {
+    "hex": "#b6b8b4",
+    "label": "b253",
+    "name": "Baumit B253"
+  },
+  {
+    "hex": "#9cabb1",
+    "label": "b255",
+    "name": "Baumit B255"
+  },
+  {
+    "hex": "#8ca3b2",
+    "label": "b257",
+    "name": "Baumit B257"
+  },
+  {
+    "hex": "#d5d3ca",
+    "label": "b270",
+    "name": "Baumit B270"
+  },
+  {
+    "hex": "#b9b7af",
+    "label": "b271",
+    "name": "Baumit B271"
+  },
+  {
+    "hex": "#a8a8a4",
+    "label": "b273",
+    "name": "Baumit B273"
+  },
+  {
+    "hex": "#727376",
+    "label": "b278",
+    "name": "Baumit B278"
+  },
+  {
+    "hex": "#876858",
+    "label": "b2910",
+    "name": "Baumit B2910"
+  },
+  {
+    "hex": "#c1b4a8",
+    "label": "b292",
+    "name": "Baumit B292"
+  },
+  {
+    "hex": "#ae9d90",
+    "label": "b294",
+    "name": "Baumit B294"
+  },
+  {
+    "hex": "#957b6d",
+    "label": "b296",
+    "name": "Baumit B296"
+  },
+  {
+    "hex": "#886f62",
+    "label": "b298",
+    "name": "Baumit B298"
+  },
+  {
+    "hex": "#c2b7a7",
+    "label": "b302",
+    "name": "Baumit B302"
+  },
+  {
+    "hex": "#c3af97",
+    "label": "b304",
+    "name": "Baumit B304"
+  },
+  {
+    "hex": "#b39375",
+    "label": "b306",
+    "name": "Baumit B306"
+  },
+  {
+    "hex": "#a78261",
+    "label": "b308",
+    "name": "Baumit B308"
+  },
+  {
+    "hex": "#b8b5a5",
+    "label": "b312",
+    "name": "Baumit B312"
+  },
+  {
+    "hex": "#b6b39d",
+    "label": "b314",
+    "name": "Baumit B314"
+  },
+  {
+    "hex": "#9a9371",
+    "label": "b316",
+    "name": "Baumit B316"
+  },
+  {
+    "hex": "#9c8b6a",
+    "label": "b318",
+    "name": "Baumit B318"
+  },
+  {
+    "hex": "#c0b49e",
+    "label": "b322",
+    "name": "Baumit B322"
+  },
+  {
+    "hex": "#c0a789",
+    "label": "b324",
+    "name": "Baumit B324"
+  },
+  {
+    "hex": "#bf9368",
+    "label": "b326",
+    "name": "Baumit B326"
+  },
+  {
+    "hex": "#c29165",
+    "label": "b328",
+    "name": "Baumit B328"
+  },
+  {
+    "hex": "#776252",
+    "label": "b3310",
+    "name": "Baumit B3310"
+  },
+  {
+    "hex": "#836050",
+    "label": "b3510",
+    "name": "Baumit B3510"
+  },
+  {
+    "hex": "#d9dddc",
+    "label": "0a9",
+    "name": "Baumit 0A9"
+  },
+  {
+    "hex": "#ddded2",
+    "label": "0k9",
+    "name": "Baumit 0K9"
+  },
+  {
+    "hex": "#ece5d2",
+    "label": "0m9",
+    "name": "Baumit 0M9"
+  },
+  {
+    "hex": "#e0d2cb",
+    "label": "0r9",
+    "name": "Baumit 0R9"
+  },
+  {
+    "hex": "#e2dcd7",
+    "label": "0u9",
+    "name": "Baumit 0U9"
+  },
+  {
+    "hex": "#e2e1da",
+    "label": "0w7",
+    "name": "Baumit 0W7"
+  },
+  {
+    "hex": "#e6e4dc",
+    "label": "0w9",
+    "name": "Baumit 0W9"
+  },
+  {
+    "hex": "#677da5",
+    "label": "1a1",
+    "name": "Baumit 1A1"
+  },
+  {
+    "hex": "#8396b7",
+    "label": "1a3",
+    "name": "Baumit 1A3"
+  },
+  {
+    "hex": "#a7b5cd",
+    "label": "1a5",
+    "name": "Baumit 1A5"
+  },
+  {
+    "hex": "#c1ccda",
+    "label": "1a7",
+    "name": "Baumit 1A7"
+  },
+  {
+    "hex": "#d2d7da",
+    "label": "1a9",
+    "name": "Baumit 1A9"
+  },
+  {
+    "hex": "#b87b4f",
+    "label": "1c1",
+    "name": "Baumit 1C1"
+  },
+  {
+    "hex": "#ce9769",
+    "label": "1c3",
+    "name": "Baumit 1C3"
+  },
+  {
+    "hex": "#dcac81",
+    "label": "1c5",
+    "name": "Baumit 1C5"
+  },
+  {
+    "hex": "#e1c2a1",
+    "label": "1c7",
+    "name": "Baumit 1C7"
+  },
+  {
+    "hex": "#e8d4bd",
+    "label": "1c9",
+    "name": "Baumit 1C9"
+  },
+  {
+    "hex": "#79565a",
+    "label": "1f1",
+    "name": "Baumit 1F1"
+  },
+  {
+    "hex": "#947378",
+    "label": "1f3",
+    "name": "Baumit 1F3"
+  },
+  {
+    "hex": "#b39699",
+    "label": "1f5",
+    "name": "Baumit 1F5"
+  },
+  {
+    "hex": "#c6b1b3",
+    "label": "1f7",
+    "name": "Baumit 1F7"
+  },
+  {
+    "hex": "#d4c6c6",
+    "label": "1f9",
+    "name": "Baumit 1F9"
+  },
+  {
+    "hex": "#e5c10f",
+    "label": "1g1",
+    "name": "Baumit 1G1"
+  },
+  {
+    "hex": "#ecd34d",
+    "label": "1g3",
+    "name": "Baumit 1G3"
+  },
+  {
+    "hex": "#ebdf7f",
+    "label": "1g5",
+    "name": "Baumit 1G5"
+  },
+  {
+    "hex": "#e9e5a9",
+    "label": "1g7",
+    "name": "Baumit 1G7"
+  },
+  {
+    "hex": "#ebe8c4",
+    "label": "1g9",
+    "name": "Baumit 1G9"
+  },
+  {
+    "hex": "#66a594",
+    "label": "1j1",
+    "name": "Baumit 1J1"
+  },
+  {
+    "hex": "#89bcad",
+    "label": "1j3",
+    "name": "Baumit 1J3"
+  },
+  {
+    "hex": "#b2cfc7",
+    "label": "1j5",
+    "name": "Baumit 1J5"
+  },
+  {
+    "hex": "#c9dbd3",
+    "label": "1j7",
+    "name": "Baumit 1J7"
+  },
+  {
+    "hex": "#d6dfd8",
+    "label": "1j9",
+    "name": "Baumit 1J9"
+  },
+  {
+    "hex": "#6c8768",
+    "label": "1k1",
+    "name": "Baumit 1K1"
+  },
+  {
+    "hex": "#879f82",
+    "label": "1k3",
+    "name": "Baumit 1K3"
+  },
+  {
+    "hex": "#a5b79f",
+    "label": "1k5",
+    "name": "Baumit 1K5"
+  },
+  {
+    "hex": "#c1cdbc",
+    "label": "1k7",
+    "name": "Baumit 1K7"
+  },
+  {
+    "hex": "#d2d7cc",
+    "label": "1k9",
+    "name": "Baumit 1K9"
+  },
+  {
+    "hex": "#d5a339",
+    "label": "1m1",
+    "name": "Baumit 1M1"
+  },
+  {
+    "hex": "#e2b85a",
+    "label": "1m3",
+    "name": "Baumit 1M3"
+  },
+  {
+    "hex": "#eace82",
+    "label": "1m5",
+    "name": "Baumit 1M5"
+  },
+  {
+    "hex": "#e9daa7",
+    "label": "1m7",
+    "name": "Baumit 1M7"
+  },
+  {
+    "hex": "#e9e0bd",
+    "label": "1m9",
+    "name": "Baumit 1M9"
+  },
+  {
+    "hex": "#84bb55",
+    "label": "1o1",
+    "name": "Baumit 1O1"
+  },
+  {
+    "hex": "#a3cb77",
+    "label": "1o3",
+    "name": "Baumit 1O3"
+  },
+  {
+    "hex": "#bed895",
+    "label": "1o5",
+    "name": "Baumit 1O5"
+  },
+  {
+    "hex": "#d0dcb2",
+    "label": "1o7",
+    "name": "Baumit 1O7"
+  },
+  {
+    "hex": "#dce1c7",
+    "label": "1o9",
+    "name": "Baumit 1O9"
+  },
+  {
+    "hex": "#dc7043",
+    "label": "1r1",
+    "name": "Baumit 1R1"
+  },
+  {
+    "hex": "#e79163",
+    "label": "1r3",
+    "name": "Baumit 1R3"
+  },
+  {
+    "hex": "#e8aa82",
+    "label": "1r5",
+    "name": "Baumit 1R5"
+  },
+  {
+    "hex": "#ebc3a3",
+    "label": "1r7",
+    "name": "Baumit 1R7"
+  },
+  {
+    "hex": "#ebd7c1",
+    "label": "1r9",
+    "name": "Baumit 1R9"
+  },
+  {
+    "hex": "#626059",
+    "label": "1s1",
+    "name": "Baumit 1S1"
+  },
+  {
+    "hex": "#7a786f",
+    "label": "1s3",
+    "name": "Baumit 1S3"
+  },
+  {
+    "hex": "#9b988e",
+    "label": "1s5",
+    "name": "Baumit 1S5"
+  },
+  {
+    "hex": "#b7b4ab",
+    "label": "1s7",
+    "name": "Baumit 1S7"
+  },
+  {
+    "hex": "#cfcdc5",
+    "label": "1s9",
+    "name": "Baumit 1S9"
+  },
+  {
+    "hex": "#59b2c5",
+    "label": "1t1",
+    "name": "Baumit 1T1"
+  },
+  {
+    "hex": "#7ebfcd",
+    "label": "1t3",
+    "name": "Baumit 1T3"
+  },
+  {
+    "hex": "#a9d0d6",
+    "label": "1t5",
+    "name": "Baumit 1T5"
+  },
+  {
+    "hex": "#c1d7d9",
+    "label": "1t7",
+    "name": "Baumit 1T7"
+  },
+  {
+    "hex": "#cfdad7",
+    "label": "1t9",
+    "name": "Baumit 1T9"
+  },
+  {
+    "hex": "#8b6050",
+    "label": "1u1",
+    "name": "Baumit 1U1"
+  },
+  {
+    "hex": "#a47967",
+    "label": "1u3",
+    "name": "Baumit 1U3"
+  },
+  {
+    "hex": "#bd9989",
+    "label": "1u5",
+    "name": "Baumit 1U5"
+  },
+  {
+    "hex": "#d3b7a8",
+    "label": "1u7",
+    "name": "Baumit 1U7"
+  },
+  {
+    "hex": "#dfcdc2",
+    "label": "1u9",
+    "name": "Baumit 1U9"
+  },
+  {
+    "hex": "#755fa1",
+    "label": "1v1",
+    "name": "Baumit 1V1"
+  },
+  {
+    "hex": "#957fbc",
+    "label": "1v3",
+    "name": "Baumit 1V3"
+  },
+  {
+    "hex": "#b5a3d2",
+    "label": "1v5",
+    "name": "Baumit 1V5"
+  },
+  {
+    "hex": "#c7b9d7",
+    "label": "1v7",
+    "name": "Baumit 1V7"
+  },
+  {
+    "hex": "#d8d1dc",
+    "label": "1v9",
+    "name": "Baumit 1V9"
+  },
+  {
+    "hex": "#8c5c53",
+    "label": "1z1",
+    "name": "Baumit 1Z1"
+  },
+  {
+    "hex": "#a6766b",
+    "label": "1z3",
+    "name": "Baumit 1Z3"
+  },
+  {
+    "hex": "#bc9388",
+    "label": "1z5",
+    "name": "Baumit 1Z5"
+  },
+  {
+    "hex": "#ccaea4",
+    "label": "1z7",
+    "name": "Baumit 1Z7"
+  },
+  {
+    "hex": "#decac1",
+    "label": "1z9",
+    "name": "Baumit 1Z9"
+  },
+  {
+    "hex": "#627c96",
+    "label": "2a1",
+    "name": "Baumit 2A1"
+  },
+  {
+    "hex": "#7a91a6",
+    "label": "2a3",
+    "name": "Baumit 2A3"
+  },
+  {
+    "hex": "#9cb0c0",
+    "label": "2a5",
+    "name": "Baumit 2A5"
+  },
+  {
+    "hex": "#b9c5ce",
+    "label": "2a7",
+    "name": "Baumit 2A7"
+  },
+  {
+    "hex": "#ccd3d6",
+    "label": "2a9",
+    "name": "Baumit 2A9"
+  },
+  {
+    "hex": "#855c67",
+    "label": "2f1",
+    "name": "Baumit 2F1"
+  },
+  {
+    "hex": "#a67b88",
+    "label": "2f3",
+    "name": "Baumit 2F3"
+  },
+  {
+    "hex": "#c09ba4",
+    "label": "2f5",
+    "name": "Baumit 2F5"
+  },
+  {
+    "hex": "#d7bbc0",
+    "label": "2f7",
+    "name": "Baumit 2F7"
+  },
+  {
+    "hex": "#dbcaca",
+    "label": "2f9",
+    "name": "Baumit 2F9"
+  },
+  {
+    "hex": "#e2b528",
+    "label": "2g1",
+    "name": "Baumit 2G1"
+  },
+  {
+    "hex": "#e5c44f",
+    "label": "2g3",
+    "name": "Baumit 2G3"
+  },
+  {
+    "hex": "#e9d67d",
+    "label": "2g5",
+    "name": "Baumit 2G5"
+  },
+  {
+    "hex": "#e8dfa1",
+    "label": "2g7",
+    "name": "Baumit 2G7"
+  },
+  {
+    "hex": "#e9e6c1",
+    "label": "2g9",
+    "name": "Baumit 2G9"
+  },
+  {
+    "hex": "#6a9980",
+    "label": "2j1",
+    "name": "Baumit 2J1"
+  },
+  {
+    "hex": "#8ab29e",
+    "label": "2j3",
+    "name": "Baumit 2J3"
+  },
+  {
+    "hex": "#adcaba",
+    "label": "2j5",
+    "name": "Baumit 2J5"
+  },
+  {
+    "hex": "#c1d4c9",
+    "label": "2j7",
+    "name": "Baumit 2J7"
+  },
+  {
+    "hex": "#d3ddd5",
+    "label": "2j9",
+    "name": "Baumit 2J9"
+  },
+  {
+    "hex": "#718961",
+    "label": "2k1",
+    "name": "Baumit 2K1"
+  },
+  {
+    "hex": "#8ba27a",
+    "label": "2k3",
+    "name": "Baumit 2K3"
+  },
+  {
+    "hex": "#afc19e",
+    "label": "2k5",
+    "name": "Baumit 2K5"
+  },
+  {
+    "hex": "#c7d1b8",
+    "label": "2k7",
+    "name": "Baumit 2K7"
+  },
+  {
+    "hex": "#d3d9c8",
+    "label": "2k9",
+    "name": "Baumit 2K9"
+  },
+  {
+    "hex": "#c79447",
+    "label": "2m1",
+    "name": "Baumit 2M1"
+  },
+  {
+    "hex": "#d9ac61",
+    "label": "2m3",
+    "name": "Baumit 2M3"
+  },
+  {
+    "hex": "#e2bf80",
+    "label": "2m5",
+    "name": "Baumit 2M5"
+  },
+  {
+    "hex": "#ecd3a4",
+    "label": "2m7",
+    "name": "Baumit 2M7"
+  },
+  {
+    "hex": "#efe1c3",
+    "label": "2m9",
+    "name": "Baumit 2M9"
+  },
+  {
+    "hex": "#adbc35",
+    "label": "2o1",
+    "name": "Baumit 2O1"
+  },
+  {
+    "hex": "#c8cc56",
+    "label": "2o3",
+    "name": "Baumit 2O3"
+  },
+  {
+    "hex": "#d6d883",
+    "label": "2o5",
+    "name": "Baumit 2O5"
+  },
+  {
+    "hex": "#dfdfa9",
+    "label": "2o7",
+    "name": "Baumit 2O7"
+  },
+  {
+    "hex": "#e2e2c2",
+    "label": "2o9",
+    "name": "Baumit 2O9"
+  },
+  {
+    "hex": "#d75c48",
+    "label": "2r1",
+    "name": "Baumit 2R1"
+  },
+  {
+    "hex": "#e37e66",
+    "label": "2r3",
+    "name": "Baumit 2R3"
+  },
+  {
+    "hex": "#eb9d88",
+    "label": "2r5",
+    "name": "Baumit 2R5"
+  },
+  {
+    "hex": "#e9b5a7",
+    "label": "2r7",
+    "name": "Baumit 2R7"
+  },
+  {
+    "hex": "#ebcabe",
+    "label": "2r9",
+    "name": "Baumit 2R9"
+  },
+  {
+    "hex": "#5b5b59",
+    "label": "2s1",
+    "name": "Baumit 2S1"
+  },
+  {
+    "hex": "#777774",
+    "label": "2s3",
+    "name": "Baumit 2S3"
+  },
+  {
+    "hex": "#969591",
+    "label": "2s5",
+    "name": "Baumit 2S5"
+  },
+  {
+    "hex": "#b2b2af",
+    "label": "2s7",
+    "name": "Baumit 2S7"
+  },
+  {
+    "hex": "#cdcdca",
+    "label": "2s9",
+    "name": "Baumit 2S9"
+  },
+  {
+    "hex": "#51bbc0",
+    "label": "2t1",
+    "name": "Baumit 2T1"
+  },
+  {
+    "hex": "#85cacf",
+    "label": "2t3",
+    "name": "Baumit 2T3"
+  },
+  {
+    "hex": "#a7d3d4",
+    "label": "2t5",
+    "name": "Baumit 2T5"
+  },
+  {
+    "hex": "#c1d8d4",
+    "label": "2t7",
+    "name": "Baumit 2T7"
+  },
+  {
+    "hex": "#d9e4de",
+    "label": "2t9",
+    "name": "Baumit 2T9"
+  },
+  {
+    "hex": "#63504c",
+    "label": "2u1",
+    "name": "Baumit 2U1"
+  },
+  {
+    "hex": "#7d6763",
+    "label": "2u3",
+    "name": "Baumit 2U3"
+  },
+  {
+    "hex": "#9b857f",
+    "label": "2u5",
+    "name": "Baumit 2U5"
+  },
+  {
+    "hex": "#b9a69f",
+    "label": "2u7",
+    "name": "Baumit 2U7"
+  },
+  {
+    "hex": "#ccbfbc",
+    "label": "2u9",
+    "name": "Baumit 2U9"
+  },
+  {
+    "hex": "#727390",
+    "label": "2v1",
+    "name": "Baumit 2V1"
+  },
+  {
+    "hex": "#9192ab",
+    "label": "2v3",
+    "name": "Baumit 2V3"
+  },
+  {
+    "hex": "#b0b2c7",
+    "label": "2v5",
+    "name": "Baumit 2V5"
+  },
+  {
+    "hex": "#c5c5d1",
+    "label": "2v7",
+    "name": "Baumit 2V7"
+  },
+  {
+    "hex": "#d4d5d9",
+    "label": "2v9",
+    "name": "Baumit 2V9"
+  },
+  {
+    "hex": "#965748",
+    "label": "2z1",
+    "name": "Baumit 2Z1"
+  },
+  {
+    "hex": "#aa6b5b",
+    "label": "2z3",
+    "name": "Baumit 2Z3"
+  },
+  {
+    "hex": "#c58b7a",
+    "label": "2z5",
+    "name": "Baumit 2Z5"
+  },
+  {
+    "hex": "#d7a99a",
+    "label": "2z7",
+    "name": "Baumit 2Z7"
+  },
+  {
+    "hex": "#e2c3b7",
+    "label": "2z9",
+    "name": "Baumit 2Z9"
+  },
+  {
+    "hex": "#59859e",
+    "label": "3a1",
+    "name": "Baumit 3A1"
+  },
+  {
+    "hex": "#7ba2b9",
+    "label": "3a3",
+    "name": "Baumit 3A3"
+  },
+  {
+    "hex": "#a1bfd0",
+    "label": "3a5",
+    "name": "Baumit 3A5"
+  },
+  {
+    "hex": "#bacdd6",
+    "label": "3a7",
+    "name": "Baumit 3A7"
+  },
+  {
+    "hex": "#d0dadb",
+    "label": "3a9",
+    "name": "Baumit 3A9"
+  },
+  {
+    "hex": "#758f58",
+    "label": "3k1",
+    "name": "Baumit 3K1"
+  },
+  {
+    "hex": "#93aa72",
+    "label": "3k3",
+    "name": "Baumit 3K3"
+  },
+  {
+    "hex": "#b1c291",
+    "label": "3k5",
+    "name": "Baumit 3K5"
+  },
+  {
+    "hex": "#c7d1af",
+    "label": "3k7",
+    "name": "Baumit 3K7"
+  },
+  {
+    "hex": "#d3d7c2",
+    "label": "3k9",
+    "name": "Baumit 3K9"
+  },
+  {
+    "hex": "#c78949",
+    "label": "3m1",
+    "name": "Baumit 3M1"
+  },
+  {
+    "hex": "#dca260",
+    "label": "3m3",
+    "name": "Baumit 3M3"
+  },
+  {
+    "hex": "#e3b881",
+    "label": "3m5",
+    "name": "Baumit 3M5"
+  },
+  {
+    "hex": "#eed1a9",
+    "label": "3m7",
+    "name": "Baumit 3M7"
+  },
+  {
+    "hex": "#ecdcbf",
+    "label": "3m9",
+    "name": "Baumit 3M9"
+  },
+  {
+    "hex": "#d6564b",
+    "label": "3r1",
+    "name": "Baumit 3R1"
+  },
+  {
+    "hex": "#e5726b",
+    "label": "3r3",
+    "name": "Baumit 3R3"
+  },
+  {
+    "hex": "#e68e8b",
+    "label": "3r5",
+    "name": "Baumit 3R5"
+  },
+  {
+    "hex": "#e8abab",
+    "label": "3r7",
+    "name": "Baumit 3R7"
+  },
+  {
+    "hex": "#e9c3c3",
+    "label": "3r9",
+    "name": "Baumit 3R9"
+  },
+  {
+    "hex": "#5f5a5d",
+    "label": "3s1",
+    "name": "Baumit 3S1"
+  },
+  {
+    "hex": "#777275",
+    "label": "3s3",
+    "name": "Baumit 3S3"
+  },
+  {
+    "hex": "#8e8b8c",
+    "label": "3s5",
+    "name": "Baumit 3S5"
+  },
+  {
+    "hex": "#b3b0b0",
+    "label": "3s7",
+    "name": "Baumit 3S7"
+  },
+  {
+    "hex": "#c6c6c6",
+    "label": "3s9",
+    "name": "Baumit 3S9"
+  },
+  {
+    "hex": "#65504e",
+    "label": "3u1",
+    "name": "Baumit 3U1"
+  },
+  {
+    "hex": "#7c6664",
+    "label": "3u3",
+    "name": "Baumit 3U3"
+  },
+  {
+    "hex": "#9c8885",
+    "label": "3u5",
+    "name": "Baumit 3U5"
+  },
+  {
+    "hex": "#baa9a6",
+    "label": "3u7",
+    "name": "Baumit 3U7"
+  },
+  {
+    "hex": "#cdc1be",
+    "label": "3u9",
+    "name": "Baumit 3U9"
+  },
+  {
+    "hex": "#8a4e47",
+    "label": "3z1",
+    "name": "Baumit 3Z1"
+  },
+  {
+    "hex": "#a2655f",
+    "label": "3z3",
+    "name": "Baumit 3Z3"
+  },
+  {
+    "hex": "#ba817a",
+    "label": "3z5",
+    "name": "Baumit 3Z5"
+  },
+  {
+    "hex": "#d2a8a1",
+    "label": "3z7",
+    "name": "Baumit 3Z7"
+  },
+  {
+    "hex": "#dbbcb6",
+    "label": "3z9",
+    "name": "Baumit 3Z9"
+  },
+  {
+    "hex": "#5e91c6",
+    "label": "4a1",
+    "name": "Baumit 4A1"
+  },
+  {
+    "hex": "#78aad8",
+    "label": "4a3",
+    "name": "Baumit 4A3"
+  },
+  {
+    "hex": "#9bbfda",
+    "label": "4a5",
+    "name": "Baumit 4A5"
+  },
+  {
+    "hex": "#bed2df",
+    "label": "4a7",
+    "name": "Baumit 4A7"
+  },
+  {
+    "hex": "#d0dee3",
+    "label": "4a9",
+    "name": "Baumit 4A9"
+  },
+  {
+    "hex": "#c7824d",
+    "label": "4m1",
+    "name": "Baumit 4M1"
+  },
+  {
+    "hex": "#d89b63",
+    "label": "4m3",
+    "name": "Baumit 4M3"
+  },
+  {
+    "hex": "#e7b687",
+    "label": "4m5",
+    "name": "Baumit 4M5"
+  },
+  {
+    "hex": "#edcdab",
+    "label": "4m7",
+    "name": "Baumit 4M7"
+  },
+  {
+    "hex": "#ecdac2",
+    "label": "4m9",
+    "name": "Baumit 4M9"
+  },
+  {
+    "hex": "#a95a58",
+    "label": "4r1",
+    "name": "Baumit 4R1"
+  },
+  {
+    "hex": "#c57273",
+    "label": "4r3",
+    "name": "Baumit 4R3"
+  },
+  {
+    "hex": "#da9091",
+    "label": "4r5",
+    "name": "Baumit 4R5"
+  },
+  {
+    "hex": "#deacae",
+    "label": "4r7",
+    "name": "Baumit 4R7"
+  },
+  {
+    "hex": "#e5c4c5",
+    "label": "4r9",
+    "name": "Baumit 4R9"
+  },
+  {
+    "hex": "#58595c",
+    "label": "4s1",
+    "name": "Baumit 4S1"
+  },
+  {
+    "hex": "#717276",
+    "label": "4s3",
+    "name": "Baumit 4S3"
+  },
+  {
+    "hex": "#919295",
+    "label": "4s5",
+    "name": "Baumit 4S5"
+  },
+  {
+    "hex": "#b3b3b4",
+    "label": "4s7",
+    "name": "Baumit 4S7"
+  },
+  {
+    "hex": "#c8c8c7",
+    "label": "4s9",
+    "name": "Baumit 4S9"
+  },
+  {
+    "hex": "#5b4f4c",
+    "label": "4u1",
+    "name": "Baumit 4U1"
+  },
+  {
+    "hex": "#736461",
+    "label": "4u3",
+    "name": "Baumit 4U3"
+  },
+  {
+    "hex": "#91827e",
+    "label": "4u5",
+    "name": "Baumit 4U5"
+  },
+  {
+    "hex": "#afa29d",
+    "label": "4u7",
+    "name": "Baumit 4U7"
+  },
+  {
+    "hex": "#c4bcb7",
+    "label": "4u9",
+    "name": "Baumit 4U9"
+  },
+  {
+    "hex": "#8e4f46",
+    "label": "4z1",
+    "name": "Baumit 4Z1"
+  },
+  {
+    "hex": "#a25f53",
+    "label": "4z3",
+    "name": "Baumit 4Z3"
+  },
+  {
+    "hex": "#bd8075",
+    "label": "4z5",
+    "name": "Baumit 4Z5"
+  },
+  {
+    "hex": "#d2a299",
+    "label": "4z7",
+    "name": "Baumit 4Z7"
+  },
+  {
+    "hex": "#ddbcb4",
+    "label": "4z9",
+    "name": "Baumit 4Z9"
+  },
+  {
+    "hex": "#53a0c6",
+    "label": "5a1",
+    "name": "Baumit 5A1"
+  },
+  {
+    "hex": "#7cb5d2",
+    "label": "5a3",
+    "name": "Baumit 5A3"
+  },
+  {
+    "hex": "#a3cadb",
+    "label": "5a5",
+    "name": "Baumit 5A5"
+  },
+  {
+    "hex": "#c0d7dd",
+    "label": "5a7",
+    "name": "Baumit 5A7"
+  },
+  {
+    "hex": "#cfd9d9",
+    "label": "5a9",
+    "name": "Baumit 5A9"
+  },
+  {
+    "hex": "#815050",
+    "label": "5r1",
+    "name": "Baumit 5R1"
+  },
+  {
+    "hex": "#9a6869",
+    "label": "5r3",
+    "name": "Baumit 5R3"
+  },
+  {
+    "hex": "#b28887",
+    "label": "5r5",
+    "name": "Baumit 5R5"
+  },
+  {
+    "hex": "#cdacab",
+    "label": "5r7",
+    "name": "Baumit 5R7"
+  },
+  {
+    "hex": "#d9c2be",
+    "label": "5r9",
+    "name": "Baumit 5R9"
+  },
+  {
+    "hex": "#4e4f53",
+    "label": "5s1",
+    "name": "Baumit 5S1"
+  },
+  {
+    "hex": "#66676b",
+    "label": "5s3",
+    "name": "Baumit 5S3"
+  },
+  {
+    "hex": "#858688",
+    "label": "5s5",
+    "name": "Baumit 5S5"
+  },
+  {
+    "hex": "#a7a8a9",
+    "label": "5s7",
+    "name": "Baumit 5S7"
+  },
+  {
+    "hex": "#c1c2c2",
+    "label": "5s9",
+    "name": "Baumit 5S9"
+  },
+  {
+    "hex": "#67594f",
+    "label": "5u1",
+    "name": "Baumit 5U1"
+  },
+  {
+    "hex": "#807064",
+    "label": "5u3",
+    "name": "Baumit 5U3"
+  },
+  {
+    "hex": "#9f8f82",
+    "label": "5u5",
+    "name": "Baumit 5U5"
+  },
+  {
+    "hex": "#bbaea2",
+    "label": "5u7",
+    "name": "Baumit 5U7"
+  },
+  {
+    "hex": "#cec5bb",
+    "label": "5u9",
+    "name": "Baumit 5U9"
+  },
+  {
+    "hex": "#57606a",
+    "label": "6s1",
+    "name": "Baumit 6S1"
+  },
+  {
+    "hex": "#747e87",
+    "label": "6s3",
+    "name": "Baumit 6S3"
+  },
+  {
+    "hex": "#949ca3",
+    "label": "6s5",
+    "name": "Baumit 6S5"
+  },
+  {
+    "hex": "#b5bbc0",
+    "label": "6s7",
+    "name": "Baumit 6S7"
+  },
+  {
+    "hex": "#bcc1c4",
+    "label": "6s9",
+    "name": "Baumit 6S9"
+  },
+  {
+    "hex": "#dee1dc",
+    "label": "09a",
+    "name": "Baumit 09A"
+  },
+  {
+    "hex": "#e8e2d0",
+    "label": "09b",
+    "name": "Baumit 09B"
+  },
+  {
+    "hex": "#ecdfd1",
+    "label": "09c",
+    "name": "Baumit 09C"
+  },
+  {
+    "hex": "#e1e1dd",
+    "label": "09f",
+    "name": "Baumit 09F"
+  },
+  {
+    "hex": "#e7e5d7",
+    "label": "09g",
+    "name": "Baumit 09G"
+  },
+  {
+    "hex": "#dde4d9",
+    "label": "09j",
+    "name": "Baumit 09J"
+  },
+  {
+    "hex": "#e7e7db",
+    "label": "09k",
+    "name": "Baumit 09K"
+  },
+  {
+    "hex": "#e1e5d7",
+    "label": "09l",
+    "name": "Baumit 09L"
+  },
+  {
+    "hex": "#e9e3ce",
+    "label": "09m",
+    "name": "Baumit 09M"
+  },
+  {
+    "hex": "#e9e6d6",
+    "label": "09o",
+    "name": "Baumit 09O"
+  },
+  {
+    "hex": "#e3d5cf",
+    "label": "09r",
+    "name": "Baumit 09R"
+  },
+  {
+    "hex": "#e3e1dc",
+    "label": "09s",
+    "name": "Baumit 09S"
+  },
+  {
+    "hex": "#d7e1da",
+    "label": "09t",
+    "name": "Baumit 09T"
+  },
+  {
+    "hex": "#e5dacf",
+    "label": "09u",
+    "name": "Baumit 09U"
+  },
+  {
+    "hex": "#e4ded9",
+    "label": "09v",
+    "name": "Baumit 09V"
+  },
+  {
+    "hex": "#e8d5cd",
+    "label": "09z",
+    "name": "Baumit 09Z"
+  },
+  {
+    "hex": "#e8e6db",
+    "label": "0w9",
+    "name": "Baumit 0W9"
+  },
+  {
+    "hex": "#6d929e",
+    "label": "11a",
+    "name": "Baumit 11A"
+  },
+  {
+    "hex": "#b3934d",
+    "label": "11b",
+    "name": "Baumit 11B"
+  },
+  {
+    "hex": "#bb794d",
+    "label": "11c",
+    "name": "Baumit 11C"
+  },
+  {
+    "hex": "#847681",
+    "label": "11f",
+    "name": "Baumit 11F"
+  },
+  {
+    "hex": "#d2d27a",
+    "label": "11g",
+    "name": "Baumit 11G"
+  },
+  {
+    "hex": "#48aa8d",
+    "label": "11j",
+    "name": "Baumit 11J"
+  },
+  {
+    "hex": "#738d6a",
+    "label": "11k",
+    "name": "Baumit 11K"
+  },
+  {
+    "hex": "#85b97c",
+    "label": "11l",
+    "name": "Baumit 11L"
+  },
+  {
+    "hex": "#cc9848",
+    "label": "11m",
+    "name": "Baumit 11M"
+  },
+  {
+    "hex": "#888459",
+    "label": "11o",
+    "name": "Baumit 11O"
+  },
+  {
+    "hex": "#945a55",
+    "label": "11r",
+    "name": "Baumit 11R"
+  },
+  {
+    "hex": "#6a6762",
+    "label": "11s",
+    "name": "Baumit 11S"
+  },
+  {
+    "hex": "#4eb0bf",
+    "label": "11t",
+    "name": "Baumit 11T"
+  },
+  {
+    "hex": "#8c6650",
+    "label": "11u",
+    "name": "Baumit 11U"
+  },
+  {
+    "hex": "#8a6161",
+    "label": "11v",
+    "name": "Baumit 11V"
+  },
+  {
+    "hex": "#a6624e",
+    "label": "11z",
+    "name": "Baumit 11Z"
+  },
+  {
+    "hex": "#91b2bc",
+    "label": "13a",
+    "name": "Baumit 13A"
+  },
+  {
+    "hex": "#caab64",
+    "label": "13b",
+    "name": "Baumit 13B"
+  },
+  {
+    "hex": "#d0946b",
+    "label": "13c",
+    "name": "Baumit 13C"
+  },
+  {
+    "hex": "#9d939d",
+    "label": "13f",
+    "name": "Baumit 13F"
+  },
+  {
+    "hex": "#dcdd90",
+    "label": "13g",
+    "name": "Baumit 13G"
+  },
+  {
+    "hex": "#6ebfa7",
+    "label": "13j",
+    "name": "Baumit 13J"
+  },
+  {
+    "hex": "#96ac8a",
+    "label": "13k",
+    "name": "Baumit 13K"
+  },
+  {
+    "hex": "#9ccb95",
+    "label": "13l",
+    "name": "Baumit 13L"
+  },
+  {
+    "hex": "#dbaf63",
+    "label": "13m",
+    "name": "Baumit 13M"
+  },
+  {
+    "hex": "#a19e74",
+    "label": "13o",
+    "name": "Baumit 13O"
+  },
+  {
+    "hex": "#af7772",
+    "label": "13r",
+    "name": "Baumit 13R"
+  },
+  {
+    "hex": "#8a8781",
+    "label": "13s",
+    "name": "Baumit 13S"
+  },
+  {
+    "hex": "#77c6d2",
+    "label": "13t",
+    "name": "Baumit 13T"
+  },
+  {
+    "hex": "#a98065",
+    "label": "13u",
+    "name": "Baumit 13U"
+  },
+  {
+    "hex": "#a47d7d",
+    "label": "13v",
+    "name": "Baumit 13V"
+  },
+  {
+    "hex": "#bf7e68",
+    "label": "13z",
+    "name": "Baumit 13Z"
+  },
+  {
+    "hex": "#b5cad0",
+    "label": "15a",
+    "name": "Baumit 15A"
+  },
+  {
+    "hex": "#dbc389",
+    "label": "15b",
+    "name": "Baumit 15B"
+  },
+  {
+    "hex": "#ddaf8d",
+    "label": "15c",
+    "name": "Baumit 15C"
+  },
+  {
+    "hex": "#bdb6bd",
+    "label": "15f",
+    "name": "Baumit 15F"
+  },
+  {
+    "hex": "#e0e1a9",
+    "label": "15g",
+    "name": "Baumit 15G"
+  },
+  {
+    "hex": "#9cd2c1",
+    "label": "15j",
+    "name": "Baumit 15J"
+  },
+  {
+    "hex": "#b4c3a9",
+    "label": "15k",
+    "name": "Baumit 15K"
+  },
+  {
+    "hex": "#b4d7ad",
+    "label": "15l",
+    "name": "Baumit 15L"
+  },
+  {
+    "hex": "#e6c587",
+    "label": "15m",
+    "name": "Baumit 15M"
+  },
+  {
+    "hex": "#c1be9a",
+    "label": "15o",
+    "name": "Baumit 15O"
+  },
+  {
+    "hex": "#c79d98",
+    "label": "15r",
+    "name": "Baumit 15R"
+  },
+  {
+    "hex": "#adaba5",
+    "label": "15s",
+    "name": "Baumit 15S"
+  },
+  {
+    "hex": "#a2d5da",
+    "label": "15t",
+    "name": "Baumit 15T"
+  },
+  {
+    "hex": "#c9aa95",
+    "label": "15u",
+    "name": "Baumit 15U"
+  },
+  {
+    "hex": "#c3a4a5",
+    "label": "15v",
+    "name": "Baumit 15V"
+  },
+  {
+    "hex": "#d5a492",
+    "label": "15z",
+    "name": "Baumit 15Z"
+  },
+  {
+    "hex": "#d0dcdc",
+    "label": "17a",
+    "name": "Baumit 17A"
+  },
+  {
+    "hex": "#e3d6b2",
+    "label": "17b",
+    "name": "Baumit 17B"
+  },
+  {
+    "hex": "#e7ccb4",
+    "label": "17c",
+    "name": "Baumit 17C"
+  },
+  {
+    "hex": "#d6d4d4",
+    "label": "17f",
+    "name": "Baumit 17F"
+  },
+  {
+    "hex": "#e6e8c8",
+    "label": "17g",
+    "name": "Baumit 17G"
+  },
+  {
+    "hex": "#c7ded3",
+    "label": "17j",
+    "name": "Baumit 17J"
+  },
+  {
+    "hex": "#d6dccb",
+    "label": "17k",
+    "name": "Baumit 17K"
+  },
+  {
+    "hex": "#cfdfc7",
+    "label": "17l",
+    "name": "Baumit 17L"
+  },
+  {
+    "hex": "#e9d7b1",
+    "label": "17m",
+    "name": "Baumit 17M"
+  },
+  {
+    "hex": "#dad8c2",
+    "label": "17o",
+    "name": "Baumit 17O"
+  },
+  {
+    "hex": "#ddc1bc",
+    "label": "17r",
+    "name": "Baumit 17R"
+  },
+  {
+    "hex": "#c7c5c1",
+    "label": "17s",
+    "name": "Baumit 17S"
+  },
+  {
+    "hex": "#cae2e4",
+    "label": "17t",
+    "name": "Baumit 17T"
+  },
+  {
+    "hex": "#d9c2b0",
+    "label": "17u",
+    "name": "Baumit 17U"
+  },
+  {
+    "hex": "#dcc8c7",
+    "label": "17v",
+    "name": "Baumit 17V"
+  },
+  {
+    "hex": "#e6c6b8",
+    "label": "17z",
+    "name": "Baumit 17Z"
+  },
+  {
+    "hex": "#6895af",
+    "label": "21a",
+    "name": "Baumit 21A"
+  },
+  {
+    "hex": "#a78b53",
+    "label": "21b",
+    "name": "Baumit 21B"
+  },
+  {
+    "hex": "#af6c4f",
+    "label": "21c",
+    "name": "Baumit 21C"
+  },
+  {
+    "hex": "#797f94",
+    "label": "21f",
+    "name": "Baumit 21F"
+  },
+  {
+    "hex": "#e0da78",
+    "label": "21g",
+    "name": "Baumit 21G"
+  },
+  {
+    "hex": "#5ba77e",
+    "label": "21j",
+    "name": "Baumit 21J"
+  },
+  {
+    "hex": "#809165",
+    "label": "21k",
+    "name": "Baumit 21K"
+  },
+  {
+    "hex": "#b6c274",
+    "label": "21l",
+    "name": "Baumit 21L"
+  },
+  {
+    "hex": "#da9d4c",
+    "label": "21m",
+    "name": "Baumit 21M"
+  },
+  {
+    "hex": "#959059",
+    "label": "21o",
+    "name": "Baumit 21O"
+  },
+  {
+    "hex": "#8e5957",
+    "label": "21r",
+    "name": "Baumit 21R"
+  },
+  {
+    "hex": "#626061",
+    "label": "21s",
+    "name": "Baumit 21S"
+  },
+  {
+    "hex": "#3fb8bb",
+    "label": "21t",
+    "name": "Baumit 21T"
+  },
+  {
+    "hex": "#996b52",
+    "label": "21u",
+    "name": "Baumit 21U"
+  },
+  {
+    "hex": "#866c72",
+    "label": "21v",
+    "name": "Baumit 21V"
+  },
+  {
+    "hex": "#9f594c",
+    "label": "21z",
+    "name": "Baumit 21Z"
+  },
+  {
+    "hex": "#8bafc5",
+    "label": "23a",
+    "name": "Baumit 23A"
+  },
+  {
+    "hex": "#bea368",
+    "label": "23b",
+    "name": "Baumit 23B"
+  },
+  {
+    "hex": "#c88766",
+    "label": "23c",
+    "name": "Baumit 23C"
+  },
+  {
+    "hex": "#9ba2b3",
+    "label": "23f",
+    "name": "Baumit 23F"
+  },
+  {
+    "hex": "#e4e08d",
+    "label": "23g",
+    "name": "Baumit 23G"
+  },
+  {
+    "hex": "#7abc96",
+    "label": "23j",
+    "name": "Baumit 23J"
+  },
+  {
+    "hex": "#9dab81",
+    "label": "23k",
+    "name": "Baumit 23K"
+  },
+  {
+    "hex": "#c3cd8c",
+    "label": "23l",
+    "name": "Baumit 23L"
+  },
+  {
+    "hex": "#e1ad64",
+    "label": "23m",
+    "name": "Baumit 23M"
+  },
+  {
+    "hex": "#aaa66f",
+    "label": "23o",
+    "name": "Baumit 23O"
+  },
+  {
+    "hex": "#ab7978",
+    "label": "23r",
+    "name": "Baumit 23R"
+  },
+  {
+    "hex": "#7f7e7f",
+    "label": "23s",
+    "name": "Baumit 23S"
+  },
+  {
+    "hex": "#6bc7ca",
+    "label": "23t",
+    "name": "Baumit 23T"
+  },
+  {
+    "hex": "#b3866b",
+    "label": "23u",
+    "name": "Baumit 23U"
+  },
+  {
+    "hex": "#a28b90",
+    "label": "23v",
+    "name": "Baumit 23V"
+  },
+  {
+    "hex": "#b87468",
+    "label": "23z",
+    "name": "Baumit 23Z"
+  },
+  {
+    "hex": "#b2cad5",
+    "label": "25a",
+    "name": "Baumit 25A"
+  },
+  {
+    "hex": "#cfbb8b",
+    "label": "25b",
+    "name": "Baumit 25B"
+  },
+  {
+    "hex": "#d9a68b",
+    "label": "25c",
+    "name": "Baumit 25C"
+  },
+  {
+    "hex": "#b8bec9",
+    "label": "25f",
+    "name": "Baumit 25F"
+  },
+  {
+    "hex": "#e5e6ae",
+    "label": "25g",
+    "name": "Baumit 25G"
+  },
+  {
+    "hex": "#a3cdb0",
+    "label": "25j",
+    "name": "Baumit 25J"
+  },
+  {
+    "hex": "#bbc5a5",
+    "label": "25k",
+    "name": "Baumit 25K"
+  },
+  {
+    "hex": "#d4d9a9",
+    "label": "25l",
+    "name": "Baumit 25L"
+  },
+  {
+    "hex": "#ecca92",
+    "label": "25m",
+    "name": "Baumit 25M"
+  },
+  {
+    "hex": "#c6c196",
+    "label": "25o",
+    "name": "Baumit 25O"
+  },
+  {
+    "hex": "#c7a1a0",
+    "label": "25r",
+    "name": "Baumit 25R"
+  },
+  {
+    "hex": "#a4a3a3",
+    "label": "25s",
+    "name": "Baumit 25S"
+  },
+  {
+    "hex": "#9dd7d8",
+    "label": "25t",
+    "name": "Baumit 25T"
+  },
+  {
+    "hex": "#cdaa91",
+    "label": "25u",
+    "name": "Baumit 25U"
+  },
+  {
+    "hex": "#c1b0b3",
+    "label": "25v",
+    "name": "Baumit 25V"
+  },
+  {
+    "hex": "#d0988d",
+    "label": "25z",
+    "name": "Baumit 25Z"
+  },
+  {
+    "hex": "#cbdbe0",
+    "label": "27a",
+    "name": "Baumit 27A"
+  },
+  {
+    "hex": "#e4d7b8",
+    "label": "27b",
+    "name": "Baumit 27B"
+  },
+  {
+    "hex": "#e6c6b3",
+    "label": "27c",
+    "name": "Baumit 27C"
+  },
+  {
+    "hex": "#d1d5d8",
+    "label": "27f",
+    "name": "Baumit 27F"
+  },
+  {
+    "hex": "#e6e5c2",
+    "label": "27g",
+    "name": "Baumit 27G"
+  },
+  {
+    "hex": "#c7dfcd",
+    "label": "27j",
+    "name": "Baumit 27J"
+  },
+  {
+    "hex": "#d5dac6",
+    "label": "27k",
+    "name": "Baumit 27K"
+  },
+  {
+    "hex": "#e2e4c8",
+    "label": "27l",
+    "name": "Baumit 27L"
+  },
+  {
+    "hex": "#e7d6b2",
+    "label": "27m",
+    "name": "Baumit 27M"
+  },
+  {
+    "hex": "#dfdbbe",
+    "label": "27o",
+    "name": "Baumit 27O"
+  },
+  {
+    "hex": "#d8c0bc",
+    "label": "27r",
+    "name": "Baumit 27R"
+  },
+  {
+    "hex": "#c5c3be",
+    "label": "27s",
+    "name": "Baumit 27S"
+  },
+  {
+    "hex": "#c3e1df",
+    "label": "27t",
+    "name": "Baumit 27T"
+  },
+  {
+    "hex": "#e0c9ba",
+    "label": "27u",
+    "name": "Baumit 27U"
+  },
+  {
+    "hex": "#d5cbcb",
+    "label": "27v",
+    "name": "Baumit 27V"
+  },
+  {
+    "hex": "#e1bdb5",
+    "label": "27z",
+    "name": "Baumit 27Z"
+  },
+  {
+    "hex": "#669dd3",
+    "label": "31a",
+    "name": "Baumit 31A"
+  },
+  {
+    "hex": "#9b8754",
+    "label": "31b",
+    "name": "Baumit 31B"
+  },
+  {
+    "hex": "#e2bd67",
+    "label": "31g",
+    "name": "Baumit 31G"
+  },
+  {
+    "hex": "#68aa77",
+    "label": "31j",
+    "name": "Baumit 31J"
+  },
+  {
+    "hex": "#cb8d56",
+    "label": "31m",
+    "name": "Baumit 31M"
+  },
+  {
+    "hex": "#48aba0",
+    "label": "31t",
+    "name": "Baumit 31T"
+  },
+  {
+    "hex": "#865f4c",
+    "label": "31u",
+    "name": "Baumit 31U"
+  },
+  {
+    "hex": "#88b3da",
+    "label": "33a",
+    "name": "Baumit 33A"
+  },
+  {
+    "hex": "#b5a26d",
+    "label": "33b",
+    "name": "Baumit 33B"
+  },
+  {
+    "hex": "#e5c97d",
+    "label": "33g",
+    "name": "Baumit 33G"
+  },
+  {
+    "hex": "#87c092",
+    "label": "33j",
+    "name": "Baumit 33J"
+  },
+  {
+    "hex": "#daa16a",
+    "label": "33m",
+    "name": "Baumit 33M"
+  },
+  {
+    "hex": "#76bdb5",
+    "label": "33t",
+    "name": "Baumit 33T"
+  },
+  {
+    "hex": "#a37d69",
+    "label": "33u",
+    "name": "Baumit 33U"
+  },
+  {
+    "hex": "#b2cade",
+    "label": "35a",
+    "name": "Baumit 35A"
+  },
+  {
+    "hex": "#cebf93",
+    "label": "35b",
+    "name": "Baumit 35B"
+  },
+  {
+    "hex": "#e8d9a2",
+    "label": "35g",
+    "name": "Baumit 35G"
+  },
+  {
+    "hex": "#afd2ae",
+    "label": "35j",
+    "name": "Baumit 35J"
+  },
+  {
+    "hex": "#e2b98d",
+    "label": "35m",
+    "name": "Baumit 35M"
+  },
+  {
+    "hex": "#9acfc8",
+    "label": "35t",
+    "name": "Baumit 35T"
+  },
+  {
+    "hex": "#c1a292",
+    "label": "35u",
+    "name": "Baumit 35U"
+  },
+  {
+    "hex": "#ccd9e0",
+    "label": "37a",
+    "name": "Baumit 37A"
+  },
+  {
+    "hex": "#e1d7bb",
+    "label": "37b",
+    "name": "Baumit 37B"
+  },
+  {
+    "hex": "#ebe4c4",
+    "label": "37g",
+    "name": "Baumit 37G"
+  },
+  {
+    "hex": "#cee2cc",
+    "label": "37j",
+    "name": "Baumit 37J"
+  },
+  {
+    "hex": "#e9d3b5",
+    "label": "37m",
+    "name": "Baumit 37M"
+  },
+  {
+    "hex": "#c3ded8",
+    "label": "37t",
+    "name": "Baumit 37T"
+  },
+  {
+    "hex": "#dac3b5",
+    "label": "37u",
+    "name": "Baumit 37U"
+  },
+  {
+    "hex": "#698bad",
+    "label": "41a",
+    "name": "Baumit 41A"
+  },
+  {
+    "hex": "#8a7b54",
+    "label": "41b",
+    "name": "Baumit 41B"
+  },
+  {
+    "hex": "#765f52",
+    "label": "41u",
+    "name": "Baumit 41U"
+  },
+  {
+    "hex": "#8eacc8",
+    "label": "43a",
+    "name": "Baumit 43A"
+  },
+  {
+    "hex": "#a7986d",
+    "label": "43b",
+    "name": "Baumit 43B"
+  },
+  {
+    "hex": "#988172",
+    "label": "43u",
+    "name": "Baumit 43U"
+  },
+  {
+    "hex": "#aec5d6",
+    "label": "45a",
+    "name": "Baumit 45A"
+  },
+  {
+    "hex": "#c5b998",
+    "label": "45b",
+    "name": "Baumit 45B"
+  },
+  {
+    "hex": "#baa599",
+    "label": "45u",
+    "name": "Baumit 45U"
+  },
+  {
+    "hex": "#cdd9df",
+    "label": "47a",
+    "name": "Baumit 47A"
+  },
+  {
+    "hex": "#d7cfb5",
+    "label": "47b",
+    "name": "Baumit 47B"
+  },
+  {
+    "hex": "#d4c5bb",
+    "label": "47u",
+    "name": "Baumit 47U"
+  },
+  {
+    "hex": "#697e91",
+    "label": "51a",
+    "name": "Baumit 51A"
+  },
+  {
+    "hex": "#8c9fb0",
+    "label": "53a",
+    "name": "Baumit 53A"
+  },
+  {
+    "hex": "#afbdc8",
+    "label": "55a",
+    "name": "Baumit 55A"
+  },
+  {
+    "hex": "#ced6db",
+    "label": "57a",
+    "name": "Baumit 57A"
+  }
+]

@@ -1,0 +1,7182 @@
+[
+    {
+        "name": "Alligator 3000-1",
+        "label": "3000-1",
+        "hex": "#ebb45a"
+    },
+    {
+        "name": "Alligator 3001-2",
+        "label": "3001-2",
+        "hex": "#f6cb85"
+    },
+    {
+        "name": "Alligator 3002-3",
+        "label": "3002-3",
+        "hex": "#fad9a0"
+    },
+    {
+        "name": "Alligator 3003-4",
+        "label": "3003-4",
+        "hex": "#fae2b3"
+    },
+    {
+        "name": "Alligator 3004-5",
+        "label": "3004-5",
+        "hex": "#faeccc"
+    },
+    {
+        "name": "Alligator 3005-6",
+        "label": "3005-6",
+        "hex": "#f9efd4"
+    },
+    {
+        "name": "Alligator 3006-7",
+        "label": "3006-7",
+        "hex": "#f9f0da"
+    },
+    {
+        "name": "Alligator 3010-1",
+        "label": "3010-1",
+        "hex": "#cb9751"
+    },
+    {
+        "name": "Alligator 3011-2",
+        "label": "3011-2",
+        "hex": "#e5b471"
+    },
+    {
+        "name": "Alligator 3012-3",
+        "label": "3012-3",
+        "hex": "#ebc38a"
+    },
+    {
+        "name": "Alligator 3013-4",
+        "label": "3013-4",
+        "hex": "#f6d3a2"
+    },
+    {
+        "name": "Alligator 3014-5",
+        "label": "3014-5",
+        "hex": "#f6deba"
+    },
+    {
+        "name": "Alligator 3015-6",
+        "label": "3015-6",
+        "hex": "#f6e5c8"
+    },
+    {
+        "name": "Alligator 3016-7",
+        "label": "3016-7",
+        "hex": "#f5ead1"
+    },
+    {
+        "name": "Alligator 3020-1",
+        "label": "3020-1",
+        "hex": "#cc924a"
+    },
+    {
+        "name": "Alligator 3021-2",
+        "label": "3021-2",
+        "hex": "#dca766"
+    },
+    {
+        "name": "Alligator 3022-3",
+        "label": "3022-3",
+        "hex": "#e8bb84"
+    },
+    {
+        "name": "Alligator 3023-4",
+        "label": "3023-4",
+        "hex": "#edc691"
+    },
+    {
+        "name": "Alligator 3024-5",
+        "label": "3024-5",
+        "hex": "#f3d8b0"
+    },
+    {
+        "name": "Alligator 3025-6",
+        "label": "3025-6",
+        "hex": "#f5e0bf"
+    },
+    {
+        "name": "Alligator 3026-7",
+        "label": "3026-7",
+        "hex": "#f9e9cf"
+    },
+    {
+        "name": "Alligator 3030-1",
+        "label": "3030-1",
+        "hex": "#bc8447"
+    },
+    {
+        "name": "Alligator 3031-2",
+        "label": "3031-2",
+        "hex": "#d7a46b"
+    },
+    {
+        "name": "Alligator 3032-3",
+        "label": "3032-3",
+        "hex": "#e3b887"
+    },
+    {
+        "name": "Alligator 3033-4",
+        "label": "3033-4",
+        "hex": "#ebc699"
+    },
+    {
+        "name": "Alligator 3034-5",
+        "label": "3034-5",
+        "hex": "#f3d8b5"
+    },
+    {
+        "name": "Alligator 3035-6",
+        "label": "3035-6",
+        "hex": "#f4e3c9"
+    },
+    {
+        "name": "Alligator 3036-7",
+        "label": "3036-7",
+        "hex": "#f8e8d0"
+    },
+    {
+        "name": "Alligator 3040-1",
+        "label": "3040-1",
+        "hex": "#c2804c"
+    },
+    {
+        "name": "Alligator 3041-2",
+        "label": "3041-2",
+        "hex": "#d69f6c"
+    },
+    {
+        "name": "Alligator 3042-3",
+        "label": "3042-3",
+        "hex": "#e6b689"
+    },
+    {
+        "name": "Alligator 3043-4",
+        "label": "3043-4",
+        "hex": "#e8c098"
+    },
+    {
+        "name": "Alligator 3044-5",
+        "label": "3044-5",
+        "hex": "#f6d7b7"
+    },
+    {
+        "name": "Alligator 3045-6",
+        "label": "3045-6",
+        "hex": "#f4dbbd"
+    },
+    {
+        "name": "Alligator 3046-7",
+        "label": "3046-7",
+        "hex": "#f5e5cf"
+    },
+    {
+        "name": "Alligator 3050-1",
+        "label": "3050-1",
+        "hex": "#918351"
+    },
+    {
+        "name": "Alligator 3051-2",
+        "label": "3051-2",
+        "hex": "#b1a47a"
+    },
+    {
+        "name": "Alligator 3052-3",
+        "label": "3052-3",
+        "hex": "#c8bd96"
+    },
+    {
+        "name": "Alligator 3053-4",
+        "label": "3053-4",
+        "hex": "#d4c9a8"
+    },
+    {
+        "name": "Alligator 3054-5",
+        "label": "3054-5",
+        "hex": "#e4dcc0"
+    },
+    {
+        "name": "Alligator 3055-6",
+        "label": "3055-6",
+        "hex": "#ece5cd"
+    },
+    {
+        "name": "Alligator 3056-7",
+        "label": "3056-7",
+        "hex": "#ede9d7"
+    },
+    {
+        "name": "Alligator 3060-1",
+        "label": "3060-1",
+        "hex": "#9e8d61"
+    },
+    {
+        "name": "Alligator 3061-2",
+        "label": "3061-2",
+        "hex": "#bfaf88"
+    },
+    {
+        "name": "Alligator 3062-3",
+        "label": "3062-3",
+        "hex": "#d2c6a4"
+    },
+    {
+        "name": "Alligator 3063-4",
+        "label": "3063-4",
+        "hex": "#ddd0b2"
+    },
+    {
+        "name": "Alligator 3064-5",
+        "label": "3064-5",
+        "hex": "#e9e1c9"
+    },
+    {
+        "name": "Alligator 3065-6",
+        "label": "3065-6",
+        "hex": "#ede7d4"
+    },
+    {
+        "name": "Alligator 3066-7",
+        "label": "3066-7",
+        "hex": "#f1eddd"
+    },
+    {
+        "name": "Alligator 3070-1",
+        "label": "3070-1",
+        "hex": "#817551"
+    },
+    {
+        "name": "Alligator 3071-2",
+        "label": "3071-2",
+        "hex": "#a99e7c"
+    },
+    {
+        "name": "Alligator 3072-3",
+        "label": "3072-3",
+        "hex": "#c1b899"
+    },
+    {
+        "name": "Alligator 3073-4",
+        "label": "3073-4",
+        "hex": "#ccc6aa"
+    },
+    {
+        "name": "Alligator 3074-5",
+        "label": "3074-5",
+        "hex": "#ded8c2"
+    },
+    {
+        "name": "Alligator 3075-6",
+        "label": "3075-6",
+        "hex": "#e5e2cf"
+    },
+    {
+        "name": "Alligator 3076-7",
+        "label": "3076-7",
+        "hex": "#ebe6d5"
+    },
+    {
+        "name": "Alligator 3080-1",
+        "label": "3080-1",
+        "hex": "#867b61"
+    },
+    {
+        "name": "Alligator 3081-2",
+        "label": "3081-2",
+        "hex": "#aca288"
+    },
+    {
+        "name": "Alligator 3082-3",
+        "label": "3082-3",
+        "hex": "#c1b8a3"
+    },
+    {
+        "name": "Alligator 3083-4",
+        "label": "3083-4",
+        "hex": "#cdc4b2"
+    },
+    {
+        "name": "Alligator 3084-5",
+        "label": "3084-5",
+        "hex": "#dfdaca"
+    },
+    {
+        "name": "Alligator 3085-6",
+        "label": "3085-6",
+        "hex": "#eae5d7"
+    },
+    {
+        "name": "Alligator 3086-7",
+        "label": "3086-7",
+        "hex": "#ece9dd"
+    },
+    {
+        "name": "Alligator 3090-1",
+        "label": "3090-1",
+        "hex": "#687053"
+    },
+    {
+        "name": "Alligator 3091-2",
+        "label": "3091-2",
+        "hex": "#949d81"
+    },
+    {
+        "name": "Alligator 3092-3",
+        "label": "3092-3",
+        "hex": "#abb49c"
+    },
+    {
+        "name": "Alligator 3093-4",
+        "label": "3093-4",
+        "hex": "#bec5af"
+    },
+    {
+        "name": "Alligator 3094-5",
+        "label": "3094-5",
+        "hex": "#d1d5c2"
+    },
+    {
+        "name": "Alligator 3095-6",
+        "label": "3095-6",
+        "hex": "#e1e2d3"
+    },
+    {
+        "name": "Alligator 3096-7",
+        "label": "3096-7",
+        "hex": "#e8e8d9"
+    },
+    {
+        "name": "Alligator 3100-1",
+        "label": "3100-1",
+        "hex": "#88885e"
+    },
+    {
+        "name": "Alligator 3101-2",
+        "label": "3101-2",
+        "hex": "#acac88"
+    },
+    {
+        "name": "Alligator 3102-3",
+        "label": "3102-3",
+        "hex": "#c3c3a4"
+    },
+    {
+        "name": "Alligator 3103-4",
+        "label": "3103-4",
+        "hex": "#cfcfb4"
+    },
+    {
+        "name": "Alligator 3104-5",
+        "label": "3104-5",
+        "hex": "#e3e2cb"
+    },
+    {
+        "name": "Alligator 3105-6",
+        "label": "3105-6",
+        "hex": "#e8e6d3"
+    },
+    {
+        "name": "Alligator 3106-7",
+        "label": "3106-7",
+        "hex": "#ededdd"
+    },
+    {
+        "name": "Alligator 3110-1",
+        "label": "3110-1",
+        "hex": "#7a7853"
+    },
+    {
+        "name": "Alligator 3111-2",
+        "label": "3111-2",
+        "hex": "#9e9c78"
+    },
+    {
+        "name": "Alligator 3112-3",
+        "label": "3112-3",
+        "hex": "#b6b594"
+    },
+    {
+        "name": "Alligator 3113-4",
+        "label": "3113-4",
+        "hex": "#c2c1a5"
+    },
+    {
+        "name": "Alligator 3114-5",
+        "label": "3114-5",
+        "hex": "#d9d6c0"
+    },
+    {
+        "name": "Alligator 3115-6",
+        "label": "3115-6",
+        "hex": "#e1dfcc"
+    },
+    {
+        "name": "Alligator 3116-7",
+        "label": "3116-7",
+        "hex": "#ebead9"
+    },
+    {
+        "name": "Alligator 3120-1",
+        "label": "3120-1",
+        "hex": "#ab9a5a"
+    },
+    {
+        "name": "Alligator 3121-2",
+        "label": "3121-2",
+        "hex": "#cdbf8a"
+    },
+    {
+        "name": "Alligator 3122-3",
+        "label": "3122-3",
+        "hex": "#ddd2a6"
+    },
+    {
+        "name": "Alligator 3123-4",
+        "label": "3123-4",
+        "hex": "#e3d8b1"
+    },
+    {
+        "name": "Alligator 3124-5",
+        "label": "3124-5",
+        "hex": "#eee6c9"
+    },
+    {
+        "name": "Alligator 3125-6",
+        "label": "3125-6",
+        "hex": "#f2ecd5"
+    },
+    {
+        "name": "Alligator 3126-7",
+        "label": "3126-7",
+        "hex": "#f5f0dd"
+    },
+    {
+        "name": "Alligator 3130-1",
+        "label": "3130-1",
+        "hex": "#b06c49"
+    },
+    {
+        "name": "Alligator 3131-2",
+        "label": "3131-2",
+        "hex": "#d5997b"
+    },
+    {
+        "name": "Alligator 3132-3",
+        "label": "3132-3",
+        "hex": "#e4b298"
+    },
+    {
+        "name": "Alligator 3133-4",
+        "label": "3133-4",
+        "hex": "#edc3ad"
+    },
+    {
+        "name": "Alligator 3134-5",
+        "label": "3134-5",
+        "hex": "#f6d7c4"
+    },
+    {
+        "name": "Alligator 3135-6",
+        "label": "3135-6",
+        "hex": "#f6e5d4"
+    },
+    {
+        "name": "Alligator 3136-7",
+        "label": "3136-7",
+        "hex": "#f5ead9"
+    },
+    {
+        "name": "Alligator 3140-1",
+        "label": "3140-1",
+        "hex": "#b15f49"
+    },
+    {
+        "name": "Alligator 3141-2",
+        "label": "3141-2",
+        "hex": "#cf8b78"
+    },
+    {
+        "name": "Alligator 3142-3",
+        "label": "3142-3",
+        "hex": "#e1a596"
+    },
+    {
+        "name": "Alligator 3143-4",
+        "label": "3143-4",
+        "hex": "#edb7a8"
+    },
+    {
+        "name": "Alligator 3144-5",
+        "label": "3144-5",
+        "hex": "#f5cec1"
+    },
+    {
+        "name": "Alligator 3145-6",
+        "label": "3145-6",
+        "hex": "#f6d8cc"
+    },
+    {
+        "name": "Alligator 3146-7",
+        "label": "3146-7",
+        "hex": "#f7e2d6"
+    },
+    {
+        "name": "Alligator 3150-1",
+        "label": "3150-1",
+        "hex": "#855045"
+    },
+    {
+        "name": "Alligator 3151-2",
+        "label": "3151-2",
+        "hex": "#ae7e75"
+    },
+    {
+        "name": "Alligator 3152-3",
+        "label": "3152-3",
+        "hex": "#c79b91"
+    },
+    {
+        "name": "Alligator 3153-4",
+        "label": "3153-4",
+        "hex": "#d3aba3"
+    },
+    {
+        "name": "Alligator 3154-5",
+        "label": "3154-5",
+        "hex": "#e5c6be"
+    },
+    {
+        "name": "Alligator 3155-6",
+        "label": "3155-6",
+        "hex": "#edd3cb"
+    },
+    {
+        "name": "Alligator 3156-7",
+        "label": "3156-7",
+        "hex": "#f4e0d9"
+    },
+    {
+        "name": "Alligator 3160-1",
+        "label": "3160-1",
+        "hex": "#915c4d"
+    },
+    {
+        "name": "Alligator 3161-2",
+        "label": "3161-2",
+        "hex": "#b8877b"
+    },
+    {
+        "name": "Alligator 3162-3",
+        "label": "3162-3",
+        "hex": "#cba196"
+    },
+    {
+        "name": "Alligator 3163-4",
+        "label": "3163-4",
+        "hex": "#d6b1a6"
+    },
+    {
+        "name": "Alligator 3164-5",
+        "label": "3164-5",
+        "hex": "#e6c6bb"
+    },
+    {
+        "name": "Alligator 3165-6",
+        "label": "3165-6",
+        "hex": "#eed6ca"
+    },
+    {
+        "name": "Alligator 3166-7",
+        "label": "3166-7",
+        "hex": "#f4e4db"
+    },
+    {
+        "name": "Alligator 3170-1",
+        "label": "3170-1",
+        "hex": "#a06a54"
+    },
+    {
+        "name": "Alligator 3171-2",
+        "label": "3171-2",
+        "hex": "#c1917d"
+    },
+    {
+        "name": "Alligator 3172-3",
+        "label": "3172-3",
+        "hex": "#d4ab9a"
+    },
+    {
+        "name": "Alligator 3173-4",
+        "label": "3173-4",
+        "hex": "#dfbfaf"
+    },
+    {
+        "name": "Alligator 3174-5",
+        "label": "3174-5",
+        "hex": "#eed7c8"
+    },
+    {
+        "name": "Alligator 3175-6",
+        "label": "3175-6",
+        "hex": "#f0dcce"
+    },
+    {
+        "name": "Alligator 3176-7",
+        "label": "3176-7",
+        "hex": "#f1e4d8"
+    },
+    {
+        "name": "Alligator 3180-1",
+        "label": "3180-1",
+        "hex": "#925f3d"
+    },
+    {
+        "name": "Alligator 3181-2",
+        "label": "3181-2",
+        "hex": "#c3987d"
+    },
+    {
+        "name": "Alligator 3182-3",
+        "label": "3182-3",
+        "hex": "#d6b097"
+    },
+    {
+        "name": "Alligator 3183-4",
+        "label": "3183-4",
+        "hex": "#e0c0aa"
+    },
+    {
+        "name": "Alligator 3184-5",
+        "label": "3184-5",
+        "hex": "#efd8c5"
+    },
+    {
+        "name": "Alligator 3185-6",
+        "label": "3185-6",
+        "hex": "#efddcd"
+    },
+    {
+        "name": "Alligator 3186-7",
+        "label": "3186-7",
+        "hex": "#f5e8d8"
+    },
+    {
+        "name": "Alligator 3190-1",
+        "label": "3190-1",
+        "hex": "#8a644a"
+    },
+    {
+        "name": "Alligator 3191-2",
+        "label": "3191-2",
+        "hex": "#b6937a"
+    },
+    {
+        "name": "Alligator 3192-3",
+        "label": "3192-3",
+        "hex": "#cbad97"
+    },
+    {
+        "name": "Alligator 3193-4",
+        "label": "3193-4",
+        "hex": "#d6bca9"
+    },
+    {
+        "name": "Alligator 3194-5",
+        "label": "3194-5",
+        "hex": "#e8d4c3"
+    },
+    {
+        "name": "Alligator 3195-6",
+        "label": "3195-6",
+        "hex": "#eddecf"
+    },
+    {
+        "name": "Alligator 3196-7",
+        "label": "3196-7",
+        "hex": "#f3e7d8"
+    },
+    {
+        "name": "Alligator 3200-1",
+        "label": "3200-1",
+        "hex": "#936b49"
+    },
+    {
+        "name": "Alligator 3201-2",
+        "label": "3201-2",
+        "hex": "#b89370"
+    },
+    {
+        "name": "Alligator 3202-3",
+        "label": "3202-3",
+        "hex": "#cda889"
+    },
+    {
+        "name": "Alligator 3203-4",
+        "label": "3203-4",
+        "hex": "#ddbda2"
+    },
+    {
+        "name": "Alligator 3204-5",
+        "label": "3204-5",
+        "hex": "#e7ceb6"
+    },
+    {
+        "name": "Alligator 3205-6",
+        "label": "3205-6",
+        "hex": "#efdcc9"
+    },
+    {
+        "name": "Alligator 3206-7",
+        "label": "3206-7",
+        "hex": "#f2e4d3"
+    },
+    {
+        "name": "Alligator 3210-1",
+        "label": "3210-1",
+        "hex": "#775c48"
+    },
+    {
+        "name": "Alligator 3211-2",
+        "label": "3211-2",
+        "hex": "#a58c75"
+    },
+    {
+        "name": "Alligator 3212-3",
+        "label": "3212-3",
+        "hex": "#bba694"
+    },
+    {
+        "name": "Alligator 3213-4",
+        "label": "3213-4",
+        "hex": "#ccb9a9"
+    },
+    {
+        "name": "Alligator 3214-5",
+        "label": "3214-5",
+        "hex": "#dfcfc2"
+    },
+    {
+        "name": "Alligator 3215-6",
+        "label": "3215-6",
+        "hex": "#e4d7c9"
+    },
+    {
+        "name": "Alligator 3216-7",
+        "label": "3216-7",
+        "hex": "#ece4da"
+    },
+    {
+        "name": "Alligator 3220-1",
+        "label": "3220-1",
+        "hex": "#745e4b"
+    },
+    {
+        "name": "Alligator 3221-2",
+        "label": "3221-2",
+        "hex": "#9b8976"
+    },
+    {
+        "name": "Alligator 3222-3",
+        "label": "3222-3",
+        "hex": "#b5a492"
+    },
+    {
+        "name": "Alligator 3223-4",
+        "label": "3223-4",
+        "hex": "#c3b5a5"
+    },
+    {
+        "name": "Alligator 3224-5",
+        "label": "3224-5",
+        "hex": "#d9cdc0"
+    },
+    {
+        "name": "Alligator 3225-6",
+        "label": "3225-6",
+        "hex": "#e4dace"
+    },
+    {
+        "name": "Alligator 3226-7",
+        "label": "3226-7",
+        "hex": "#ebe2d7"
+    },
+    {
+        "name": "Alligator 3230-1",
+        "label": "3230-1",
+        "hex": "#706355"
+    },
+    {
+        "name": "Alligator 3231-2",
+        "label": "3231-2",
+        "hex": "#9c9185"
+    },
+    {
+        "name": "Alligator 3232-3",
+        "label": "3232-3",
+        "hex": "#b3aa9e"
+    },
+    {
+        "name": "Alligator 3233-4",
+        "label": "3233-4",
+        "hex": "#c2baaf"
+    },
+    {
+        "name": "Alligator 3234-5",
+        "label": "3234-5",
+        "hex": "#d6cfc5"
+    },
+    {
+        "name": "Alligator 3235-6",
+        "label": "3235-6",
+        "hex": "#e2dcd0"
+    },
+    {
+        "name": "Alligator 3236-7",
+        "label": "3236-7",
+        "hex": "#ebe6da"
+    },
+    {
+        "name": "Alligator 3240-1",
+        "label": "3240-1",
+        "hex": "#696459"
+    },
+    {
+        "name": "Alligator 3241-2",
+        "label": "3241-2",
+        "hex": "#938f85"
+    },
+    {
+        "name": "Alligator 3242-3",
+        "label": "3242-3",
+        "hex": "#adaaa0"
+    },
+    {
+        "name": "Alligator 3243-4",
+        "label": "3243-4",
+        "hex": "#bdb8b1"
+    },
+    {
+        "name": "Alligator 3244-5",
+        "label": "3244-5",
+        "hex": "#d3cfc8"
+    },
+    {
+        "name": "Alligator 3245-6",
+        "label": "3245-6",
+        "hex": "#dddad2"
+    },
+    {
+        "name": "Alligator 3246-7",
+        "label": "3246-7",
+        "hex": "#e6e3dc"
+    },
+    {
+        "name": "Alligator 3250-1",
+        "label": "3250-1",
+        "hex": "#56636a"
+    },
+    {
+        "name": "Alligator 3251-2",
+        "label": "3251-2",
+        "hex": "#7c909b"
+    },
+    {
+        "name": "Alligator 3252-3",
+        "label": "3252-3",
+        "hex": "#95a9b4"
+    },
+    {
+        "name": "Alligator 3253-4",
+        "label": "3253-4",
+        "hex": "#a5b9c2"
+    },
+    {
+        "name": "Alligator 3254-5",
+        "label": "3254-5",
+        "hex": "#c1d1d5"
+    },
+    {
+        "name": "Alligator 3255-6",
+        "label": "3255-6",
+        "hex": "#ced8d9"
+    },
+    {
+        "name": "Alligator 3256-7",
+        "label": "3256-7",
+        "hex": "#dfe6e5"
+    },
+    {
+        "name": "Alligator 3260-1",
+        "label": "3260-1",
+        "hex": "#506473"
+    },
+    {
+        "name": "Alligator 3261-2",
+        "label": "3261-2",
+        "hex": "#728ea0"
+    },
+    {
+        "name": "Alligator 3262-3",
+        "label": "3262-3",
+        "hex": "#8facbd"
+    },
+    {
+        "name": "Alligator 3263-4",
+        "label": "3263-4",
+        "hex": "#a1bccb"
+    },
+    {
+        "name": "Alligator 3264-5",
+        "label": "3264-5",
+        "hex": "#b9cdd7"
+    },
+    {
+        "name": "Alligator 3265-6",
+        "label": "3265-6",
+        "hex": "#cddbe1"
+    },
+    {
+        "name": "Alligator 3266-7",
+        "label": "3266-7",
+        "hex": "#d7e2e4"
+    },
+    {
+        "name": "Alligator 3300",
+        "label": "3300",
+        "hex": "#a09375"
+    },
+    {
+        "name": "Alligator 3301",
+        "label": "3301",
+        "hex": "#bcb192"
+    },
+    {
+        "name": "Alligator 3302",
+        "label": "3302",
+        "hex": "#d2c4a6"
+    },
+    {
+        "name": "Alligator 3303",
+        "label": "3303",
+        "hex": "#d7d2be"
+    },
+    {
+        "name": "Alligator 3304",
+        "label": "3304",
+        "hex": "#eae5d6"
+    },
+    {
+        "name": "Alligator 3305",
+        "label": "3305",
+        "hex": "#bab071"
+    },
+    {
+        "name": "Alligator 3306",
+        "label": "3306",
+        "hex": "#cec294"
+    },
+    {
+        "name": "Alligator 3307",
+        "label": "3307",
+        "hex": "#dfc274"
+    },
+    {
+        "name": "Alligator 3308",
+        "label": "3308",
+        "hex": "#f2d79a"
+    },
+    {
+        "name": "Alligator 3309",
+        "label": "3309",
+        "hex": "#f2e2a0"
+    },
+    {
+        "name": "Alligator 3310",
+        "label": "3310",
+        "hex": "#bdbc9f"
+    },
+    {
+        "name": "Alligator 3311",
+        "label": "3311",
+        "hex": "#ded4ab"
+    },
+    {
+        "name": "Alligator 3312",
+        "label": "3312",
+        "hex": "#b6b6ad"
+    },
+    {
+        "name": "Alligator 3313",
+        "label": "3313",
+        "hex": "#c9c5b8"
+    },
+    {
+        "name": "Alligator 3314",
+        "label": "3314",
+        "hex": "#c7c0b3"
+    },
+    {
+        "name": "Alligator 3315",
+        "label": "3315",
+        "hex": "#8b6e5b"
+    },
+    {
+        "name": "Alligator 3316",
+        "label": "3316",
+        "hex": "#af8d73"
+    },
+    {
+        "name": "Alligator 3317",
+        "label": "3317",
+        "hex": "#bea98a"
+    },
+    {
+        "name": "Alligator 3318",
+        "label": "3318",
+        "hex": "#d3bc96"
+    },
+    {
+        "name": "Alligator 3319",
+        "label": "3319",
+        "hex": "#e2ceb0"
+    },
+    {
+        "name": "Alligator 3320",
+        "label": "3320",
+        "hex": "#a45a51"
+    },
+    {
+        "name": "Alligator 3321",
+        "label": "3321",
+        "hex": "#c8673c"
+    },
+    {
+        "name": "Alligator 3322",
+        "label": "3322",
+        "hex": "#cb927c"
+    },
+    {
+        "name": "Alligator 3323",
+        "label": "3323",
+        "hex": "#cf916c"
+    },
+    {
+        "name": "Alligator 3324",
+        "label": "3324",
+        "hex": "#dcad6e"
+    },
+    {
+        "name": "Alligator 3325",
+        "label": "3325",
+        "hex": "#55555d"
+    },
+    {
+        "name": "Alligator 3326",
+        "label": "3326",
+        "hex": "#47686c"
+    },
+    {
+        "name": "Alligator 3327",
+        "label": "3327",
+        "hex": "#3d6b5d"
+    },
+    {
+        "name": "Alligator 3328",
+        "label": "3328",
+        "hex": "#9b8d61"
+    },
+    {
+        "name": "Alligator 3329",
+        "label": "3329",
+        "hex": "#bf8c46"
+    },
+    {
+        "name": "Alligator 3500",
+        "label": "3500",
+        "hex": "#52504f"
+    },
+    {
+        "name": "Alligator 3501",
+        "label": "3501",
+        "hex": "#797878"
+    },
+    {
+        "name": "Alligator 3502",
+        "label": "3502",
+        "hex": "#939290"
+    },
+    {
+        "name": "Alligator 3503",
+        "label": "3503",
+        "hex": "#b6b5b2"
+    },
+    {
+        "name": "Alligator 3504",
+        "label": "3504",
+        "hex": "#d3d3ce"
+    },
+    {
+        "name": "Alligator 3505",
+        "label": "3505",
+        "hex": "#eeede5"
+    },
+    {
+        "name": "Alligator 3506",
+        "label": "3506",
+        "hex": "#6f6e6a"
+    },
+    {
+        "name": "Alligator 3507",
+        "label": "3507",
+        "hex": "#95938f"
+    },
+    {
+        "name": "Alligator 3508",
+        "label": "3508",
+        "hex": "#bebdb5"
+    },
+    {
+        "name": "Alligator 3509",
+        "label": "3509",
+        "hex": "#d5d4cc"
+    },
+    {
+        "name": "Alligator 3510",
+        "label": "3510",
+        "hex": "#f0efe3"
+    },
+    {
+        "name": "Alligator 3511",
+        "label": "3511",
+        "hex": "#736e6f"
+    },
+    {
+        "name": "Alligator 3512",
+        "label": "3512",
+        "hex": "#959192"
+    },
+    {
+        "name": "Alligator 3513",
+        "label": "3513",
+        "hex": "#bfbbb9"
+    },
+    {
+        "name": "Alligator 3514",
+        "label": "3514",
+        "hex": "#d4cfcb"
+    },
+    {
+        "name": "Alligator 3515",
+        "label": "3515",
+        "hex": "#eae6dd"
+    },
+    {
+        "name": "Alligator 3516",
+        "label": "3516",
+        "hex": "#686d70"
+    },
+    {
+        "name": "Alligator 3517",
+        "label": "3517",
+        "hex": "#909395"
+    },
+    {
+        "name": "Alligator 3518",
+        "label": "3518",
+        "hex": "#babcbe"
+    },
+    {
+        "name": "Alligator 3519",
+        "label": "3519",
+        "hex": "#cdd4cf"
+    },
+    {
+        "name": "Alligator 3520",
+        "label": "3520",
+        "hex": "#e9ebe6"
+    },
+    {
+        "name": "Alligator 3521",
+        "label": "3521",
+        "hex": "#6a6e6d"
+    },
+    {
+        "name": "Alligator 3522",
+        "label": "3522",
+        "hex": "#8f9591"
+    },
+    {
+        "name": "Alligator 3523",
+        "label": "3523",
+        "hex": "#bcbeb9"
+    },
+    {
+        "name": "Alligator 3524",
+        "label": "3524",
+        "hex": "#cfd3cd"
+    },
+    {
+        "name": "Alligator 3525",
+        "label": "3525",
+        "hex": "#eceee5"
+    },
+    {
+        "name": "Alligator 3526",
+        "label": "3526",
+        "hex": "#edeae9"
+    },
+    {
+        "name": "Alligator 3527",
+        "label": "3527",
+        "hex": "#f1e8e5"
+    },
+    {
+        "name": "Alligator 3528",
+        "label": "3528",
+        "hex": "#f1e9e0"
+    },
+    {
+        "name": "Alligator 3529",
+        "label": "3529",
+        "hex": "#f8ecdc"
+    },
+    {
+        "name": "Alligator 3530",
+        "label": "3530",
+        "hex": "#f6ecd6"
+    },
+    {
+        "name": "Alligator 3531",
+        "label": "3531",
+        "hex": "#f0ecd1"
+    },
+    {
+        "name": "Alligator 3532",
+        "label": "3532",
+        "hex": "#d8d6d8"
+    },
+    {
+        "name": "Alligator 3533",
+        "label": "3533",
+        "hex": "#e0d7d6"
+    },
+    {
+        "name": "Alligator 3534",
+        "label": "3534",
+        "hex": "#e1d8d1"
+    },
+    {
+        "name": "Alligator 3535",
+        "label": "3535",
+        "hex": "#e0d5c9"
+    },
+    {
+        "name": "Alligator 3536",
+        "label": "3536",
+        "hex": "#e2d9c3"
+    },
+    {
+        "name": "Alligator 3537",
+        "label": "3537",
+        "hex": "#dcd6c0"
+    },
+    {
+        "name": "Alligator 3538",
+        "label": "3538",
+        "hex": "#bfbcc1"
+    },
+    {
+        "name": "Alligator 3539",
+        "label": "3539",
+        "hex": "#c9bfc1"
+    },
+    {
+        "name": "Alligator 3540",
+        "label": "3540",
+        "hex": "#cac0b8"
+    },
+    {
+        "name": "Alligator 3541",
+        "label": "3541",
+        "hex": "#cac0b4"
+    },
+    {
+        "name": "Alligator 3542",
+        "label": "3542",
+        "hex": "#cfc6b5"
+    },
+    {
+        "name": "Alligator 3543",
+        "label": "3543",
+        "hex": "#c1bfb0"
+    },
+    {
+        "name": "Alligator 3544",
+        "label": "3544",
+        "hex": "#acaab1"
+    },
+    {
+        "name": "Alligator 3545",
+        "label": "3545",
+        "hex": "#b2abac"
+    },
+    {
+        "name": "Alligator 3546",
+        "label": "3546",
+        "hex": "#b8aca6"
+    },
+    {
+        "name": "Alligator 3547",
+        "label": "3547",
+        "hex": "#b5a99e"
+    },
+    {
+        "name": "Alligator 3548",
+        "label": "3548",
+        "hex": "#b6ac9a"
+    },
+    {
+        "name": "Alligator 3549",
+        "label": "3549",
+        "hex": "#98979f"
+    },
+    {
+        "name": "Alligator 3550",
+        "label": "3550",
+        "hex": "#9f9698"
+    },
+    {
+        "name": "Alligator 3551",
+        "label": "3551",
+        "hex": "#a19590"
+    },
+    {
+        "name": "Alligator 3552",
+        "label": "3552",
+        "hex": "#a1958a"
+    },
+    {
+        "name": "Alligator 3553",
+        "label": "3553",
+        "hex": "#a09788"
+    },
+    {
+        "name": "Alligator 3554",
+        "label": "3554",
+        "hex": "#737177"
+    },
+    {
+        "name": "Alligator 3555",
+        "label": "3555",
+        "hex": "#796e72"
+    },
+    {
+        "name": "Alligator 3556",
+        "label": "3556",
+        "hex": "#7c726e"
+    },
+    {
+        "name": "Alligator 3557",
+        "label": "3557",
+        "hex": "#7c7068"
+    },
+    {
+        "name": "Alligator 3558",
+        "label": "3558",
+        "hex": "#7e7569"
+    },
+    {
+        "name": "Alligator 3559",
+        "label": "3559",
+        "hex": "#eae5e9"
+    },
+    {
+        "name": "Alligator 3560",
+        "label": "3560",
+        "hex": "#f4e3e0"
+    },
+    {
+        "name": "Alligator 3561",
+        "label": "3561",
+        "hex": "#f5ddcc"
+    },
+    {
+        "name": "Alligator 3562",
+        "label": "3562",
+        "hex": "#f6e0cc"
+    },
+    {
+        "name": "Alligator 3563",
+        "label": "3563",
+        "hex": "#f6e6cb"
+    },
+    {
+        "name": "Alligator 3564",
+        "label": "3564",
+        "hex": "#f3e9c4"
+    },
+    {
+        "name": "Alligator 3565",
+        "label": "3565",
+        "hex": "#d7d3da"
+    },
+    {
+        "name": "Alligator 3566",
+        "label": "3566",
+        "hex": "#e1cfcd"
+    },
+    {
+        "name": "Alligator 3567",
+        "label": "3567",
+        "hex": "#ebd1c1"
+    },
+    {
+        "name": "Alligator 3568",
+        "label": "3568",
+        "hex": "#eed4bd"
+    },
+    {
+        "name": "Alligator 3569",
+        "label": "3569",
+        "hex": "#ead7bb"
+    },
+    {
+        "name": "Alligator 3570",
+        "label": "3570",
+        "hex": "#e6dbb8"
+    },
+    {
+        "name": "Alligator 3571",
+        "label": "3571",
+        "hex": "#c3bcc7"
+    },
+    {
+        "name": "Alligator 3572",
+        "label": "3572",
+        "hex": "#c9b5b7"
+    },
+    {
+        "name": "Alligator 3573",
+        "label": "3573",
+        "hex": "#d1b9ad"
+    },
+    {
+        "name": "Alligator 3574",
+        "label": "3574",
+        "hex": "#d3bca7"
+    },
+    {
+        "name": "Alligator 3575",
+        "label": "3575",
+        "hex": "#d7c3a9"
+    },
+    {
+        "name": "Alligator 3576",
+        "label": "3576",
+        "hex": "#ccc2a3"
+    },
+    {
+        "name": "Alligator 3577",
+        "label": "3577",
+        "hex": "#aba4af"
+    },
+    {
+        "name": "Alligator 3578",
+        "label": "3578",
+        "hex": "#b3a2a2"
+    },
+    {
+        "name": "Alligator 3579",
+        "label": "3579",
+        "hex": "#b9a296"
+    },
+    {
+        "name": "Alligator 3580",
+        "label": "3580",
+        "hex": "#bda797"
+    },
+    {
+        "name": "Alligator 3581",
+        "label": "3581",
+        "hex": "#bca790"
+    },
+    {
+        "name": "Alligator 3582",
+        "label": "3582",
+        "hex": "#b8ac8f"
+    },
+    {
+        "name": "Alligator 3583",
+        "label": "3583",
+        "hex": "#dfd0df"
+    },
+    {
+        "name": "Alligator 3584",
+        "label": "3584",
+        "hex": "#f2cfd0"
+    },
+    {
+        "name": "Alligator 3585",
+        "label": "3585",
+        "hex": "#f9cbb5"
+    },
+    {
+        "name": "Alligator 3586",
+        "label": "3586",
+        "hex": "#f9cba8"
+    },
+    {
+        "name": "Alligator 3587",
+        "label": "3587",
+        "hex": "#f9d9b0"
+    },
+    {
+        "name": "Alligator 3588",
+        "label": "3588",
+        "hex": "#f6e6b0"
+    },
+    {
+        "name": "Alligator 3589",
+        "label": "3589",
+        "hex": "#d0c3d9"
+    },
+    {
+        "name": "Alligator 3590",
+        "label": "3590",
+        "hex": "#e6c1c1"
+    },
+    {
+        "name": "Alligator 3591",
+        "label": "3591",
+        "hex": "#efc2ae"
+    },
+    {
+        "name": "Alligator 3592",
+        "label": "3592",
+        "hex": "#f1c5a5"
+    },
+    {
+        "name": "Alligator 3593",
+        "label": "3593",
+        "hex": "#f2ca9c"
+    },
+    {
+        "name": "Alligator 3594",
+        "label": "3594",
+        "hex": "#ecdaa4"
+    },
+    {
+        "name": "Alligator 3595",
+        "label": "3595",
+        "hex": "#bbadc3"
+    },
+    {
+        "name": "Alligator 3596",
+        "label": "3596",
+        "hex": "#cea9aa"
+    },
+    {
+        "name": "Alligator 3597",
+        "label": "3597",
+        "hex": "#d4a995"
+    },
+    {
+        "name": "Alligator 3598",
+        "label": "3598",
+        "hex": "#d4ac91"
+    },
+    {
+        "name": "Alligator 3599",
+        "label": "3599",
+        "hex": "#d2b48f"
+    },
+    {
+        "name": "Alligator 3600",
+        "label": "3600",
+        "hex": "#ccbc8e"
+    },
+    {
+        "name": "Alligator 3601",
+        "label": "3601",
+        "hex": "#a698ae"
+    },
+    {
+        "name": "Alligator 3602",
+        "label": "3602",
+        "hex": "#b69193"
+    },
+    {
+        "name": "Alligator 3603",
+        "label": "3603",
+        "hex": "#bd9585"
+    },
+    {
+        "name": "Alligator 3604",
+        "label": "3604",
+        "hex": "#c49c82"
+    },
+    {
+        "name": "Alligator 3605",
+        "label": "3605",
+        "hex": "#c1a280"
+    },
+    {
+        "name": "Alligator 3606",
+        "label": "3606",
+        "hex": "#b4a57d"
+    },
+    {
+        "name": "Alligator 3607",
+        "label": "3607",
+        "hex": "#816f84"
+    },
+    {
+        "name": "Alligator 3608",
+        "label": "3608",
+        "hex": "#8a686d"
+    },
+    {
+        "name": "Alligator 3609",
+        "label": "3609",
+        "hex": "#957062"
+    },
+    {
+        "name": "Alligator 3610",
+        "label": "3610",
+        "hex": "#92705c"
+    },
+    {
+        "name": "Alligator 3611",
+        "label": "3611",
+        "hex": "#917357"
+    },
+    {
+        "name": "Alligator 3612",
+        "label": "3612",
+        "hex": "#423148"
+    },
+    {
+        "name": "Alligator 3613",
+        "label": "3613",
+        "hex": "#53393c"
+    },
+    {
+        "name": "Alligator 3614",
+        "label": "3614",
+        "hex": "#604339"
+    },
+    {
+        "name": "Alligator 3615",
+        "label": "3615",
+        "hex": "#65493a"
+    },
+    {
+        "name": "Alligator 3616",
+        "label": "3616",
+        "hex": "#634e3b"
+    },
+    {
+        "name": "Alligator 3617",
+        "label": "3617",
+        "hex": "#cfbed7"
+    },
+    {
+        "name": "Alligator 3618",
+        "label": "3618",
+        "hex": "#f5bcbf"
+    },
+    {
+        "name": "Alligator 3619",
+        "label": "3619",
+        "hex": "#fbbaa1"
+    },
+    {
+        "name": "Alligator 3620",
+        "label": "3620",
+        "hex": "#fcbd91"
+    },
+    {
+        "name": "Alligator 3621",
+        "label": "3621",
+        "hex": "#fbc991"
+    },
+    {
+        "name": "Alligator 3622",
+        "label": "3622",
+        "hex": "#fae599"
+    },
+    {
+        "name": "Alligator 3623",
+        "label": "3623",
+        "hex": "#c9b5d2"
+    },
+    {
+        "name": "Alligator 3624",
+        "label": "3624",
+        "hex": "#e3aeaf"
+    },
+    {
+        "name": "Alligator 3625",
+        "label": "3625",
+        "hex": "#efb298"
+    },
+    {
+        "name": "Alligator 3626",
+        "label": "3626",
+        "hex": "#f3b791"
+    },
+    {
+        "name": "Alligator 3627",
+        "label": "3627",
+        "hex": "#f3bf87"
+    },
+    {
+        "name": "Alligator 3628",
+        "label": "3628",
+        "hex": "#e5d08c"
+    },
+    {
+        "name": "Alligator 3629",
+        "label": "3629",
+        "hex": "#b99fbd"
+    },
+    {
+        "name": "Alligator 3630",
+        "label": "3630",
+        "hex": "#c89299"
+    },
+    {
+        "name": "Alligator 3631",
+        "label": "3631",
+        "hex": "#d79c86"
+    },
+    {
+        "name": "Alligator 3632",
+        "label": "3632",
+        "hex": "#dba17d"
+    },
+    {
+        "name": "Alligator 3633",
+        "label": "3633",
+        "hex": "#d4a878"
+    },
+    {
+        "name": "Alligator 3634",
+        "label": "3634",
+        "hex": "#c9b478"
+    },
+    {
+        "name": "Alligator 3635",
+        "label": "3635",
+        "hex": "#9e86a6"
+    },
+    {
+        "name": "Alligator 3636",
+        "label": "3636",
+        "hex": "#af7e84"
+    },
+    {
+        "name": "Alligator 3637",
+        "label": "3637",
+        "hex": "#b8816d"
+    },
+    {
+        "name": "Alligator 3638",
+        "label": "3638",
+        "hex": "#c18b6a"
+    },
+    {
+        "name": "Alligator 3639",
+        "label": "3639",
+        "hex": "#c0966a"
+    },
+    {
+        "name": "Alligator 3640",
+        "label": "3640",
+        "hex": "#b59e67"
+    },
+    {
+        "name": "Alligator 3641",
+        "label": "3641",
+        "hex": "#c3a5ca"
+    },
+    {
+        "name": "Alligator 3642",
+        "label": "3642",
+        "hex": "#dc99a2"
+    },
+    {
+        "name": "Alligator 3643",
+        "label": "3643",
+        "hex": "#ec9d82"
+    },
+    {
+        "name": "Alligator 3644",
+        "label": "3644",
+        "hex": "#f4aa7b"
+    },
+    {
+        "name": "Alligator 3645",
+        "label": "3645",
+        "hex": "#f0b577"
+    },
+    {
+        "name": "Alligator 3646",
+        "label": "3646",
+        "hex": "#edd17a"
+    },
+    {
+        "name": "Alligator 3647",
+        "label": "3647",
+        "hex": "#775983"
+    },
+    {
+        "name": "Alligator 3648",
+        "label": "3648",
+        "hex": "#8e545d"
+    },
+    {
+        "name": "Alligator 3649",
+        "label": "3649",
+        "hex": "#9d614d"
+    },
+    {
+        "name": "Alligator 3650",
+        "label": "3650",
+        "hex": "#a56b4a"
+    },
+    {
+        "name": "Alligator 3651",
+        "label": "3651",
+        "hex": "#a5764a"
+    },
+    {
+        "name": "Alligator 3652",
+        "label": "3652",
+        "hex": "#9d8146"
+    },
+    {
+        "name": "Alligator 3653",
+        "label": "3653",
+        "hex": "#9d71aa"
+    },
+    {
+        "name": "Alligator 3654",
+        "label": "3654",
+        "hex": "#bc6a79"
+    },
+    {
+        "name": "Alligator 3655",
+        "label": "3655",
+        "hex": "#cb7459"
+    },
+    {
+        "name": "Alligator 3656",
+        "label": "3656",
+        "hex": "#ce8154"
+    },
+    {
+        "name": "Alligator 3657",
+        "label": "3657",
+        "hex": "#d49355"
+    },
+    {
+        "name": "Alligator 3658",
+        "label": "3658",
+        "hex": "#c9a94f"
+    },
+    {
+        "name": "Alligator 3659",
+        "label": "3659",
+        "hex": "#633969"
+    },
+    {
+        "name": "Alligator 3660",
+        "label": "3660",
+        "hex": "#833e47"
+    },
+    {
+        "name": "Alligator 3661",
+        "label": "3661",
+        "hex": "#95523c"
+    },
+    {
+        "name": "Alligator 3662",
+        "label": "3662",
+        "hex": "#9d5f3d"
+    },
+    {
+        "name": "Alligator 3663",
+        "label": "3663",
+        "hex": "#a26c3b"
+    },
+    {
+        "name": "Alligator 3664",
+        "label": "3664",
+        "hex": "#957a38"
+    },
+    {
+        "name": "Alligator 3665",
+        "label": "3665",
+        "hex": "#f2f1dd"
+    },
+    {
+        "name": "Alligator 3666",
+        "label": "3666",
+        "hex": "#f0f2e1"
+    },
+    {
+        "name": "Alligator 3667",
+        "label": "3667",
+        "hex": "#e8eedf"
+    },
+    {
+        "name": "Alligator 3668",
+        "label": "3668",
+        "hex": "#e8f0e8"
+    },
+    {
+        "name": "Alligator 3669",
+        "label": "3669",
+        "hex": "#e4eee9"
+    },
+    {
+        "name": "Alligator 3670",
+        "label": "3670",
+        "hex": "#e6eaea"
+    },
+    {
+        "name": "Alligator 3671",
+        "label": "3671",
+        "hex": "#e7e4d4"
+    },
+    {
+        "name": "Alligator 3672",
+        "label": "3672",
+        "hex": "#e2e4d3"
+    },
+    {
+        "name": "Alligator 3673",
+        "label": "3673",
+        "hex": "#dbe1d3"
+    },
+    {
+        "name": "Alligator 3674",
+        "label": "3674",
+        "hex": "#d4dcd6"
+    },
+    {
+        "name": "Alligator 3675",
+        "label": "3675",
+        "hex": "#d0dbda"
+    },
+    {
+        "name": "Alligator 3676",
+        "label": "3676",
+        "hex": "#daddde"
+    },
+    {
+        "name": "Alligator 3677",
+        "label": "3677",
+        "hex": "#ccccba"
+    },
+    {
+        "name": "Alligator 3678",
+        "label": "3678",
+        "hex": "#c2c5b8"
+    },
+    {
+        "name": "Alligator 3679",
+        "label": "3679",
+        "hex": "#bdc4b9"
+    },
+    {
+        "name": "Alligator 3680",
+        "label": "3680",
+        "hex": "#bbc5c2"
+    },
+    {
+        "name": "Alligator 3681",
+        "label": "3681",
+        "hex": "#b8c2c2"
+    },
+    {
+        "name": "Alligator 3682",
+        "label": "3682",
+        "hex": "#c0c5c8"
+    },
+    {
+        "name": "Alligator 3683",
+        "label": "3683",
+        "hex": "#b3b2a2"
+    },
+    {
+        "name": "Alligator 3684",
+        "label": "3684",
+        "hex": "#abaea2"
+    },
+    {
+        "name": "Alligator 3685",
+        "label": "3685",
+        "hex": "#aaafa4"
+    },
+    {
+        "name": "Alligator 3686",
+        "label": "3686",
+        "hex": "#a3aeaa"
+    },
+    {
+        "name": "Alligator 3687",
+        "label": "3687",
+        "hex": "#a4aeaf"
+    },
+    {
+        "name": "Alligator 3688",
+        "label": "3688",
+        "hex": "#abb0b5"
+    },
+    {
+        "name": "Alligator 3689",
+        "label": "3689",
+        "hex": "#9a998a"
+    },
+    {
+        "name": "Alligator 3690",
+        "label": "3690",
+        "hex": "#989a8d"
+    },
+    {
+        "name": "Alligator 3691",
+        "label": "3691",
+        "hex": "#959b92"
+    },
+    {
+        "name": "Alligator 3692",
+        "label": "3692",
+        "hex": "#929d99"
+    },
+    {
+        "name": "Alligator 3693",
+        "label": "3693",
+        "hex": "#8d9899"
+    },
+    {
+        "name": "Alligator 3694",
+        "label": "3694",
+        "hex": "#959aa0"
+    },
+    {
+        "name": "Alligator 3695",
+        "label": "3695",
+        "hex": "#7a786c"
+    },
+    {
+        "name": "Alligator 3696",
+        "label": "3696",
+        "hex": "#75786d"
+    },
+    {
+        "name": "Alligator 3697",
+        "label": "3697",
+        "hex": "#6c736a"
+    },
+    {
+        "name": "Alligator 3698",
+        "label": "3698",
+        "hex": "#6c7471"
+    },
+    {
+        "name": "Alligator 3699",
+        "label": "3699",
+        "hex": "#6b7578"
+    },
+    {
+        "name": "Alligator 3700",
+        "label": "3700",
+        "hex": "#70747d"
+    },
+    {
+        "name": "Alligator 3701",
+        "label": "3701",
+        "hex": "#f3efcd"
+    },
+    {
+        "name": "Alligator 3702",
+        "label": "3702",
+        "hex": "#ebeed6"
+    },
+    {
+        "name": "Alligator 3703",
+        "label": "3703",
+        "hex": "#e6f1d9"
+    },
+    {
+        "name": "Alligator 3704",
+        "label": "3704",
+        "hex": "#ddebdf"
+    },
+    {
+        "name": "Alligator 3705",
+        "label": "3705",
+        "hex": "#d8eae8"
+    },
+    {
+        "name": "Alligator 3706",
+        "label": "3706",
+        "hex": "#dfeaec"
+    },
+    {
+        "name": "Alligator 3707",
+        "label": "3707",
+        "hex": "#e4ddbd"
+    },
+    {
+        "name": "Alligator 3708",
+        "label": "3708",
+        "hex": "#dce2ca"
+    },
+    {
+        "name": "Alligator 3709",
+        "label": "3709",
+        "hex": "#d4dfca"
+    },
+    {
+        "name": "Alligator 3710",
+        "label": "3710",
+        "hex": "#cfe1d4"
+    },
+    {
+        "name": "Alligator 3711",
+        "label": "3711",
+        "hex": "#c8d7d9"
+    },
+    {
+        "name": "Alligator 3712",
+        "label": "3712",
+        "hex": "#cad9e0"
+    },
+    {
+        "name": "Alligator 3713",
+        "label": "3713",
+        "hex": "#cdc5a8"
+    },
+    {
+        "name": "Alligator 3714",
+        "label": "3714",
+        "hex": "#c2c6b0"
+    },
+    {
+        "name": "Alligator 3715",
+        "label": "3715",
+        "hex": "#bbc4b1"
+    },
+    {
+        "name": "Alligator 3716",
+        "label": "3716",
+        "hex": "#b0c3b9"
+    },
+    {
+        "name": "Alligator 3717",
+        "label": "3717",
+        "hex": "#b4c1c4"
+    },
+    {
+        "name": "Alligator 3718",
+        "label": "3718",
+        "hex": "#b6c2ca"
+    },
+    {
+        "name": "Alligator 3719",
+        "label": "3719",
+        "hex": "#afa88a"
+    },
+    {
+        "name": "Alligator 3720",
+        "label": "3720",
+        "hex": "#abaf97"
+    },
+    {
+        "name": "Alligator 3721",
+        "label": "3721",
+        "hex": "#a4af9c"
+    },
+    {
+        "name": "Alligator 3722",
+        "label": "3722",
+        "hex": "#9eaea6"
+    },
+    {
+        "name": "Alligator 3723",
+        "label": "3723",
+        "hex": "#9faeb2"
+    },
+    {
+        "name": "Alligator 3724",
+        "label": "3724",
+        "hex": "#9faab3"
+    },
+    {
+        "name": "Alligator 3725",
+        "label": "3725",
+        "hex": "#f3eab5"
+    },
+    {
+        "name": "Alligator 3726",
+        "label": "3726",
+        "hex": "#e7f1bc"
+    },
+    {
+        "name": "Alligator 3727",
+        "label": "3727",
+        "hex": "#dbebc8"
+    },
+    {
+        "name": "Alligator 3728",
+        "label": "3728",
+        "hex": "#c7ead6"
+    },
+    {
+        "name": "Alligator 3729",
+        "label": "3729",
+        "hex": "#c0e4e8"
+    },
+    {
+        "name": "Alligator 3730",
+        "label": "3730",
+        "hex": "#c6dde7"
+    },
+    {
+        "name": "Alligator 3731",
+        "label": "3731",
+        "hex": "#e6ddaa"
+    },
+    {
+        "name": "Alligator 3732",
+        "label": "3732",
+        "hex": "#d2d8aa"
+    },
+    {
+        "name": "Alligator 3733",
+        "label": "3733",
+        "hex": "#c4d7b2"
+    },
+    {
+        "name": "Alligator 3734",
+        "label": "3734",
+        "hex": "#b3d4c3"
+    },
+    {
+        "name": "Alligator 3735",
+        "label": "3735",
+        "hex": "#b2d7dd"
+    },
+    {
+        "name": "Alligator 3736",
+        "label": "3736",
+        "hex": "#b4cfe0"
+    },
+    {
+        "name": "Alligator 3737",
+        "label": "3737",
+        "hex": "#cbbf92"
+    },
+    {
+        "name": "Alligator 3738",
+        "label": "3738",
+        "hex": "#bac49a"
+    },
+    {
+        "name": "Alligator 3739",
+        "label": "3739",
+        "hex": "#acc1a0"
+    },
+    {
+        "name": "Alligator 3740",
+        "label": "3740",
+        "hex": "#9ebfb0"
+    },
+    {
+        "name": "Alligator 3741",
+        "label": "3741",
+        "hex": "#a0bfc7"
+    },
+    {
+        "name": "Alligator 3742",
+        "label": "3742",
+        "hex": "#9cb3c7"
+    },
+    {
+        "name": "Alligator 3743",
+        "label": "3743",
+        "hex": "#b2a981"
+    },
+    {
+        "name": "Alligator 3744",
+        "label": "3744",
+        "hex": "#a5ab84"
+    },
+    {
+        "name": "Alligator 3745",
+        "label": "3745",
+        "hex": "#98a98a"
+    },
+    {
+        "name": "Alligator 3746",
+        "label": "3746",
+        "hex": "#84aa9b"
+    },
+    {
+        "name": "Alligator 3747",
+        "label": "3747",
+        "hex": "#82a4ae"
+    },
+    {
+        "name": "Alligator 3748",
+        "label": "3748",
+        "hex": "#889db0"
+    },
+    {
+        "name": "Alligator 3749",
+        "label": "3749",
+        "hex": "#887e60"
+    },
+    {
+        "name": "Alligator 3750",
+        "label": "3750",
+        "hex": "#767e60"
+    },
+    {
+        "name": "Alligator 3751",
+        "label": "3751",
+        "hex": "#708065"
+    },
+    {
+        "name": "Alligator 3752",
+        "label": "3752",
+        "hex": "#617f73"
+    },
+    {
+        "name": "Alligator 3753",
+        "label": "3753",
+        "hex": "#5c7985"
+    },
+    {
+        "name": "Alligator 3754",
+        "label": "3754",
+        "hex": "#63778a"
+    },
+    {
+        "name": "Alligator 3755",
+        "label": "3755",
+        "hex": "#605439"
+    },
+    {
+        "name": "Alligator 3756",
+        "label": "3756",
+        "hex": "#555943"
+    },
+    {
+        "name": "Alligator 3757",
+        "label": "3757",
+        "hex": "#485441"
+    },
+    {
+        "name": "Alligator 3758",
+        "label": "3758",
+        "hex": "#294a40"
+    },
+    {
+        "name": "Alligator 3759",
+        "label": "3759",
+        "hex": "#314a52"
+    },
+    {
+        "name": "Alligator 3760",
+        "label": "3760",
+        "hex": "#2f4255"
+    },
+    {
+        "name": "Alligator 3761",
+        "label": "3761",
+        "hex": "#f3e99b"
+    },
+    {
+        "name": "Alligator 3762",
+        "label": "3762",
+        "hex": "#e0eea6"
+    },
+    {
+        "name": "Alligator 3763",
+        "label": "3763",
+        "hex": "#cceab4"
+    },
+    {
+        "name": "Alligator 3764",
+        "label": "3764",
+        "hex": "#acdfc7"
+    },
+    {
+        "name": "Alligator 3765",
+        "label": "3765",
+        "hex": "#a1d9e1"
+    },
+    {
+        "name": "Alligator 3766",
+        "label": "3766",
+        "hex": "#a5cce5"
+    },
+    {
+        "name": "Alligator 3767",
+        "label": "3767",
+        "hex": "#e3d68e"
+    },
+    {
+        "name": "Alligator 3768",
+        "label": "3768",
+        "hex": "#c7d393"
+    },
+    {
+        "name": "Alligator 3769",
+        "label": "3769",
+        "hex": "#b2cf9b"
+    },
+    {
+        "name": "Alligator 3770",
+        "label": "3770",
+        "hex": "#a3d6be"
+    },
+    {
+        "name": "Alligator 3771",
+        "label": "3771",
+        "hex": "#95cdd9"
+    },
+    {
+        "name": "Alligator 3772",
+        "label": "3772",
+        "hex": "#a7c8de"
+    },
+    {
+        "name": "Alligator 3773",
+        "label": "3773",
+        "hex": "#c6ba7c"
+    },
+    {
+        "name": "Alligator 3774",
+        "label": "3774",
+        "hex": "#b3be85"
+    },
+    {
+        "name": "Alligator 3775",
+        "label": "3775",
+        "hex": "#9cb788"
+    },
+    {
+        "name": "Alligator 3776",
+        "label": "3776",
+        "hex": "#81bca4"
+    },
+    {
+        "name": "Alligator 3777",
+        "label": "3777",
+        "hex": "#81b2c1"
+    },
+    {
+        "name": "Alligator 3778",
+        "label": "3778",
+        "hex": "#89abc4"
+    },
+    {
+        "name": "Alligator 3779",
+        "label": "3779",
+        "hex": "#b4a368"
+    },
+    {
+        "name": "Alligator 3780",
+        "label": "3780",
+        "hex": "#9ca471"
+    },
+    {
+        "name": "Alligator 3781",
+        "label": "3781",
+        "hex": "#89a275"
+    },
+    {
+        "name": "Alligator 3782",
+        "label": "3782",
+        "hex": "#69a18b"
+    },
+    {
+        "name": "Alligator 3783",
+        "label": "3783",
+        "hex": "#6a9cac"
+    },
+    {
+        "name": "Alligator 3784",
+        "label": "3784",
+        "hex": "#7895af"
+    },
+    {
+        "name": "Alligator 3785",
+        "label": "3785",
+        "hex": "#e3d379"
+    },
+    {
+        "name": "Alligator 3786",
+        "label": "3786",
+        "hex": "#c2d081"
+    },
+    {
+        "name": "Alligator 3787",
+        "label": "3787",
+        "hex": "#aacf90"
+    },
+    {
+        "name": "Alligator 3788",
+        "label": "3788",
+        "hex": "#83d3b4"
+    },
+    {
+        "name": "Alligator 3789",
+        "label": "3789",
+        "hex": "#7ac6d5"
+    },
+    {
+        "name": "Alligator 3790",
+        "label": "3790",
+        "hex": "#8cbadc"
+    },
+    {
+        "name": "Alligator 3791",
+        "label": "3791",
+        "hex": "#938141"
+    },
+    {
+        "name": "Alligator 3792",
+        "label": "3792",
+        "hex": "#828a51"
+    },
+    {
+        "name": "Alligator 3793",
+        "label": "3793",
+        "hex": "#6a8855"
+    },
+    {
+        "name": "Alligator 3794",
+        "label": "3794",
+        "hex": "#38836c"
+    },
+    {
+        "name": "Alligator 3795",
+        "label": "3795",
+        "hex": "#3e7c90"
+    },
+    {
+        "name": "Alligator 3796",
+        "label": "3796",
+        "hex": "#497398"
+    },
+    {
+        "name": "Alligator 3797",
+        "label": "3797",
+        "hex": "#c2b24c"
+    },
+    {
+        "name": "Alligator 3798",
+        "label": "3798",
+        "hex": "#a3af5e"
+    },
+    {
+        "name": "Alligator 3799",
+        "label": "3799",
+        "hex": "#86ab63"
+    },
+    {
+        "name": "Alligator 3800",
+        "label": "3800",
+        "hex": "#47ae8c"
+    },
+    {
+        "name": "Alligator 3801",
+        "label": "3801",
+        "hex": "#41a2b9"
+    },
+    {
+        "name": "Alligator 3802",
+        "label": "3802",
+        "hex": "#5391be"
+    },
+    {
+        "name": "Alligator 3803",
+        "label": "3803",
+        "hex": "#937e39"
+    },
+    {
+        "name": "Alligator 3804",
+        "label": "3804",
+        "hex": "#798340"
+    },
+    {
+        "name": "Alligator 3805",
+        "label": "3805",
+        "hex": "#587841"
+    },
+    {
+        "name": "Alligator 3806",
+        "label": "3806",
+        "hex": "#007053"
+    },
+    {
+        "name": "Alligator 3807",
+        "label": "3807",
+        "hex": "#006f84"
+    },
+    {
+        "name": "Alligator 3808",
+        "label": "3808",
+        "hex": "#1b5e88"
+    },
+    {
+        "name": "Alligator 4000",
+        "label": "4000",
+        "hex": "#e3c772"
+    },
+    {
+        "name": "Alligator 4001",
+        "label": "4001",
+        "hex": "#eedaa4"
+    },
+    {
+        "name": "Alligator 4002",
+        "label": "4002",
+        "hex": "#efe6c4"
+    },
+    {
+        "name": "Alligator 4003",
+        "label": "4003",
+        "hex": "#f1ead5"
+    },
+    {
+        "name": "Alligator 4004",
+        "label": "4004",
+        "hex": "#f0ecdd"
+    },
+    {
+        "name": "Alligator 4005",
+        "label": "4005",
+        "hex": "#edece1"
+    },
+    {
+        "name": "Alligator 4006",
+        "label": "4006",
+        "hex": "#deb570"
+    },
+    {
+        "name": "Alligator 4007",
+        "label": "4007",
+        "hex": "#e5c68e"
+    },
+    {
+        "name": "Alligator 4008",
+        "label": "4008",
+        "hex": "#ebdcb6"
+    },
+    {
+        "name": "Alligator 4009",
+        "label": "4009",
+        "hex": "#e9dfc7"
+    },
+    {
+        "name": "Alligator 4010",
+        "label": "4010",
+        "hex": "#efe7d2"
+    },
+    {
+        "name": "Alligator 4011",
+        "label": "4011",
+        "hex": "#f0ecdb"
+    },
+    {
+        "name": "Alligator 4012",
+        "label": "4012",
+        "hex": "#d19a4a"
+    },
+    {
+        "name": "Alligator 4013",
+        "label": "4013",
+        "hex": "#eecd93"
+    },
+    {
+        "name": "Alligator 4014",
+        "label": "4014",
+        "hex": "#f2d7a9"
+    },
+    {
+        "name": "Alligator 4015",
+        "label": "4015",
+        "hex": "#f5e1bd"
+    },
+    {
+        "name": "Alligator 4016",
+        "label": "4016",
+        "hex": "#f7e8cc"
+    },
+    {
+        "name": "Alligator 4017",
+        "label": "4017",
+        "hex": "#f6ebd5"
+    },
+    {
+        "name": "Alligator 4018",
+        "label": "4018",
+        "hex": "#b67b4b"
+    },
+    {
+        "name": "Alligator 4019",
+        "label": "4019",
+        "hex": "#d4a178"
+    },
+    {
+        "name": "Alligator 4020",
+        "label": "4020",
+        "hex": "#e2bb96"
+    },
+    {
+        "name": "Alligator 4021",
+        "label": "4021",
+        "hex": "#e8caad"
+    },
+    {
+        "name": "Alligator 4022",
+        "label": "4022",
+        "hex": "#ecd5bd"
+    },
+    {
+        "name": "Alligator 4023",
+        "label": "4023",
+        "hex": "#efe1d1"
+    },
+    {
+        "name": "Alligator 4024",
+        "label": "4024",
+        "hex": "#a76a53"
+    },
+    {
+        "name": "Alligator 4025",
+        "label": "4025",
+        "hex": "#c0886e"
+    },
+    {
+        "name": "Alligator 4026",
+        "label": "4026",
+        "hex": "#d9ae96"
+    },
+    {
+        "name": "Alligator 4027",
+        "label": "4027",
+        "hex": "#e1bea9"
+    },
+    {
+        "name": "Alligator 4028",
+        "label": "4028",
+        "hex": "#efd8c9"
+    },
+    {
+        "name": "Alligator 4029",
+        "label": "4029",
+        "hex": "#ebe0d5"
+    },
+    {
+        "name": "Alligator 4030",
+        "label": "4030",
+        "hex": "#915c4d"
+    },
+    {
+        "name": "Alligator 4031",
+        "label": "4031",
+        "hex": "#af8274"
+    },
+    {
+        "name": "Alligator 4032",
+        "label": "4032",
+        "hex": "#cfaca3"
+    },
+    {
+        "name": "Alligator 4033",
+        "label": "4033",
+        "hex": "#d7bcb5"
+    },
+    {
+        "name": "Alligator 4034",
+        "label": "4034",
+        "hex": "#e5cec9"
+    },
+    {
+        "name": "Alligator 4035",
+        "label": "4035",
+        "hex": "#e9d8d3"
+    },
+    {
+        "name": "Alligator 4036",
+        "label": "4036",
+        "hex": "#78534d"
+    },
+    {
+        "name": "Alligator 4037",
+        "label": "4037",
+        "hex": "#92716c"
+    },
+    {
+        "name": "Alligator 4038",
+        "label": "4038",
+        "hex": "#c7b0ad"
+    },
+    {
+        "name": "Alligator 4039",
+        "label": "4039",
+        "hex": "#d7cbc3"
+    },
+    {
+        "name": "Alligator 4040",
+        "label": "4040",
+        "hex": "#e1d7cd"
+    },
+    {
+        "name": "Alligator 4041",
+        "label": "4041",
+        "hex": "#eae1da"
+    },
+    {
+        "name": "Alligator 4042",
+        "label": "4042",
+        "hex": "#95765e"
+    },
+    {
+        "name": "Alligator 4043",
+        "label": "4043",
+        "hex": "#c3a892"
+    },
+    {
+        "name": "Alligator 4044",
+        "label": "4044",
+        "hex": "#e2d4c5"
+    },
+    {
+        "name": "Alligator 4045",
+        "label": "4045",
+        "hex": "#eee4d7"
+    },
+    {
+        "name": "Alligator 4046",
+        "label": "4046",
+        "hex": "#efe8de"
+    },
+    {
+        "name": "Alligator 4047",
+        "label": "4047",
+        "hex": "#f7f1e8"
+    },
+    {
+        "name": "Alligator 4048",
+        "label": "4048",
+        "hex": "#8f6855"
+    },
+    {
+        "name": "Alligator 4049",
+        "label": "4049",
+        "hex": "#a6826e"
+    },
+    {
+        "name": "Alligator 4050",
+        "label": "4050",
+        "hex": "#d8bdad"
+    },
+    {
+        "name": "Alligator 4051",
+        "label": "4051",
+        "hex": "#e2cec2"
+    },
+    {
+        "name": "Alligator 4052",
+        "label": "4052",
+        "hex": "#eadacd"
+    },
+    {
+        "name": "Alligator 4053",
+        "label": "4053",
+        "hex": "#e8ded4"
+    },
+    {
+        "name": "Alligator 4054",
+        "label": "4054",
+        "hex": "#77574b"
+    },
+    {
+        "name": "Alligator 4055",
+        "label": "4055",
+        "hex": "#bfaea6"
+    },
+    {
+        "name": "Alligator 4056",
+        "label": "4056",
+        "hex": "#c9b9b4"
+    },
+    {
+        "name": "Alligator 4057",
+        "label": "4057",
+        "hex": "#d7ccc5"
+    },
+    {
+        "name": "Alligator 4058",
+        "label": "4058",
+        "hex": "#e5ded7"
+    },
+    {
+        "name": "Alligator 4059",
+        "label": "4059",
+        "hex": "#eee7df"
+    },
+    {
+        "name": "Alligator 4060",
+        "label": "4060",
+        "hex": "#624d47"
+    },
+    {
+        "name": "Alligator 4061",
+        "label": "4061",
+        "hex": "#a79896"
+    },
+    {
+        "name": "Alligator 4062",
+        "label": "4062",
+        "hex": "#baadaa"
+    },
+    {
+        "name": "Alligator 4063",
+        "label": "4063",
+        "hex": "#cac0bd"
+    },
+    {
+        "name": "Alligator 4064",
+        "label": "4064",
+        "hex": "#dad3d0"
+    },
+    {
+        "name": "Alligator 4065",
+        "label": "4065",
+        "hex": "#e1dbd8"
+    },
+    {
+        "name": "Alligator 4066",
+        "label": "4066",
+        "hex": "#846849"
+    },
+    {
+        "name": "Alligator 4067",
+        "label": "4067",
+        "hex": "#a98d6f"
+    },
+    {
+        "name": "Alligator 4068",
+        "label": "4068",
+        "hex": "#cdb89d"
+    },
+    {
+        "name": "Alligator 4069",
+        "label": "4069",
+        "hex": "#e2d2bd"
+    },
+    {
+        "name": "Alligator 4070",
+        "label": "4070",
+        "hex": "#e9decd"
+    },
+    {
+        "name": "Alligator 4071",
+        "label": "4071",
+        "hex": "#f1e9db"
+    },
+    {
+        "name": "Alligator 4072",
+        "label": "4072",
+        "hex": "#9b7b57"
+    },
+    {
+        "name": "Alligator 4073",
+        "label": "4073",
+        "hex": "#b29a78"
+    },
+    {
+        "name": "Alligator 4074",
+        "label": "4074",
+        "hex": "#dbc8ab"
+    },
+    {
+        "name": "Alligator 4075",
+        "label": "4075",
+        "hex": "#e6d7c0"
+    },
+    {
+        "name": "Alligator 4076",
+        "label": "4076",
+        "hex": "#e6dccb"
+    },
+    {
+        "name": "Alligator 4077",
+        "label": "4077",
+        "hex": "#f1e8d8"
+    },
+    {
+        "name": "Alligator 4078",
+        "label": "4078",
+        "hex": "#897060"
+    },
+    {
+        "name": "Alligator 4079",
+        "label": "4079",
+        "hex": "#9e8778"
+    },
+    {
+        "name": "Alligator 4080",
+        "label": "4080",
+        "hex": "#cdbeb1"
+    },
+    {
+        "name": "Alligator 4081",
+        "label": "4081",
+        "hex": "#d7cabe"
+    },
+    {
+        "name": "Alligator 4082",
+        "label": "4082",
+        "hex": "#dfd4ca"
+    },
+    {
+        "name": "Alligator 4083",
+        "label": "4083",
+        "hex": "#ebe3da"
+    },
+    {
+        "name": "Alligator 4084",
+        "label": "4084",
+        "hex": "#7d675b"
+    },
+    {
+        "name": "Alligator 4085",
+        "label": "4085",
+        "hex": "#afa499"
+    },
+    {
+        "name": "Alligator 4086",
+        "label": "4086",
+        "hex": "#cec3b6"
+    },
+    {
+        "name": "Alligator 4087",
+        "label": "4087",
+        "hex": "#e1d8cd"
+    },
+    {
+        "name": "Alligator 4088",
+        "label": "4088",
+        "hex": "#e3ddd2"
+    },
+    {
+        "name": "Alligator 4089",
+        "label": "4089",
+        "hex": "#e9e5dc"
+    },
+    {
+        "name": "Alligator 4090",
+        "label": "4090",
+        "hex": "#68574d"
+    },
+    {
+        "name": "Alligator 4091",
+        "label": "4091",
+        "hex": "#877a71"
+    },
+    {
+        "name": "Alligator 4092",
+        "label": "4092",
+        "hex": "#a39890"
+    },
+    {
+        "name": "Alligator 4093",
+        "label": "4093",
+        "hex": "#c2b9b1"
+    },
+    {
+        "name": "Alligator 4094",
+        "label": "4094",
+        "hex": "#dbd6ce"
+    },
+    {
+        "name": "Alligator 4095",
+        "label": "4095",
+        "hex": "#e0ddd6"
+    },
+    {
+        "name": "Alligator 4096",
+        "label": "4096",
+        "hex": "#6b6057"
+    },
+    {
+        "name": "Alligator 4097",
+        "label": "4097",
+        "hex": "#988d84"
+    },
+    {
+        "name": "Alligator 4098",
+        "label": "4098",
+        "hex": "#bcb6b0"
+    },
+    {
+        "name": "Alligator 4099",
+        "label": "4099",
+        "hex": "#cec8c2"
+    },
+    {
+        "name": "Alligator 4100",
+        "label": "4100",
+        "hex": "#dcd9d4"
+    },
+    {
+        "name": "Alligator 4101",
+        "label": "4101",
+        "hex": "#e2e0dc"
+    },
+    {
+        "name": "Alligator 4102",
+        "label": "4102",
+        "hex": "#978253"
+    },
+    {
+        "name": "Alligator 4103",
+        "label": "4103",
+        "hex": "#b5a47c"
+    },
+    {
+        "name": "Alligator 4104",
+        "label": "4104",
+        "hex": "#d9cbac"
+    },
+    {
+        "name": "Alligator 4105",
+        "label": "4105",
+        "hex": "#e3d8c0"
+    },
+    {
+        "name": "Alligator 4106",
+        "label": "4106",
+        "hex": "#ece4d1"
+    },
+    {
+        "name": "Alligator 4107",
+        "label": "4107",
+        "hex": "#eee9da"
+    },
+    {
+        "name": "Alligator 4108",
+        "label": "4108",
+        "hex": "#8b815d"
+    },
+    {
+        "name": "Alligator 4109",
+        "label": "4109",
+        "hex": "#a59d7f"
+    },
+    {
+        "name": "Alligator 4110",
+        "label": "4110",
+        "hex": "#c6bea4"
+    },
+    {
+        "name": "Alligator 4111",
+        "label": "4111",
+        "hex": "#dfd9c3"
+    },
+    {
+        "name": "Alligator 4112",
+        "label": "4112",
+        "hex": "#dcd8c9"
+    },
+    {
+        "name": "Alligator 4113",
+        "label": "4113",
+        "hex": "#e9e6da"
+    },
+    {
+        "name": "Alligator 4114",
+        "label": "4114",
+        "hex": "#635d45"
+    },
+    {
+        "name": "Alligator 4115",
+        "label": "4115",
+        "hex": "#8f8975"
+    },
+    {
+        "name": "Alligator 4116",
+        "label": "4116",
+        "hex": "#b7b4a8"
+    },
+    {
+        "name": "Alligator 4117",
+        "label": "4117",
+        "hex": "#d5d2c9"
+    },
+    {
+        "name": "Alligator 4118",
+        "label": "4118",
+        "hex": "#dfdcd3"
+    },
+    {
+        "name": "Alligator 4119",
+        "label": "4119",
+        "hex": "#e9e7df"
+    },
+    {
+        "name": "Alligator 4120",
+        "label": "4120",
+        "hex": "#818d6d"
+    },
+    {
+        "name": "Alligator 4121",
+        "label": "4121",
+        "hex": "#94a681"
+    },
+    {
+        "name": "Alligator 4122",
+        "label": "4122",
+        "hex": "#bfc3ae"
+    },
+    {
+        "name": "Alligator 4123",
+        "label": "4123",
+        "hex": "#cdd1c0"
+    },
+    {
+        "name": "Alligator 4124",
+        "label": "4124",
+        "hex": "#e3e6da"
+    },
+    {
+        "name": "Alligator 4125",
+        "label": "4125",
+        "hex": "#eaebe1"
+    },
+    {
+        "name": "Alligator 4126",
+        "label": "4126",
+        "hex": "#707253"
+    },
+    {
+        "name": "Alligator 4127",
+        "label": "4127",
+        "hex": "#969778"
+    },
+    {
+        "name": "Alligator 4128",
+        "label": "4128",
+        "hex": "#c8c8b3"
+    },
+    {
+        "name": "Alligator 4129",
+        "label": "4129",
+        "hex": "#d5d7c8"
+    },
+    {
+        "name": "Alligator 4130",
+        "label": "4130",
+        "hex": "#e1e1d5"
+    },
+    {
+        "name": "Alligator 4131",
+        "label": "4131",
+        "hex": "#e9e8dd"
+    },
+    {
+        "name": "Alligator 4132",
+        "label": "4132",
+        "hex": "#627265"
+    },
+    {
+        "name": "Alligator 4133",
+        "label": "4133",
+        "hex": "#8a998c"
+    },
+    {
+        "name": "Alligator 4134",
+        "label": "4134",
+        "hex": "#a9b4aa"
+    },
+    {
+        "name": "Alligator 4135",
+        "label": "4135",
+        "hex": "#ced5ce"
+    },
+    {
+        "name": "Alligator 4136",
+        "label": "4136",
+        "hex": "#d6dbd5"
+    },
+    {
+        "name": "Alligator 4137",
+        "label": "4137",
+        "hex": "#e5e8e1"
+    },
+    {
+        "name": "Alligator 4138",
+        "label": "4138",
+        "hex": "#535b50"
+    },
+    {
+        "name": "Alligator 4139",
+        "label": "4139",
+        "hex": "#adb7b5"
+    },
+    {
+        "name": "Alligator 4140",
+        "label": "4140",
+        "hex": "#c1c8c6"
+    },
+    {
+        "name": "Alligator 4141",
+        "label": "4141",
+        "hex": "#d0d6d4"
+    },
+    {
+        "name": "Alligator 4142",
+        "label": "4142",
+        "hex": "#dbdfdb"
+    },
+    {
+        "name": "Alligator 4143",
+        "label": "4143",
+        "hex": "#e5e7e2"
+    },
+    {
+        "name": "Alligator 4144",
+        "label": "4144",
+        "hex": "#62928b"
+    },
+    {
+        "name": "Alligator 4145",
+        "label": "4145",
+        "hex": "#8ab1ad"
+    },
+    {
+        "name": "Alligator 4146",
+        "label": "4146",
+        "hex": "#c1d7d5"
+    },
+    {
+        "name": "Alligator 4147",
+        "label": "4147",
+        "hex": "#cfe0dd"
+    },
+    {
+        "name": "Alligator 4148",
+        "label": "4148",
+        "hex": "#e4ede8"
+    },
+    {
+        "name": "Alligator 4149",
+        "label": "4149",
+        "hex": "#e4e9e5"
+    },
+    {
+        "name": "Alligator 4150",
+        "label": "4150",
+        "hex": "#667e82"
+    },
+    {
+        "name": "Alligator 4151",
+        "label": "4151",
+        "hex": "#8aa0a6"
+    },
+    {
+        "name": "Alligator 4152",
+        "label": "4152",
+        "hex": "#a5b8be"
+    },
+    {
+        "name": "Alligator 4153",
+        "label": "4153",
+        "hex": "#bfcfd2"
+    },
+    {
+        "name": "Alligator 4154",
+        "label": "4154",
+        "hex": "#cdd9db"
+    },
+    {
+        "name": "Alligator 4155",
+        "label": "4155",
+        "hex": "#d7e1e1"
+    },
+    {
+        "name": "Alligator 4156",
+        "label": "4156",
+        "hex": "#50616a"
+    },
+    {
+        "name": "Alligator 4157",
+        "label": "4157",
+        "hex": "#7a8992"
+    },
+    {
+        "name": "Alligator 4158",
+        "label": "4158",
+        "hex": "#a4b3bb"
+    },
+    {
+        "name": "Alligator 4159",
+        "label": "4159",
+        "hex": "#b6c4ca"
+    },
+    {
+        "name": "Alligator 4160",
+        "label": "4160",
+        "hex": "#d0d7d6"
+    },
+    {
+        "name": "Alligator 4161",
+        "label": "4161",
+        "hex": "#dfe3e2"
+    },
+    {
+        "name": "Alligator 4162",
+        "label": "4162",
+        "hex": "#4e6f7e"
+    },
+    {
+        "name": "Alligator 4163",
+        "label": "4163",
+        "hex": "#7a9aaa"
+    },
+    {
+        "name": "Alligator 4164",
+        "label": "4164",
+        "hex": "#a8c2cc"
+    },
+    {
+        "name": "Alligator 4165",
+        "label": "4165",
+        "hex": "#c9d7db"
+    },
+    {
+        "name": "Alligator 4166",
+        "label": "4166",
+        "hex": "#d7e1e3"
+    },
+    {
+        "name": "Alligator 4167",
+        "label": "4167",
+        "hex": "#e3e7e6"
+    },
+    {
+        "name": "Alligator 4168",
+        "label": "4168",
+        "hex": "#62594d"
+    },
+    {
+        "name": "Alligator 4169",
+        "label": "4169",
+        "hex": "#948e85"
+    },
+    {
+        "name": "Alligator 4170",
+        "label": "4170",
+        "hex": "#b9b4ae"
+    },
+    {
+        "name": "Alligator 4171",
+        "label": "4171",
+        "hex": "#d4d1cd"
+    },
+    {
+        "name": "Alligator 4172",
+        "label": "4172",
+        "hex": "#dfddd6"
+    },
+    {
+        "name": "Alligator 4173",
+        "label": "4173",
+        "hex": "#e9e6e0"
+    },
+    {
+        "name": "Alligator 4174",
+        "label": "4174",
+        "hex": "#58544a"
+    },
+    {
+        "name": "Alligator 4175",
+        "label": "4175",
+        "hex": "#82827c"
+    },
+    {
+        "name": "Alligator 4176",
+        "label": "4176",
+        "hex": "#b1b2af"
+    },
+    {
+        "name": "Alligator 4177",
+        "label": "4177",
+        "hex": "#cbccc9"
+    },
+    {
+        "name": "Alligator 4178",
+        "label": "4178",
+        "hex": "#dbdeda"
+    },
+    {
+        "name": "Alligator 4179",
+        "label": "4179",
+        "hex": "#e0e3de"
+    },
+    {
+        "name": "Alligator 4180",
+        "label": "4180",
+        "hex": "#737265"
+    },
+    {
+        "name": "Alligator 4181",
+        "label": "4181",
+        "hex": "#95968c"
+    },
+    {
+        "name": "Alligator 4182",
+        "label": "4182",
+        "hex": "#b8b8b1"
+    },
+    {
+        "name": "Alligator 4183",
+        "label": "4183",
+        "hex": "#c6c5be"
+    },
+    {
+        "name": "Alligator 4184",
+        "label": "4184",
+        "hex": "#d9d7d1"
+    },
+    {
+        "name": "Alligator 4185",
+        "label": "4185",
+        "hex": "#eae8e0"
+    },
+    {
+        "name": "Alligator 4186",
+        "label": "4186",
+        "hex": "#625a5c"
+    },
+    {
+        "name": "Alligator 4187",
+        "label": "4187",
+        "hex": "#a6a7ab"
+    },
+    {
+        "name": "Alligator 4188",
+        "label": "4188",
+        "hex": "#b6b8ba"
+    },
+    {
+        "name": "Alligator 4189",
+        "label": "4189",
+        "hex": "#cecfd0"
+    },
+    {
+        "name": "Alligator 4190",
+        "label": "4190",
+        "hex": "#d4d5d4"
+    },
+    {
+        "name": "Alligator 4191",
+        "label": "4191",
+        "hex": "#e0dfdc"
+    },
+    {
+        "name": "Alligator 4192",
+        "label": "4192",
+        "hex": "#504e4f"
+    },
+    {
+        "name": "Alligator 4193",
+        "label": "4193",
+        "hex": "#a4a4a5"
+    },
+    {
+        "name": "Alligator 4194",
+        "label": "4194",
+        "hex": "#b7b8b7"
+    },
+    {
+        "name": "Alligator 4195",
+        "label": "4195",
+        "hex": "#c7c9c8"
+    },
+    {
+        "name": "Alligator 4196",
+        "label": "4196",
+        "hex": "#d5d3d0"
+    },
+    {
+        "name": "Alligator 4197",
+        "label": "4197",
+        "hex": "#dbdad8"
+    },
+    {
+        "name": "Alligator Altweiss",
+        "label": "altweiss",
+        "hex": "#efe9dd"
+    },
+    {
+        "name": "Alligator Braun",
+        "label": "braun",
+        "hex": "#634b45"
+    },
+    {
+        "name": "Alligator Echtgelb",
+        "label": "echtgelb",
+        "hex": "#ead77a"
+    },
+    {
+        "name": "Alligator Elfenbein",
+        "label": "elfenbein",
+        "hex": "#f0dbbd"
+    },
+    {
+        "name": "Alligator Gelb",
+        "label": "gelb",
+        "hex": "#ece479"
+    },
+    {
+        "name": "Alligator Gruen",
+        "label": "gruen",
+        "hex": "#5a7650"
+    },
+    {
+        "name": "Alligator Kobaltblau",
+        "label": "kobaltblau",
+        "hex": "#007ca1"
+    },
+    {
+        "name": "Alligator Konstantblau",
+        "label": "konstantblau",
+        "hex": "#3792b6"
+    },
+    {
+        "name": "Alligator Konstantgruen",
+        "label": "konstantgruen",
+        "hex": "#698458"
+    },
+    {
+        "name": "Alligator Ocker-1",
+        "label": "ocker-1",
+        "hex": "#c68d3e"
+    },
+    {
+        "name": "Alligator Ocker-2",
+        "label": "ocker-2",
+        "hex": "#dda650"
+    },
+    {
+        "name": "Alligator Oxidbraun-1",
+        "label": "oxidbraun-1",
+        "hex": "#765641"
+    },
+    {
+        "name": "Alligator Oxidbraun-2",
+        "label": "oxidbraun-2",
+        "hex": "#8e7260"
+    },
+    {
+        "name": "Alligator Oxidrot-1",
+        "label": "oxidrot-1",
+        "hex": "#834239"
+    },
+    {
+        "name": "Alligator Oxidrot-2",
+        "label": "oxidrot-2",
+        "hex": "#9d574e"
+    },
+    {
+        "name": "Alligator Oxidschwarz",
+        "label": "oxidschwarz",
+        "hex": "#555353"
+    },
+    {
+        "name": "Alligator Schwarz",
+        "label": "schwarz",
+        "hex": "#3a393b"
+    },
+    {
+        "name": "Alligator Terracotta",
+        "label": "terracotta",
+        "hex": "#af664e"
+    },
+    {
+        "name": "Alligator Umbra",
+        "label": "umbra",
+        "hex": "#6a5b3e"
+    },
+    {
+        "name": "Alligator Umbragruen",
+        "label": "umbragruen",
+        "hex": "#73694c"
+    },
+    {
+        "name": "Alligator Korall 125",
+        "label": "korall-125",
+        "hex": "#804442"
+    },
+    {
+        "name": "Alligator Korall 100",
+        "label": "korall-100",
+        "hex": "#735350"
+    },
+    {
+        "name": "Alligator Korall 155",
+        "label": "korall-155",
+        "hex": "#ac5753"
+    },
+    {
+        "name": "Alligator Korall 135",
+        "label": "korall-135",
+        "hex": "#9d5d58"
+    },
+    {
+        "name": "Alligator Korall 105",
+        "label": "korall-105",
+        "hex": "#805855"
+    },
+    {
+        "name": "Alligator Korall 115",
+        "label": "korall-115",
+        "hex": "#8e615c"
+    },
+    {
+        "name": "Alligator Korall 70",
+        "label": "korall-70",
+        "hex": "#a37974"
+    },
+    {
+        "name": "Alligator Korall 95",
+        "label": "korall-95",
+        "hex": "#584544"
+    },
+    {
+        "name": "Alligator Korall 110",
+        "label": "korall-110",
+        "hex": "#755c5a"
+    },
+    {
+        "name": "Alligator Korall 65",
+        "label": "korall-65",
+        "hex": "#967975"
+    },
+    {
+        "name": "Alligator Korall 35",
+        "label": "korall-35",
+        "hex": "#b7a5a2"
+    },
+    {
+        "name": "Alligator Korall 45",
+        "label": "korall-45",
+        "hex": "#d0bfbb"
+    },
+    {
+        "name": "Alligator Korall 20",
+        "label": "korall-20",
+        "hex": "#e8dcd7"
+    },
+    {
+        "name": "Alligator Korall 5",
+        "label": "korall-5",
+        "hex": "#a1908e"
+    },
+    {
+        "name": "Alligator Korall 10",
+        "label": "korall-10",
+        "hex": "#b5a9a7"
+    },
+    {
+        "name": "Alligator Korall 15",
+        "label": "korall-15",
+        "hex": "#dbcec9"
+    },
+    {
+        "name": "Alligator Bordeaux 65",
+        "label": "bordeaux-65",
+        "hex": "#a54640"
+    },
+    {
+        "name": "Alligator Bordeaux 75",
+        "label": "bordeaux-75",
+        "hex": "#af6259"
+    },
+    {
+        "name": "Alligator Bordeaux 45",
+        "label": "bordeaux-45",
+        "hex": "#b27269"
+    },
+    {
+        "name": "Alligator Bordeaux 55",
+        "label": "bordeaux-55",
+        "hex": "#d2a39d"
+    },
+    {
+        "name": "Alligator Bordeaux 35",
+        "label": "bordeaux-35",
+        "hex": "#80544d"
+    },
+    {
+        "name": "Alligator Bordeaux 50",
+        "label": "bordeaux-50",
+        "hex": "#b98379"
+    },
+    {
+        "name": "Alligator Bordeaux 60",
+        "label": "bordeaux-60",
+        "hex": "#e9c4bd"
+    },
+    {
+        "name": "Alligator Bordeaux 5",
+        "label": "bordeaux-5",
+        "hex": "#a98b85"
+    },
+    {
+        "name": "Alligator Bordeaux 10",
+        "label": "bordeaux-10",
+        "hex": "#bb9a92"
+    },
+    {
+        "name": "Alligator Bordeaux 15",
+        "label": "bordeaux-15",
+        "hex": "#bfa8a3"
+    },
+    {
+        "name": "Alligator Cameo 125",
+        "label": "cameo-125",
+        "hex": "#a15545"
+    },
+    {
+        "name": "Alligator Cameo 95",
+        "label": "cameo-95",
+        "hex": "#8a5649"
+    },
+    {
+        "name": "Alligator Cameo 130",
+        "label": "cameo-130",
+        "hex": "#ac685b"
+    },
+    {
+        "name": "Alligator Cameo 135",
+        "label": "cameo-135",
+        "hex": "#c7806e"
+    },
+    {
+        "name": "Alligator Cameo 65",
+        "label": "cameo-65",
+        "hex": "#927068"
+    },
+    {
+        "name": "Alligator Cameo 70",
+        "label": "cameo-70",
+        "hex": "#ab8b82"
+    },
+    {
+        "name": "Alligator Cameo 50",
+        "label": "cameo-50",
+        "hex": "#cbb5ae"
+    },
+    {
+        "name": "Alligator Cameo 35",
+        "label": "cameo-35",
+        "hex": "#87736f"
+    },
+    {
+        "name": "Alligator Cameo 40",
+        "label": "cameo-40",
+        "hex": "#a7938d"
+    },
+    {
+        "name": "Alligator Cameo 20",
+        "label": "cameo-20",
+        "hex": "#dfd3cc"
+    },
+    {
+        "name": "Alligator Cameo 5",
+        "label": "cameo-5",
+        "hex": "#9b8c88"
+    },
+    {
+        "name": "Alligator Cameo 10",
+        "label": "cameo-10",
+        "hex": "#b8ada9"
+    },
+    {
+        "name": "Alligator Cameo 15",
+        "label": "cameo-15",
+        "hex": "#d0c9c6"
+    },
+    {
+        "name": "Alligator Lachs 100",
+        "label": "lachs-100",
+        "hex": "#bc654b"
+    },
+    {
+        "name": "Alligator Lachs 65",
+        "label": "lachs-65",
+        "hex": "#aa6952"
+    },
+    {
+        "name": "Alligator Lachs 70",
+        "label": "lachs-70",
+        "hex": "#ce8163"
+    },
+    {
+        "name": "Alligator Lachs 80",
+        "label": "lachs-80",
+        "hex": "#e69981"
+    },
+    {
+        "name": "Alligator Lachs 35",
+        "label": "lachs-35",
+        "hex": "#b7826f"
+    },
+    {
+        "name": "Alligator Lachs 50",
+        "label": "lachs-50",
+        "hex": "#dda693"
+    },
+    {
+        "name": "Alligator Lachs 85",
+        "label": "lachs-85",
+        "hex": "#ffc4af"
+    },
+    {
+        "name": "Alligator Lachs 45",
+        "label": "lachs-45",
+        "hex": "#cda597"
+    },
+    {
+        "name": "Alligator Lachs 20",
+        "label": "lachs-20",
+        "hex": "#efd2c5"
+    },
+    {
+        "name": "Alligator Lachs 30",
+        "label": "lachs-30",
+        "hex": "#fae8dd"
+    },
+    {
+        "name": "Alligator Aprico 125",
+        "label": "aprico-125",
+        "hex": "#c86d46"
+    },
+    {
+        "name": "Alligator Aprico 135",
+        "label": "aprico-135",
+        "hex": "#c97f5f"
+    },
+    {
+        "name": "Alligator Aprico 100",
+        "label": "aprico-100",
+        "hex": "#d28d6e"
+    },
+    {
+        "name": "Alligator Aprico 110",
+        "label": "aprico-110",
+        "hex": "#e39e7c"
+    },
+    {
+        "name": "Alligator Aprico 105",
+        "label": "aprico-105",
+        "hex": "#c5927a"
+    },
+    {
+        "name": "Alligator Aprico 75",
+        "label": "aprico-75",
+        "hex": "#e5b097"
+    },
+    {
+        "name": "Alligator Aprico 55",
+        "label": "aprico-55",
+        "hex": "#efd2c4"
+    },
+    {
+        "name": "Alligator Aprico 70",
+        "label": "aprico-70",
+        "hex": "#bd9989"
+    },
+    {
+        "name": "Alligator Aprico 50",
+        "label": "aprico-50",
+        "hex": "#e2c6b8"
+    },
+    {
+        "name": "Alligator Aprico 60",
+        "label": "aprico-60",
+        "hex": "#fbe5d7"
+    },
+    {
+        "name": "Alligator Aprico 10",
+        "label": "aprico-10",
+        "hex": "#c0aa9f"
+    },
+    {
+        "name": "Alligator Aprico 15",
+        "label": "aprico-15",
+        "hex": "#d6c9c1"
+    },
+    {
+        "name": "Alligator Aprico 20",
+        "label": "aprico-20",
+        "hex": "#e0d5cf"
+    },
+    {
+        "name": "Alligator Siena 155",
+        "label": "siena-155",
+        "hex": "#c78243"
+    },
+    {
+        "name": "Alligator Siena 130",
+        "label": "siena-130",
+        "hex": "#c7996f"
+    },
+    {
+        "name": "Alligator Siena 165",
+        "label": "siena-165",
+        "hex": "#ecae7d"
+    },
+    {
+        "name": "Alligator Siena 175",
+        "label": "siena-175",
+        "hex": "#ffc592"
+    },
+    {
+        "name": "Alligator Siena 135",
+        "label": "siena-135",
+        "hex": "#e2b185"
+    },
+    {
+        "name": "Alligator Siena 140",
+        "label": "siena-140",
+        "hex": "#fecda4"
+    },
+    {
+        "name": "Alligator Siena 145",
+        "label": "siena-145",
+        "hex": "#feddc2"
+    },
+    {
+        "name": "Alligator Siena 85",
+        "label": "siena-85",
+        "hex": "#d2b9a4"
+    },
+    {
+        "name": "Alligator Siena 90",
+        "label": "siena-90",
+        "hex": "#e7cdb6"
+    },
+    {
+        "name": "Alligator Siena 55",
+        "label": "siena-55",
+        "hex": "#e6d5c3"
+    },
+    {
+        "name": "Alligator Siena 40",
+        "label": "siena-40",
+        "hex": "#aa9685"
+    },
+    {
+        "name": "Alligator Siena 45",
+        "label": "siena-45",
+        "hex": "#c4b2a3"
+    },
+    {
+        "name": "Alligator Siena 50",
+        "label": "siena-50",
+        "hex": "#ddcec1"
+    },
+    {
+        "name": "Alligator Siena 10",
+        "label": "siena-10",
+        "hex": "#928479"
+    },
+    {
+        "name": "Alligator Siena 15",
+        "label": "siena-15",
+        "hex": "#aa9e94"
+    },
+    {
+        "name": "Alligator Siena 20",
+        "label": "siena-20",
+        "hex": "#c6bcb4"
+    },
+    {
+        "name": "Alligator Onyx 155",
+        "label": "onyx-155",
+        "hex": "#bd884f"
+    },
+    {
+        "name": "Alligator Onyx 220",
+        "label": "onyx-220",
+        "hex": "#eb9b3a"
+    },
+    {
+        "name": "Alligator Onyx 230",
+        "label": "onyx-230",
+        "hex": "#ffba61"
+    },
+    {
+        "name": "Alligator Onyx 200",
+        "label": "onyx-200",
+        "hex": "#ffc387"
+    },
+    {
+        "name": "Alligator Onyx 185",
+        "label": "onyx-185",
+        "hex": "#dd9f5e"
+    },
+    {
+        "name": "Alligator Onyx 170",
+        "label": "onyx-170",
+        "hex": "#f2c089"
+    },
+    {
+        "name": "Alligator Onyx 175",
+        "label": "onyx-175",
+        "hex": "#facfa2"
+    },
+    {
+        "name": "Alligator Onyx 125",
+        "label": "onyx-125",
+        "hex": "#bd9875"
+    },
+    {
+        "name": "Alligator Onyx 105",
+        "label": "onyx-105",
+        "hex": "#d7b592"
+    },
+    {
+        "name": "Alligator Onyx 110",
+        "label": "onyx-110",
+        "hex": "#e2c5a8"
+    },
+    {
+        "name": "Alligator Onyx 95",
+        "label": "onyx-95",
+        "hex": "#9b856e"
+    },
+    {
+        "name": "Alligator Onyx 65",
+        "label": "onyx-65",
+        "hex": "#b39a83"
+    },
+    {
+        "name": "Alligator Onyx 70",
+        "label": "onyx-70",
+        "hex": "#d1c0af"
+    },
+    {
+        "name": "Alligator Caramel 94",
+        "label": "caramel-94",
+        "hex": "#af8b5d"
+    },
+    {
+        "name": "Alligator Caramel 110",
+        "label": "caramel-110",
+        "hex": "#f8d29f"
+    },
+    {
+        "name": "Alligator Caramel 120",
+        "label": "caramel-120",
+        "hex": "#ffdfb5"
+    },
+    {
+        "name": "Alligator Caramel 90",
+        "label": "caramel-90",
+        "hex": "#faf1e4"
+    },
+    {
+        "name": "Alligator Caramel 65",
+        "label": "caramel-65",
+        "hex": "#d1b491"
+    },
+    {
+        "name": "Alligator Caramel 75",
+        "label": "caramel-75",
+        "hex": "#ecd8be"
+    },
+    {
+        "name": "Alligator Caramel 85",
+        "label": "caramel-85",
+        "hex": "#f3e4cf"
+    },
+    {
+        "name": "Alligator Palazzo 245 ",
+        "label": "palazzo-245",
+        "hex": "#9c7c48"
+    },
+    {
+        "name": "Alligator Palazzo 350",
+        "label": "palazzo-350",
+        "hex": "#f1af16"
+    },
+    {
+        "name": "Alligator Palazzo 355",
+        "label": "palazzo-355",
+        "hex": "#fabd39"
+    },
+    {
+        "name": "Alligator Palazzo 360",
+        "label": "palazzo-360",
+        "hex": "#fecf61"
+    },
+    {
+        "name": "Alligator Palazzo 305",
+        "label": "palazzo-305",
+        "hex": "#b68940"
+    },
+    {
+        "name": "Alligator Palazzo 285",
+        "label": "palazzo-285",
+        "hex": "#d2a44e"
+    },
+    {
+        "name": "Alligator Palazzo 295",
+        "label": "palazzo-295",
+        "hex": "#eec075"
+    },
+    {
+        "name": "Alligator Palazzo 290",
+        "label": "palazzo-290",
+        "hex": "#e0af5c"
+    },
+    {
+        "name": "Alligator Palazzo 265",
+        "label": "palazzo-265",
+        "hex": "#f8d18f"
+    },
+    {
+        "name": "Alligator Palazzo 270",
+        "label": "palazzo-270",
+        "hex": "#fedca0"
+    },
+    {
+        "name": "Alligator Palazzo 250",
+        "label": "palazzo-250",
+        "hex": "#b48d4b"
+    },
+    {
+        "name": "Alligator Palazzo 255",
+        "label": "palazzo-255",
+        "hex": "#d5ac68"
+    },
+    {
+        "name": "Alligator Palazzo 260",
+        "label": "palazzo-260",
+        "hex": "#e3bc80"
+    },
+    {
+        "name": "Alligator Palazzo 190",
+        "label": "palazzo-190",
+        "hex": "#967e57"
+    },
+    {
+        "name": "Alligator Palazzo 200",
+        "label": "palazzo-200",
+        "hex": "#c5ae8a"
+    },
+    {
+        "name": "Alligator Palazzo 170",
+        "label": "palazzo-170",
+        "hex": "#d0bfa1"
+    },
+    {
+        "name": "Alligator Palazzo 205",
+        "label": "palazzo-205",
+        "hex": "#e3c59d"
+    },
+    {
+        "name": "Alligator Palazzo 175",
+        "label": "palazzo-175",
+        "hex": "#ead4b4"
+    },
+    {
+        "name": "Alligator Palazzo 180",
+        "label": "palazzo-180",
+        "hex": "#f9ebd2"
+    },
+    {
+        "name": "Alligator Palazzo 135",
+        "label": "palazzo-135",
+        "hex": "#8d7f6a"
+    },
+    {
+        "name": "Alligator Palazzo 145",
+        "label": "palazzo-145",
+        "hex": "#c7b9a4"
+    },
+    {
+        "name": "Alligator Palazzo 150",
+        "label": "palazzo-150",
+        "hex": "#dfcfb6"
+    },
+    {
+        "name": "Alligator Palazzo 100",
+        "label": "palazzo-100",
+        "hex": "#988c7c"
+    },
+    {
+        "name": "Alligator Palazzo 110",
+        "label": "palazzo-110",
+        "hex": "#b8afa1"
+    },
+    {
+        "name": "Alligator Palazzo 85",
+        "label": "palazzo-85",
+        "hex": "#c7bdb0"
+    },
+    {
+        "name": "Alligator Palazzo 75",
+        "label": "palazzo-75",
+        "hex": "#817c74"
+    },
+    {
+        "name": "Alligator Palazzo 40",
+        "label": "palazzo-40",
+        "hex": "#b1aba3"
+    },
+    {
+        "name": "Alligator Palazzo 50",
+        "label": "palazzo-50",
+        "hex": "#d3ccc1"
+    },
+    {
+        "name": "Alligator Ginster 94",
+        "label": "ginster-94",
+        "hex": "#a88b4a"
+    },
+    {
+        "name": "Alligator Ginster 100",
+        "label": "ginster-100",
+        "hex": "#e7c580"
+    },
+    {
+        "name": "Alligator Ginster 110",
+        "label": "ginster-110",
+        "hex": "#f2d494"
+    },
+    {
+        "name": "Alligator Ginster 115",
+        "label": "ginster-115",
+        "hex": "#f6deaf"
+    },
+    {
+        "name": "Alligator Ginster 70",
+        "label": "ginster-70",
+        "hex": "#c2ac81"
+    },
+    {
+        "name": "Alligator Ginster 80",
+        "label": "ginster-80",
+        "hex": "#e0cea8"
+    },
+    {
+        "name": "Alligator Ginster 60",
+        "label": "ginster-60",
+        "hex": "#f2e5cd"
+    },
+    {
+        "name": "Alligator Ginster 35",
+        "label": "ginster-35",
+        "hex": "#8c7b61"
+    },
+    {
+        "name": "Alligator Ginster 45",
+        "label": "ginster-45",
+        "hex": "#b6aa91"
+    },
+    {
+        "name": "Alligator Ginster 50",
+        "label": "ginster-50",
+        "hex": "#d6c8b0"
+    },
+    {
+        "name": "Alligator Ginster 40",
+        "label": "ginster-40",
+        "hex": "#9a8e75"
+    },
+    {
+        "name": "Alligator Ginster 5",
+        "label": "ginster-5",
+        "hex": "#b3a996"
+    },
+    {
+        "name": "Alligator Ginster 15",
+        "label": "ginster-15",
+        "hex": "#cdc5b7"
+    },
+    {
+        "name": "Alligator Curry 32",
+        "label": "curry-32",
+        "hex": "#817556"
+    },
+    {
+        "name": "Alligator Curry 110",
+        "label": "curry-110",
+        "hex": "#f0d794"
+    },
+    {
+        "name": "Alligator Curry 120",
+        "label": "curry-120",
+        "hex": "#fae7ae"
+    },
+    {
+        "name": "Alligator Curry 90",
+        "label": "curry-90",
+        "hex": "#fbeec6"
+    },
+    {
+        "name": "Alligator Curry 40",
+        "label": "curry-40",
+        "hex": "#c2b080"
+    },
+    {
+        "name": "Alligator Curry 45",
+        "label": "curry-45",
+        "hex": "#dbca9d"
+    },
+    {
+        "name": "Alligator Curry 80",
+        "label": "curry-80",
+        "hex": "#f0ddb0"
+    },
+    {
+        "name": "Alligator Curry 5",
+        "label": "curry-5",
+        "hex": "#beb195"
+    },
+    {
+        "name": "Alligator Curry 10",
+        "label": "curry-10",
+        "hex": "#cec5ac"
+    },
+    {
+        "name": "Alligator Curry 15",
+        "label": "curry-15",
+        "hex": "#dfd7c5"
+    },
+    {
+        "name": "Alligator Melisse 32",
+        "label": "melisse-32",
+        "hex": "#7e7961"
+    },
+    {
+        "name": "Alligator Melisse 75",
+        "label": "melisse-75",
+        "hex": "#bcad78"
+    },
+    {
+        "name": "Alligator Melisse 80",
+        "label": "melisse-80",
+        "hex": "#ded19a"
+    },
+    {
+        "name": "Alligator Melisse 90",
+        "label": "melisse-90",
+        "hex": "#f8f0d2"
+    },
+    {
+        "name": "Alligator Melisse 35",
+        "label": "melisse-35",
+        "hex": "#b7ad8d"
+    },
+    {
+        "name": "Alligator Melisse 40",
+        "label": "melisse-40",
+        "hex": "#d1caaf"
+    },
+    {
+        "name": "Alligator Melisse 50",
+        "label": "melisse-50",
+        "hex": "#eae2c8"
+    },
+    {
+        "name": "Alligator Jade 62",
+        "label": "jade-62",
+        "hex": "#767764"
+    },
+    {
+        "name": "Alligator Jade 105",
+        "label": "jade-105",
+        "hex": "#bbc08f"
+    },
+    {
+        "name": "Alligator Jade 110",
+        "label": "jade-110",
+        "hex": "#d9dcab"
+    },
+    {
+        "name": "Alligator Jade 85",
+        "label": "jade-85",
+        "hex": "#e2e2c7"
+    },
+    {
+        "name": "Alligator Jade 100",
+        "label": "jade-100",
+        "hex": "#a1a57f"
+    },
+    {
+        "name": "Alligator Jade 75",
+        "label": "jade-75",
+        "hex": "#bebea4"
+    },
+    {
+        "name": "Alligator Jade 80",
+        "label": "jade-80",
+        "hex": "#d2d4b2"
+    },
+    {
+        "name": "Alligator Jade 5",
+        "label": "jade-5",
+        "hex": "#b1b1aa"
+    },
+    {
+        "name": "Alligator Jade 50",
+        "label": "jade-50",
+        "hex": "#cccbc1"
+    },
+    {
+        "name": "Alligator Jade 25",
+        "label": "jade-25",
+        "hex": "#e2dfd7"
+    },
+    {
+        "name": "Alligator Moos 62",
+        "label": "moos-62",
+        "hex": "#6d775c"
+    },
+    {
+        "name": "Alligator Moos 85",
+        "label": "moos-85",
+        "hex": "#d6dbc1"
+    },
+    {
+        "name": "Alligator Moos 60",
+        "label": "moos-60",
+        "hex": "#dee0d2"
+    },
+    {
+        "name": "Alligator Moos 90",
+        "label": "moos-90",
+        "hex": "#edeedc"
+    },
+    {
+        "name": "Alligator Moos 35",
+        "label": "moos-35",
+        "hex": "#969b86"
+    },
+    {
+        "name": "Alligator Moos 40",
+        "label": "moos-40",
+        "hex": "#a9ac9d"
+    },
+    {
+        "name": "Alligator Moos 50",
+        "label": "moos-50",
+        "hex": "#bfc0b3"
+    },
+    {
+        "name": "Alligator Moos 20",
+        "label": "moos-20",
+        "hex": "#a7a6a2"
+    },
+    {
+        "name": "Alligator Moos 45",
+        "label": "moos-45",
+        "hex": "#bbbbb4"
+    },
+    {
+        "name": "Alligator Moos 55",
+        "label": "moos-55",
+        "hex": "#d3d2c9"
+    },
+    {
+        "name": "Alligator Oase 44",
+        "label": "oase-44",
+        "hex": "#68755c"
+    },
+    {
+        "name": "Alligator Oase 75",
+        "label": "oase-75",
+        "hex": "#92a284"
+    },
+    {
+        "name": "Alligator Oase 115",
+        "label": "oase-115",
+        "hex": "#b2c59f"
+    },
+    {
+        "name": "Alligator Oase 85",
+        "label": "oase-85",
+        "hex": "#d5dcca"
+    },
+    {
+        "name": "Alligator Oase 45",
+        "label": "oase-45",
+        "hex": "#788468"
+    },
+    {
+        "name": "Alligator Oase 50",
+        "label": "oase-50",
+        "hex": "#b5c1a9"
+    },
+    {
+        "name": "Alligator Oase 60",
+        "label": "oase-60",
+        "hex": "#ecefe5"
+    },
+    {
+        "name": "Alligator Oase 5",
+        "label": "oase-5",
+        "hex": "#879080"
+    },
+    {
+        "name": "Alligator Oase 15",
+        "label": "oase-15",
+        "hex": "#a9b0a3"
+    },
+    {
+        "name": "Alligator Oase 20",
+        "label": "oase-20",
+        "hex": "#c6cbc0"
+    },
+    {
+        "name": "Alligator Mint 32",
+        "label": "mint-32",
+        "hex": "#466252"
+    },
+    {
+        "name": "Alligator Mint 45",
+        "label": "mint-45",
+        "hex": "#8ca592"
+    },
+    {
+        "name": "Alligator Mint 50",
+        "label": "mint-50",
+        "hex": "#a4b6ac"
+    },
+    {
+        "name": "Alligator Mint 55",
+        "label": "mint-55",
+        "hex": "#bdcdc0"
+    },
+    {
+        "name": "Alligator Mint 5",
+        "label": "mint-5",
+        "hex": "#8c938c"
+    },
+    {
+        "name": "Alligator Mint 10",
+        "label": "mint-10",
+        "hex": "#a4aca5"
+    },
+    {
+        "name": "Alligator Mint 15",
+        "label": "mint-15",
+        "hex": "#c4cbc4"
+    },
+    {
+        "name": "Alligator Verona 64",
+        "label": "verona-64",
+        "hex": "#365d60"
+    },
+    {
+        "name": "Alligator Verona 75",
+        "label": "verona-75",
+        "hex": "#7f918f"
+    },
+    {
+        "name": "Alligator Verona 80",
+        "label": "verona-80",
+        "hex": "#a4b1af"
+    },
+    {
+        "name": "Alligator Verona 85",
+        "label": "verona-85",
+        "hex": "#cddad6"
+    },
+    {
+        "name": "Alligator Verona 40",
+        "label": "verona-40",
+        "hex": "#8e9795"
+    },
+    {
+        "name": "Alligator Verona 45",
+        "label": "verona-45",
+        "hex": "#b1b8b5"
+    },
+    {
+        "name": "Alligator Verona 50",
+        "label": "verona-50",
+        "hex": "#c1c5c2"
+    },
+    {
+        "name": "Alligator Verona 5",
+        "label": "verona-5",
+        "hex": "#abaead"
+    },
+    {
+        "name": "Alligator Verona 10",
+        "label": "verona-10",
+        "hex": "#c9cac7"
+    },
+    {
+        "name": "Alligator Verona 15",
+        "label": "verona-15",
+        "hex": "#cfd3cf"
+    },
+    {
+        "name": "Alligator Pacific 34",
+        "label": "pacific-34",
+        "hex": "#465560"
+    },
+    {
+        "name": "Alligator Pacific 40",
+        "label": "pacific-40",
+        "hex": "#657079"
+    },
+    {
+        "name": "Alligator Pacific 45",
+        "label": "pacific-45",
+        "hex": "#7a868e"
+    },
+    {
+        "name": "Alligator Pacific 110",
+        "label": "pacific-110",
+        "hex": "#8496a3"
+    },
+    {
+        "name": "Alligator Pacific 65",
+        "label": "pacific-65",
+        "hex": "#9aa5aa"
+    },
+    {
+        "name": "Alligator Pacific 75",
+        "label": "pacific-75",
+        "hex": "#a5b3bb"
+    },
+    {
+        "name": "Alligator Pacific 80",
+        "label": "pacific-80",
+        "hex": "#c1ced3"
+    },
+    {
+        "name": "Alligator Lazur 100",
+        "label": "lazur-100",
+        "hex": "#5c6c83"
+    },
+    {
+        "name": "Alligator Lazur 70",
+        "label": "lazur-70",
+        "hex": "#576170"
+    },
+    {
+        "name": "Alligator Lazur 75",
+        "label": "lazur-75",
+        "hex": "#717a88"
+    },
+    {
+        "name": "Alligator Lazur 80",
+        "label": "lazur-80",
+        "hex": "#8894a5"
+    },
+    {
+        "name": "Alligator Lazur 85",
+        "label": "lazur-85",
+        "hex": "#a7b0bc"
+    },
+    {
+        "name": "Alligator Lazur 35",
+        "label": "lazur-35",
+        "hex": "#c6ccd5"
+    },
+    {
+        "name": "Alligator Lazur 40",
+        "label": "lazur-40",
+        "hex": "#d4d9e0"
+    },
+    {
+        "name": "Alligator Lazur 5",
+        "label": "lazur-5",
+        "hex": "#7e858f"
+    },
+    {
+        "name": "Alligator Lazur 10",
+        "label": "lazur-10",
+        "hex": "#949aa1"
+    },
+    {
+        "name": "Alligator Lazur 15",
+        "label": "lazur-15",
+        "hex": "#abafb4"
+    },
+    {
+        "name": "Alligator Astra 62",
+        "label": "astra-62",
+        "hex": "#495569"
+    },
+    {
+        "name": "Alligator Astra 65",
+        "label": "astra-65",
+        "hex": "#6a778f"
+    },
+    {
+        "name": "Alligator Astra 70",
+        "label": "astra-70",
+        "hex": "#8795ab"
+    },
+    {
+        "name": "Alligator Astra 35",
+        "label": "astra-35",
+        "hex": "#a4aebe"
+    },
+    {
+        "name": "Alligator Astra 5",
+        "label": "astra-5",
+        "hex": "#9ba1aa"
+    },
+    {
+        "name": "Alligator Astra 40",
+        "label": "astra-40",
+        "hex": "#b5bdc8"
+    },
+    {
+        "name": "Alligator Astra 15",
+        "label": "astra-15",
+        "hex": "#c6ccd3"
+    },
+    {
+        "name": "Alligator Astra 10",
+        "label": "astra-10",
+        "hex": "#babdc3"
+    },
+    {
+        "name": "Alligator Astra 20",
+        "label": "astra-20",
+        "hex": "#d7dade"
+    },
+    {
+        "name": "Alligator Astra 30",
+        "label": "astra-30",
+        "hex": "#e6e8e8"
+    },
+    {
+        "name": "Alligator Lavendel 65",
+        "label": "lavendel-65",
+        "hex": "#51556b"
+    },
+    {
+        "name": "Alligator Lavendel 40",
+        "label": "lavendel-40",
+        "hex": "#5d5e68"
+    },
+    {
+        "name": "Alligator Lavendel 45",
+        "label": "lavendel-45",
+        "hex": "#777781"
+    },
+    {
+        "name": "Alligator Lavendel 50",
+        "label": "lavendel-50",
+        "hex": "#a2a3ae"
+    },
+    {
+        "name": "Alligator Lavendel 5",
+        "label": "lavendel-5",
+        "hex": "#95969e"
+    },
+    {
+        "name": "Alligator Lavendel 10",
+        "label": "lavendel-10",
+        "hex": "#b0b0ba"
+    },
+    {
+        "name": "Alligator Lavendel 15",
+        "label": "lavendel-15",
+        "hex": "#bcbcc6"
+    },
+    {
+        "name": "Alligator Lavendel 20",
+        "label": "lavendel-20",
+        "hex": "#ccccd0"
+    },
+    {
+        "name": "Alligator Lavendel 25",
+        "label": "lavendel-25",
+        "hex": "#d9d9dc"
+    },
+    {
+        "name": "Alligator Lavendel 30",
+        "label": "lavendel-30",
+        "hex": "#e6e5e6"
+    },
+    {
+        "name": "Alligator Flamenco 62",
+        "label": "flamenco-62",
+        "hex": "#654750"
+    },
+    {
+        "name": "Alligator Flamenco 35",
+        "label": "flamenco-35",
+        "hex": "#877479"
+    },
+    {
+        "name": "Alligator Flamenco 45",
+        "label": "flamenco-45",
+        "hex": "#b19da1"
+    },
+    {
+        "name": "Alligator Flamenco 85",
+        "label": "flamenco-85",
+        "hex": "#dcc8c9"
+    },
+    {
+        "name": "Alligator Flamenco 5",
+        "label": "flamenco-5",
+        "hex": "#82797a"
+    },
+    {
+        "name": "Alligator Flamenco 40",
+        "label": "flamenco-40",
+        "hex": "#9d8e92"
+    },
+    {
+        "name": "Alligator Flamenco 50",
+        "label": "flamenco-50",
+        "hex": "#beb0b3"
+    },
+    {
+        "name": "Alligator Flamenco 10",
+        "label": "flamenco-10",
+        "hex": "#b8adae"
+    },
+    {
+        "name": "Alligator Flamenco 15",
+        "label": "flamenco-15",
+        "hex": "#d2c8c8"
+    },
+    {
+        "name": "Alligator Flamenco 20",
+        "label": "flamenco-20",
+        "hex": "#dfd8d6"
+    },
+    {
+        "name": "Alligator Quarz 2",
+        "label": "quarz-2",
+        "hex": "#77706e"
+    },
+    {
+        "name": "Alligator Quarz 4",
+        "label": "quarz-4",
+        "hex": "#827c79"
+    },
+    {
+        "name": "Alligator Quarz 5",
+        "label": "quarz-5",
+        "hex": "#938b89"
+    },
+    {
+        "name": "Alligator Quarz 8",
+        "label": "quarz-8",
+        "hex": "#aca5a2"
+    },
+    {
+        "name": "Alligator Quarz 14",
+        "label": "quarz-14",
+        "hex": "#c3bfbd"
+    },
+    {
+        "name": "Alligator Quarz 18",
+        "label": "quarz-18",
+        "hex": "#d1cdcb"
+    },
+    {
+        "name": "Alligator Palazzo 2",
+        "label": "palazzo-2",
+        "hex": "#56524d"
+    },
+    {
+        "name": "Alligator Palazzo 4",
+        "label": "palazzo-4",
+        "hex": "#6f6a63"
+    },
+    {
+        "name": "Alligator Palazzo 35",
+        "label": "palazzo-35",
+        "hex": "#87827a"
+    },
+    {
+        "name": "Alligator Palazzo 5",
+        "label": "palazzo-5",
+        "hex": "#a5a19b"
+    },
+    {
+        "name": "Alligator Palazzo 15",
+        "label": "palazzo-15",
+        "hex": "#c0bdb6"
+    },
+    {
+        "name": "Alligator Palazzo 25",
+        "label": "palazzo-25",
+        "hex": "#dbd8d1"
+    },
+    {
+        "name": "Alligator Jade 1",
+        "label": "jade-1",
+        "hex": "#52534c"
+    },
+    {
+        "name": "Alligator Jade 2",
+        "label": "jade-2",
+        "hex": "#6f6e68"
+    },
+    {
+        "name": "Alligator Jade 3",
+        "label": "jade-3",
+        "hex": "#83827e"
+    },
+    {
+        "name": "Alligator Jade 4",
+        "label": "jade-4",
+        "hex": "#a09f9b"
+    },
+    {
+        "name": "Alligator Jade 8",
+        "label": "jade-8",
+        "hex": "#bebdb8"
+    },
+    {
+        "name": "Alligator Jade 14",
+        "label": "jade-14",
+        "hex": "#cccbc6"
+    },
+    {
+        "name": "Alligator Petrol 5",
+        "label": "petrol-5",
+        "hex": "#515859"
+    },
+    {
+        "name": "Alligator Petrol 10",
+        "label": "petrol-10",
+        "hex": "#6f7472"
+    },
+    {
+        "name": "Alligator Petrol 15",
+        "label": "petrol-15",
+        "hex": "#808484"
+    },
+    {
+        "name": "Alligator Petrol 20",
+        "label": "petrol-20",
+        "hex": "#959899"
+    },
+    {
+        "name": "Alligator Petrol 25",
+        "label": "petrol-25",
+        "hex": "#a9aaa9"
+    },
+    {
+        "name": "Alligator Petrol 30",
+        "label": "petrol-30",
+        "hex": "#bebebd"
+    },
+    {
+        "name": "Alligator Pacific 8",
+        "label": "pacific-8",
+        "hex": "#6c6d6d"
+    },
+    {
+        "name": "Alligator Pacific 12",
+        "label": "pacific-12",
+        "hex": "#7d7e80"
+    },
+    {
+        "name": "Alligator Pacific 14",
+        "label": "pacific-14",
+        "hex": "#9fa0a1"
+    },
+    {
+        "name": "Alligator Pacific 18",
+        "label": "pacific-18",
+        "hex": "#afaeae"
+    },
+    {
+        "name": "Alligator Pacific 24",
+        "label": "pacific-24",
+        "hex": "#c4c3c2"
+    },
+    {
+        "name": "Alligator Pacific 28",
+        "label": "pacific-28",
+        "hex": "#d6d6d5"
+    },
+    {
+        "name": "Alligator Schwarz-Grau",
+        "label": "schwarz-grau",
+        "hex": "#545353"
+    },
+    {
+        "name": "Alligator Grau 35",
+        "label": "grau-35",
+        "hex": "#6f6c6c"
+    },
+    {
+        "name": "Alligator Grau 5",
+        "label": "grau-5",
+        "hex": "#787776"
+    },
+    {
+        "name": "Alligator Grau 10",
+        "label": "grau-10",
+        "hex": "#93908e"
+    },
+    {
+        "name": "Alligator Grau 15",
+        "label": "grau-15",
+        "hex": "#b1aeab"
+    },
+    {
+        "name": "Alligator Grau 20",
+        "label": "grau-20",
+        "hex": "#cdcac7"
+    },
+    {
+        "name": "Alligator Rose 85",
+        "label": "rose-85",
+        "hex": "#d7b3b9"
+    },
+    {
+        "name": "Alligator Rose 90",
+        "label": "rose-90",
+        "hex": "#fce1e1"
+    },
+    {
+        "name": "Alligator Rose 60",
+        "label": "rose-60",
+        "hex": "#f9e8e6"
+    },
+    {
+        "name": "Alligator Cameo 145",
+        "label": "cameo-145",
+        "hex": "#f6bbac"
+    },
+    {
+        "name": "Alligator Cameo 120",
+        "label": "cameo-120",
+        "hex": "#fde0d6"
+    },
+    {
+        "name": "Alligator Cameo 60",
+        "label": "cameo-60",
+        "hex": "#f1e7e2"
+    },
+    {
+        "name": "Alligator Aprico 80",
+        "label": "aprico-80",
+        "hex": "#ecbfac"
+    },
+    {
+        "name": "Alligator Aprico 175",
+        "label": "aprico-175",
+        "hex": "#ffdecc"
+    },
+    {
+        "name": "Alligator Aprico 25",
+        "label": "aprico-25",
+        "hex": "#eee8e2"
+    },
+    {
+        "name": "Alligator Onyx 205",
+        "label": "onyx-205",
+        "hex": "#ffd4a3"
+    },
+    {
+        "name": "Alligator Onyx 180",
+        "label": "onyx-180",
+        "hex": "#ffe0c0"
+    },
+    {
+        "name": "Alligator Onyx 90",
+        "label": "onyx-90",
+        "hex": "#f7ecdc"
+    },
+    {
+        "name": "Alligator Palazzo 230",
+        "label": "palazzo-230",
+        "hex": "#f7d5a1"
+    },
+    {
+        "name": "Alligator Palazzo 235",
+        "label": "palazzo-235",
+        "hex": "#ffe2b5"
+    },
+    {
+        "name": "Alligator Palazzo 240",
+        "label": "palazzo-240",
+        "hex": "#fbf1dc"
+    },
+    {
+        "name": "Alligator Ginster 105",
+        "label": "ginster-105",
+        "hex": "#f8d48e"
+    },
+    {
+        "name": "Alligator Ginster 150",
+        "label": "ginster-150",
+        "hex": "#fee099"
+    },
+    {
+        "name": "Alligator Ginster 120",
+        "label": "ginster-120",
+        "hex": "#fdeac2"
+    },
+    {
+        "name": "Alligator Curry 145",
+        "label": "curry-145",
+        "hex": "#fee38a"
+    },
+    {
+        "name": "Alligator Curry 85",
+        "label": "curry-85",
+        "hex": "#fdecc2"
+    },
+    {
+        "name": "Alligator Curry 55",
+        "label": "curry-55",
+        "hex": "#faeed2"
+    },
+    {
+        "name": "Alligator Melisse 85",
+        "label": "melisse-85",
+        "hex": "#f9ecb3"
+    },
+    {
+        "name": "Alligator Melisse 120",
+        "label": "melisse-120",
+        "hex": "#f9f0c3"
+    },
+    {
+        "name": "Alligator Melisse 30",
+        "label": "melisse-30",
+        "hex": "#f9f3dd"
+    },
+    {
+        "name": "Alligator Jade 115",
+        "label": "jade-115",
+        "hex": "#dee5ad"
+    },
+    {
+        "name": "Alligator Jade 120",
+        "label": "jade-120",
+        "hex": "#e5eca7"
+    },
+    {
+        "name": "Alligator Jade 90",
+        "label": "jade-90",
+        "hex": "#f1f0d9"
+    },
+    {
+        "name": "Alligator Moos 110",
+        "label": "moos-110",
+        "hex": "#c6d29f"
+    },
+    {
+        "name": "Alligator Moos 115",
+        "label": "moos-115",
+        "hex": "#e3ecc6"
+    },
+    {
+        "name": "Alligator Moos 120",
+        "label": "moos-120",
+        "hex": "#e9f2d2"
+    },
+    {
+        "name": "Alligator Patina 85",
+        "label": "patina-85",
+        "hex": "#a6d5c7"
+    },
+    {
+        "name": "Alligator Patina 60",
+        "label": "patina-60",
+        "hex": "#c8dbd3"
+    },
+    {
+        "name": "Alligator Patina 90",
+        "label": "patina-90",
+        "hex": "#e9f1e8"
+    },
+    {
+        "name": "Alligator Pacific 150",
+        "label": "pacific-150",
+        "hex": "#b3d1e0"
+    },
+    {
+        "name": "Alligator Pacific 120",
+        "label": "pacific-120",
+        "hex": "#bccfd8"
+    },
+    {
+        "name": "Alligator Pacific 85",
+        "label": "pacific-85",
+        "hex": "#e0e8e7"
+    },
+    {
+        "name": "Alligator Lazur 145",
+        "label": "lazur-145",
+        "hex": "#9eb2cd"
+    },
+    {
+        "name": "Alligator Lazur 120",
+        "label": "lazur-120",
+        "hex": "#bfcdde"
+    },
+    {
+        "name": "Alligator Lazur 25",
+        "label": "lazur-25",
+        "hex": "#d5d6d6"
+    },
+    {
+        "name": "Alligator Aquarell 110",
+        "label": "aquarell-110",
+        "hex": "#bacbe8"
+    },
+    {
+        "name": "Alligator Aquarell 85",
+        "label": "aquarell-85",
+        "hex": "#d2d8e9"
+    },
+    {
+        "name": "Alligator Aquarell 115",
+        "label": "aquarell-115",
+        "hex": "#e6e9ef"
+    },
+    {
+        "name": "Alligator Amethyst 80",
+        "label": "amethyst-80",
+        "hex": "#b2acbc"
+    },
+    {
+        "name": "Alligator Amethyst 85",
+        "label": "amethyst-85",
+        "hex": "#ccc6d1"
+    },
+    {
+        "name": "Alligator Amethyst 90",
+        "label": "amethyst-90",
+        "hex": "#ebe6ea"
+    },
+    {
+        "name": "Korall 135",
+        "label": "korall-135",
+        "hex": "#9b5d58"
+    },
+    {
+        "name": "Korall 70",
+        "label": "korall-70",
+        "hex": "#a07772"
+    },
+    {
+        "name": "Korall 115",
+        "label": "korall-115",
+        "hex": "#8d5f5b"
+    },
+    {
+        "name": "Korall 105",
+        "label": "korall-105",
+        "hex": "#7d5653"
+    },
+    {
+        "name": "Korall 65",
+        "label": "korall-65",
+        "hex": "#947875"
+    },
+    {
+        "name": "Korall 110",
+        "label": "korall-110",
+        "hex": "#745c5b"
+    },
+    {
+        "name": "Korall 95",
+        "label": "korall-95",
+        "hex": "#554343"
+    },
+    {
+        "name": "Korall 20",
+        "label": "korall-20",
+        "hex": "#e2d7d3"
+    },
+    {
+        "name": "Korall 45",
+        "label": "korall-45",
+        "hex": "#cfbfba"
+    },
+    {
+        "name": "Korall 35",
+        "label": "korall-35",
+        "hex": "#b6a4a1"
+    },
+    {
+        "name": "Korall 15",
+        "label": "korall-15",
+        "hex": "#dacdc9"
+    },
+    {
+        "name": "Korall 10",
+        "label": "korall-10",
+        "hex": "#b5aaa8"
+    },
+    {
+        "name": "Korall 5",
+        "label": "korall-5",
+        "hex": "#a0908d"
+    },
+    {
+        "name": "Bordeaux 55",
+        "label": "bordeaux-55",
+        "hex": "#cfa19c"
+    },
+    {
+        "name": "Bordeaux 45",
+        "label": "bordeaux-45",
+        "hex": "#af7269"
+    },
+    {
+        "name": "Bordeaux 73",
+        "label": "bordeaux-73",
+        "hex": "#ad6a63"
+    },
+    {
+        "name": "Bordeaux 60",
+        "label": "bordeaux-60",
+        "hex": "#e9c4bc"
+    },
+    {
+        "name": "Bordeaux 50",
+        "label": "bordeaux-50",
+        "hex": "#b78178"
+    },
+    {
+        "name": "Bordeaux 35",
+        "label": "bordeaux-35",
+        "hex": "#7e514b"
+    },
+    {
+        "name": "Bordeaux 15",
+        "label": "bordeaux-15",
+        "hex": "#bda7a1"
+    },
+    {
+        "name": "Bordeaux 10",
+        "label": "bordeaux-10",
+        "hex": "#b99891"
+    },
+    {
+        "name": "Bordeaux 5",
+        "label": "bordeaux-5",
+        "hex": "#a88b85"
+    },
+    {
+        "name": "Cameo 125",
+        "label": "cameo-125",
+        "hex": "#a15545"
+    },
+    {
+        "name": "Cameo 135",
+        "label": "cameo-135",
+        "hex": "#c57f6e"
+    },
+    {
+        "name": "Cameo 130",
+        "label": "cameo-130",
+        "hex": "#aa685b"
+    },
+    {
+        "name": "Cameo 95",
+        "label": "cameo-95",
+        "hex": "#8a5649"
+    },
+    {
+        "name": "Cameo 50",
+        "label": "cameo-50",
+        "hex": "#cbb6af"
+    },
+    {
+        "name": "Cameo 70",
+        "label": "cameo-70",
+        "hex": "#aa8a81"
+    },
+    {
+        "name": "Cameo 65",
+        "label": "cameo-65",
+        "hex": "#906f66"
+    },
+    {
+        "name": "Cameo 20",
+        "label": "cameo-20",
+        "hex": "#ddd1ca"
+    },
+    {
+        "name": "Cameo 40",
+        "label": "cameo-40",
+        "hex": "#a5928c"
+    },
+    {
+        "name": "Cameo 35",
+        "label": "cameo-35",
+        "hex": "#85726e"
+    },
+    {
+        "name": "Cameo 15",
+        "label": "cameo-15",
+        "hex": "#cec7c3"
+    },
+    {
+        "name": "Cameo 10",
+        "label": "cameo-10",
+        "hex": "#b8ada9"
+    },
+    {
+        "name": "Cameo 5",
+        "label": "cameo-5",
+        "hex": "#9a8c88"
+    },
+    {
+        "name": "Lachs 100",
+        "label": "lachs-100",
+        "hex": "#ba654b"
+    },
+    {
+        "name": "Lachs 75",
+        "label": "lachs-75",
+        "hex": "#d58d6e"
+    },
+    {
+        "name": "Lachs 70",
+        "label": "lachs-70",
+        "hex": "#cd8063"
+    },
+    {
+        "name": "Lachs 65",
+        "label": "lachs-65",
+        "hex": "#a86751"
+    },
+    {
+        "name": "Lachs 10",
+        "label": "lachs-10",
+        "hex": "#d6b4a6"
+    },
+    {
+        "name": "Lachs 50",
+        "label": "lachs-50",
+        "hex": "#dba693"
+    },
+    {
+        "name": "Lachs 35",
+        "label": "lachs-35",
+        "hex": "#b7826f"
+    },
+    {
+        "name": "Lachs 30",
+        "label": "lachs-30",
+        "hex": "#fae7db"
+    },
+    {
+        "name": "Lachs 20",
+        "label": "lachs-20",
+        "hex": "#efd2c5"
+    },
+    {
+        "name": "Lachs 45",
+        "label": "lachs-45",
+        "hex": "#cca597"
+    },
+    {
+        "name": "Aprico 125",
+        "label": "aprico-125",
+        "hex": "#c66c46"
+    },
+    {
+        "name": "Aprico 110",
+        "label": "aprico-110",
+        "hex": "#e19d7c"
+    },
+    {
+        "name": "Aprico 100",
+        "label": "aprico-100",
+        "hex": "#d18e6f"
+    },
+    {
+        "name": "Aprico 135",
+        "label": "aprico-135",
+        "hex": "#c87f5f"
+    },
+    {
+        "name": "Aprico 55",
+        "label": "aprico-55",
+        "hex": "#eed1c4"
+    },
+    {
+        "name": "Aprico 75",
+        "label": "aprico-75",
+        "hex": "#e3b098"
+    },
+    {
+        "name": "Aprico 105",
+        "label": "aprico-105",
+        "hex": "#c3917a"
+    },
+    {
+        "name": "Aprico 60",
+        "label": "aprico-60",
+        "hex": "#fbe3d4"
+    },
+    {
+        "name": "Aprico 50",
+        "label": "aprico-50",
+        "hex": "#e2c5b7"
+    },
+    {
+        "name": "Aprico 70",
+        "label": "aprico-70",
+        "hex": "#bb9887"
+    },
+    {
+        "name": "Aprico 20",
+        "label": "aprico-20",
+        "hex": "#e0d5cd"
+    },
+    {
+        "name": "Aprico 15",
+        "label": "aprico-15",
+        "hex": "#d5c8bf"
+    },
+    {
+        "name": "Aprico 10",
+        "label": "aprico-10",
+        "hex": "#c0a99f"
+    },
+    {
+        "name": "Aprico 25",
+        "label": "aprico-25",
+        "hex": "#ede6de"
+    },
+    {
+        "name": "Aprico 80",
+        "label": "aprico-80",
+        "hex": "#e9bdaa"
+    },
+    {
+        "name": "Aprico 45",
+        "label": "aprico-45",
+        "hex": "#dab4a5"
+    },
+    {
+        "name": "Siena 155",
+        "label": "siena-155",
+        "hex": "#c48246"
+    },
+    {
+        "name": "Siena 165",
+        "label": "siena-165",
+        "hex": "#eaad7c"
+    },
+    {
+        "name": "Siena 135",
+        "label": "siena-135",
+        "hex": "#dfaf85"
+    },
+    {
+        "name": "Siena 130",
+        "label": "siena-130",
+        "hex": "#c4976d"
+    },
+    {
+        "name": "Siena 55",
+        "label": "siena-55",
+        "hex": "#e6d4c2"
+    },
+    {
+        "name": "Siena 90",
+        "label": "siena-90",
+        "hex": "#e5cab3"
+    },
+    {
+        "name": "Siena 85",
+        "label": "siena-85",
+        "hex": "#d0b7a1"
+    },
+    {
+        "name": "Siena 50",
+        "label": "siena-50",
+        "hex": "#dacdc0"
+    },
+    {
+        "name": "Siena 45",
+        "label": "siena-45",
+        "hex": "#c3b0a1"
+    },
+    {
+        "name": "Siena 40",
+        "label": "siena-40",
+        "hex": "#a99483"
+    },
+    {
+        "name": "Siena 20",
+        "label": "siena-20",
+        "hex": "#c4bab2"
+    },
+    {
+        "name": "Siena 15",
+        "label": "siena-15",
+        "hex": "#a89c92"
+    },
+    {
+        "name": "Siena 10",
+        "label": "siena-10",
+        "hex": "#928478"
+    },
+    {
+        "name": "Onyx 220",
+        "label": "onyx-220",
+        "hex": "#e7993b"
+    },
+    {
+        "name": "Onyx 175",
+        "label": "onyx-175",
+        "hex": "#f9cca1"
+    },
+    {
+        "name": "Onyx 170",
+        "label": "onyx-170",
+        "hex": "#f0be88"
+    },
+    {
+        "name": "Onyx 185",
+        "label": "onyx-185",
+        "hex": "#db9d5b"
+    },
+    {
+        "name": "Onyx 90",
+        "label": "onyx-90",
+        "hex": "#f6e9d9"
+    },
+    {
+        "name": "Onyx 75",
+        "label": "onyx-75",
+        "hex": "#dfccb7"
+    },
+    {
+        "name": "Onyx 183",
+        "label": "onyx-183",
+        "hex": "#f6dabb"
+    },
+    {
+        "name": "Onyx 110",
+        "label": "onyx-110",
+        "hex": "#e0c3a6"
+    },
+    {
+        "name": "Onyx 105",
+        "label": "onyx-105",
+        "hex": "#d6b491"
+    },
+    {
+        "name": "Onyx 125",
+        "label": "onyx-125",
+        "hex": "#bb9673"
+    },
+    {
+        "name": "Onyx 70",
+        "label": "onyx-70",
+        "hex": "#d0c0b0"
+    },
+    {
+        "name": "Onyx 65",
+        "label": "onyx-65",
+        "hex": "#b29981"
+    },
+    {
+        "name": "Onyx 95",
+        "label": "onyx-95",
+        "hex": "#98826b"
+    },
+    {
+        "name": "Mais 0",
+        "label": "mais-0",
+        "hex": "#e7a837"
+    },
+    {
+        "name": "Mais 14",
+        "label": "mais-14",
+        "hex": "#f9e19d"
+    },
+    {
+        "name": "Mais 13",
+        "label": "mais-13",
+        "hex": "#f7d681"
+    },
+    {
+        "name": "Mais 12",
+        "label": "mais-12",
+        "hex": "#f2c55e"
+    },
+    {
+        "name": "Mais 18",
+        "label": "mais-18",
+        "hex": "#f6f1d9"
+    },
+    {
+        "name": "Mais 16",
+        "label": "mais-16",
+        "hex": "#f8ebc3"
+    },
+    {
+        "name": "Mais 15",
+        "label": "mais-15",
+        "hex": "#f8e8b4"
+    },
+    {
+        "name": "Caramel 94",
+        "label": "caramel-94",
+        "hex": "#ad8a5e"
+    },
+    {
+        "name": "Caramel 90",
+        "label": "caramel-90",
+        "hex": "#f9f0e2"
+    },
+    {
+        "name": "Caramel 123",
+        "label": "caramel-123",
+        "hex": "#f6d8b0"
+    },
+    {
+        "name": "Caramel 110",
+        "label": "caramel-110",
+        "hex": "#f6cf9c"
+    },
+    {
+        "name": "Caramel 85",
+        "label": "caramel-85",
+        "hex": "#f2e3ce"
+    },
+    {
+        "name": "Caramel 75",
+        "label": "caramel-75",
+        "hex": "#ebd5bb"
+    },
+    {
+        "name": "Caramel 65",
+        "label": "caramel-65",
+        "hex": "#d0b491"
+    },
+    {
+        "name": "Palazzo 245 ",
+        "label": "palazzo-245",
+        "hex": "#997a4a"
+    },
+    {
+        "name": "Palazzo 295",
+        "label": "palazzo-295",
+        "hex": "#ecbf74"
+    },
+    {
+        "name": "Palazzo 285",
+        "label": "palazzo-285",
+        "hex": "#cfa34f"
+    },
+    {
+        "name": "Palazzo 305",
+        "label": "palazzo-305",
+        "hex": "#b48740"
+    },
+    {
+        "name": "Palazzo 260",
+        "label": "palazzo-260",
+        "hex": "#dfba7f"
+    },
+    {
+        "name": "Palazzo 255",
+        "label": "palazzo-255",
+        "hex": "#d2aa66"
+    },
+    {
+        "name": "Palazzo 250",
+        "label": "palazzo-250",
+        "hex": "#b28b49"
+    },
+    {
+        "name": "Palazzo 265",
+        "label": "palazzo-265",
+        "hex": "#f5ce8e"
+    },
+    {
+        "name": "Palazzo 290",
+        "label": "palazzo-290",
+        "hex": "#ddac5b"
+    },
+    {
+        "name": "Palazzo 225",
+        "label": "palazzo-225",
+        "hex": "#d3b689"
+    },
+    {
+        "name": "Palazzo 240",
+        "label": "palazzo-240",
+        "hex": "#f8eeda"
+    },
+    {
+        "name": "Palazzo 235",
+        "label": "palazzo-235",
+        "hex": "#fbdeb2"
+    },
+    {
+        "name": "Palazzo 230",
+        "label": "palazzo-230",
+        "hex": "#f4d29f"
+    },
+    {
+        "name": "Palazzo 180",
+        "label": "palazzo-180",
+        "hex": "#f6e7cf"
+    },
+    {
+        "name": "Palazzo 175",
+        "label": "palazzo-175",
+        "hex": "#e8d3b3"
+    },
+    {
+        "name": "Palazzo 205",
+        "label": "palazzo-205",
+        "hex": "#e1c49c"
+    },
+    {
+        "name": "Palazzo 170",
+        "label": "palazzo-170",
+        "hex": "#cebc9e"
+    },
+    {
+        "name": "Palazzo 200",
+        "label": "palazzo-200",
+        "hex": "#c4ad8a"
+    },
+    {
+        "name": "Palazzo 190",
+        "label": "palazzo-190",
+        "hex": "#937c57"
+    },
+    {
+        "name": "Palazzo 150",
+        "label": "palazzo-150",
+        "hex": "#ddccb3"
+    },
+    {
+        "name": "Palazzo 145",
+        "label": "palazzo-145",
+        "hex": "#c6b8a3"
+    },
+    {
+        "name": "Palazzo 135",
+        "label": "palazzo-135",
+        "hex": "#8e7f6a"
+    },
+    {
+        "name": "Palazzo 85",
+        "label": "palazzo-85",
+        "hex": "#c6bcaf"
+    },
+    {
+        "name": "Palazzo 110",
+        "label": "palazzo-110",
+        "hex": "#b7aea0"
+    },
+    {
+        "name": "Palazzo 100",
+        "label": "palazzo-100",
+        "hex": "#968b7b"
+    },
+    {
+        "name": "Palazzo 50",
+        "label": "palazzo-50",
+        "hex": "#d2ccc0"
+    },
+    {
+        "name": "Palazzo 40",
+        "label": "palazzo-40",
+        "hex": "#b0aaa2"
+    },
+    {
+        "name": "Palazzo 75",
+        "label": "palazzo-75",
+        "hex": "#827c73"
+    },
+    {
+        "name": "Ginster 94",
+        "label": "ginster-94",
+        "hex": "#a58a4a"
+    },
+    {
+        "name": "Ginster 115",
+        "label": "ginster-115",
+        "hex": "#f4ddae"
+    },
+    {
+        "name": "Ginster 110",
+        "label": "ginster-110",
+        "hex": "#efd291"
+    },
+    {
+        "name": "Ginster 100",
+        "label": "ginster-100",
+        "hex": "#e6c480"
+    },
+    {
+        "name": "Ginster 120",
+        "label": "ginster-120",
+        "hex": "#f9e7c0"
+    },
+    {
+        "name": "Ginster 105",
+        "label": "ginster-105",
+        "hex": "#f5d08b"
+    },
+    {
+        "name": "Ginster 95",
+        "label": "ginster-95",
+        "hex": "#d9bf8c"
+    },
+    {
+        "name": "Ginster 60",
+        "label": "ginster-60",
+        "hex": "#f0e4cc"
+    },
+    {
+        "name": "Ginster 80",
+        "label": "ginster-80",
+        "hex": "#decda8"
+    },
+    {
+        "name": "Ginster 70",
+        "label": "ginster-70",
+        "hex": "#c1ab81"
+    },
+    {
+        "name": "Ginster 50",
+        "label": "ginster-50",
+        "hex": "#d4c7ae"
+    },
+    {
+        "name": "Ginster 45",
+        "label": "ginster-45",
+        "hex": "#b5aa91"
+    },
+    {
+        "name": "Ginster 35",
+        "label": "ginster-35",
+        "hex": "#8b7b62"
+    },
+    {
+        "name": "Ginster 15",
+        "label": "ginster-15",
+        "hex": "#cbc4b6"
+    },
+    {
+        "name": "Ginster 5",
+        "label": "ginster-5",
+        "hex": "#b2a895"
+    },
+    {
+        "name": "Ginster 40",
+        "label": "ginster-40",
+        "hex": "#998d75"
+    },
+    {
+        "name": "Curry 110",
+        "label": "curry-110",
+        "hex": "#eed591"
+    },
+    {
+        "name": "Curry 55",
+        "label": "curry-55",
+        "hex": "#f4e9ce"
+    },
+    {
+        "name": "Curry 85",
+        "label": "curry-85",
+        "hex": "#f8e9be"
+    },
+    {
+        "name": "Curry 120",
+        "label": "curry-120",
+        "hex": "#f8e5ad"
+    },
+    {
+        "name": "Curry 80",
+        "label": "curry-80",
+        "hex": "#eedcae"
+    },
+    {
+        "name": "Curry 45",
+        "label": "curry-45",
+        "hex": "#dbca9d"
+    },
+    {
+        "name": "Curry 40",
+        "label": "curry-40",
+        "hex": "#c0af80"
+    },
+    {
+        "name": "Curry 15",
+        "label": "curry-15",
+        "hex": "#dcd5c2"
+    },
+    {
+        "name": "Curry 10",
+        "label": "curry-10",
+        "hex": "#cdc4aa"
+    },
+    {
+        "name": "Curry 5",
+        "label": "curry-5",
+        "hex": "#beb295"
+    },
+    {
+        "name": "Melisse 32",
+        "label": "melisse-32",
+        "hex": "#7d7860"
+    },
+    {
+        "name": "Melisse 90",
+        "label": "melisse-90",
+        "hex": "#f7efd0"
+    },
+    {
+        "name": "Melisse 80",
+        "label": "melisse-80",
+        "hex": "#ddcf99"
+    },
+    {
+        "name": "Melisse 75",
+        "label": "melisse-75",
+        "hex": "#b9aa77"
+    },
+    {
+        "name": "Melisse 30",
+        "label": "melisse-30",
+        "hex": "#f5eed8"
+    },
+    {
+        "name": "Melisse 120",
+        "label": "melisse-120",
+        "hex": "#f6edbf"
+    },
+    {
+        "name": "Melisse 85",
+        "label": "melisse-85",
+        "hex": "#f7e9b1"
+    },
+    {
+        "name": "Melisse 50",
+        "label": "melisse-50",
+        "hex": "#e8e0c6"
+    },
+    {
+        "name": "Melisse 40",
+        "label": "melisse-40",
+        "hex": "#d0c9ae"
+    },
+    {
+        "name": "Melisse 35",
+        "label": "melisse-35",
+        "hex": "#b7ad8c"
+    },
+    {
+        "name": "Marone 0",
+        "label": "marone-0",
+        "hex": "#7a5948"
+    },
+    {
+        "name": "Marone 14",
+        "label": "marone-14",
+        "hex": "#d3b8a0"
+    },
+    {
+        "name": "Marone 13",
+        "label": "marone-13",
+        "hex": "#c4a388"
+    },
+    {
+        "name": "Marone 12",
+        "label": "marone-12",
+        "hex": "#ab856b"
+    },
+    {
+        "name": "Marone 18",
+        "label": "marone-18",
+        "hex": "#f1e6da"
+    },
+    {
+        "name": "Marone 16",
+        "label": "marone-16",
+        "hex": "#e8d6c6"
+    },
+    {
+        "name": "Marone 15",
+        "label": "marone-15",
+        "hex": "#e0cab6"
+    },
+    {
+        "name": "Nutria 0",
+        "label": "nutria-0",
+        "hex": "#705b4b"
+    },
+    {
+        "name": "Nutria 14",
+        "label": "nutria-14",
+        "hex": "#cbb69f"
+    },
+    {
+        "name": "Nutria 13",
+        "label": "nutria-13",
+        "hex": "#b9a087"
+    },
+    {
+        "name": "Nutria 12",
+        "label": "nutria-12",
+        "hex": "#9e846c"
+    },
+    {
+        "name": "Nutria 18",
+        "label": "nutria-18",
+        "hex": "#ede6da"
+    },
+    {
+        "name": "Nutria 16",
+        "label": "nutria-16",
+        "hex": "#e2d6c6"
+    },
+    {
+        "name": "Nutria 15",
+        "label": "nutria-15",
+        "hex": "#d8c8b4"
+    },
+    {
+        "name": "Terra 0",
+        "label": "terra-0",
+        "hex": "#976649"
+    },
+    {
+        "name": "Terra 14",
+        "label": "terra-14",
+        "hex": "#e2b793"
+    },
+    {
+        "name": "Terra 13",
+        "label": "terra-13",
+        "hex": "#d3a279"
+    },
+    {
+        "name": "Terra 12",
+        "label": "terra-12",
+        "hex": "#bf875c"
+    },
+    {
+        "name": "Terra 18",
+        "label": "terra-18",
+        "hex": "#f4e4d4"
+    },
+    {
+        "name": "Terra 16",
+        "label": "terra-16",
+        "hex": "#efd5bc"
+    },
+    {
+        "name": "Terra 15",
+        "label": "terra-15",
+        "hex": "#e8c6a7"
+    },
+    {
+        "name": "Havanna 0",
+        "label": "havanna-0",
+        "hex": "#846145"
+    },
+    {
+        "name": "Havanna 14",
+        "label": "havanna-14",
+        "hex": "#d5b895"
+    },
+    {
+        "name": "Havanna 13",
+        "label": "havanna-13",
+        "hex": "#c8a681"
+    },
+    {
+        "name": "Havanna 12",
+        "label": "havanna-12",
+        "hex": "#ad8762"
+    },
+    {
+        "name": "Havanna 18",
+        "label": "havanna-18",
+        "hex": "#f1e6d6"
+    },
+    {
+        "name": "Havanna 16",
+        "label": "havanna-16",
+        "hex": "#ead7c1"
+    },
+    {
+        "name": "Havanna 15",
+        "label": "havanna-15",
+        "hex": "#e3caad"
+    },
+    {
+        "name": "Muskat 0",
+        "label": "muskat-0",
+        "hex": "#736453"
+    },
+    {
+        "name": "Muskat 14",
+        "label": "muskat-14",
+        "hex": "#d2c4ad"
+    },
+    {
+        "name": "Muskat 13",
+        "label": "muskat-13",
+        "hex": "#c2b196"
+    },
+    {
+        "name": "Muskat 12",
+        "label": "muskat-12",
+        "hex": "#a19076"
+    },
+    {
+        "name": "Muskat 18",
+        "label": "muskat-18",
+        "hex": "#f2ece0"
+    },
+    {
+        "name": "Muskat 16",
+        "label": "muskat-16",
+        "hex": "#e8dfcf"
+    },
+    {
+        "name": "Muskat 15",
+        "label": "muskat-15",
+        "hex": "#ded4c0"
+    },
+    {
+        "name": "Jade 62",
+        "label": "jade-62",
+        "hex": "#767662"
+    },
+    {
+        "name": "Jade 80",
+        "label": "jade-80",
+        "hex": "#cfd1b1"
+    },
+    {
+        "name": "Jade 75",
+        "label": "jade-75",
+        "hex": "#bcbda3"
+    },
+    {
+        "name": "Jade 100",
+        "label": "jade-100",
+        "hex": "#a0a47e"
+    },
+    {
+        "name": "Jade 85",
+        "label": "jade-85",
+        "hex": "#e1e0c5"
+    },
+    {
+        "name": "Jade 110",
+        "label": "jade-110",
+        "hex": "#d6daa9"
+    },
+    {
+        "name": "Jade 105",
+        "label": "jade-105",
+        "hex": "#b9be8d"
+    },
+    {
+        "name": "Jade 90",
+        "label": "jade-90",
+        "hex": "#eeedd6"
+    },
+    {
+        "name": "Jade 120",
+        "label": "jade-120",
+        "hex": "#e1e8a3"
+    },
+    {
+        "name": "Jade 115",
+        "label": "jade-115",
+        "hex": "#dae1aa"
+    },
+    {
+        "name": "Jade 25",
+        "label": "jade-25",
+        "hex": "#e0ddd5"
+    },
+    {
+        "name": "Jade 50",
+        "label": "jade-50",
+        "hex": "#cbcac1"
+    },
+    {
+        "name": "Jade 5",
+        "label": "jade-5",
+        "hex": "#b0b0a9"
+    },
+    {
+        "name": "Moos 62",
+        "label": "moos-62",
+        "hex": "#6c765d"
+    },
+    {
+        "name": "Moos 120",
+        "label": "moos-120",
+        "hex": "#e5edcf"
+    },
+    {
+        "name": "Moss 115",
+        "label": "moss-115",
+        "hex": "#dfe8c3"
+    },
+    {
+        "name": "Moos 110",
+        "label": "moos-110",
+        "hex": "#c2cf9d"
+    },
+    {
+        "name": "Moos 90",
+        "label": "moos-90",
+        "hex": "#ebecd8"
+    },
+    {
+        "name": "Moos 60",
+        "label": "moos-60",
+        "hex": "#dddfcf"
+    },
+    {
+        "name": "Moos 85",
+        "label": "moos-85",
+        "hex": "#d3d9bf"
+    },
+    {
+        "name": "Moos 50",
+        "label": "moos-50",
+        "hex": "#bebfb2"
+    },
+    {
+        "name": "Moos 40",
+        "label": "moos-40",
+        "hex": "#a7aa9c"
+    },
+    {
+        "name": "Moos 35",
+        "label": "moos-35",
+        "hex": "#959a86"
+    },
+    {
+        "name": "Moos 55",
+        "label": "moos-55",
+        "hex": "#d0d0c7"
+    },
+    {
+        "name": "Moos 45",
+        "label": "moos-45",
+        "hex": "#b9b9b2"
+    },
+    {
+        "name": "Moos 20",
+        "label": "moos-20",
+        "hex": "#a6a6a2"
+    },
+    {
+        "name": "Oase 44",
+        "label": "oase-44",
+        "hex": "#68765c"
+    },
+    {
+        "name": "Oase 85",
+        "label": "oase-85",
+        "hex": "#d1d9c8"
+    },
+    {
+        "name": "Oase 115",
+        "label": "oase-115",
+        "hex": "#afc39d"
+    },
+    {
+        "name": "Oase 75",
+        "label": "oase-75",
+        "hex": "#909f81"
+    },
+    {
+        "name": "Oase 60",
+        "label": "oase-60",
+        "hex": "#eaece0"
+    },
+    {
+        "name": "Oase 50",
+        "label": "oase-50",
+        "hex": "#b4c0a7"
+    },
+    {
+        "name": "Oase 45",
+        "label": "oase-45",
+        "hex": "#788368"
+    },
+    {
+        "name": "Oase 20",
+        "label": "oase-20",
+        "hex": "#c5cbbf"
+    },
+    {
+        "name": "Oase 15",
+        "label": "oase-15",
+        "hex": "#a8afa1"
+    },
+    {
+        "name": "Oase 5",
+        "label": "oase-5",
+        "hex": "#87907f"
+    },
+    {
+        "name": "Mint 33",
+        "label": "mint-33",
+        "hex": "#597263"
+    },
+    {
+        "name": "Mint 55",
+        "label": "mint-55",
+        "hex": "#bbcbbe"
+    },
+    {
+        "name": "Mint 50",
+        "label": "mint-50",
+        "hex": "#a3b5ab"
+    },
+    {
+        "name": "Mint 45",
+        "label": "mint-45",
+        "hex": "#8aa390"
+    },
+    {
+        "name": "Mint 15",
+        "label": "mint-15",
+        "hex": "#c2c9c0"
+    },
+    {
+        "name": "Mint 10",
+        "label": "mint-10",
+        "hex": "#a2aaa4"
+    },
+    {
+        "name": "Mint 5",
+        "label": "mint-5",
+        "hex": "#8c938c"
+    },
+    {
+        "name": "Verona 63",
+        "label": "verona-63",
+        "hex": "#526d6e"
+    },
+    {
+        "name": "Verona 85",
+        "label": "verona-85",
+        "hex": "#cad8d3"
+    },
+    {
+        "name": "Verona 80",
+        "label": "verona-80",
+        "hex": "#a4b2af"
+    },
+    {
+        "name": "Verona 75",
+        "label": "verona-75",
+        "hex": "#7e8f8e"
+    },
+    {
+        "name": "Verona 50",
+        "label": "verona-50",
+        "hex": "#bdc2bf"
+    },
+    {
+        "name": "Verona 45",
+        "label": "verona-45",
+        "hex": "#b0b7b5"
+    },
+    {
+        "name": "Verona 40",
+        "label": "verona-40",
+        "hex": "#8c9493"
+    },
+    {
+        "name": "Verona 15",
+        "label": "verona-15",
+        "hex": "#ced2cd"
+    },
+    {
+        "name": "Verona 10",
+        "label": "verona-10",
+        "hex": "#c7c9c5"
+    },
+    {
+        "name": "Verona 5",
+        "label": "verona-5",
+        "hex": "#a9adac"
+    },
+    {
+        "name": "Pacific 34",
+        "label": "pacific-34",
+        "hex": "#465560"
+    },
+    {
+        "name": "Pacific 110",
+        "label": "pacific-110",
+        "hex": "#8194a1"
+    },
+    {
+        "name": "Pacific 45",
+        "label": "pacific-45",
+        "hex": "#78868d"
+    },
+    {
+        "name": "Pacific 40",
+        "label": "pacific-40",
+        "hex": "#647079"
+    },
+    {
+        "name": "Pacific 80",
+        "label": "pacific-80",
+        "hex": "#becbd0"
+    },
+    {
+        "name": "Pacific 75",
+        "label": "pacific-75",
+        "hex": "#a3b2ba"
+    },
+    {
+        "name": "Pacific 65",
+        "label": "pacific-65",
+        "hex": "#9aa5ab"
+    },
+    {
+        "name": "Pacific 140",
+        "label": "pacific-140",
+        "hex": "#7b97a8"
+    },
+    {
+        "name": "Pacific 135",
+        "label": "pacific-135",
+        "hex": "#5f7d8f"
+    },
+    {
+        "name": "Pacific 100",
+        "label": "pacific-100",
+        "hex": "#436070"
+    },
+    {
+        "name": "Pacific 55",
+        "label": "pacific-55",
+        "hex": "#ced2d2"
+    },
+    {
+        "name": "Pacific 145",
+        "label": "pacific-145",
+        "hex": "#99b2bf"
+    },
+    {
+        "name": "Pacific 105",
+        "label": "pacific-105",
+        "hex": "#819aa8"
+    },
+    {
+        "name": "Pacific 85",
+        "label": "pacific-85",
+        "hex": "#dce5e3"
+    },
+    {
+        "name": "Pacific 120",
+        "label": "pacific-120",
+        "hex": "#b8cbd3"
+    },
+    {
+        "name": "Pacific 150",
+        "label": "pacific-150",
+        "hex": "#b0cedc"
+    },
+    {
+        "name": "Flamenco 85",
+        "label": "flamenco-85",
+        "hex": "#d8c3c5"
+    },
+    {
+        "name": "Flamenco 50",
+        "label": "flamenco-50",
+        "hex": "#bcafb2"
+    },
+    {
+        "name": "Flamenco 5",
+        "label": "flamenco-5",
+        "hex": "#807878"
+    },
+    {
+        "name": "Flamenco 20",
+        "label": "flamenco-20",
+        "hex": "#ddd6d3"
+    },
+    {
+        "name": "Flamenco 15",
+        "label": "flamenco-15",
+        "hex": "#d0c6c5"
+    },
+    {
+        "name": "Flamenco 10",
+        "label": "flamenco-10",
+        "hex": "#b8adaf"
+    },
+    {
+        "name": "Quarz 5",
+        "label": "quarz-5",
+        "hex": "#928b87"
+    },
+    {
+        "name": "Quarz 4",
+        "label": "quarz-4",
+        "hex": "#827d79"
+    },
+    {
+        "name": "Quarz 2",
+        "label": "quarz-2",
+        "hex": "#756f6c"
+    },
+    {
+        "name": "Quarz 18",
+        "label": "quarz-18",
+        "hex": "#d0ccc9"
+    },
+    {
+        "name": "Quarz 14",
+        "label": "quarz-14",
+        "hex": "#c0bcb9"
+    },
+    {
+        "name": "Quarz 8",
+        "label": "quarz-8",
+        "hex": "#a9a29f"
+    },
+    {
+        "name": "Palazzo 35",
+        "label": "palazzo-35",
+        "hex": "#858078"
+    },
+    {
+        "name": "Palazzo 4",
+        "label": "palazzo-4",
+        "hex": "#6f6a63"
+    },
+    {
+        "name": "Palazzo 2",
+        "label": "palazzo-2",
+        "hex": "#54514e"
+    },
+    {
+        "name": "Palazzo 25",
+        "label": "palazzo-25",
+        "hex": "#dad6d0"
+    },
+    {
+        "name": "Palazzo ",
+        "label": "palazzo",
+        "hex": "#bebbb4"
+    },
+    {
+        "name": "Palazzo 5",
+        "label": "palazzo-5",
+        "hex": "#a19d98"
+    },
+    {
+        "name": "Jade 3",
+        "label": "jade-3",
+        "hex": "#84837f"
+    },
+    {
+        "name": "Jade 2",
+        "label": "jade-2",
+        "hex": "#706f67"
+    },
+    {
+        "name": "Jade 1",
+        "label": "jade-1",
+        "hex": "#4f504c"
+    },
+    {
+        "name": "Jade 14",
+        "label": "jade-14",
+        "hex": "#cac8c4"
+    },
+    {
+        "name": "Jade 8",
+        "label": "jade-8",
+        "hex": "#bbbab6"
+    },
+    {
+        "name": "Jade 4",
+        "label": "jade-4",
+        "hex": "#9f9e9b"
+    },
+    {
+        "name": "Petrol 15",
+        "label": "petrol-15",
+        "hex": "#7e8484"
+    },
+    {
+        "name": "Petrol 10",
+        "label": "petrol-10",
+        "hex": "#6d7271"
+    },
+    {
+        "name": "Petrol 5",
+        "label": "petrol-5",
+        "hex": "#505859"
+    },
+    {
+        "name": "Petrol 30",
+        "label": "petrol-30",
+        "hex": "#bdbcba"
+    },
+    {
+        "name": "Petrol 25",
+        "label": "petrol-25",
+        "hex": "#a9aaa9"
+    },
+    {
+        "name": "Petrol 20",
+        "label": "petrol-20",
+        "hex": "#919597"
+    },
+    {
+        "name": "Pacific 14",
+        "label": "pacific-14",
+        "hex": "#9e9fa0"
+    },
+    {
+        "name": "Pacific 12",
+        "label": "pacific-12",
+        "hex": "#7c7e80"
+    },
+    {
+        "name": "Pacific 8",
+        "label": "pacific-8",
+        "hex": "#686a6a"
+    },
+    {
+        "name": "Pacific 28",
+        "label": "pacific-28",
+        "hex": "#d4d4d2"
+    },
+    {
+        "name": "Pacific 24",
+        "label": "pacific-24",
+        "hex": "#c0bfbf"
+    },
+    {
+        "name": "Pacific 18",
+        "label": "pacific-18",
+        "hex": "#afaead"
+    },
+    {
+        "name": "Grau 5",
+        "label": "grau-5",
+        "hex": "#797776"
+    },
+    {
+        "name": "Grau 35",
+        "label": "grau-35",
+        "hex": "#6f6d6d"
+    },
+    {
+        "name": "Schwarz-Grau ",
+        "label": "schwarz-grau",
+        "hex": "#525252"
+    },
+    {
+        "name": "Grau 20",
+        "label": "grau-20",
+        "hex": "#c9c7c4"
+    },
+    {
+        "name": "Grau 15",
+        "label": "grau-15",
+        "hex": "#aeaca9"
+    },
+    {
+        "name": "Grau 10",
+        "label": "grau-10",
+        "hex": "#928f8e"
+    },
+    {
+        "name": "Marill 30",
+        "label": "marill-30",
+        "hex": "#dad3c9"
+    },
+    {
+        "name": "Marill 25",
+        "label": "marill-25",
+        "hex": "#c2b8ac"
+    },
+    {
+        "name": "Marill 20",
+        "label": "marill-20",
+        "hex": "#a99f92"
+    },
+    {
+        "name": "Marill 150",
+        "label": "marill-150",
+        "hex": "#fee0b8"
+    },
+    {
+        "name": "Marill 145",
+        "label": "marill-145",
+        "hex": "#ffd89d"
+    },
+    {
+        "name": "Marill 140",
+        "label": "marill-140",
+        "hex": "#ffcf89"
+    },
+    {
+        "name": "Marill 135",
+        "label": "marill-135",
+        "hex": "#ffc66c"
+    },
+    {
+        "name": "Marill 130",
+        "label": "marill-130",
+        "hex": "#ffbf54"
+    },
+    {
+        "name": "Marill 125",
+        "label": "marill-125",
+        "hex": "#ffb736"
+    },
+    {
+        "name": "Oase 150",
+        "label": "oase-150",
+        "hex": "#acd58f"
+    },
+    {
+        "name": "Oase 145",
+        "label": "oase-145",
+        "hex": "#8bc667"
+    },
+    {
+        "name": "Oase 140",
+        "label": "oase-140",
+        "hex": "#7db754"
+    },
+    {
+        "name": "Oase 135",
+        "label": "oase-135",
+        "hex": "#80a668"
+    },
+    {
+        "name": "Oase 130",
+        "label": "oase-130",
+        "hex": "#62994a"
+    },
+    {
+        "name": "Oase 125",
+        "label": "oase-125",
+        "hex": "#527e44"
+    },
+    {
+        "name": "Lago 120",
+        "label": "lago-120",
+        "hex": "#d3e5ee"
+    },
+    {
+        "name": "Lago 115",
+        "label": "lago-115",
+        "hex": "#b1cbdd"
+    },
+    {
+        "name": "Lago 105",
+        "label": "lago-105",
+        "hex": "#6b95b5"
+    },
+    {
+        "name": "Lazur 25",
+        "label": "lazur-25",
+        "hex": "#d3d4d4"
+    },
+    {
+        "name": "Lazur 120",
+        "label": "lazur-120",
+        "hex": "#bccbdb"
+    },
+    {
+        "name": "Lazur 145",
+        "label": "lazur-145",
+        "hex": "#9aafc9"
+    },
+    {
+        "name": "Aquarell 115",
+        "label": "aquarell-115",
+        "hex": "#e3e5e8"
+    },
+    {
+        "name": "Aquarell 85",
+        "label": "aquarell-85",
+        "hex": "#cdd4e3"
+    },
+    {
+        "name": "Aquarell 110",
+        "label": "aquarell-110",
+        "hex": "#b6c9e4"
+    },
+    {
+        "name": "Amethyst 90",
+        "label": "amethyst-90",
+        "hex": "#e6e1e3"
+    },
+    {
+        "name": "Amethyst 85",
+        "label": "amethyst-85",
+        "hex": "#cac5cf"
+    },
+    {
+        "name": "Amethyst 80",
+        "label": "amethyst-80",
+        "hex": "#b1abbb"
+    },
+    {
+        "name": "Rose 60",
+        "label": "rose-60",
+        "hex": "#f2e2df"
+    },
+    {
+        "name": "Rose 90",
+        "label": "rose-90",
+        "hex": "#f7dcdc"
+    },
+    {
+        "name": "Rose 85",
+        "label": "rose-85",
+        "hex": "#d3b1b7"
+    },
+    {
+        "name": "Kuhl-Wei",
+        "label": "kuhl-wei",
+        "hex": "#e5e5e0"
+    },
+    {
+        "name": "Grau-Wei",
+        "label": "grau-wei",
+        "hex": "#efede5"
+    },
+    {
+        "name": "Hell-Wei",
+        "label": "hell-wei",
+        "hex": "#f4f3eb"
+    },
+    {
+        "name": "Natur-Wei",
+        "label": "natur-wei",
+        "hex": "#e9e6dc"
+    },
+    {
+        "name": "Umbra-Wei",
+        "label": "umbra-wei",
+        "hex": "#eae7dc"
+    },
+    {
+        "name": "Warm-Wei",
+        "label": "warm-wei",
+        "hex": "#ebe7df"
+    },
+    {
+        "name": "Echtgelb",
+        "label": "echtgelb",
+        "hex": "#ffd715"
+    },
+    {
+        "name": "Echtrot",
+        "label": "echtrot",
+        "hex": "#d24343"
+    },
+    {
+        "name": "Echtblau",
+        "label": "echtblau",
+        "hex": "#34527d"
+    },
+    {
+        "name": "Oxidgelb",
+        "label": "oxidgelb",
+        "hex": "#bb8144"
+    },
+    {
+        "name": "Mittelbraun",
+        "label": "mittelbraun",
+        "hex": "#8a6a4c"
+    },
+    {
+        "name": "Oxidrot",
+        "label": "oxidrot",
+        "hex": "#864a42"
+    },
+    {
+        "name": "Oxidgruen",
+        "label": "oxidgruen",
+        "hex": "#5a7250"
+    },
+    {
+        "name": "Braun",
+        "label": "braun",
+        "hex": "#684f47"
+    },
+    {
+        "name": "Dunkelbraun",
+        "label": "dunkelbraun",
+        "hex": "#5a4d48"
+    },
+    {
+        "name": "Wei",
+        "label": "wei",
+        "hex": "#faf7ef"
+    },
+    {
+        "name": "Mittelgrau",
+        "label": "mittelgrau",
+        "hex": "#81827d"
+    },
+    {
+        "name": "Schwarz",
+        "label": "schwarz",
+        "hex": "#3a3a3b"
+    }
+]

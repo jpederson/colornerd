@@ -1,262 +1,262 @@
 [
-    {
-        "name": "WHITE KOBRA 01",
-        "label": "white-kobra-01",
-        "hex": "#eaeae4"
-    },
-    {
-        "name": "IVORY KOBRA 02",
-        "label": "ivory-kobra-02",
-        "hex": "#e6c9a2"
-    },
-    {
-        "name": "BEIGE KOBRA 03",
-        "label": "beige-kobra-03",
-        "hex": "#ba9873"
-    },
-    {
-        "name": "BEIGE KOBRA 04",
-        "label": "beige-kobra-04",
-        "hex": "#8f6e46"
-    },
-    {
-        "name": "BEIGE KOBRA 05",
-        "label": "beige-kobra-05",
-        "hex": "#d0c092"
-    },
-    {
-        "name": "YELLOW KOBRA 06",
-        "label": "yellow-kobra-06",
-        "hex": "#f2d964"
-    },
-    {
-        "name": "YELLOW KOBRA 07",
-        "label": "yellow-kobra-07",
-        "hex": "#fad140"
-    },
-    {
-        "name": "YELLOW KOBRA 08",
-        "label": "yellow-kobra-08",
-        "hex": "#fdad00"
-    },
-    {
-        "name": "YELLOW KOBRA 09",
-        "label": "yellow-kobra-09",
-        "hex": "#f4af5b"
-    },
-    {
-        "name": "YELLOW KOBRA 10",
-        "label": "yellow-kobra-10",
-        "hex": "#f59724"
-    },
-    {
-        "name": "YELLOW KOBRA 11",
-        "label": "yellow-kobra-11",
-        "hex": "#b97d31"
-    },
-    {
-        "name": "ORANGE KOBRA 12",
-        "label": "orange-kobra-12",
-        "hex": "#f07b42"
-    },
-    {
-        "name": "ORANGE KOBRA 13",
-        "label": "orange-kobra-13",
-        "hex": "#e87257"
-    },
-    {
-        "name": "ORANGE KOBRA 14",
-        "label": "orange-kobra-14",
-        "hex": "#da5838"
-    },
-    {
-        "name": "RED KOBRA 15",
-        "label": "red-kobra-15",
-        "hex": "#bd413a"
-    },
-    {
-        "name": "RED KOBRA 16",
-        "label": "red-kobra-16",
-        "hex": "#9a4039"
-    },
-    {
-        "name": "RED KOBRA 17",
-        "label": "red-kobra-17",
-        "hex": "#583f40"
-    },
-    {
-        "name": "PINK KOBRA 18",
-        "label": "pink-kobra-18",
-        "hex": "#f7a879"
-    },
-    {
-        "name": "PINK KOBRA 19",
-        "label": "pink-kobra-19",
-        "hex": "#faa495"
-    },
-    {
-        "name": "PINK KOBRA 20",
-        "label": "pink-kobra-20",
-        "hex": "#df8686"
-    },
-    {
-        "name": "FUCHSIA KOBRA 21",
-        "label": "fuchsia-kobra-21",
-        "hex": "#bf7595"
-    },
-    {
-        "name": "FUCHSIA KOBRA 22",
-        "label": "fuchsia-kobra-22",
-        "hex": "#a25877"
-    },
-    {
-        "name": "VIOLET KOBRA 23",
-        "label": "violet-kobra-23",
-        "hex": "#b7b1dc"
-    },
-    {
-        "name": "VIOLET KOBRA 24",
-        "label": "violet-kobra-24",
-        "hex": "#9b8cb5"
-    },
-    {
-        "name": "VIOLET KOBRA 25",
-        "label": "violet-kobra-25",
-        "hex": "#776bab"
-    },
-    {
-        "name": "VIOLET KOBRA 26",
-        "label": "violet-kobra-26",
-        "hex": "#7b598f"
-    },
-    {
-        "name": "BLUE KOBRA 27",
-        "label": "blue-kobra-27",
-        "hex": "#87c8d7"
-    },
-    {
-        "name": "BLUE KOBRA 28",
-        "label": "blue-kobra-28",
-        "hex": "#4eb3cd"
-    },
-    {
-        "name": "BLUE KOBRA 29",
-        "label": "blue-kobra-29",
-        "hex": "#1882b4"
-    },
-    {
-        "name": "BLUE KOBRA 30",
-        "label": "blue-kobra-30",
-        "hex": "#195584"
-    },
-    {
-        "name": "BLUE KOBRA 31",
-        "label": "blue-kobra-31",
-        "hex": "#334059"
-    },
-    {
-        "name": "GREEN KOBRA 32",
-        "label": "green-kobra-32",
-        "hex": "#75c89e"
-    },
-    {
-        "name": "GREEN KOBRA 33",
-        "label": "green-kobra-33",
-        "hex": "#7ab96e"
-    },
-    {
-        "name": "GREEN KOBRA 34",
-        "label": "green-kobra-34",
-        "hex": "#42a370"
-    },
-    {
-        "name": "GREEN KOBRA 35",
-        "label": "green-kobra-35",
-        "hex": "#007856"
-    },
-    {
-        "name": "GREEN KOBRA 36",
-        "label": "green-kobra-36",
-        "hex": "#4e795b"
-    },
-    {
-        "name": "GREEN KOBRA 37",
-        "label": "green-kobra-37",
-        "hex": "#515545"
-    },
-    {
-        "name": "GREEN KOBRA 38",
-        "label": "green-kobra-38",
-        "hex": "#415448"
-    },
-    {
-        "name": "GREEN KOBRA 39",
-        "label": "green-kobra-39",
-        "hex": "#40b8a4"
-    },
-    {
-        "name": "GREEN KOBRA 40",
-        "label": "green-kobra-40",
-        "hex": "#009f8a"
-    },
-    {
-        "name": "GREEN KOBRA 41",
-        "label": "green-kobra-41",
-        "hex": "#009185"
-    },
-    {
-        "name": "GREY KOBRA 42",
-        "label": "grey-kobra-42",
-        "hex": "#889099"
-    },
-    {
-        "name": "BROWN KOBRA 43",
-        "label": "brown-kobra-43",
-        "hex": "#624a3e"
-    },
-    {
-        "name": "BLACK KOBRA 44",
-        "label": "black-kobra-44",
-        "hex": "#383737"
-    },
-    {
-        "name": "GOLD KOBRA 45",
-        "label": "gold-kobra-45",
-        "hex": "#8e7a5a"
-    },
-    {
-        "name": "COPPER KOBRA 46",
-        "label": "copper-kobra-46",
-        "hex": "#7b584c"
-    },
-    {
-        "name": "SILVER KOBRA 47",
-        "label": "silver-kobra-47",
-        "hex": "#cdcecd"
-    },
-    {
-        "name": "FLUO KOBRA 48",
-        "label": "fluo-kobra-48",
-        "hex": "#edeb00"
-    },
-    {
-        "name": "FLUO KOBRA 49",
-        "label": "fluo-kobra-49",
-        "hex": "#ff7700"
-    },
-    {
-        "name": "FLUO KOBRA 50",
-        "label": "fluo-kobra-50",
-        "hex": "#ff4131"
-    },
-    {
-        "name": "FLUO KOBRA 51",
-        "label": "fluo-kobra-51",
-        "hex": "#f93753"
-    },
-    {
-        "name": "FLUO KOBRA 52",
-        "label": "fluo-kobra-52",
-        "hex": "#00b131"
-    }
+  {
+    "hex": "#eaeae4",
+    "label": "01",
+    "name": "White"
+  },
+  {
+    "hex": "#e6c9a2",
+    "label": "02",
+    "name": "Ivory"
+  },
+  {
+    "hex": "#ba9873",
+    "label": "03",
+    "name": "Beige"
+  },
+  {
+    "hex": "#8f6e46",
+    "label": "04",
+    "name": "Beige"
+  },
+  {
+    "hex": "#d0c092",
+    "label": "05",
+    "name": "Beige"
+  },
+  {
+    "hex": "#f2d964",
+    "label": "06",
+    "name": "Yellow"
+  },
+  {
+    "hex": "#fad140",
+    "label": "07",
+    "name": "Yellow"
+  },
+  {
+    "hex": "#fdad00",
+    "label": "08",
+    "name": "Yellow"
+  },
+  {
+    "hex": "#f4af5b",
+    "label": "09",
+    "name": "Yellow"
+  },
+  {
+    "hex": "#f59724",
+    "label": "10",
+    "name": "Yellow"
+  },
+  {
+    "hex": "#b97d31",
+    "label": "11",
+    "name": "Yellow"
+  },
+  {
+    "hex": "#f07b42",
+    "label": "12",
+    "name": "Orange"
+  },
+  {
+    "hex": "#e87257",
+    "label": "13",
+    "name": "Orange"
+  },
+  {
+    "hex": "#da5838",
+    "label": "14",
+    "name": "Orange"
+  },
+  {
+    "hex": "#bd413a",
+    "label": "15",
+    "name": "Red"
+  },
+  {
+    "hex": "#9a4039",
+    "label": "16",
+    "name": "Red"
+  },
+  {
+    "hex": "#583f40",
+    "label": "17",
+    "name": "Red"
+  },
+  {
+    "hex": "#f7a879",
+    "label": "18",
+    "name": "Pink"
+  },
+  {
+    "hex": "#faa495",
+    "label": "19",
+    "name": "Pink"
+  },
+  {
+    "hex": "#df8686",
+    "label": "20",
+    "name": "Pink"
+  },
+  {
+    "hex": "#bf7595",
+    "label": "21",
+    "name": "Fuchsia"
+  },
+  {
+    "hex": "#a25877",
+    "label": "22",
+    "name": "Fuchsia"
+  },
+  {
+    "hex": "#b7b1dc",
+    "label": "23",
+    "name": "Violet"
+  },
+  {
+    "hex": "#9b8cb5",
+    "label": "24",
+    "name": "Violet"
+  },
+  {
+    "hex": "#776bab",
+    "label": "25",
+    "name": "Violet"
+  },
+  {
+    "hex": "#7b598f",
+    "label": "26",
+    "name": "Violet"
+  },
+  {
+    "hex": "#87c8d7",
+    "label": "27",
+    "name": "Blue"
+  },
+  {
+    "hex": "#4eb3cd",
+    "label": "28",
+    "name": "Blue"
+  },
+  {
+    "hex": "#1882b4",
+    "label": "29",
+    "name": "Blue"
+  },
+  {
+    "hex": "#195584",
+    "label": "30",
+    "name": "Blue"
+  },
+  {
+    "hex": "#334059",
+    "label": "31",
+    "name": "Blue"
+  },
+  {
+    "hex": "#75c89e",
+    "label": "32",
+    "name": "Green"
+  },
+  {
+    "hex": "#7ab96e",
+    "label": "33",
+    "name": "Green"
+  },
+  {
+    "hex": "#42a370",
+    "label": "34",
+    "name": "Green"
+  },
+  {
+    "hex": "#007856",
+    "label": "35",
+    "name": "Green"
+  },
+  {
+    "hex": "#4e795b",
+    "label": "36",
+    "name": "Green"
+  },
+  {
+    "hex": "#515545",
+    "label": "37",
+    "name": "Green"
+  },
+  {
+    "hex": "#415448",
+    "label": "38",
+    "name": "Green"
+  },
+  {
+    "hex": "#40b8a4",
+    "label": "39",
+    "name": "Green"
+  },
+  {
+    "hex": "#009f8a",
+    "label": "40",
+    "name": "Green"
+  },
+  {
+    "hex": "#009185",
+    "label": "41",
+    "name": "Green"
+  },
+  {
+    "hex": "#889099",
+    "label": "42",
+    "name": "Grey"
+  },
+  {
+    "hex": "#624a3e",
+    "label": "43",
+    "name": "Brown"
+  },
+  {
+    "hex": "#383737",
+    "label": "44",
+    "name": "Black"
+  },
+  {
+    "hex": "#8e7a5a",
+    "label": "45",
+    "name": "Gold"
+  },
+  {
+    "hex": "#7b584c",
+    "label": "46",
+    "name": "Copper"
+  },
+  {
+    "hex": "#cdcecd",
+    "label": "47",
+    "name": "Silver"
+  },
+  {
+    "hex": "#edeb00",
+    "label": "48",
+    "name": "Fluo"
+  },
+  {
+    "hex": "#ff7700",
+    "label": "49",
+    "name": "Fluo"
+  },
+  {
+    "hex": "#ff4131",
+    "label": "50",
+    "name": "Fluo"
+  },
+  {
+    "hex": "#f93753",
+    "label": "51",
+    "name": "Fluo"
+  },
+  {
+    "hex": "#00b131",
+    "label": "52",
+    "name": "Fluo"
+  }
 ]
