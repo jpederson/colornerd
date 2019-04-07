@@ -1,0 +1,1067 @@
+[
+  {
+    "hex": "#bebd7f",
+    "label": "1000",
+    "name": "Green Beige"
+  },
+  {
+    "hex": "#c2b078",
+    "label": "1001",
+    "name": "Beige"
+  },
+  {
+    "hex": "#c6a664",
+    "label": "1002",
+    "name": "Sand Yellow"
+  },
+  {
+    "hex": "#e5be01",
+    "label": "1003",
+    "name": "Signal Yellow"
+  },
+  {
+    "hex": "#cda434",
+    "label": "1004",
+    "name": "Golden Yellow"
+  },
+  {
+    "hex": "#a98307",
+    "label": "1005",
+    "name": "Honey Yellow"
+  },
+  {
+    "hex": "#e4a010",
+    "label": "1006",
+    "name": "Maize Yellow"
+  },
+  {
+    "hex": "#dc9d00",
+    "label": "1007",
+    "name": "Daffodil Yellow"
+  },
+  {
+    "hex": "#8a6642",
+    "label": "1011",
+    "name": "Brown Beige"
+  },
+  {
+    "hex": "#c7b446",
+    "label": "1012",
+    "name": "Lemon Yellow"
+  },
+  {
+    "hex": "#eeeacd",
+    "label": "1013",
+    "name": "Oyster White"
+  },
+  {
+    "hex": "#e1cc4f",
+    "label": "1014",
+    "name": "Ivory"
+  },
+  {
+    "hex": "#e6d690",
+    "label": "1015",
+    "name": "Light Ivory"
+  },
+  {
+    "hex": "#edff21",
+    "label": "1016",
+    "name": "Sulfur Yellow"
+  },
+  {
+    "hex": "#f5d033",
+    "label": "1017",
+    "name": "Saffron Yellow"
+  },
+  {
+    "hex": "#f8f32b",
+    "label": "1018",
+    "name": "Zinc Yellow"
+  },
+  {
+    "hex": "#9e9764",
+    "label": "1019",
+    "name": "Grey Beige"
+  },
+  {
+    "hex": "#999950",
+    "label": "1020",
+    "name": "Olive Yellow"
+  },
+  {
+    "hex": "#f3da0b",
+    "label": "1021",
+    "name": "Colza Yellow"
+  },
+  {
+    "hex": "#fad201",
+    "label": "1023",
+    "name": "Traffic Yellow"
+  },
+  {
+    "hex": "#aea04b",
+    "label": "1024",
+    "name": "Ochre Yellow"
+  },
+  {
+    "hex": "#ffff00",
+    "label": "1026",
+    "name": "Luminous Yellow"
+  },
+  {
+    "hex": "#9d9101",
+    "label": "1027",
+    "name": "Curry"
+  },
+  {
+    "hex": "#f4a900",
+    "label": "1028",
+    "name": "Melon Yellow"
+  },
+  {
+    "hex": "#d6ae01",
+    "label": "1032",
+    "name": "Broom Yellow"
+  },
+  {
+    "hex": "#f3a505",
+    "label": "1033",
+    "name": "Dahlia Yellow"
+  },
+  {
+    "hex": "#efa94a",
+    "label": "1034",
+    "name": "Pastel Yellow"
+  },
+  {
+    "hex": "#6a5d4d",
+    "label": "1035",
+    "name": "Pearl Beige"
+  },
+  {
+    "hex": "#705335",
+    "label": "1036",
+    "name": "Pearl Gold"
+  },
+  {
+    "hex": "#f39f18",
+    "label": "1037",
+    "name": "Sun Yellow"
+  },
+  {
+    "hex": "#ed760e",
+    "label": "2000",
+    "name": "Yellow Orange"
+  },
+  {
+    "hex": "#c93c20",
+    "label": "2001",
+    "name": "Red Orange"
+  },
+  {
+    "hex": "#cb2821",
+    "label": "2002",
+    "name": "Vermilion"
+  },
+  {
+    "hex": "#ff7514",
+    "label": "2003",
+    "name": "Pastel Orange"
+  },
+  {
+    "hex": "#f44611",
+    "label": "2004",
+    "name": "Pure Orange"
+  },
+  {
+    "hex": "#ff2301",
+    "label": "2005",
+    "name": "Luminous Orange"
+  },
+  {
+    "hex": "#ffa420",
+    "label": "2007",
+    "name": "Luminous Bright Orange"
+  },
+  {
+    "hex": "#f75e25",
+    "label": "2008",
+    "name": "Bright Red Orange"
+  },
+  {
+    "hex": "#f54021",
+    "label": "2009",
+    "name": "Traffic Orange"
+  },
+  {
+    "hex": "#d84b20",
+    "label": "2010",
+    "name": "Signal Orange"
+  },
+  {
+    "hex": "#ec7c26",
+    "label": "2011",
+    "name": "Deep Orange"
+  },
+  {
+    "hex": "#e55137",
+    "label": "2012",
+    "name": "Salmon Range"
+  },
+  {
+    "hex": "#c35831",
+    "label": "2013",
+    "name": "Pearl Orange"
+  },
+  {
+    "hex": "#af2b1e",
+    "label": "3000",
+    "name": "Flame Red"
+  },
+  {
+    "hex": "#a52019",
+    "label": "3001",
+    "name": "Signal Red"
+  },
+  {
+    "hex": "#a2231d",
+    "label": "3002",
+    "name": "Carmine Red"
+  },
+  {
+    "hex": "#9b111e",
+    "label": "3003",
+    "name": "Ruby Red"
+  },
+  {
+    "hex": "#75151e",
+    "label": "3004",
+    "name": "Purple Red"
+  },
+  {
+    "hex": "#5e2129",
+    "label": "3005",
+    "name": "Wine Red"
+  },
+  {
+    "hex": "#351f21",
+    "label": "3007",
+    "name": "Black Red"
+  },
+  {
+    "hex": "#642424",
+    "label": "3009",
+    "name": "Oxide Red"
+  },
+  {
+    "hex": "#781f19",
+    "label": "3011",
+    "name": "Brown Red"
+  },
+  {
+    "hex": "#c1876b",
+    "label": "3012",
+    "name": "Beige Red"
+  },
+  {
+    "hex": "#a12312",
+    "label": "3013",
+    "name": "Tomato Red"
+  },
+  {
+    "hex": "#d36e70",
+    "label": "3014",
+    "name": "Antique Pink"
+  },
+  {
+    "hex": "#ea899a",
+    "label": "3015",
+    "name": "Light Pink"
+  },
+  {
+    "hex": "#b32821",
+    "label": "3016",
+    "name": "Coral Red"
+  },
+  {
+    "hex": "#e63244",
+    "label": "3017",
+    "name": "Rose"
+  },
+  {
+    "hex": "#d53032",
+    "label": "3018",
+    "name": "Strawberry Red"
+  },
+  {
+    "hex": "#cc0605",
+    "label": "3020",
+    "name": "Traffic Red"
+  },
+  {
+    "hex": "#d95030",
+    "label": "3022",
+    "name": "Salmon Pink"
+  },
+  {
+    "hex": "#f80000",
+    "label": "3024",
+    "name": "Luminous Red"
+  },
+  {
+    "hex": "#fe0000",
+    "label": "3026",
+    "name": "Luminous"
+  },
+  {
+    "hex": "#c51d34",
+    "label": "3027",
+    "name": "Raspberry Red"
+  },
+  {
+    "hex": "#cb3234",
+    "label": "3028",
+    "name": "Pure Red"
+  },
+  {
+    "hex": "#b32428",
+    "label": "3031",
+    "name": "Orient Red"
+  },
+  {
+    "hex": "#721422",
+    "label": "3032",
+    "name": "Pearl Ruby Red"
+  },
+  {
+    "hex": "#b44c43",
+    "label": "3033",
+    "name": "Pearl Pink"
+  },
+  {
+    "hex": "#6d3f5b",
+    "label": "4001",
+    "name": "Red Lilac"
+  },
+  {
+    "hex": "#922b3e",
+    "label": "4002",
+    "name": "Red Violet"
+  },
+  {
+    "hex": "#de4c8a",
+    "label": "4003",
+    "name": "Heather Violet"
+  },
+  {
+    "hex": "#6e1c34",
+    "label": "4004",
+    "name": "Claret Violet"
+  },
+  {
+    "hex": "#6c4675",
+    "label": "4005",
+    "name": "Blue Lilac"
+  },
+  {
+    "hex": "#a03472",
+    "label": "4006",
+    "name": "Traffic Purple"
+  },
+  {
+    "hex": "#4a192c",
+    "label": "4007",
+    "name": "Purple Violet"
+  },
+  {
+    "hex": "#924e7d",
+    "label": "4008",
+    "name": "Signal Violet"
+  },
+  {
+    "hex": "#a47d90",
+    "label": "4009",
+    "name": "Pastel Violet"
+  },
+  {
+    "hex": "#d72d6d",
+    "label": "4010",
+    "name": "Telemagenta"
+  },
+  {
+    "hex": "#8673a1",
+    "label": "4011",
+    "name": "Pearl Violet"
+  },
+  {
+    "hex": "#6c6881",
+    "label": "4012",
+    "name": "Pearl Black Berry"
+  },
+  {
+    "hex": "#2a2e4b",
+    "label": "5000",
+    "name": "Violet Blue"
+  },
+  {
+    "hex": "#1f3438",
+    "label": "5001",
+    "name": "Green Blue"
+  },
+  {
+    "hex": "#20214f",
+    "label": "5002",
+    "name": "Ultramarine Blue"
+  },
+  {
+    "hex": "#1d1e33",
+    "label": "5003",
+    "name": "Saphire Blue"
+  },
+  {
+    "hex": "#18171c",
+    "label": "5004",
+    "name": "Black Blue"
+  },
+  {
+    "hex": "#1e2d6e",
+    "label": "5005",
+    "name": "Signal Blue"
+  },
+  {
+    "hex": "#3e5f8a",
+    "label": "5007",
+    "name": "Brillant Blue"
+  },
+  {
+    "hex": "#26252d",
+    "label": "5008",
+    "name": "Grey Blue"
+  },
+  {
+    "hex": "#025669",
+    "label": "5009",
+    "name": "Azure Blue"
+  },
+  {
+    "hex": "#0e294b",
+    "label": "5010",
+    "name": "Gentian Blue"
+  },
+  {
+    "hex": "#231a24",
+    "label": "5011",
+    "name": "Steel Blue"
+  },
+  {
+    "hex": "#3b83bd",
+    "label": "5012",
+    "name": "Light Blue"
+  },
+  {
+    "hex": "#1e213d",
+    "label": "5013",
+    "name": "Cobalt Blue"
+  },
+  {
+    "hex": "#606e8c",
+    "label": "5014",
+    "name": "Pigeon Blue"
+  },
+  {
+    "hex": "#2271b3",
+    "label": "5015",
+    "name": "Sky Blue"
+  },
+  {
+    "hex": "#063971",
+    "label": "5017",
+    "name": "Traffic Blue"
+  },
+  {
+    "hex": "#3f888f",
+    "label": "5018",
+    "name": "Turquoise Blue"
+  },
+  {
+    "hex": "#1b5583",
+    "label": "5019",
+    "name": "Capri Blue"
+  },
+  {
+    "hex": "#1d334a",
+    "label": "5020",
+    "name": "Ocean Blue"
+  },
+  {
+    "hex": "#256d7b",
+    "label": "5021",
+    "name": "Water Blue"
+  },
+  {
+    "hex": "#252850",
+    "label": "5022",
+    "name": "Night Blue"
+  },
+  {
+    "hex": "#49678d",
+    "label": "5023",
+    "name": "Distant Blue"
+  },
+  {
+    "hex": "#5d9b9b",
+    "label": "5024",
+    "name": "Pastel Blue"
+  },
+  {
+    "hex": "#2a6478",
+    "label": "5025",
+    "name": "Pearl Gentian Blue"
+  },
+  {
+    "hex": "#102c54",
+    "label": "5026",
+    "name": "Pearl Night Blue"
+  },
+  {
+    "hex": "#316650",
+    "label": "6000",
+    "name": "Patina Green"
+  },
+  {
+    "hex": "#287233",
+    "label": "6001",
+    "name": "Emerald Green"
+  },
+  {
+    "hex": "#2d572c",
+    "label": "6002",
+    "name": "Leaf Green"
+  },
+  {
+    "hex": "#424632",
+    "label": "6003",
+    "name": "Olive Green"
+  },
+  {
+    "hex": "#1f3a3d",
+    "label": "6004",
+    "name": "Blue Green"
+  },
+  {
+    "hex": "#2f4538",
+    "label": "6005",
+    "name": "Moss Green"
+  },
+  {
+    "hex": "#3e3b32",
+    "label": "6006",
+    "name": "Grey Olive"
+  },
+  {
+    "hex": "#343b29",
+    "label": "6007",
+    "name": "Bottle Green"
+  },
+  {
+    "hex": "#39352a",
+    "label": "6008",
+    "name": "Brown Green"
+  },
+  {
+    "hex": "#31372b",
+    "label": "6009",
+    "name": "Fir Green"
+  },
+  {
+    "hex": "#35682d",
+    "label": "6010",
+    "name": "Grass Green"
+  },
+  {
+    "hex": "#587246",
+    "label": "6011",
+    "name": "Reseda Green"
+  },
+  {
+    "hex": "#343e40",
+    "label": "6012",
+    "name": "Black Green"
+  },
+  {
+    "hex": "#6c7156",
+    "label": "6013",
+    "name": "Reed Green"
+  },
+  {
+    "hex": "#47402e",
+    "label": "6014",
+    "name": "Yellow Olive"
+  },
+  {
+    "hex": "#3b3c36",
+    "label": "6015",
+    "name": "Black Olive"
+  },
+  {
+    "hex": "#1e5945",
+    "label": "6016",
+    "name": "Turquoise Green"
+  },
+  {
+    "hex": "#4c9141",
+    "label": "6017",
+    "name": "May Green"
+  },
+  {
+    "hex": "#57a639",
+    "label": "6018",
+    "name": "Yellow Green"
+  },
+  {
+    "hex": "#bdecb6",
+    "label": "6019",
+    "name": "Pastel Green"
+  },
+  {
+    "hex": "#2e3a23",
+    "label": "6020",
+    "name": "Chrome Green"
+  },
+  {
+    "hex": "#89ac76",
+    "label": "6021",
+    "name": "Pale Green"
+  },
+  {
+    "hex": "#25221b",
+    "label": "6022",
+    "name": "Olive Drab"
+  },
+  {
+    "hex": "#308446",
+    "label": "6024",
+    "name": "Traffic Green"
+  },
+  {
+    "hex": "#3d642d",
+    "label": "6025",
+    "name": "Fern Green"
+  },
+  {
+    "hex": "#015d52",
+    "label": "6026",
+    "name": "Opal Green"
+  },
+  {
+    "hex": "#84c3be",
+    "label": "6027",
+    "name": "Light Green"
+  },
+  {
+    "hex": "#2c5545",
+    "label": "6028",
+    "name": "Pine Green"
+  },
+  {
+    "hex": "#20603d",
+    "label": "6029",
+    "name": "Mint Green"
+  },
+  {
+    "hex": "#317f43",
+    "label": "6032",
+    "name": "Signal Green"
+  },
+  {
+    "hex": "#497e76",
+    "label": "6033",
+    "name": "Mint Turquoise"
+  },
+  {
+    "hex": "#7fb5b5",
+    "label": "6034",
+    "name": "Pastel Turquoise"
+  },
+  {
+    "hex": "#1c542d",
+    "label": "6035",
+    "name": "Pearl Green"
+  },
+  {
+    "hex": "#193737",
+    "label": "6036",
+    "name": "Pearl Opal Green"
+  },
+  {
+    "hex": "#008f39",
+    "label": "6037",
+    "name": "Pure Green"
+  },
+  {
+    "hex": "#00bb2d",
+    "label": "6038",
+    "name": "Luminous Green"
+  },
+  {
+    "hex": "#78858b",
+    "label": "7000",
+    "name": "Squirrel Grey"
+  },
+  {
+    "hex": "#8a9597",
+    "label": "7001",
+    "name": "Silver Grey"
+  },
+  {
+    "hex": "#7e7b52",
+    "label": "7002",
+    "name": "Olive Grey"
+  },
+  {
+    "hex": "#6c7059",
+    "label": "7003",
+    "name": "Moss Grey"
+  },
+  {
+    "hex": "#969992",
+    "label": "7004",
+    "name": "Signal Grey"
+  },
+  {
+    "hex": "#646b63",
+    "label": "7005",
+    "name": "Mouse Grey"
+  },
+  {
+    "hex": "#6d6552",
+    "label": "7006",
+    "name": "Beige Grey"
+  },
+  {
+    "hex": "#6a5f31",
+    "label": "7008",
+    "name": "Khaki Grey"
+  },
+  {
+    "hex": "#4d5645",
+    "label": "7009",
+    "name": "Green Grey"
+  },
+  {
+    "hex": "#4c514a",
+    "label": "7010",
+    "name": "Tarpaulin Grey"
+  },
+  {
+    "hex": "#434b4d",
+    "label": "7011",
+    "name": "Iron Grey"
+  },
+  {
+    "hex": "#4e5754",
+    "label": "7012",
+    "name": "Basalt Grey"
+  },
+  {
+    "hex": "#464531",
+    "label": "7013",
+    "name": "Brown Grey"
+  },
+  {
+    "hex": "#434750",
+    "label": "7015",
+    "name": "Slate Grey"
+  },
+  {
+    "hex": "#293133",
+    "label": "7016",
+    "name": "Anthracite Grey"
+  },
+  {
+    "hex": "#23282b",
+    "label": "7021",
+    "name": "Black Grey"
+  },
+  {
+    "hex": "#332f2c",
+    "label": "7022",
+    "name": "Umbra Grey"
+  },
+  {
+    "hex": "#686c5e",
+    "label": "7023",
+    "name": "Concrete Grey"
+  },
+  {
+    "hex": "#474a51",
+    "label": "7024",
+    "name": "Graphite Grey"
+  },
+  {
+    "hex": "#2f353b",
+    "label": "7026",
+    "name": "Granite Grey"
+  },
+  {
+    "hex": "#8b8c7a",
+    "label": "7030",
+    "name": "Stone Grey"
+  },
+  {
+    "hex": "#474b4e",
+    "label": "7031",
+    "name": "Blue Grey"
+  },
+  {
+    "hex": "#b8b799",
+    "label": "7032",
+    "name": "Pebble Grey"
+  },
+  {
+    "hex": "#7d8471",
+    "label": "7033",
+    "name": "Cement Grey"
+  },
+  {
+    "hex": "#8f8b66",
+    "label": "7034",
+    "name": "Yellow Grey"
+  },
+  {
+    "hex": "#d7d7d7",
+    "label": "7035",
+    "name": "Light Grey"
+  },
+  {
+    "hex": "#7f7679",
+    "label": "7036",
+    "name": "Platinum Grey"
+  },
+  {
+    "hex": "#7d7f7d",
+    "label": "7037",
+    "name": "Dusty Grey"
+  },
+  {
+    "hex": "#c3c3c3",
+    "label": "7038",
+    "name": "Agate Grey"
+  },
+  {
+    "hex": "#6c6960",
+    "label": "7039",
+    "name": "Quartz Grey"
+  },
+  {
+    "hex": "#9da1aa",
+    "label": "7040",
+    "name": "Window Grey"
+  },
+  {
+    "hex": "#8d948d",
+    "label": "7042",
+    "name": "Traffic Grey A"
+  },
+  {
+    "hex": "#4e5452",
+    "label": "7043",
+    "name": "Traffic Grey B"
+  },
+  {
+    "hex": "#cac4b0",
+    "label": "7044",
+    "name": "Silk Grey"
+  },
+  {
+    "hex": "#909090",
+    "label": "7045",
+    "name": "Telegrey 1"
+  },
+  {
+    "hex": "#82898f",
+    "label": "7046",
+    "name": "Telegrey 2"
+  },
+  {
+    "hex": "#d0d0d0",
+    "label": "7047",
+    "name": "Telegrey 4"
+  },
+  {
+    "hex": "#898176",
+    "label": "7048",
+    "name": "Pearl Mouse Grey"
+  },
+  {
+    "hex": "#826c34",
+    "label": "8000",
+    "name": "Green Brown"
+  },
+  {
+    "hex": "#955f20",
+    "label": "8001",
+    "name": "Ochre Brown"
+  },
+  {
+    "hex": "#6c3b2a",
+    "label": "8002",
+    "name": "Signal Brown"
+  },
+  {
+    "hex": "#734222",
+    "label": "8003",
+    "name": "Clay Brown"
+  },
+  {
+    "hex": "#8e402a",
+    "label": "8004",
+    "name": "Copper Brown"
+  },
+  {
+    "hex": "#59351f",
+    "label": "8007",
+    "name": "Fawn Brown"
+  },
+  {
+    "hex": "#6f4f28",
+    "label": "8008",
+    "name": "Olive Brown"
+  },
+  {
+    "hex": "#5b3a29",
+    "label": "8011",
+    "name": "Nut Brown"
+  },
+  {
+    "hex": "#592321",
+    "label": "8012",
+    "name": "Red Brown"
+  },
+  {
+    "hex": "#382c1e",
+    "label": "8014",
+    "name": "Sepia Brown"
+  },
+  {
+    "hex": "#633a34",
+    "label": "8015",
+    "name": "Chestnut Brown"
+  },
+  {
+    "hex": "#4c2f27",
+    "label": "8016",
+    "name": "Mahogany Brown"
+  },
+  {
+    "hex": "#45322e",
+    "label": "8017",
+    "name": "Chocolate Brown"
+  },
+  {
+    "hex": "#403a3a",
+    "label": "8019",
+    "name": "Grey Brown"
+  },
+  {
+    "hex": "#212121",
+    "label": "8022",
+    "name": "Black Brown"
+  },
+  {
+    "hex": "#a65e2e",
+    "label": "8023",
+    "name": "Orange Brown"
+  },
+  {
+    "hex": "#79553d",
+    "label": "8024",
+    "name": "Beige Brown"
+  },
+  {
+    "hex": "#755c48",
+    "label": "8025",
+    "name": "Pale Brown"
+  },
+  {
+    "hex": "#4e3b31",
+    "label": "8028",
+    "name": "Terra Brown"
+  },
+  {
+    "hex": "#763c28",
+    "label": "8029",
+    "name": "Pearl Copper"
+  },
+  {
+    "hex": "#faf4e3",
+    "label": "9001",
+    "name": "Cream"
+  },
+  {
+    "hex": "#e7ebda",
+    "label": "9002",
+    "name": "Grey White"
+  },
+  {
+    "hex": "#f4f4f4",
+    "label": "9003",
+    "name": "Signal White"
+  },
+  {
+    "hex": "#282828",
+    "label": "9004",
+    "name": "Signal Black"
+  },
+  {
+    "hex": "#0a0a0a",
+    "label": "9005",
+    "name": "Jet Black"
+  },
+  {
+    "hex": "#a5a5a5",
+    "label": "9006",
+    "name": "White Aluminium"
+  },
+  {
+    "hex": "#8f8f8f",
+    "label": "9007",
+    "name": "Grey Aluminium"
+  },
+  {
+    "hex": "#ffffff",
+    "label": "9010",
+    "name": "Pure White"
+  },
+  {
+    "hex": "#1c1c1c",
+    "label": "9011",
+    "name": "Graphite Black"
+  },
+  {
+    "hex": "#f6f6f6",
+    "label": "9016",
+    "name": "Traffic White"
+  },
+  {
+    "hex": "#1e1e1d",
+    "label": "9017",
+    "name": "Traffic Black"
+  },
+  {
+    "hex": "#d7d7d7",
+    "label": "9018",
+    "name": "Papyrus White"
+  },
+  {
+    "hex": "#9c9c9c",
+    "label": "9022",
+    "name": "Pearl Light Grey"
+  },
+  {
+    "hex": "#828282",
+    "label": "9023",
+    "name": "Pearl Dark Grey"
+  }
+]
