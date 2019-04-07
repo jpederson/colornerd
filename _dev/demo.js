@@ -87,7 +87,7 @@ $(function(){
 
 
 	// set default
-	var def = 'hks';
+	var def = 'dunn-edwards';
 	$('select.book').val( def );
 	loadBook( def );
 
