@@ -1,8 +1,8 @@
 # ColorNerd
 
-A comprehensive library of color books from ANPA, HKS, DIC, Focoltone, TOYO, and TRUMATCH - implemented in Sass, LESS, Stylus, JSON, and CSV. 
+A comprehensive library of color books implemented in Sass, LESS, Stylus, JSON, and CSV. 
 
-It contains over 100,000 colors from these color books: **ANPA**, **DIC**, **Focoltone**, **HKS** (E Process, E, K Process, K, N Process, N, Z Process, Z), **Sherwin Williams Colorsnap**, **TOYO** (94 Color Finder, Original Color Finder), and **TRUMATCH**.
+It contains over 20,000 colors from colorbooks by **3M**, **Avery**, **Benjamin Moore**, **Dunn Edwards**, **PPG**, **Sherwin Williams**, **TOYO**, and **TRUMATCH**.
 
 *****
 
