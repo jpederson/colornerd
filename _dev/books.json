@@ -78,5 +78,9 @@
     {
         "title": "TRUMATCH",
         "filename": "trumatch"
+    },
+    {
+        "title": "Vista",
+        "filename": "vista"
     }
 ]
