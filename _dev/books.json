@@ -4,6 +4,10 @@
         "filename": "anpa"
     },
     { 
+        "title": "Benjamin Moore",
+        "filename": "benjamin-moore"
+    },
+    { 
         "title": "DIC",
         "filename": "dic"
     },
@@ -790,6 +794,10 @@
     {
         "title": "Osmo many",
         "filename": "osmo-many"
+    },
+    {
+        "title": "PPG Paints",
+        "filename": "ppg-paints"
     },
     {
         "title": "PRB Color",
