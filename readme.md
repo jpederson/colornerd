@@ -6,4 +6,14 @@ It contains over 100,000 colors from these color books: Color Bridge Coated/Unco
 
 ## Install
 
-Install the `colorly` npm module - or just clone this repo and include it your own way. For more information on installing, check out the [Installation](https://github.com/jpederson/Colorly/wiki/Installation) page on the wiki.
+#### NPM
+
+```shell
+npm install colornerd
+```
+
+#### Yarn
+
+```shell
+yarn install colornerd
+```
