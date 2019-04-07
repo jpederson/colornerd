@@ -23,3 +23,9 @@ npm install colornerd
 ```shell
 yarn install colornerd
 ```
+
+*****
+
+## Copyright Information
+
+All the color books in this library are the property of their respective owners - I claim no ownership, and they hold no liability for the results of the use of this library. This repository is offered as-is, in order to help make these color books more accessible for a wider variety of users and projects.
