@@ -173,5 +173,7 @@ fs.readdir( dir, function( err, files ){
 	fs.writeFileSync( 'index.html', tpl_index.replace( "{{colors}}", files_index.join("\n") ) );
 	console.log(' > index.html created...');
 
+	console.log( "" );
+
 });
 
