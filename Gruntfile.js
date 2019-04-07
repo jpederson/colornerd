@@ -90,7 +90,7 @@ module.exports = function(grunt) {
   		// generate the sass and html files with node scripts
 		shell: {
 			build: {
-				command: 'rm ./scss/* | rm ./less/* | rm ./stylus/* | rm ./book/* | rm ./csv/* | ./build.sh'
+				command: './build.sh'
 			},
 			test: {
 				command: 'mocha'

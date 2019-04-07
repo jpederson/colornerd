@@ -1,11 +1,9 @@
 
 # delete all the result files.
-rm -v book/*
-rm -v csv/*
-rm -v less/*
-rm -v stylus/*
-rm -v scss/*
+rm {book,csv,less,stylus,scss}/*
 
 # build the project.
-node build.js
+node build.js > stats.log
 
+# output the log for development purposes
+cat stats.log
