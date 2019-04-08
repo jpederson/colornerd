@@ -26,6 +26,25 @@ yarn install colornerd
 
 *****
 
+## Get Started
+
+To get started, include the color books and start using colors!
+
+```scss
+// include colornerd
+@include "node_modules/colornerd/scss/colornerd";
+
+// use em!
+a {
+	color: hks( "36-K" );
+}
+
+```
+
+
+*****
+
 ## Copyright Information
 
-All the color books in this library are the property of their respective owners - I claim no ownership, and they hold no liability for the results of the use of this library. This repository is offered as-is, in order to help make these color books more accessible for a wider variety of users and projects.
+ All the colorbooks and color names in this library are the property of their respective owners. This is **not an official project** for any book vendor, and neither they, nor the library developer are liable for how it is used. This repository is offered as-is, in order to help make these color books more accessible for a wider variety of users and projects.
+
