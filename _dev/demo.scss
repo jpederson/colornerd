@@ -286,11 +286,22 @@ code {
 		}
 	}
 
-	p.small {
-		font-size: .8em;
-		line-height: 1.2em;
-		padding: 4px 0 7px;
+	p {
+		&.small {
+			font-size: .8em;
+			line-height: 1.4em;
+		}
+
+		padding: 4px 0 12px;
 		margin: 0;
+
+		a {
+			color: #666;
+
+			&:hover {
+				color: $green;
+			}
+		}
 	}
 }
 
