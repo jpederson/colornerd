@@ -26,7 +26,7 @@ yarn install colornerd
 
 ## Get Started
 
-To get started, include the color books and start using colors!
+To get started, include the color books and start using colors! 
 
 ```scss
 // include colornerd
@@ -39,6 +39,7 @@ a {
 
 ```
 
+The above example is for sass/scss - the function for stylus works exactly the same, but we have to use variables with less. To find out more colors to use, and copy and paste the exact code used to output colors, check out the color picker (index.html in this repository or [use the web-based one for this repo](https://jpederson.com/colornerd/)).
 
 *****
 
