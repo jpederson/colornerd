@@ -34,7 +34,7 @@ To get started, include the color books and start using colors!
 
 // use em!
 a {
-	color: hks( "36-K" );
+  color: hks( "36-K" );
 }
 
 ```
