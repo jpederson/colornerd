@@ -47,5 +47,5 @@ The above example is for sass/scss - the function for stylus works exactly the s
 
 ## Copyright Information
 
- All the colorbooks and color names in this library are the property of their respective owners. This is **not an official project** for any book vendor, and neither they, nor the library developer are liable for how it is used. This repository is offered as-is, in order to help make these color books more accessible for a wider variety of users and projects.
+All the colorbooks and color names in this library are the property of their respective owners. This is **not an official project** for any book vendor, and neither they, nor the library developer are liable for how it is used. This repository is offered as-is, in order to help make these color books more accessible for a wider variety of users and projects.
 
