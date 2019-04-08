@@ -2,7 +2,7 @@
 
 A comprehensive library of color books implemented in Sass, LESS, Stylus, JSON, and CSV - containing over 25,000 swatches from colorbooks released by **Avery**, **Behr**, **Benjamin Moore**, **Dunn Edwards**, **Hallman Lindsay**, **HKS**, **PPG**, **RAL**, **Sherwin Williams**, **TOYO**, **TRUMATCH**, and **Vista**.
 
-![preview](http://www.giphy.com/gifs/Tig34ndbISZm7mvZCL)
+![](http://www.giphy.com/gifs/Tig34ndbISZm7mvZCL)
 
 *****
 
