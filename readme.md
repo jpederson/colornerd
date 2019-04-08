@@ -2,6 +2,8 @@
 
 A comprehensive library of color books implemented in Sass, LESS, Stylus, JSON, and CSV - containing over 25,000 swatches from colorbooks released by **Avery**, **Behr**, **Benjamin Moore**, **Dunn Edwards**, **Hallman Lindsay**, **HKS**, **PPG**, **RAL**, **Sherwin Williams**, **TOYO**, **TRUMATCH**, and **Vista**.
 
+![preview](https://jpederson.com/colornerd/img/video.gif)
+
 *****
 
 ![GitHub release](https://img.shields.io/github/release/jpederson/colornerd.svg?label=github) ![npm](https://img.shields.io/npm/v/colornerd.svg)
