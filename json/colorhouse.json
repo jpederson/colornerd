@@ -1,0 +1,642 @@
+[
+  {
+    "hex": " #ffffff",
+    "label": "Bisque-01",
+    "name": "Bisque .01"
+  },
+  {
+    "hex": " #f8faf8",
+    "label": "Imagine-01",
+    "name": "Imagine .01"
+  },
+  {
+    "hex": " #fafdf4",
+    "label": "Imagine-02",
+    "name": "Imagine .02"
+  },
+  {
+    "hex": " #f4f8e7",
+    "label": "Imagine-03",
+    "name": "Imagine .03"
+  },
+  {
+    "hex": " #f0eddb",
+    "label": "Imagine-04",
+    "name": "Imagine .04"
+  },
+  {
+    "hex": " #f0f2f1",
+    "label": "Imagine-05",
+    "name": "Imagine .05"
+  },
+  {
+    "hex": " #eae9e1",
+    "label": "Imagine-06",
+    "name": "Imagine .06"
+  },
+  {
+    "hex": " #f0eee2",
+    "label": "Bisque-02",
+    "name": "Bisque .02"
+  },
+  {
+    "hex": " #e4e2d3",
+    "label": "Bisque-03",
+    "name": "Bisque .03"
+  },
+  {
+    "hex": " #fbf8e7",
+    "label": "Air-01",
+    "name": "Air .01"
+  },
+  {
+    "hex": " #ece6d1",
+    "label": "Air-02",
+    "name": "Air .02"
+  },
+  {
+    "hex": " #e5dfc9",
+    "label": "Air-03",
+    "name": "Air .03"
+  },
+  {
+    "hex": " #d9d9c8",
+    "label": "Bisque-05",
+    "name": "Bisque .05"
+  },
+  {
+    "hex": " #e7fced",
+    "label": "Air-05",
+    "name": "Air .05"
+  },
+  {
+    "hex": " #d7e2e5",
+    "label": "Air-06",
+    "name": "Air .06"
+  },
+  {
+    "hex": " #e0ede6",
+    "label": "Bisque-04",
+    "name": "Bisque .04"
+  },
+  {
+    "hex": " #dae2dd",
+    "label": "Bisque-06",
+    "name": "Bisque .06"
+  },
+  {
+    "hex": " #f8e7c9",
+    "label": "Create-01",
+    "name": "Create .01"
+  },
+  {
+    "hex": " #fff5d1",
+    "label": "Air-04",
+    "name": "Air .04"
+  },
+  {
+    "hex": " #fef2c2",
+    "label": "Sprout-04",
+    "name": "Sprout .04"
+  },
+  {
+    "hex": " #fff0c2",
+    "label": "Grain-01",
+    "name": "Grain .01"
+  },
+  {
+    "hex": " #f4dea8",
+    "label": "Grain-02",
+    "name": "Grain .02"
+  },
+  {
+    "hex": " #e9d19e",
+    "label": "Grain-03",
+    "name": "Grain .03"
+  },
+  {
+    "hex": " #e1c9a1",
+    "label": "Grain-04",
+    "name": "Grain .04"
+  },
+  {
+    "hex": " #dfbd87",
+    "label": "Grain-05",
+    "name": "Grain .05"
+  },
+  {
+    "hex": " #ca9f5e",
+    "label": "Grain-06",
+    "name": "Grain .06"
+  },
+  {
+    "hex": " #af8a3a",
+    "label": "Grain-07",
+    "name": "Grain .07"
+  },
+  {
+    "hex": " #fbefbb",
+    "label": "Aspire-01",
+    "name": "Aspire .01"
+  },
+  {
+    "hex": " #fae39f",
+    "label": "Aspire-02",
+    "name": "Aspire .02"
+  },
+  {
+    "hex": " #eeda9c",
+    "label": "Aspire-03",
+    "name": "Aspire .03"
+  },
+  {
+    "hex": " #f0d181",
+    "label": "Aspire-04",
+    "name": "Aspire .04"
+  },
+  {
+    "hex": " #eabe5b",
+    "label": "Aspire-05",
+    "name": "Aspire .05"
+  },
+  {
+    "hex": " #ffba38",
+    "label": "Aspire-06",
+    "name": "Aspire .06"
+  },
+  {
+    "hex": " #edd79a",
+    "label": "Beeswax-01",
+    "name": "Beeswax .01"
+  },
+  {
+    "hex": " #e9d095",
+    "label": "Beeswax-02",
+    "name": "Beeswax .02"
+  },
+  {
+    "hex": " #ceaa5b",
+    "label": "Beeswax-03",
+    "name": "Beeswax .03"
+  },
+  {
+    "hex": " #e0cd74",
+    "label": "Beeswax-04",
+    "name": "Beeswax .04"
+  },
+  {
+    "hex": " #c9b156",
+    "label": "Beeswax-05",
+    "name": "Beeswax .05"
+  },
+  {
+    "hex": " #b29445",
+    "label": "Beeswax-06",
+    "name": "Beeswax .06"
+  },
+  {
+    "hex": " #d2d1ad",
+    "label": "Leaf-01",
+    "name": "Leaf .01"
+  },
+  {
+    "hex": " #c1b98f",
+    "label": "Leaf-02",
+    "name": "Leaf .02"
+  },
+  {
+    "hex": " #c9cdbf",
+    "label": "Leaf-03",
+    "name": "Leaf .03"
+  },
+  {
+    "hex": " #d0d3b2",
+    "label": "Glass-01",
+    "name": "Glass .01"
+  },
+  {
+    "hex": " #c9cfb5",
+    "label": "Glass-02",
+    "name": "Glass .02"
+  },
+  {
+    "hex": " #b9ba99",
+    "label": "Glass-03",
+    "name": "Glass .03"
+  },
+  {
+    "hex": " #bcb472",
+    "label": "Leaf-04",
+    "name": "Leaf .04"
+  },
+  {
+    "hex": " #998f5b",
+    "label": "Leaf-05",
+    "name": "Leaf .05"
+  },
+  {
+    "hex": " #969873",
+    "label": "Glass-04",
+    "name": "Glass .04"
+  },
+  {
+    "hex": " #6e7e60",
+    "label": "Glass-05",
+    "name": "Glass .05"
+  },
+  {
+    "hex": " #696346",
+    "label": "Glass-06",
+    "name": "Glass .06"
+  },
+  {
+    "hex": " #cdd9c2",
+    "label": "Leaf-06",
+    "name": "Leaf .06"
+  },
+  {
+    "hex": " #dbe8a7",
+    "label": "Sprout-05",
+    "name": "Sprout .05"
+  },
+  {
+    "hex": " #dde5a9",
+    "label": "Leaf-07",
+    "name": "Leaf .07"
+  },
+  {
+    "hex": " #d8dbac",
+    "label": "Thrive-01",
+    "name": "Thrive .01"
+  },
+  {
+    "hex": " #ccce7a",
+    "label": "Thrive-02",
+    "name": "Thrive .02"
+  },
+  {
+    "hex": " #c3d263",
+    "label": "Petal-02",
+    "name": "Petal .02"
+  },
+  {
+    "hex": " #b0c05d",
+    "label": "Thrive-03",
+    "name": "Thrive .03"
+  },
+  {
+    "hex": " #a2c8a1",
+    "label": "Thrive-04",
+    "name": "Thrive .04"
+  },
+  {
+    "hex": " #83ae82",
+    "label": "Thrive-05",
+    "name": "Thrive .05"
+  },
+  {
+    "hex": " #128458",
+    "label": "Thrive-06",
+    "name": "Thrive .06"
+  },
+  {
+    "hex": " #cfe9e0",
+    "label": "Water-01",
+    "name": "Water .01"
+  },
+  {
+    "hex": " #bcc8bc",
+    "label": "Water-02",
+    "name": "Water .02"
+  },
+  {
+    "hex": " #bbd0d2",
+    "label": "Water-03",
+    "name": "Water .03"
+  },
+  {
+    "hex": " #9fb4b4",
+    "label": "Water-04",
+    "name": "Water .04"
+  },
+  {
+    "hex": " #82979d",
+    "label": "Water-05",
+    "name": "Water .05"
+  },
+  {
+    "hex": " #c5d7d2",
+    "label": "Wool-01",
+    "name": "Wool .01"
+  },
+  {
+    "hex": " #c1cdcd",
+    "label": "Wool-02",
+    "name": "Wool .02"
+  },
+  {
+    "hex": " #a1abab",
+    "label": "Wool-03",
+    "name": "Wool .03"
+  },
+  {
+    "hex": " #9eaea3",
+    "label": "Water-06",
+    "name": "Water .06"
+  },
+  {
+    "hex": " #a6cdc2",
+    "label": "Water-07",
+    "name": "Water .07"
+  },
+  {
+    "hex": " #ade8e2",
+    "label": "Sprout-01",
+    "name": "Sprout .01"
+  },
+  {
+    "hex": " #ccdce7",
+    "label": "Sprout-03",
+    "name": "Sprout .03"
+  },
+  {
+    "hex": " #cae9ee",
+    "label": "Dream-01",
+    "name": "Dream .01"
+  },
+  {
+    "hex": " #bde1dd",
+    "label": "Dream-02",
+    "name": "Dream .02"
+  },
+  {
+    "hex": " #b4cbd9",
+    "label": "Dream-03",
+    "name": "Dream .03"
+  },
+  {
+    "hex": " #9cc7c4",
+    "label": "Dream-04",
+    "name": "Dream .04"
+  },
+  {
+    "hex": " #18887c",
+    "label": "Dream-05",
+    "name": "Dream .05"
+  },
+  {
+    "hex": " #0e707b",
+    "label": "Dream-06",
+    "name": "Dream .06"
+  },
+  {
+    "hex": " #587675",
+    "label": "Wool-05",
+    "name": "Wool .05"
+  },
+  {
+    "hex": " #485761",
+    "label": "Wool-06",
+    "name": "Wool .06"
+  },
+  {
+    "hex": " #1f4992",
+    "label": "Petal-05",
+    "name": "Petal .05"
+  },
+  {
+    "hex": " #fcba7d",
+    "label": "Sprout-02",
+    "name": "Sprout .02"
+  },
+  {
+    "hex": " #c49c6d",
+    "label": "Clay-01",
+    "name": "Clay .01"
+  },
+  {
+    "hex": " #cf8744",
+    "label": "Clay-02",
+    "name": "Clay .02"
+  },
+  {
+    "hex": " #a16941",
+    "label": "Clay-03",
+    "name": "Clay .03"
+  },
+  {
+    "hex": " #ff963a",
+    "label": "Create-02",
+    "name": "Create .02"
+  },
+  {
+    "hex": " #df892a",
+    "label": "Petal-01",
+    "name": "Petal .01"
+  },
+  {
+    "hex": " #c68736",
+    "label": "Wood-01",
+    "name": "Wood .01"
+  },
+  {
+    "hex": " #b2683a",
+    "label": "Wood-02",
+    "name": "Wood .02"
+  },
+  {
+    "hex": " #c27136",
+    "label": "Create-03",
+    "name": "Create .03"
+  },
+  {
+    "hex": " #8c4d35",
+    "label": "Clay-04",
+    "name": "Clay .04"
+  },
+  {
+    "hex": " #752b22",
+    "label": "Clay-05",
+    "name": "Clay .05"
+  },
+  {
+    "hex": " #c27355",
+    "label": "Clay-07",
+    "name": "Clay .07"
+  },
+  {
+    "hex": " #ba4133",
+    "label": "Petal-06",
+    "name": "Petal .06"
+  },
+  {
+    "hex": " #b8352e",
+    "label": "Create-04",
+    "name": "Create .04"
+  },
+  {
+    "hex": " #942a35",
+    "label": "Create-05",
+    "name": "Create .05"
+  },
+  {
+    "hex": " #7c2a1c",
+    "label": "Wood-03",
+    "name": "Wood .03"
+  },
+  {
+    "hex": " #67272a",
+    "label": "Wood-04",
+    "name": "Wood .04"
+  },
+  {
+    "hex": " #aa3e71",
+    "label": "Petal-04",
+    "name": "Petal .04"
+  },
+  {
+    "hex": " #f1a1a6",
+    "label": "Petal-03",
+    "name": "Petal .03"
+  },
+  {
+    "hex": " #f7dde0",
+    "label": "Sprout-06",
+    "name": "Sprout .06"
+  },
+  {
+    "hex": " #e3dbf2",
+    "label": "Sprout-07",
+    "name": "Sprout .07"
+  },
+  {
+    "hex": " #cec4c5",
+    "label": "Air-07",
+    "name": "Air .07"
+  },
+  {
+    "hex": " #8b8a8c",
+    "label": "Wool-04",
+    "name": "Wool .04"
+  },
+  {
+    "hex": " #6f595d",
+    "label": "Wood-05",
+    "name": "Wood .05"
+  },
+  {
+    "hex": " #5e3d5a",
+    "label": "Create-06",
+    "name": "Create .06"
+  },
+  {
+    "hex": " #652f53",
+    "label": "Petal-07",
+    "name": "Petal .07"
+  },
+  {
+    "hex": " #e1d6bb",
+    "label": "Stone-01",
+    "name": "Stone .01"
+  },
+  {
+    "hex": " #c1a878",
+    "label": "Stone-02",
+    "name": "Stone .02"
+  },
+  {
+    "hex": " #cbc6b1",
+    "label": "Metal-01",
+    "name": "Metal .01"
+  },
+  {
+    "hex": " #bdb091",
+    "label": "Metal-02",
+    "name": "Metal .02"
+  },
+  {
+    "hex": " #a89d7e",
+    "label": "Stone-03",
+    "name": "Stone .03"
+  },
+  {
+    "hex": " #c9cabd",
+    "label": "Stone-04",
+    "name": "Stone .04"
+  },
+  {
+    "hex": " #b5b8b1",
+    "label": "Metal-03",
+    "name": "Metal .03"
+  },
+  {
+    "hex": " #9fa198",
+    "label": "Metal-04",
+    "name": "Metal .04"
+  },
+  {
+    "hex": " #aaa593",
+    "label": "Stone-05",
+    "name": "Stone .05"
+  },
+  {
+    "hex": " #746d5a",
+    "label": "Stone-06",
+    "name": "Stone .06"
+  },
+  {
+    "hex": " #848a86",
+    "label": "Stone-07",
+    "name": "Stone .07"
+  },
+  {
+    "hex": " #535654",
+    "label": "Metal-05",
+    "name": "Metal .05"
+  },
+  {
+    "hex": " #3f4647",
+    "label": "Metal-06",
+    "name": "Metal .06"
+  },
+  {
+    "hex": " #d5d3bf",
+    "label": "Nourish-01",
+    "name": "Nourish .01"
+  },
+  {
+    "hex": " #c5c2af",
+    "label": "Nourish-02",
+    "name": "Nourish .02"
+  },
+  {
+    "hex": " #a5a392",
+    "label": "Nourish-03",
+    "name": "Nourish .03"
+  },
+  {
+    "hex": " #a3977f",
+    "label": "Nourish-04",
+    "name": "Nourish .04"
+  },
+  {
+    "hex": " #675544",
+    "label": "Clay-06",
+    "name": "Clay .06"
+  },
+  {
+    "hex": " #53453c",
+    "label": "Nourish-05",
+    "name": "Nourish .05"
+  },
+  {
+    "hex": " #312f24",
+    "label": "Wood-06",
+    "name": "Wood .06"
+  },
+  {
+    "hex": " #313536",
+    "label": "Nourish-06",
+    "name": "Nourish .06"
+  }
+]
