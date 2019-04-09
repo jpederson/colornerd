@@ -1,0 +1,662 @@
+[
+  {
+    "hex": " #fbf8f4",
+    "label": "2005",
+    "name": "All White"
+  },
+  {
+    "hex": " #eee9e7",
+    "label": "273",
+    "name": "Wevet"
+  },
+  {
+    "hex": " #f7f3e8",
+    "label": "239",
+    "name": "Wimborne White"
+  },
+  {
+    "hex": " #f7f1e3",
+    "label": "2003",
+    "name": "Pointing"
+  },
+  {
+    "hex": " #ede9d8",
+    "label": "2010",
+    "name": "James White"
+  },
+  {
+    "hex": " #cec1ad",
+    "label": "211",
+    "name": "Stony Ground"
+  },
+  {
+    "hex": " #f5ecd9",
+    "label": "2002",
+    "name": "White Tie"
+  },
+  {
+    "hex": " #f5e8d0",
+    "label": "59",
+    "name": "New White"
+  },
+  {
+    "hex": " #e4d5bc",
+    "label": "2013",
+    "name": "Matchstick"
+  },
+  {
+    "hex": " #ddcdae",
+    "label": "8",
+    "name": "String"
+  },
+  {
+    "hex": " #d8c4a8",
+    "label": "213",
+    "name": "Savage Ground"
+  },
+  {
+    "hex": " #d6c39e",
+    "label": "16",
+    "name": "Cord"
+  },
+  {
+    "hex": " #e8e0d1",
+    "label": "2004",
+    "name": "Slipper Satin"
+  },
+  {
+    "hex": " #e8dec9",
+    "label": "1",
+    "name": "Lime White"
+  },
+  {
+    "hex": " #e0d5be",
+    "label": "3",
+    "name": "Off-White"
+  },
+  {
+    "hex": " #cfc3ad",
+    "label": "4",
+    "name": "Old White"
+  },
+  {
+    "hex": " #b4a693",
+    "label": "17",
+    "name": "Light Gray"
+  },
+  {
+    "hex": " #998976",
+    "label": "40",
+    "name": "Mouse's Back"
+  },
+  {
+    "hex": " #e6dfd1",
+    "label": "291",
+    "name": "School House White"
+  },
+  {
+    "hex": " #ded8c6",
+    "label": "282",
+    "name": "Shadow White"
+  },
+  {
+    "hex": " #d9d2c1",
+    "label": "201",
+    "name": "Shaded White"
+  },
+  {
+    "hex": " #c9beab",
+    "label": "283",
+    "name": "Drop Cloth"
+  },
+  {
+    "hex": " #cec3ad",
+    "label": "15",
+    "name": "Bone"
+  },
+  {
+    "hex": " #b5afa0",
+    "label": "5",
+    "name": "Hardwick White"
+  },
+  {
+    "hex": " #eee3d3",
+    "label": "2008",
+    "name": "Dimity"
+  },
+  {
+    "hex": " #decfb9",
+    "label": "226",
+    "name": "Joa's White"
+  },
+  {
+    "hex": " #d6c2ac",
+    "label": "264",
+    "name": "Oxford Stone"
+  },
+  {
+    "hex": " #b6a38f",
+    "label": "6",
+    "name": "London Stone"
+  },
+  {
+    "hex": " #b49d8d",
+    "label": "28",
+    "name": "Dead Salmon"
+  },
+  {
+    "hex": " #726454",
+    "label": "290",
+    "name": "Salon Drab"
+  },
+  {
+    "hex": " #e5e0db",
+    "label": "2001",
+    "name": "Strong White"
+  },
+  {
+    "hex": " #ddd8cf",
+    "label": "274",
+    "name": "Ammonite"
+  },
+  {
+    "hex": " #d1cbc3",
+    "label": "228",
+    "name": "Cornforth White"
+  },
+  {
+    "hex": " #c4beb4",
+    "label": "275",
+    "name": "Purbeck Stone"
+  },
+  {
+    "hex": " #D3CFCD",
+    "label": "284",
+    "name": "Worsted"
+  },
+  {
+    "hex": " #8b857f",
+    "label": "276",
+    "name": "Mole's Breath"
+  },
+  {
+    "hex": " #cfcec0",
+    "label": "285",
+    "name": "Cromarty"
+  },
+  {
+    "hex": " #c0c2b3",
+    "label": "266",
+    "name": "Mizzle"
+  },
+  {
+    "hex": " #b4b4a3",
+    "label": "91",
+    "name": "Blue Gray"
+  },
+  {
+    "hex": " #a1a093",
+    "label": "25",
+    "name": "Pigeon"
+  },
+  {
+    "hex": " #b5b19a",
+    "label": "18",
+    "name": "French Gray"
+  },
+  {
+    "hex": " #8b8a77",
+    "label": "292",
+    "name": "Treron"
+  },
+  {
+    "hex": " #dddbd9",
+    "label": "2011",
+    "name": "Blackened"
+  },
+  {
+    "hex": " #d9d8d3",
+    "label": "277",
+    "name": "Dimpse"
+  },
+  {
+    "hex": " #c8c3bc",
+    "label": "242",
+    "name": "Pavilion Gray"
+  },
+  {
+    "hex": " #b2b1a9",
+    "label": "88",
+    "name": "Lamp Room Gray"
+  },
+  {
+    "hex": " #a2a29d",
+    "label": "265",
+    "name": "Manor House Gray"
+  },
+  {
+    "hex": " #8d8d8b",
+    "label": "272",
+    "name": "Plummett"
+  },
+  {
+    "hex": " #dfd6cb",
+    "label": "241",
+    "name": "Skimming Stone"
+  },
+  {
+    "hex": " #ccbfb3",
+    "label": "229",
+    "name": "Elephant's Breath"
+  },
+  {
+    "hex": " #bbb1ab",
+    "label": "267",
+    "name": "Dove Tale"
+  },
+  {
+    "hex": " #9f9389",
+    "label": "243",
+    "name": "Charleston Gray"
+  },
+  {
+    "hex": " #786963",
+    "label": "244",
+    "name": "London Clay"
+  },
+  {
+    "hex": " #5d3b42",
+    "label": "222",
+    "name": "Brinjal"
+  },
+  {
+    "hex": " #c4b2a2",
+    "label": "293",
+    "name": "Jitney"
+  },
+  {
+    "hex": " #d6c8c3",
+    "label": "286",
+    "name": "Peignoir"
+  },
+  {
+    "hex": " #ccc8ce",
+    "label": "270",
+    "name": "Calluna"
+  },
+  {
+    "hex": " #8d8089",
+    "label": "271",
+    "name": "Brassica"
+  },
+  {
+    "hex": " #50414c",
+    "label": "254",
+    "name": "Pelt"
+  },
+  {
+    "hex": " #494248",
+    "label": "294",
+    "name": "Paean Black"
+  },
+  {
+    "hex": " #fde7e5",
+    "label": "245",
+    "name": "Middleton Pink"
+  },
+  {
+    "hex": " #e6d1cb",
+    "label": "230",
+    "name": "Calamine"
+  },
+  {
+    "hex": " #ecb7b8",
+    "label": "278",
+    "name": "Nancy's Blushes"
+  },
+  {
+    "hex": " #c57b67",
+    "label": "64",
+    "name": "Red Earth"
+  },
+  {
+    "hex": " #a15a4d",
+    "label": "42",
+    "name": "Picture Gallery Red"
+  },
+  {
+    "hex": " #a04344",
+    "label": "248",
+    "name": "Incarnadine"
+  },
+  {
+    "hex": " #e7dedb",
+    "label": "2006",
+    "name": "Great White"
+  },
+  {
+    "hex": " #A0837F",
+    "label": "295",
+    "name": "Sulking Room Pink"
+  },
+  {
+    "hex": " #c7a4a6",
+    "label": "246",
+    "name": "Cinder Rose"
+  },
+  {
+    "hex": " #bf7a8f",
+    "label": "296",
+    "name": "Rangwali"
+  },
+  {
+    "hex": " #efd6c7",
+    "label": "202",
+    "name": "Pink Ground"
+  },
+  {
+    "hex": " #dfc2af",
+    "label": "231",
+    "name": "Setting Plaster"
+  },
+  {
+    "hex": " #a53c49",
+    "label": "217",
+    "name": "Rectory Red"
+  },
+  {
+    "hex": " #8f4e4d",
+    "label": "43",
+    "name": "Eating Room Red"
+  },
+  {
+    "hex": " #994a50",
+    "label": "96",
+    "name": "Radicchio"
+  },
+  {
+    "hex": " #6d4247",
+    "label": "297",
+    "name": "Preference Red"
+  },
+  {
+    "hex": " #d65f3d",
+    "label": "268",
+    "name": "Charlotte's Locks"
+  },
+  {
+    "hex": " #b64f48",
+    "label": "212",
+    "name": "Blazer"
+  },
+  {
+    "hex": " #f1e6c8",
+    "label": "2012",
+    "name": "House White"
+  },
+  {
+    "hex": " #eadfb7",
+    "label": "71",
+    "name": "Pale Hound"
+  },
+  {
+    "hex": " #f7e29d",
+    "label": "233",
+    "name": "Dayroom Yellow"
+  },
+  {
+    "hex": " #f5d27b",
+    "label": "74",
+    "name": "Citron"
+  },
+  {
+    "hex": " #f2cf86",
+    "label": "218",
+    "name": "Yellow Ground"
+  },
+  {
+    "hex": " #ecc363",
+    "label": "223",
+    "name": "Babouche"
+  },
+  {
+    "hex": " #fdedd7",
+    "label": "203",
+    "name": "Tallow"
+  },
+  {
+    "hex": " #efdbb3",
+    "label": "67",
+    "name": "Farrow's Cream"
+  },
+  {
+    "hex": " #efd5a1",
+    "label": "68",
+    "name": "Dorset Cream"
+  },
+  {
+    "hex": " #dfc795",
+    "label": "37",
+    "name": "Hay"
+  },
+  {
+    "hex": " #dcb771",
+    "label": "51",
+    "name": "Sudbury Yellow"
+  },
+  {
+    "hex": " #cb9e59",
+    "label": "66",
+    "name": "India Yellow"
+  },
+  {
+    "hex": " #dbdab6",
+    "label": "206",
+    "name": "Green Ground"
+  },
+  {
+    "hex": " #c4c6a5",
+    "label": "32",
+    "name": "Cooking Apple Green"
+  },
+  {
+    "hex": " #bcb596",
+    "label": "75",
+    "name": "Ball Green"
+  },
+  {
+    "hex": " #899081",
+    "label": "79",
+    "name": "Card Room Green"
+  },
+  {
+    "hex": " #737c70",
+    "label": "47",
+    "name": "Green Smoke"
+  },
+  {
+    "hex": " #464c49",
+    "label": "93",
+    "name": "Studio Green"
+  },
+  {
+    "hex": " #c8bd83",
+    "label": "251",
+    "name": "Churlish Green"
+  },
+  {
+    "hex": " #919f70",
+    "label": "287",
+    "name": "Yeabridge Green"
+  },
+  {
+    "hex": " #94a68a",
+    "label": "81",
+    "name": "Breakfast Room Green"
+  },
+  {
+    "hex": " #768769",
+    "label": "34",
+    "name": "Calke Green"
+  },
+  {
+    "hex": " #686a47",
+    "label": "298",
+    "name": "Bancha"
+  },
+  {
+    "hex": " #84b59c",
+    "label": "214",
+    "name": "Arsenic"
+  },
+  {
+    "hex": " #babba5",
+    "label": "234",
+    "name": "Vert de Terre"
+  },
+  {
+    "hex": " #a1a189",
+    "label": "19",
+    "name": "Lichen"
+  },
+  {
+    "hex": " #8b9d9b",
+    "label": "85",
+    "name": "Oval Room Blue"
+  },
+  {
+    "hex": " #7997a1",
+    "label": "86",
+    "name": "Stone Blue"
+  },
+  {
+    "hex": " #6A7C80",
+    "label": "299",
+    "name": "De Nimes"
+  },
+  {
+    "hex": " #586768",
+    "label": "289",
+    "name": "Inchyra Blue"
+  },
+  {
+    "hex": " #e5e7dc",
+    "label": "252",
+    "name": "Pavilion Blue"
+  },
+  {
+    "hex": " #d9dcd2",
+    "label": "204",
+    "name": "Pale Powder"
+  },
+  {
+    "hex": " #c0cdc2",
+    "label": "236",
+    "name": "Teresa's Green"
+  },
+  {
+    "hex": " #adbdb2",
+    "label": "84",
+    "name": "Green Blue"
+  },
+  {
+    "hex": " #99b0ab",
+    "label": "82",
+    "name": "Dix Blue"
+  },
+  {
+    "hex": " #427e83",
+    "label": "288",
+    "name": "Vardo"
+  },
+  {
+    "hex": " #d5dbdb",
+    "label": "235",
+    "name": "Borrowed Light"
+  },
+  {
+    "hex": " #ccd0cd",
+    "label": "205",
+    "name": "Skylight"
+  },
+  {
+    "hex": " #b8bcb5",
+    "label": "22",
+    "name": "Light Blue"
+  },
+  {
+    "hex": " #b2bfc5",
+    "label": "27",
+    "name": "Parma Gray"
+  },
+  {
+    "hex": " #a1b8ca",
+    "label": "89",
+    "name": "Lulworth Blue"
+  },
+  {
+    "hex": " #6a90b4",
+    "label": "237",
+    "name": "Cook's Blue"
+  },
+  {
+    "hex": " #e8eeea",
+    "label": "269",
+    "name": "Cabbage White"
+  },
+  {
+    "hex": " #a1c5c8",
+    "label": "210",
+    "name": "Blue Ground"
+  },
+  {
+    "hex": " #599ec4",
+    "label": "280",
+    "name": "St Giles Blue"
+  },
+  {
+    "hex": " #636e8f",
+    "label": "220",
+    "name": "Pitch Blue"
+  },
+  {
+    "hex": " #4d5b6a",
+    "label": "281",
+    "name": "Stiffkey Blue"
+  },
+  {
+    "hex": " #3d4e57",
+    "label": "30",
+    "name": "Hague Blue"
+  },
+  {
+    "hex": " #534644",
+    "label": "36",
+    "name": "Mahogany"
+  },
+  {
+    "hex": " #4d4746",
+    "label": "255",
+    "name": "Tanner's Brown"
+  },
+  {
+    "hex": " #626664",
+    "label": "26",
+    "name": "Down Pipe"
+  },
+  {
+    "hex": " #45484b",
+    "label": "31",
+    "name": "Railings"
+  },
+  {
+    "hex": " #444546",
+    "label": "57",
+    "name": "Off-Black"
+  },
+  {
+    "hex": " #3b3938",
+    "label": "256",
+    "name": "Pitch Black"
+  }
+]
