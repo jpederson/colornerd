@@ -18,6 +18,7 @@ undefined
 undefined
 undefined
 undefined
+undefined
 
 -------------------------------------------------------------------
   Book: avery.json
@@ -210,6 +211,16 @@ undefined
  > less/book-trumatch.less created...
 
 -------------------------------------------------------------------
+  Book: valspar.json
+-------------------------------------------------------------------
+ > Colors in File: 1764
+ > csv/valspar.csv created...
+ > book/valspar.html created...
+ > scss/_book-valspar.scss created...
+ > stylus/book-valspar.styl created...
+ > less/book-valspar.less created...
+
+-------------------------------------------------------------------
   Book: vista.json
 -------------------------------------------------------------------
  > Colors in File: 2785
@@ -222,7 +233,7 @@ undefined
 -------------------------------------------------------------------
   Main Files
 -------------------------------------------------------------------
- > Total Colors: 26411
+ > Total Colors: 28175
  > scss/_colornerd.scss created...
  > stylus/colornerd.styl created...
  > less/colornerd.less created...
