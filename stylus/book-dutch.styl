@@ -1,0 +1,10 @@
+
+
+// set our color array
+dutch-colors = ("DCP-0004" #f0ece1) ("DCP-0251" #eed9ba) ("DCP-1001" #f5dbc2) ("DCP-1057" #f4d0c2) ("DCP-1009" #e3bea4) ("DCP-0030" #ddddd5) ("DCP-0749" #c8d4be) ("DCP-0755" #d4e2c8) ("DCP-0772" #b9d696) ("DCP-0759" #9ab68e) ("DCP-1308" #e0d7dc) ("DCP-1309" #d4cad3) ("DCP-1315" #cdcdd5) ("DCP-1316" #c8c8d0) ("DCP-1318" #a6acb8) ("DCP-0018" #e9e6df) ("DCP-0371" #c9cbbe) ("DCP-0218" #b6b2a9) ("DCP-0219" #989187) ("DCP-0134" #b6a39c) ("DCP-0468" #dde8e2) ("DCP-0456" #b3c3b9) ("DCP-0594" #bccee6) ("DCP-0617" #97b2cd) ("DCP-0589" #8fa4bf) ("DCP-0005" #f2ecde) ("DCP-0888" #e9dec8) ("DCP-0323" #c5ba9a) ("DCP-0281" #c7bba3) ("DCP-0261" #b29b79) ("7473" #732318) ("7455" #015b41) ("7472" #864326) ("7476" #c27654) ("7447" #003b67) ("7411" #c8cdc9) ("7425" #a99e80) ("D-6722" #eec784) ("D-6730" #857f69) ("D-6740" #1d375c) ("D-6742" #7ac2d8) ("D-6743" #4c6a74) ("D-6771" #9d0b1e) ("D-6782" #392a27) ("D-6784" #7d5436) ("D-6756" #1e6a43) ("D-6761" #ffc700) ("D-6765" #af7c20) ("D-6753" #317455) ("D-6751" #214136) ("D-6776" #de4a00) ("D-6773" #4f2318) ("D-6783" #8d5033) ("VS-9101" #f8f8ec) ("VS-9102" #fef4eb) ("VS-9110" #fef4eb) ("VS-9112" #ffeee7) ("VS-9132" #fcefe9) ("VS-9118" #f6dfc0) ("VS-9113" #f6dfad) ("VS-9114" #f4d6a2) ("VS-9115" #ebd9c3) ("VS-9120" #f3d3ad) ("VS-9119" #fdddac) ("VS-9221" #ecce98) ("VS-9104" #f0d18e) ("VS-9103" #f1bf8e) ("VS-9111" #f3ac76) ("VS-9603" #f7d99b) ("VS-9209" #f3cd9e) ("VS-9213" #f7ca87) ("VS-9225" #ffd880) ("VS-9802" #f3c683) ("VS-9220" #e3c28d) ("VS-9116" #efae52) ("VS-9108" #d88950) ("VS-9202" #e5a96b) ("VS-9602" #fded98) ("VS-9601" #ffca2c) ("VS-9801" #9f5224) ("VS-9805" #875228) ("VS-9501" #5b4631) ("VS-9660" #53372c) ("VS-9771" #9b3821) ("VS-9228" #b53b26) ("VS-9770" #aa5842) ("VS-9701" #e36e5a) ("VS-9880" #e27a53) ("VS-9201" #e4a467) ("VS-9109" #c7df89) ("VS-9505" #8ac867) ("VS-9503" #a3cd39) ("VS-9552" #53995a) ("VS-9550" #243f90) ("VS-9451" #2d61ad) ("VS-9402" #8ab1c2) ("VS-9117" #e2e2e2) ("VS-9305" #95958d) ("VS-9332" #878787) ("VS-9301" #575757) ("VS-9303" #66665a)
+
+
+// grab a specific color based on key
+dutch( color )
+  return item[1] if item[0] == color for item in dutch-colors
+

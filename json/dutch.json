@@ -1,0 +1,507 @@
+[
+  {
+    "hex": "#f0ece1",
+    "label": "DCP-0004",
+    "name": "Child of Heaven"
+  },
+  {
+    "hex": "#eed9ba",
+    "label": "DCP-0251",
+    "name": "Alchemy"
+  },
+  {
+    "hex": "#f5dbc2",
+    "label": "DCP-1001",
+    "name": "Cheddar Corn"
+  },
+  {
+    "hex": "#f4d0c2",
+    "label": "DCP-1057",
+    "name": "Pink Satin"
+  },
+  {
+    "hex": "#e3bea4",
+    "label": "DCP-1009",
+    "name": "Bedtime Story"
+  },
+  {
+    "hex": "#ddddd5",
+    "label": "DCP-0030",
+    "name": "Lady Nicole"
+  },
+  {
+    "hex": "#c8d4be",
+    "label": "DCP-0749",
+    "name": "Perspective"
+  },
+  {
+    "hex": "#d4e2c8",
+    "label": "DCP-0755",
+    "name": "Creamy Mint"
+  },
+  {
+    "hex": "#b9d696",
+    "label": "DCP-0772",
+    "name": "Wonder Woods"
+  },
+  {
+    "hex": "#9ab68e",
+    "label": "DCP-0759",
+    "name": "Perrenial Garden"
+  },
+  {
+    "hex": "#e0d7dc",
+    "label": "DCP-1308",
+    "name": "Stardust Ballroom"
+  },
+  {
+    "hex": "#d4cad3",
+    "label": "DCP-1309",
+    "name": "So Dainty"
+  },
+  {
+    "hex": "#cdcdd5",
+    "label": "DCP-1315",
+    "name": "Calamities"
+  },
+  {
+    "hex": "#c8c8d0",
+    "label": "DCP-1316",
+    "name": "Savoy"
+  },
+  {
+    "hex": "#a6acb8",
+    "label": "DCP-1318",
+    "name": "Dusky Mood"
+  },
+  {
+    "hex": "#e9e6df",
+    "label": "DCP-0018",
+    "name": "Dove White"
+  },
+  {
+    "hex": "#c9cbbe",
+    "label": "DCP-0371",
+    "name": "Florito"
+  },
+  {
+    "hex": "#b6b2a9",
+    "label": "DCP-0218",
+    "name": "Drifting Sand"
+  },
+  {
+    "hex": "#989187",
+    "label": "DCP-0219",
+    "name": "Camel's Hump"
+  },
+  {
+    "hex": "#b6a39c",
+    "label": "DCP-0134",
+    "name": "Baby Sprout"
+  },
+  {
+    "hex": "#dde8e2",
+    "label": "DCP-0468",
+    "name": "Mellow Blue"
+  },
+  {
+    "hex": "#b3c3b9",
+    "label": "DCP-0456",
+    "name": "Fair Maiden"
+  },
+  {
+    "hex": "#bccee6",
+    "label": "DCP-0594",
+    "name": "Simply Sparkling"
+  },
+  {
+    "hex": "#97b2cd",
+    "label": "DCP-0617",
+    "name": "John's Blue"
+  },
+  {
+    "hex": "#8fa4bf",
+    "label": "DCP-0589",
+    "name": "Celestial Horizon"
+  },
+  {
+    "hex": "#f2ecde",
+    "label": "DCP-0005",
+    "name": "Kiara"
+  },
+  {
+    "hex": "#e9dec8",
+    "label": "DCP-0888",
+    "name": "Golden Weave"
+  },
+  {
+    "hex": "#c5ba9a",
+    "label": "DCP-0323",
+    "name": "Star of Gold"
+  },
+  {
+    "hex": "#c7bba3",
+    "label": "DCP-0281",
+    "name": "Olive Gold"
+  },
+  {
+    "hex": "#b29b79",
+    "label": "DCP-0261",
+    "name": "Tan Hide"
+  },
+  {
+    "hex": "#732318",
+    "label": "7473",
+    "name": "Spanish Red"
+  },
+  {
+    "hex": "#015b41",
+    "label": "7455",
+    "name": "Baguio Green"
+  },
+  {
+    "hex": "#864326",
+    "label": "7472",
+    "name": "Terra Cotta"
+  },
+  {
+    "hex": "#c27654",
+    "label": "7476",
+    "name": "Brick Orange"
+  },
+  {
+    "hex": "#003b67",
+    "label": "7447",
+    "name": "Delft Blue"
+  },
+  {
+    "hex": "#c8cdc9",
+    "label": "7411",
+    "name": "Laguna White"
+  },
+  {
+    "hex": "#a99e80",
+    "label": "7425",
+    "name": "Sierra Beige"
+  },
+  {
+    "hex": "#eec784",
+    "label": "D-6722",
+    "name": "Ivory White"
+  },
+  {
+    "hex": "#857f69",
+    "label": "D-6730",
+    "name": "Silver Gray"
+  },
+  {
+    "hex": "#1d375c",
+    "label": "D-6740",
+    "name": "Royal Blue"
+  },
+  {
+    "hex": "#7ac2d8",
+    "label": "D-6742",
+    "name": "Sky Blue"
+  },
+  {
+    "hex": "#4c6a74",
+    "label": "D-6743",
+    "name": "Ocean Blue"
+  },
+  {
+    "hex": "#9d0b1e",
+    "label": "D-6771",
+    "name": "International Red"
+  },
+  {
+    "hex": "#392a27",
+    "label": "D-6782",
+    "name": "Dark Chocolate"
+  },
+  {
+    "hex": "#7d5436",
+    "label": "D-6784",
+    "name": "Maple"
+  },
+  {
+    "hex": "#1e6a43",
+    "label": "D-6756",
+    "name": "Jade Green"
+  },
+  {
+    "hex": "#ffc700",
+    "label": "D-6761",
+    "name": "Lemon Yellow"
+  },
+  {
+    "hex": "#af7c20",
+    "label": "D-6765",
+    "name": "Caterpillar Yellow"
+  },
+  {
+    "hex": "#317455",
+    "label": "D-6753",
+    "name": "Grass Green"
+  },
+  {
+    "hex": "#214136",
+    "label": "D-6751",
+    "name": "Dark Green"
+  },
+  {
+    "hex": "#de4a00",
+    "label": "D-6776",
+    "name": "Orange"
+  },
+  {
+    "hex": "#4f2318",
+    "label": "D-6773",
+    "name": "Maroon"
+  },
+  {
+    "hex": "#8d5033",
+    "label": "D-6783",
+    "name": "Caramel Brown"
+  },
+  {
+    "hex": "#f8f8ec",
+    "label": "VS-9101",
+    "name": "Tulle White"
+  },
+  {
+    "hex": "#fef4eb",
+    "label": "VS-9102",
+    "name": "Winter Morning"
+  },
+  {
+    "hex": "#fef4eb",
+    "label": "VS-9110",
+    "name": "Bora Sand"
+  },
+  {
+    "hex": "#ffeee7",
+    "label": "VS-9112",
+    "name": "Light Silver"
+  },
+  {
+    "hex": "#fcefe9",
+    "label": "VS-9132",
+    "name": "Grey Castle"
+  },
+  {
+    "hex": "#f6dfc0",
+    "label": "VS-9118",
+    "name": "Angel’s Wing"
+  },
+  {
+    "hex": "#f6dfad",
+    "label": "VS-9113",
+    "name": "Ice"
+  },
+  {
+    "hex": "#f4d6a2",
+    "label": "VS-9114",
+    "name": "Apricot White"
+  },
+  {
+    "hex": "#ebd9c3",
+    "label": "VS-9115",
+    "name": "Nicole"
+  },
+  {
+    "hex": "#f3d3ad",
+    "label": "VS-9120",
+    "name": "Bridal Whites"
+  },
+  {
+    "hex": "#fdddac",
+    "label": "VS-9119",
+    "name": "Lace"
+  },
+  {
+    "hex": "#ecce98",
+    "label": "VS-9221",
+    "name": "Toasted Beige"
+  },
+  {
+    "hex": "#f0d18e",
+    "label": "VS-9104",
+    "name": "Coast Light"
+  },
+  {
+    "hex": "#f1bf8e",
+    "label": "VS-9103",
+    "name": "Crisp Ecru"
+  },
+  {
+    "hex": "#f3ac76",
+    "label": "VS-9111",
+    "name": "Vesa Peach"
+  },
+  {
+    "hex": "#f7d99b",
+    "label": "VS-9603",
+    "name": "Creamy Surprises"
+  },
+  {
+    "hex": "#f3cd9e",
+    "label": "VS-9209",
+    "name": "Beige Natural"
+  },
+  {
+    "hex": "#f7ca87",
+    "label": "VS-9213",
+    "name": "Pure Ivory"
+  },
+  {
+    "hex": "#ffd880",
+    "label": "VS-9225",
+    "name": "Bone Ivory"
+  },
+  {
+    "hex": "#f3c683",
+    "label": "VS-9802",
+    "name": "Mocha"
+  },
+  {
+    "hex": "#e3c28d",
+    "label": "VS-9220",
+    "name": "Crisp Biscuit"
+  },
+  {
+    "hex": "#efae52",
+    "label": "VS-9116",
+    "name": "Ivory White"
+  },
+  {
+    "hex": "#d88950",
+    "label": "VS-9108",
+    "name": "Pawn Beige"
+  },
+  {
+    "hex": "#e5a96b",
+    "label": "VS-9202",
+    "name": "Bacon Beige"
+  },
+  {
+    "hex": "#fded98",
+    "label": "VS-9602",
+    "name": "Tinker Belles"
+  },
+  {
+    "hex": "#ffca2c",
+    "label": "VS-9601",
+    "name": "Happy Day"
+  },
+  {
+    "hex": "#9f5224",
+    "label": "VS-9801",
+    "name": "Hamburger"
+  },
+  {
+    "hex": "#875228",
+    "label": "VS-9805",
+    "name": "Caramel"
+  },
+  {
+    "hex": "#5b4631",
+    "label": "VS-9501",
+    "name": "Mud Pie"
+  },
+  {
+    "hex": "#53372c",
+    "label": "VS-9660",
+    "name": "Western Brown"
+  },
+  {
+    "hex": "#9b3821",
+    "label": "VS-9771",
+    "name": "Cottage Red"
+  },
+  {
+    "hex": "#b53b26",
+    "label": "VS-9228",
+    "name": "Terracotta"
+  },
+  {
+    "hex": "#aa5842",
+    "label": "VS-9770",
+    "name": "Coral Red"
+  },
+  {
+    "hex": "#e36e5a",
+    "label": "VS-9701",
+    "name": "Berry Rouge"
+  },
+  {
+    "hex": "#e27a53",
+    "label": "VS-9880",
+    "name": "Clay"
+  },
+  {
+    "hex": "#e4a467",
+    "label": "VS-9201",
+    "name": "Tasty Tan"
+  },
+  {
+    "hex": "#c7df89",
+    "label": "VS-9109",
+    "name": "Lightning Green"
+  },
+  {
+    "hex": "#8ac867",
+    "label": "VS-9505",
+    "name": "Green Peace"
+  },
+  {
+    "hex": "#a3cd39",
+    "label": "VS-9503",
+    "name": "Temptations"
+  },
+  {
+    "hex": "#53995a",
+    "label": "VS-9552",
+    "name": "Green Grass"
+  },
+  {
+    "hex": "#243f90",
+    "label": "VS-9550",
+    "name": "Blue Royale"
+  },
+  {
+    "hex": "#2d61ad",
+    "label": "VS-9451",
+    "name": "Blue Sea"
+  },
+  {
+    "hex": "#8ab1c2",
+    "label": "VS-9402",
+    "name": "Blue Wings"
+  },
+  {
+    "hex": "#e2e2e2",
+    "label": "VS-9117",
+    "name": "Tinge Grey"
+  },
+  {
+    "hex": "#95958d",
+    "label": "VS-9305",
+    "name": "Smoky Gray"
+  },
+  {
+    "hex": "#878787",
+    "label": "VS-9332",
+    "name": "Natural Gray"
+  },
+  {
+    "hex": "#575757",
+    "label": "VS-9301",
+    "name": "Seal of Grey"
+  },
+  {
+    "hex": "#66665a",
+    "label": "VS-9303",
+    "name": "Ashton Grey"
+  }
+]
