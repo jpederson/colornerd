@@ -15,6 +15,7 @@ undefined
 undefined
 undefined
 undefined
+undefined
 
 -------------------------------------------------------------------
   Book: avery.json
@@ -107,6 +108,16 @@ undefined
  > less/book-ikea.less created...
 
 -------------------------------------------------------------------
+  Book: kilz.json
+-------------------------------------------------------------------
+ > Colors in File: 868
+ > csv/kilz.csv created...
+ > book/kilz.html created...
+ > scss/_book-kilz.scss created...
+ > stylus/book-kilz.styl created...
+ > less/book-kilz.less created...
+
+-------------------------------------------------------------------
   Book: kobra.json
 -------------------------------------------------------------------
  > Colors in File: 52
@@ -189,7 +200,7 @@ undefined
 -------------------------------------------------------------------
   Main Files
 -------------------------------------------------------------------
- > Total Colors: 25314
+ > Total Colors: 26182
  > scss/_colornerd.scss created...
  > stylus/colornerd.styl created...
  > less/colornerd.less created...
