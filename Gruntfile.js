@@ -80,6 +80,7 @@ module.exports = function(grunt) {
 					'demo.js': [
 						'node_modules/jquery/dist/jquery.js',
 						'node_modules/fastclick/lib/fastclick.js',
+						'node_modules/clipboard/dist/clipboard.min.js',
 						'_dev/demo.js'
 					]
 				}

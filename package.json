@@ -12,6 +12,7 @@
     "url": "git://github.com/jpederson/colornerd.git"
   },
   "devDependencies": {
+    "clipboard": "^2.0.4",
     "fastclick": "*",
     "grunt": "*",
     "grunt-contrib-less": "*",

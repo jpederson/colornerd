@@ -65,6 +65,17 @@ header {
 	@include respond-to( 768px ) {
 		padding: 10px 20px;
 	}
+
+	a.clipboard {
+		margin-left: 5px;
+		display: none;
+		cursor: pointer;
+		opacity: .5;
+
+		&:hover {
+			opacity: 1;
+		}
+	}
 }
  
 h4 {

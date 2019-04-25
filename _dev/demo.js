@@ -48,10 +48,16 @@ $(function(){
 			// when they click a swatch
 			$( '.book-viewer .swatch' ).click(function(){
 
+				$('.clipboard').show();
+
 				$('.swatch.selected').removeClass( 'selected' );
 				$(this).addClass( 'selected' );
 				$('.color-selected').css( 'background-color', $(this).css( 'background-color' ) );
 				$('.hex').html( $(this).data( 'hex' ) ).removeClass( 'quiet' );
+
+				$('.hex-code.clipboard').attr( 'data-clipboard-text', $(this).data('hex') );
+				$('.sass.clipboard').attr( 'data-clipboard-text', $( '.function' ).html() + "( '" + $(this).attr('rel') + "' )" );
+				$('.less.clipboard').attr( 'data-clipboard-text', '@' + $( '.function' ).html() + '-' + $(this).attr('rel') );
 
 				// set the color code in the function and variable in usage instructions
 				$( '.selected-color' ).html( $(this).attr('rel') ).removeClass( 'quiet' );
@@ -79,6 +85,8 @@ $(function(){
 	var def = 'dunn-edwards';
 	$('select.book').val( def );
 	loadBook( def );
+
+	new ClipboardJS('.clipboard');
 
 });
 
