@@ -105,6 +105,10 @@ header {
 		background: transparent;
 		border: 0;
 
+		&:focus {
+			outline: none;
+		}
+
 		@include respond-to( 600px ) {
 			display: none;
 		}
