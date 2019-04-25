@@ -12,14 +12,15 @@
     "url": "git://github.com/jpederson/colornerd.git"
   },
   "devDependencies": {
-    "grunt": "latest",
+    "chalk": "*",
+    "fastclick": "*",
+    "grunt": "*",
+    "grunt-contrib-less": "*",
     "grunt-contrib-sass": "*",
     "grunt-contrib-stylus": "*",
-    "grunt-contrib-less": "*",
-    "grunt-contrib-watch": "*",
     "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
     "grunt-shell": "*",
-    "matchdep": "*",
-    "fastclick": "~1.0.2"
+    "matchdep": "*"
   }
 }
