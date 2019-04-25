@@ -1,1 +1,7 @@
-{"version":3,"sourceRoot":"","sources":["test.scss"],"names":[],"mappings":"AAGA","file":"test.css"}
+{
+"version": 3,
+"mappings": "AAGA,IAAK,CAAE,KAAK,CCAwtxB,OAAO",
+"sources": ["test.scss","../../scss/_book-behr.scss"],
+"names": [],
+"file": "test.css"
+}
