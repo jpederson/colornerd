@@ -144,6 +144,10 @@ code {
 	@include respond-to( 600px ) {
 		float: left;
 		width: 50%;
+
+		&.sass {
+			clear: left;
+		}
 	}
 
 	@include respond-to( 1024px ) {
@@ -152,6 +156,10 @@ code {
 		&.hex-code {
 			float: right;
 			width: 20%;
+		}
+
+		&.sass {
+			clear: none;
 		}
 	}
 }
