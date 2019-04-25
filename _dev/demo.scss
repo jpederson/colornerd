@@ -56,15 +56,27 @@ body {
 	
 	@include respond-to( 600px ) {
 		padding-top: 140px;
+
+		&.open {
+			padding-top: 140px;
+		}
 	}
 
 	@include respond-to( 800px ) {
 		font-size: 100%;
 		padding-top: 155px;
+
+		&.open {
+			padding-top: 155px;
+		}
 	}
 
 	@include respond-to( 1024px ) {
 		padding-top: 80px;
+
+		&.open {
+			padding-top: 80px;
+		}
 	}
 }
 
