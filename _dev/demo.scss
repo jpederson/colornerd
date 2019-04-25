@@ -36,6 +36,11 @@ $green: avery( "879" );
 }
 
 
+// make sure we've got consistent box sizing.
+* {
+	box-sizing: border-box;
+}
+
 
 // general styles
 body {
@@ -115,22 +120,44 @@ code {
 		line-height: 1.3em;
 		padding: 10px 0;
 		max-width: 100%;
+	}
+	
+	@include respond-to( 600px ) {
+		float: left;
+		width: 50%;
 
-		option {
-
-			span {
-				font-size: .6em;
-			}
+		select {
+			max-width: 92%;
 		}
 	}
 
-	@include respond-to( 768px ) {
-		float: left;
-		width: 25%;
+	@include respond-to( 1024px ) {
+		width: 20%;
 	}
 }
 
 
+// usage instruction styles
+.book-usage {
+	padding: 8px 0;
+
+	@include respond-to( 600px ) {
+		float: left;
+		width: 50%;
+	}
+
+	@include respond-to( 1024px ) {
+		width: 30%;
+
+		&.hex-code {
+			float: right;
+			width: 20%;
+		}
+	}
+}
+
+
+// selected color box
 .color-selected {
 	float: right;
 	margin: 8px 0;
@@ -138,49 +165,19 @@ code {
 	width: 50px;
 	border: 3px solid black;
 
-	@include respond-to( 500px ) {
+	@include respond-to( 600px ) {
+		position: absolute;
+		right: 13px;
+		top: 10px;
 		width: 80px;
 		height: 80px;
 	}
 
-	@include respond-to( 650px ) {
-		width: 120px;
-		height: 120px;
-	}
-
-	@include respond-to( 900px ) {
+	@include respond-to( 1024px ) {
 		width: 50px;
 		height: 50px;
 	}
 }
-
-
-// usage instruction styles
-.book-usage {
-	@include respond-to( 900px ) {
-		float: right;
-		width: 66%;
-	}
-
-	.forty {
-		padding: 8px 0;
-		
-		@include respond-to( 900px ) {
-			float: left;
-			width: 40%;
-		}
-	}
-
-	.twenty {
-		padding: 8px 0;
-
-		@include respond-to( 900px ) {
-			float: left;
-			width: 20%;
-		}
-	}
-}
-
 
 
 // swatch/viewer styles
@@ -267,7 +264,7 @@ code {
 	.column {
 		padding: 6px 0;
 
-		@include respond-to( 768px ) {
+		@include respond-to( 600px ) {
 			float: left;
 
 			&.powered {
