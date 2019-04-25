@@ -54,7 +54,7 @@ body {
 	
 	@include respond-to( 600px ) {
 		font-size: 100%;
-		padding-top: 175px;
+		padding-top: 155px;
 	}
 
 	@include respond-to( 1024px ) {
@@ -74,7 +74,7 @@ header {
 	padding: 10px;
 	border-bottom: 3px solid black;
 
-	@include respond-to( 768px ) {
+	@include respond-to( 600px ) {
 		padding: 10px 20px;
 	}
 
