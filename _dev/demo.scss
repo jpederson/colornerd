@@ -48,9 +48,16 @@ body {
 	@include font;
 	transition: padding-top 500ms ease-in-out;
 	-webkit-transition: padding-top 500ms ease-in-out;
-	padding-top: 305px;
+	padding-top: 225px;
+	font-size: 80%;
+	line-height: 1.2em;
+	
+	@include respond-to( 600px ) {
+		font-size: 100%;
+		padding-top: 175px;
+	}
 
-	@include respond-to( 768px ) {
+	@include respond-to( 1024px ) {
 		padding-top: 80px;
 	}
 }
@@ -64,7 +71,7 @@ header {
 	left: 0;
 	right: 0;
 	background: white;
-	padding: 20px;
+	padding: 10px;
 	border-bottom: 3px solid black;
 
 	@include respond-to( 768px ) {
@@ -110,7 +117,7 @@ code {
 
 
 .book-list {
-	padding: 8px 0;
+	padding: 4px 0;
 
 	select {
 		@include font;
@@ -125,6 +132,7 @@ code {
 	@include respond-to( 600px ) {
 		float: left;
 		width: 50%;
+		padding: 8px 0;
 
 		select {
 			max-width: 92%;
@@ -139,11 +147,12 @@ code {
 
 // usage instruction styles
 .book-usage {
-	padding: 8px 0;
+	padding: 4px 0;
 
 	@include respond-to( 600px ) {
 		float: left;
 		width: 50%;
+		padding: 8px 0;
 
 		&.sass {
 			clear: left;
@@ -209,33 +218,10 @@ code {
 	cursor: pointer;
 	z-index: 0;
 
-	@include respond-to( 480px ) {
-		padding: 30px 0;
-		float: left;
-		width: 50%;
-	}
-
-	@include respond-to( 600px ) {
-		padding: 60px 0;
-		width: 33.33%;
-	}
-
-	@include respond-to( 768px ) {
-		width: 25%;
-	}
-
-	@include respond-to( 1024px ) {
-		width: 20%;
-	}
-
-	@include respond-to( 1150px ) {
-		width: 16.6666%;
-	}
-
 	span {
 		display: inline-block;
 		white-space: nowrap;
-		font-size: 14px;
+		font-size: 12px;
 		padding: 5px 10px;
 		background-color: rgba( 255, 255, 255, 0.4 );
 		color: rgba( black, 0.6 );
@@ -246,7 +232,7 @@ code {
 			box-shadow: none;
 			display: block;
 			font-weight: bold;
-		}		
+		}
 	}
 	
 	&.selected {
@@ -260,6 +246,33 @@ code {
 				background-color: transparent;
 			}
 		}
+	}
+
+	@include respond-to( 400px ) {
+		padding: 40px 0;
+		float: left;
+		width: 50%;
+	}
+
+	@include respond-to( 600px ) {
+		padding: 60px 0;
+		width: 33.33%;
+
+		span {
+			font-size: 14px;
+		}
+	}
+
+	@include respond-to( 768px ) {
+		width: 25%;
+	}
+
+	@include respond-to( 1024px ) {
+		width: 20%;
+	}
+
+	@include respond-to( 1150px ) {
+		width: 16.6666%;
 	}
 }
 
