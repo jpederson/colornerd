@@ -12,7 +12,6 @@ var files = JSON.parse( fs.readFileSync( dir_tpl+"books.json", "utf8" ) );
 var file_title = [];
 files.forEach(function( file_info ){
 	file_title[file_info.filename] = file_info.title;
-	console.log( file_info.default );
 });
 
 
