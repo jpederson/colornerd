@@ -1,6 +1,6 @@
 <!doctype html lang="en">
 <title>Colornerd</title>
-<link href="demo.css?v=5" rel="stylesheet">
+<link href="demo.css?v=2.4.9" rel="stylesheet">
 <meta name="description" content="A massive library of color books from various paint companies, implemented in Sass/Stylus/Less/JSON/CSV.">
 <meta name="viewport" content="width=device-width">
 
@@ -33,24 +33,28 @@
 		</select>
 	</div>
 
-	<div class="color-selected"></div>
+	<button class="more-toggle">+</button>
+	
+	<div class="more">
+		<div class="color-selected"></div>
 
-	<div class="book-usage hex-code">
-		<h4>Hex Code</h4>
-		<code><span class="hex quiet">#ffffff</span></code>
-		<a class="hex-code clipboard" data-clipboard-text=""><img src="copy.png" /></a>
-	</div>
+		<div class="book-usage hex-code">
+			<h4>Hex Code</h4>
+			<code><span class="hex quiet">#ffffff</span></code>
+			<a class="hex-code clipboard" data-clipboard-text=""><img src="copy.png" /></a>
+		</div>
 
-	<div class="book-usage sass">
-		<h4>Sass & Stylus</h4>
-		<code><span class="function quiet">[book-name]</span>( "<span class="selected-color quiet">[color]</span>" )</code>
-		<a class="sass clipboard" data-clipboard-text=""><img src="copy.png" /></a>
-	</div>
+		<div class="book-usage sass">
+			<h4>Sass & Stylus</h4>
+			<code><span class="function quiet">[book-name]</span>( "<span class="selected-color quiet">[color]</span>" )</code>
+			<a class="sass clipboard" data-clipboard-text=""><img src="copy.png" /></a>
+		</div>
 
-	<div class="book-usage less">
-		<h4>LESS</h4>
-		<code>@<span class="function quiet">[book-name]</span>-<span class="selected-color quiet">[color]</span></code>
-		<a class="less clipboard" data-clipboard-text=""><img src="copy.png" /></a>
+		<div class="book-usage less">
+			<h4>LESS</h4>
+			<code>@<span class="function quiet">[book-name]</span>-<span class="selected-color quiet">[color]</span></code>
+			<a class="less clipboard" data-clipboard-text=""><img src="copy.png" /></a>
+		</div>
 	</div>
 </header>
 
@@ -72,7 +76,7 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="demo.js?v=5"></script>
+<script src="demo.js?v=2.4.9"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-614793-2"></script>

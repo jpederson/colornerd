@@ -32,6 +32,18 @@ var hide_usage = function(){
 };
 
 
+var show_more = function(){
+	$('.more-toggle').html( '-' );
+	$('body').addClass( 'open' );
+};
+
+
+var hide_more = function(){
+	$('.more-toggle').html( '+' );
+	$('body').removeClass( 'open' );
+};
+
+
 // onload
 $(function(){
 
@@ -49,6 +61,7 @@ $(function(){
 			$( '.book-viewer .swatch' ).click(function(){
 
 				$('.clipboard').show();
+				show_more();
 
 				$('.swatch.selected').removeClass( 'selected' );
 				$(this).addClass( 'selected' );
@@ -87,6 +100,15 @@ $(function(){
 	loadBook( def );
 
 	new ClipboardJS('.clipboard');
+
+
+	$( '.more-toggle' ).on( 'click', function(){
+		if ( $(this).html() == '+' ) {
+			show_more();
+		} else {
+			hide_more();
+		}
+	});
 
 });
 
