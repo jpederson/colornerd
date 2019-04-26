@@ -125,11 +125,6 @@
     "hex": "#bce844"
   },
   {
-    "name": "White Felt",
-    "label": "white-felt",
-    "hex": "#fffcea"
-  },
-  {
     "name": "Natural Felt",
     "label": "natural-felt",
     "hex": "#e9eac2"
@@ -170,11 +165,6 @@
     "hex": "#e8f4d8"
   },
   {
-    "name": "White Felt",
-    "label": "white-felt",
-    "hex": "#fffcea"
-  },
-  {
     "name": "Natural Felt",
     "label": "natural-felt",
     "hex": "#e9eac2"
@@ -213,26 +203,6 @@
     "name": "Gray Felt",
     "label": "gray-felt",
     "hex": "#e8f4d8"
-  },
-  {
-    "name": "Neenah Avalanche White",
-    "label": "avalanche-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Solar White",
-    "label": "solar-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Avon Brilliant White",
-    "label": "avon-brilliant-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Recy 100 Bright White",
-    "label": "recy-100-bright-white",
-    "hex": "#f5f6f6"
   },
   {
     "name": "Neenah Bare White",
@@ -360,31 +330,6 @@
     "hex": "#cb2127"
   },
   {
-    "name": "Neenah Avalanche White",
-    "label": "avalanche-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Solar White",
-    "label": "solar-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Recy 100 Bright White",
-    "label": "recy-100-bright-white",
-    "hex": "#f5f6f6"
-  },
-  {
-    "name": "Neenah Classic Natural White",
-    "label": "classic-natural-white",
-    "hex": "#fffde4"
-  },
-  {
-    "name": "Neenah Recy 100 Natural White",
-    "label": "recy-100-natural-white",
-    "hex": "#f4f1da"
-  },
-  {
     "name": "Neenah Cadet Gray",
     "label": "cadet-gray",
     "hex": "#839bb0"
@@ -408,36 +353,6 @@
     "name": "Neenah Red Pepper",
     "label": "red-pepper",
     "hex": "#cb2127"
-  },
-  {
-    "name": "Neenah Avalanche White",
-    "label": "avalanche-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Solar White",
-    "label": "solar-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Avon Brilliant White",
-    "label": "avon-brilliant-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Recy 100 Bright White",
-    "label": "recy-100-bright-white",
-    "hex": "#f5f6f6"
-  },
-  {
-    "name": "Neenah Classic Natural White",
-    "label": "classic-natural-white",
-    "hex": "#fffde4"
-  },
-  {
-    "name": "Neenah Recy 100 Natural White",
-    "label": "recy-100-natural-white",
-    "hex": "#f4f1da"
   },
   {
     "name": "Neenah Baronial Ivory",
@@ -490,41 +405,6 @@
     "hex": "#000000"
   },
   {
-    "name": "Neenah Avalanche White",
-    "label": "avalanche-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Solar White",
-    "label": "solar-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Avon Brilliant White",
-    "label": "avon-brilliant-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Recy 100 Bright White",
-    "label": "recy-100-bright-white",
-    "hex": "#f5f6f6"
-  },
-  {
-    "name": "Neenah Bare White",
-    "label": "bare-white",
-    "hex": "#fffceb"
-  },
-  {
-    "name": "Neenah Classic Natural White",
-    "label": "classic-natural-white",
-    "hex": "#fffde4"
-  },
-  {
-    "name": "Neenah Recy 100 Natural White",
-    "label": "recy-100-natural-white",
-    "hex": "#f4f1da"
-  },
-  {
     "name": "Neenah Baronial Ivory",
     "label": "baronial-ivory",
     "hex": "#fffac2"
@@ -533,16 +413,6 @@
     "name": "Neenah Monterey Sand",
     "label": "monterey-sand",
     "hex": "#f5edcf"
-  },
-  {
-    "name": "Neenah White Pearl",
-    "label": "white-pearl",
-    "hex": "#fcfcfa"
-  },
-  {
-    "name": "Neenah Natural White Pearl",
-    "label": "natural-white-pearl",
-    "hex": "#fffcdb"
   },
   {
     "name": "Neenah Gold Pearl",
@@ -625,36 +495,6 @@
     "hex": "#000000"
   },
   {
-    "name": "Neenah Avalanche White",
-    "label": "avalanche-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Solar White",
-    "label": "solar-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Avon Brilliant White",
-    "label": "avon-brilliant-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Recy 100 Bright White",
-    "label": "recy-100-bright-white",
-    "hex": "#f5f6f6"
-  },
-  {
-    "name": "Neenah Bare White",
-    "label": "bare-white",
-    "hex": "#fffceb"
-  },
-  {
-    "name": "Neenah Classic Natural White",
-    "label": "classic-natural-white",
-    "hex": "#fffde4"
-  },
-  {
     "name": "Neenah Antique Gray",
     "label": "antique-gray",
     "hex": "#f1ede2"
@@ -703,36 +543,6 @@
     "name": "Neenah Imperial Red",
     "label": "imperial-red",
     "hex": "#dd0700"
-  },
-  {
-    "name": "Neenah Avalanche White",
-    "label": "avalanche-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Solar White",
-    "label": "solar-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Avon Brilliant White",
-    "label": "avon-brilliant-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Recy 100 Bright White",
-    "label": "recy-100-bright-white",
-    "hex": "#f5f6f6"
-  },
-  {
-    "name": "Neenah Bare White",
-    "label": "bare-white",
-    "hex": "#fffceb"
-  },
-  {
-    "name": "Neenah Classic Natural White",
-    "label": "classic-natural-white",
-    "hex": "#fffde4"
   },
   {
     "name": "Neenah Antique Gray",
@@ -795,23 +605,8 @@
     "hex": "#e0f0f7"
   },
   {
-    "name": "Neenah Fluorescent White",
-    "label": "fluorescent-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Pearl White",
-    "label": "pearl-white",
-    "hex": "#fafaf5"
-  },
-  {
-    "name": "Neenah Natural White",
-    "label": "natural-white",
-    "hex": "#fffde4"
-  },
-  {
-    "name": "Neenah Ecru White",
-    "label": "ecru-white",
+    "name": "Neenah Ecru",
+    "label": "ecru",
     "hex": "#f7f7db"
   },
   {
@@ -823,21 +618,6 @@
     "name": "Neenah Azure Blue",
     "label": "azure-blue",
     "hex": "#e3f0f7"
-  },
-  {
-    "name": "Neenah Fluorescent White",
-    "label": "fluorescent-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Pearl White",
-    "label": "pearl-white",
-    "hex": "#fafaf5"
-  },
-  {
-    "name": "Neenah Ecru White",
-    "label": "ecru-white",
-    "hex": "#f7f7db"
   },
   {
     "name": "Brown Umber",
@@ -855,31 +635,6 @@
     "hex": "#f1d9ad"
   },
   {
-    "name": "Solar White",
-    "label": "solar-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "White",
-    "label": "white",
-    "hex": "#fffeee"
-  },
-  {
-    "name": "Neenah Ultra Bright White",
-    "label": "ultra-bright-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah White",
-    "label": "white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah PC 100 White",
-    "label": "pc-100-white",
-    "hex": "#ffffff"
-  },
-  {
     "name": "Neenah Moonrock",
     "label": "moonrock",
     "hex": "#fcfcfc"
@@ -888,16 +643,6 @@
     "name": "Neenah Birch",
     "label": "birch",
     "hex": "#f5f7ed"
-  },
-  {
-    "name": "Neenah PC 100 Natural",
-    "label": "pc-100-natural",
-    "hex": "#fffff5"
-  },
-  {
-    "name": "Neenah Natural White",
-    "label": "natural-white",
-    "hex": "#fcfced"
   },
   {
     "name": "Neenah Tortilla",
@@ -990,11 +735,6 @@
     "hex": "#c1c3c0"
   },
   {
-    "name": "Pearl White",
-    "label": "pearl-white",
-    "hex": "#ffffff"
-  },
-  {
     "name": "Sapphire",
     "label": "sapphire",
     "hex": "#1e3559"
@@ -1003,11 +743,6 @@
     "name": "Verde",
     "label": "verde",
     "hex": "#63b245"
-  },
-  {
-    "name": "White",
-    "label": "white",
-    "hex": "#ffffff"
   },
   {
     "name": "Bright Aqua",
@@ -1070,21 +805,6 @@
     "hex": "#f8ff3d"
   },
   {
-    "name": "Neenah Bright White",
-    "label": "bright-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah White",
-    "label": "white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Neenah Warm White",
-    "label": "warm-white",
-    "hex": "#ffffff"
-  },
-  {
     "name": "Neenah Lively Ivory",
     "label": "lively-ivory",
     "hex": "#fffad1"
@@ -1128,11 +848,6 @@
     "name": "Burned",
     "label": "burned",
     "hex": "#430600"
-  },
-  {
-    "name": "White",
-    "label": "white",
-    "hex": "#ffffff"
   },
   {
     "name": "Cream",
@@ -1210,56 +925,6 @@
     "hex": "#0046ad"
   },
   {
-    "name": "White",
-    "label": "white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "100 PC White Laid",
-    "label": "100-pc-white-laid",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Brilliant White Laid",
-    "label": "brilliant-white-laid",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Bright White Laid",
-    "label": "bright-white-laid",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Ultra White Laid",
-    "label": "ultra-white-laid",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Brilliant White Linen",
-    "label": "brilliant-white-linen",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Bright White Linen",
-    "label": "bright-white-linen",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Brilliant White Smooth",
-    "label": "brilliant-white-smooth",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Natural White Felt",
-    "label": "natural-white-felt",
-    "hex": "#fdfcee"
-  },
-  {
-    "name": "Brilliant White Felt",
-    "label": "brilliant-white-felt",
-    "hex": "#ffffff"
-  },
-  {
     "name": "Eclipse Black Felt",
     "label": "eclipse-black-felt",
     "hex": "#060808"
@@ -1298,11 +963,6 @@
     "name": "Stone Fiber",
     "label": "stone-fiber",
     "hex": "#4f593b"
-  },
-  {
-    "name": "White Fiber",
-    "label": "white-fiber",
-    "hex": "#faf7fa"
   },
   {
     "name": "Natural Fiber",
@@ -3723,11 +3383,6 @@
     "name": "Napa Merlot",
     "label": "mp29732",
     "hex": "#772347"
-  },
-  {
-    "name": "Natural White",
-    "label": "mpsoa202sp",
-    "hex": "#fffff6"
   },
   {
     "name": "Navel Orange",
@@ -8545,11 +8200,6 @@
     "hex": "#feedd2"
   },
   {
-    "name": "Crystal",
-    "label": "crystal",
-    "hex": "#ffffff"
-  },
-  {
     "name": "Emerald",
     "label": "emerald",
     "hex": "#367166"
@@ -8695,11 +8345,6 @@
     "hex": "#feedd2"
   },
   {
-    "name": "Crystal",
-    "label": "crystal",
-    "hex": "#ffffff"
-  },
-  {
     "name": "Emerald",
     "label": "emerald",
     "hex": "#367166"
@@ -8795,11 +8440,6 @@
     "hex": "#7899c3"
   },
   {
-    "name": "SuedeTex White",
-    "label": "suedetex-white",
-    "hex": "#ffffff"
-  },
-  {
     "name": "SuedeTex Ivory",
     "label": "suedetex-ivory",
     "hex": "#fcfae5"
@@ -8823,16 +8463,6 @@
     "name": "SuedeTex Black",
     "label": "suedetex-black",
     "hex": "#0d1414"
-  },
-  {
-    "name": "Touche Bright White",
-    "label": "touche-bright-white",
-    "hex": "#ffffff"
-  },
-  {
-    "name": "Touche White",
-    "label": "touche-white",
-    "hex": "#fffff2"
   },
   {
     "name": "Touche Cream",
