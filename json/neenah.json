@@ -95,11 +95,6 @@
     "hex": "#ffd000"
   },
   {
-    "name": "Stardust White",
-    "label": "stardust-white",
-    "hex": "#ffefd3"
-  },
-  {
     "name": "Sunburst Yellow",
     "label": "sunburst-yellow",
     "hex": "#ffd000"
@@ -205,16 +200,6 @@
     "hex": "#e8f4d8"
   },
   {
-    "name": "Neenah Bare White",
-    "label": "bare-white",
-    "hex": "#fffceb"
-  },
-  {
-    "name": "Neenah Classic Natural White",
-    "label": "classic-natural-white",
-    "hex": "#fffde4"
-  },
-  {
     "name": "Neenah Baronial Ivory",
     "label": "baronial-ivory",
     "hex": "#fffac2"
@@ -225,19 +210,9 @@
     "hex": "#ffeeb8"
   },
   {
-    "name": "Neenah Recy 100 Natural White",
-    "label": "recy-100-natural-white",
-    "hex": "#f4f1da"
-  },
-  {
     "name": "Neenah Saw Grass",
     "label": "saw-grass",
     "hex": "#e1d6ac"
-  },
-  {
-    "name": "Neenah Whitestone",
-    "label": "whitestone",
-    "hex": "#f5f6f6"
   },
   {
     "name": "Neenah Earthstone",
@@ -360,11 +335,6 @@
     "hex": "#fffac2"
   },
   {
-    "name": "Neenah Whitestone",
-    "label": "whitestone",
-    "hex": "#f5f6f6"
-  },
-  {
     "name": "Neenah Antique Gray",
     "label": "antique-gray",
     "hex": "#f1ede2"
@@ -418,11 +388,6 @@
     "name": "Neenah Gold Pearl",
     "label": "gold-pearl",
     "hex": "#f0e484"
-  },
-  {
-    "name": "Neenah Whitestone",
-    "label": "whitestone",
-    "hex": "#f5f6f6"
   },
   {
     "name": "Neenah Graystone",
@@ -630,11 +595,6 @@
     "hex": "#414546"
   },
   {
-    "name": "Natural White",
-    "label": "natural-white",
-    "hex": "#f1d9ad"
-  },
-  {
     "name": "Neenah Moonrock",
     "label": "moonrock",
     "hex": "#fcfcfc"
@@ -808,11 +768,6 @@
     "name": "Neenah Lively Ivory",
     "label": "lively-ivory",
     "hex": "#fffad1"
-  },
-  {
-    "name": "Neenah Pepper White",
-    "label": "pepper-white",
-    "hex": "#f5f5f5"
   },
   {
     "name": "Neenah Sky Blue",
