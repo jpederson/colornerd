@@ -99,9 +99,12 @@ $(function(){
 	$('select.book').val( def );
 	loadBook( def );
 
+
+	// include clipboard library
 	new ClipboardJS('.clipboard');
 
 
+	// show/hide more
 	$( '.more-toggle' ).on( 'click', function(){
 		if ( $(this).html() == '+' ) {
 			show_more();
